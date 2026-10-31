@@ -1,0 +1,45 @@
+{
+  "source": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\output\\webinar-samples\\NotionTalk_모션그래픽_주황포인트_자체사례_v5.pptx",
+  "source_sha256": "771434da595af58f4e2d41c9e0c8dbaa0d64012695777ba08f1c3a2ac06f6a26",
+  "original_parts_preserved_count": 54,
+  "original_slides_unchanged": 5,
+  "new_slides": 4,
+  "total_slides": 9,
+  "existing_slide_final_positions": [
+    1,
+    2,
+    7,
+    8,
+    9
+  ],
+  "additions_final_positions": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "allowed_existing_part_updates": [
+    "[Content_Types].xml",
+    "docProps/app.xml",
+    "ppt/_rels/presentation.xml.rels",
+    "ppt/presentation.xml"
+  ],
+  "new_parts": [
+    "ppt/slides/part01-slide1.xml",
+    "ppt/notesSlides/part01-notes1.xml",
+    "ppt/notesSlides/_rels/part01-notes1.xml.rels",
+    "ppt/slides/_rels/part01-slide1.xml.rels",
+    "ppt/slides/part01-slide2.xml",
+    "ppt/notesSlides/part01-notes2.xml",
+    "ppt/notesSlides/_rels/part01-notes2.xml.rels",
+    "ppt/slides/_rels/part01-slide2.xml.rels",
+    "ppt/slides/part01-slide3.xml",
+    "ppt/notesSlides/part01-notes3.xml",
+    "ppt/notesSlides/_rels/part01-notes3.xml.rels",
+    "ppt/slides/_rels/part01-slide3.xml.rels",
+    "ppt/slides/part01-slide4.xml",
+    "ppt/notesSlides/part01-notes4.xml",
+    "ppt/notesSlides/_rels/part01-notes4.xml.rels",
+    "ppt/slides/_rels/part01-slide4.xml.rels"
+  ]
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "odssi-ae",
+    "url": "https://odssilab.com/recipes/ae-motion/",
+    "retrieved_at": "2026-10-30T04:31:50.688353+00:00",
+    "status": 200,
+    "final_url": "https://odssilab.com/recipes/ae-motion/",
+    "file": "sources/odssi-ae.txt",
+    "sha256": "0d60b3440a9087b0cc54c49724ae9c4cb0bcb6553525e424044eb3e494e951a4"
+  },
+  {
+    "id": "real-sfx",
+    "url": "https://clipwing.pro/skills/real-sfx",
+    "retrieved_at": "2026-10-30T04:31:50.689353+00:00",
+    "status": 200,
+    "final_url": "https://clipwing.pro/skills/real-sfx",
+    "file": "sources/real-sfx.txt",
+    "sha256": "3d507caac86dde74058d5f15d10b4f61a278e6d3611544ca5f7fe77ce9afc384"
+  },
+  {
+    "id": "earshot-readme",
+    "url": "https://raw.githubusercontent.com/Leonxlnx/earshot/main/README.md",
+    "retrieved_at": "2026-10-30T04:31:50.689353+00:00",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/Leonxlnx/earshot/main/README.md",
+    "file": "sources/earshot-readme.txt",
+    "sha256": "f73ad6f0b35c0e250736716209c48b56f1db0410997d20d59a5c3705fb9d41b6"
+  },
+  {
+    "id": "openverse-terms",
+    "url": "https://docs.openverse.org/terms_of_service.html",
+    "retrieved_at": "2026-10-30T04:31:50.689353+00:00",
+    "status": 200,
+    "final_url": "https://docs.openverse.org/terms_of_service.html",
+    "file": "sources/openverse-terms.txt",
+    "sha256": "8db5f96ec4ae568604896608a3ca9c44edd6ad68b5e2107af135d8611da40f11"
+  },
+  {
+    "id": "sound-tools.png",
+    "kind": "user-provided screenshot",
+    "account_visible": "@rebornlabs.ai",
+    "original": "C:\\Users\\User\\AppData\\Local\\Temp\\codex-clipboard-68fa1b2f-6d87-41ea-a411-234a06640fdd.png",
+    "post_url": null,
+    "file": "references/sound-tools.png",
+    "sha256": "ec50666e97f3a1f4deb8b1a196643b8a50c863aba6e261981442c8817550e3c8"
+  },
+  {
+    "id": "motion-effects.png",
+    "kind": "user-provided screenshot",
+    "account_visible": "@mynameisjaemin",
+    "original": "C:\\Users\\User\\AppData\\Local\\Temp\\codex-clipboard-b0503fee-1afd-4a55-ae35-47df872e728c.png",
+    "post_url": null,
+    "file": "references/motion-effects.png",
+    "sha256": "48f9356d8cb2928e8014f61b794415c2bb88fa7336a925290295ebf6caa2ea16"
+  }
+]

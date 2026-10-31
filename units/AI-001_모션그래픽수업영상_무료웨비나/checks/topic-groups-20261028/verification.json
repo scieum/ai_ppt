@@ -1,0 +1,108 @@
+{
+  "slides": 21,
+  "pdf_pages": 21,
+  "changed_pages": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "change_scope": [
+    "section_number",
+    "section_heading"
+  ],
+  "groups": [
+    [
+      4,
+      "01",
+      "모션 그래픽 이해하기 · 뜻"
+    ],
+    [
+      5,
+      "01",
+      "모션 그래픽 이해하기 · 표현 유형"
+    ],
+    [
+      6,
+      "02",
+      "움직임과 효과 · 기본 속성"
+    ],
+    [
+      7,
+      "02",
+      "움직임과 효과 · 등장 효과"
+    ],
+    [
+      8,
+      "02",
+      "움직임과 효과 · 글자와 순서"
+    ],
+    [
+      9,
+      "02",
+      "움직임과 효과 · 시간과 속도"
+    ],
+    [
+      10,
+      "02",
+      "움직임과 효과 · 요청 문장"
+    ],
+    [
+      11,
+      "03",
+      "제작 예제 · 세 사례 비교"
+    ],
+    [
+      12,
+      "03",
+      "제작 예제 · 타이포그래피"
+    ],
+    [
+      13,
+      "03",
+      "제작 예제 · 타이포그래피 요청"
+    ],
+    [
+      14,
+      "03",
+      "제작 예제 · 웹사이트 소개"
+    ],
+    [
+      15,
+      "03",
+      "제작 예제 · 웹사이트 요청"
+    ],
+    [
+      16,
+      "03",
+      "제작 예제 · 원자모형 변천"
+    ],
+    [
+      17,
+      "03",
+      "제작 예제 · 원자모형 요청"
+    ],
+    [
+      18,
+      "04",
+      "내 수업에 적용하기"
+    ]
+  ],
+  "all_other_package_parts_identical": true,
+  "all_slide_pixels_outside_header_identical": true,
+  "overflow_flags": 0,
+  "original_representative_five_slide_parts_unchanged": true,
+  "native_animation_parts_unchanged": true,
+  "pptx_sha256": "50fda67a7c277fcd8f90d6d1765a90771f8bcf2127d123e1be917a4edf8ba9b3",
+  "G10_approval_created": false
+}

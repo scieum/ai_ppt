@@ -1,0 +1,45 @@
+{
+  "pptx_slides": 5,
+  "pdf_pages": 5,
+  "native_powerpoint_rendered": 5,
+  "actual_capture_count": 5,
+  "actual_capture_hashes": "passed",
+  "videos": [
+    {
+      "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\output\\webinar-three-cases-v2\\01-typography.mp4",
+      "duration": 20,
+      "fps": 24,
+      "width": 1280,
+      "height": 720,
+      "sha256": "1c23927ed82b5e32dac42199a6b3a8a6e79cdffd03de9365f2fb13b70822781c",
+      "full_decode": "passed",
+      "origin": "locally-authored motion example; not an in-app prompt capture",
+      "audio": false
+    },
+    {
+      "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\output\\webinar-three-cases-v2\\02-website.mp4",
+      "duration": 30,
+      "fps": 24,
+      "width": 1280,
+      "height": 720,
+      "sha256": "bd561fc0176e22ce5c310e817dbdb0204c50c4bdbc43a6f5752827db715062c0",
+      "full_decode": "passed",
+      "origin": "locally-authored motion example; not an in-app prompt capture",
+      "audio": false
+    },
+    {
+      "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\output\\webinar-three-cases-v2\\03-atomic-history.mp4",
+      "duration": 45,
+      "fps": 24,
+      "width": 1280,
+      "height": 720,
+      "sha256": "8c0aeb84e5a122d81425a949b887166564380e5f21357bb9a6e4eac595b96061",
+      "full_decode": "passed",
+      "origin": "locally-authored motion example; not an in-app prompt capture",
+      "audio": false
+    }
+  ],
+  "comparison_pages": 5,
+  "user_design_approval": false,
+  "G10_clearance": false
+}

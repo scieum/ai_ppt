@@ -1,0 +1,15 @@
+{
+  "count": 41,
+  "replaced": [
+    3,
+    25
+  ],
+  "added": [
+    37
+  ],
+  "preserved_original_slide_count": 38,
+  "preserved_original_slide_xml_and_pdf_pixels": true,
+  "all_original_media_preserved": true,
+  "gif_count": 33,
+  "pptx_sha256": "a7725c2b33e99d3b8133d4197421a1bc097fa901d845971cd6b538f3a028177e"
+}

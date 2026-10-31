@@ -1,0 +1,47 @@
+{
+  "status": "preliminary_screen_only",
+  "target": "part-1.md",
+  "sha256": "c031e967577d7863a573e870563fc7dc1d5f4824fd6ab18430782c5b155ffa53",
+  "match_characters": 20,
+  "sources": [
+    {
+      "id": "R01",
+      "sha256": "c03c2c2b5cdabcc1a7405c280e659b5c224571305024397b54249c33bd4cf085",
+      "pages": 100
+    },
+    {
+      "id": "R02",
+      "sha256": "a279d25f3420d6ae5199edde40e2d5df323d28660f0a70458e88db21ae79129d",
+      "pages": 115
+    },
+    {
+      "id": "R03",
+      "sha256": "3aec9500faa7284ae6de6e3fba7e29b6ebf1472a072b89494e44c93ebfd402a0",
+      "pages": 52
+    },
+    {
+      "id": "R04",
+      "sha256": "223863d9794a32a704b0e6f8f9b0c7edffc702ffc945d339c04f18980c4fd61e",
+      "pages": 55
+    },
+    {
+      "id": "R05",
+      "sha256": "4e432dd82365fca807e4d8fdad03504ca7cf6b1f949d77a7db9c9542b1887242",
+      "pages": 59
+    },
+    {
+      "id": "R06",
+      "sha256": "ead2275da72baf5c5cafb4ab3eef4752f91fa652ff4391517e15a94502e2a73b",
+      "pages": 93
+    },
+    {
+      "id": "R07",
+      "sha256": "80103ae460ad44817b32e94eaec799aaef785df4841cd62b3f9950c2877fdff2",
+      "pages": 88
+    }
+  ],
+  "findings": [],
+  "human_review": "not_completed",
+  "G10": "not_cleared",
+  "limit": "Cached PDF extracted text only, original hashes verified. No semantic, visual, license or legal clearance."
+}

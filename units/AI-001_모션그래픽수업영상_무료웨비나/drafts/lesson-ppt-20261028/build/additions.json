@@ -1,0 +1,32 @@
+[
+  {
+    "key": "types",
+    "template": 2,
+    "export_slide": 4
+  },
+  {
+    "key": "compare",
+    "template": 8,
+    "export_slide": 14
+  },
+  {
+    "key": "prompt-a",
+    "template": 4,
+    "export_slide": 7
+  },
+  {
+    "key": "prompt-b",
+    "template": 5,
+    "export_slide": 9
+  },
+  {
+    "key": "prompt-c",
+    "template": 6,
+    "export_slide": 11
+  },
+  {
+    "key": "reflection",
+    "template": 2,
+    "export_slide": 3
+  }
+]

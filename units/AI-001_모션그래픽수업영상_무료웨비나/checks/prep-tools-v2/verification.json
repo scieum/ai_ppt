@@ -1,0 +1,14 @@
+{
+  "total_slides": 9,
+  "pdf_pages": 9,
+  "edited_slide": 3,
+  "unchanged_other_slides_pixel_identical": 8,
+  "requested_logos": [
+    "claude-front",
+    "codex-front",
+    "higgsfield-front"
+  ],
+  "prerequisite": "클로드 또는 코덱스 중 하나의 유료 계정 필수",
+  "higgsfield": "선택, 없으면 강사 시연 관찰",
+  "G10_clearance": false
+}

@@ -1,0 +1,33 @@
+{
+  "scope": "User-requested first-slide image regeneration and orange gradient",
+  "pptx_sha256": "1ddbf9be68dca8a6b4cca53e03c8cc88d5a12dc0c8ade77d0f645e4f0320c295",
+  "pdf_sha256": "2f360491fd92eff422852447c65d993394a3468d60b9d9bf6a59a48f1ebb39f4",
+  "slides": 5,
+  "pdf_pages": 5,
+  "unchanged_native_render_slides": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "source_protection": {
+    "run_id": "341b3fcad9df444abfa797b75a15aa48",
+    "time_utc": "2026-10-27T09:22:27.485677+00:00",
+    "mode": "production",
+    "rules_version": "2.1.0",
+    "rules_sha256": "a62bd7550a286b243df95cb86b67835259f8c6767078337b1b2898113e82a414",
+    "unit": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나",
+    "results": [
+      {
+        "id": "G07",
+        "status": "passed",
+        "detail": "conditions satisfied"
+      }
+    ],
+    "passed": true
+  },
+  "native_powerpoint_opened": true,
+  "transparency_preserved": true,
+  "slide_1_gradient": "orange to black",
+  "full_course_approval": "not asserted"
+}

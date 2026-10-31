@@ -1,0 +1,12 @@
+{
+  "kind": "generated illustration",
+  "tool": "built-in image_gen",
+  "file": "cover-characters-orange-v3.png",
+  "sha256": "d665bc77783719dadf3e87ceecf671f77e9633bb5d0ff257011fd045e0a45799",
+  "reference": "webinar-poster.png",
+  "reference_sha256": "60017e855e13f4547c713d3b9a68027e61903acca4573f5a55380feaeb6e65a2",
+  "prompt_file": "cover-characters-orange-v3.prompt.txt",
+  "alpha_preserved": true,
+  "visual_review": "Three characters retain hairstyle, glasses, clothing colors and proportions; new collaboration poses and motion-video props.",
+  "use": "Cover figure slot, preserve full aspect ratio. Orange gradient is editable native PowerPoint geometry."
+}

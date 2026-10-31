@@ -1,0 +1,37 @@
+{
+  "slides": 43,
+  "conclusion_bar_slides": [
+    6,
+    20,
+    22,
+    23,
+    25,
+    26,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "existing_message_wording_preserved": true,
+  "other_slide_objects_and_media_unchanged": true,
+  "pixels_outside_old_and_new_bar_frames_unchanged": true,
+  "other_32_slides_byte_and_pixel_identical": true,
+  "bar_text_overflow": [],
+  "bar_text_overlap": [],
+  "sha256": "364feaca3a4f554cb92876f341459e5b3eacc84caabf697a5fc3ccbdddfed632",
+  "inherited_G10_status": "unchanged",
+  "full_size_visual_review_slides": [
+    6,
+    20,
+    22,
+    23,
+    25,
+    26,
+    36,
+    37,
+    38,
+    39,
+    40
+  ]
+}

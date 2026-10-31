@@ -1,0 +1,273 @@
+[
+  {
+    "key": "ref-scope",
+    "page": 20,
+    "template": 14,
+    "title": "레퍼런스에서 필요한 원리를 고릅니다",
+    "part": "Part 2  레퍼런스로 방향 잡기",
+    "section": "참고할 요소 정하기",
+    "num": "01",
+    "export_slide": 41
+  },
+  {
+    "key": "content-vs-style",
+    "page": 21,
+    "template": 14,
+    "title": "내용의 근거와 시각 참고는 역할이 다릅니다",
+    "part": "Part 2  레퍼런스로 방향 잡기",
+    "section": "내용과 표현의 출처",
+    "num": "01",
+    "export_slide": 40
+  },
+  {
+    "key": "read-a-scene",
+    "page": 22,
+    "template": 14,
+    "title": "한 장면을 세 시점으로 나누어 봅니다",
+    "part": "Part 2  레퍼런스로 방향 잡기",
+    "section": "한 장면 관찰하기",
+    "num": "01",
+    "export_slide": 39
+  },
+  {
+    "key": "reference-prompt",
+    "page": 23,
+    "template": 14,
+    "title": "참고할 요소와 이유를 함께 요청합니다",
+    "part": "Part 2  레퍼런스로 방향 잡기",
+    "section": "참고 범위를 요청에 넣기",
+    "num": "02",
+    "export_slide": 38
+  },
+  {
+    "key": "website-scene",
+    "page": 24,
+    "template": 14,
+    "title": "기능이 쓰이는 상황을 장면으로 만듭니다",
+    "part": "Part 2  레퍼런스로 방향 잡기",
+    "section": "웹사이트 소개에 적용",
+    "num": "02",
+    "export_slide": 37
+  },
+  {
+    "key": "independent-expression",
+    "page": 25,
+    "template": 14,
+    "title": "참고한 원리와 새로 만든 표현을 대조합니다",
+    "part": "Part 2  레퍼런스로 방향 잡기",
+    "section": "참고 원리와 자체 표현",
+    "num": "02",
+    "export_slide": 36
+  },
+  {
+    "key": "reference-exercise",
+    "page": 26,
+    "template": 14,
+    "title": "참고 조건 두 가지로 다시 요청합니다",
+    "part": "Part 2  레퍼런스로 방향 잡기",
+    "section": "내 자료에 적용하기",
+    "num": "02",
+    "export_slide": 35
+  },
+  {
+    "key": "motion-diagnosis",
+    "page": 27,
+    "template": 14,
+    "title": "첫 결과에서 고칠 조건을 찾습니다",
+    "part": "Part 3  첫 결과의 움직임 다듬기",
+    "section": "첫 결과의 문제 읽기",
+    "num": "01",
+    "export_slide": 34
+  },
+  {
+    "key": "reading-time",
+    "page": 28,
+    "template": 14,
+    "title": "전체 20초 안에서 안내 시간을 늘립니다",
+    "part": "Part 3  첫 결과의 움직임 다듬기",
+    "section": "읽는 시간 확보",
+    "num": "01",
+    "export_slide": 33
+  },
+  {
+    "key": "one-emphasis",
+    "page": 29,
+    "template": 14,
+    "title": "가장 먼저 볼 핵심어를 하나 고릅니다",
+    "part": "Part 3  첫 결과의 움직임 다듬기",
+    "section": "강조의 우선순위",
+    "num": "01",
+    "export_slide": 32
+  },
+  {
+    "key": "ordered-features",
+    "page": 30,
+    "template": 14,
+    "title": "설명하는 순서대로 정보가 나타납니다",
+    "part": "Part 3  첫 결과의 움직임 다듬기",
+    "section": "등장 순서 조정",
+    "num": "02",
+    "export_slide": 31
+  },
+  {
+    "key": "applied-easing",
+    "page": 31,
+    "template": 10,
+    "title": "같은 이동도 멈추는 방식이 다릅니다",
+    "part": "Part 3  첫 결과의 움직임 다듬기",
+    "section": "등장과 멈춤의 속도",
+    "num": "02",
+    "copyAnimation": true,
+    "export_slide": 12
+  },
+  {
+    "key": "sound-and-reading",
+    "page": 32,
+    "template": 14,
+    "title": "소리를 더해도 글자는 읽을 수 있어야 합니다",
+    "part": "Part 3  첫 결과의 움직임 다듬기",
+    "section": "소리와 읽는 시간",
+    "num": "02",
+    "export_slide": 30
+  },
+  {
+    "key": "concrete-revision",
+    "page": 33,
+    "template": 14,
+    "title": "바꿀 조건과 유지할 조건을 함께 적습니다",
+    "part": "Part 3  첫 결과의 움직임 다듬기",
+    "section": "수정 요청 정리",
+    "num": "02",
+    "export_slide": 29
+  },
+  {
+    "key": "lesson-brief",
+    "page": 35,
+    "template": 14,
+    "title": "LESSON_BRIEF.md에 목적을 적습니다",
+    "part": "Part 4  다음 제작에도 쓰는 Markdown",
+    "section": "목적과 규칙을 파일로",
+    "num": "01",
+    "export_slide": 28
+  },
+  {
+    "key": "visual-rules",
+    "page": 36,
+    "template": 14,
+    "title": "화면 규칙은 파일로 남깁니다",
+    "part": "Part 4  다음 제작에도 쓰는 Markdown",
+    "section": "목적과 규칙을 파일로",
+    "num": "01",
+    "export_slide": 27
+  },
+  {
+    "key": "scene-plan",
+    "page": 37,
+    "template": 14,
+    "title": "SCENE_PLAN.md로 45초를 나눕니다",
+    "part": "Part 4  다음 제작에도 쓰는 Markdown",
+    "section": "네 장면과 시간표",
+    "num": "02",
+    "export_slide": 26
+  },
+  {
+    "key": "use-three-files",
+    "page": 38,
+    "template": 14,
+    "title": "세 문서를 참조해 같은 영상을 다시 만듭니다",
+    "part": "Part 4  다음 제작에도 쓰는 Markdown",
+    "section": "문서로 다시 제작하기",
+    "num": "02",
+    "export_slide": 25
+  },
+  {
+    "key": "edit-one-row",
+    "page": 39,
+    "template": 14,
+    "title": "정리 시간을 늘리면 다른 장면도 맞춥니다",
+    "part": "Part 4  다음 제작에도 쓰는 Markdown",
+    "section": "문서로 다시 제작하기",
+    "num": "02",
+    "export_slide": 24
+  },
+  {
+    "key": "reuse-for-next-topic",
+    "page": 40,
+    "template": 14,
+    "title": "다음 영상에서는 주제와 근거를 교체합니다",
+    "part": "Part 4  다음 제작에도 쓰는 Markdown",
+    "section": "다음 수업에 재사용",
+    "num": "03",
+    "export_slide": 23
+  },
+  {
+    "key": "external-scene",
+    "page": 42,
+    "template": 14,
+    "title": "외부 소재가 필요한 장면 하나를 고릅니다",
+    "part": "Part 5  외부 도구로 소재 확장하기",
+    "section": "장면 소재 선택",
+    "num": "01",
+    "export_slide": 22
+  },
+  {
+    "key": "external-request",
+    "page": 43,
+    "template": 14,
+    "title": "외부 도구에 소재 조건을 전달합니다",
+    "part": "Part 5  외부 도구로 소재 확장하기",
+    "section": "외부 제작 요청",
+    "num": "01",
+    "export_slide": 21
+  },
+  {
+    "key": "composite-frame",
+    "page": 44,
+    "template": 14,
+    "title": "생성한 소재 위에 정확한 문구를 얹습니다",
+    "part": "Part 5  외부 도구로 소재 확장하기",
+    "section": "정확한 글자와 합성",
+    "num": "02",
+    "export_slide": 20
+  },
+  {
+    "key": "external-fallback",
+    "page": 45,
+    "template": 14,
+    "title": "작업 상태와 실제 파일을 구분합니다",
+    "part": "Part 5  외부 도구로 소재 확장하기",
+    "section": "상태와 결과 확인",
+    "num": "02",
+    "export_slide": 19
+  },
+  {
+    "key": "five-stage-review",
+    "page": 46,
+    "template": 2,
+    "title": "다섯 단계가 서로 다른 문제를 해결합니다",
+    "part": "마무리  오늘의 제작 흐름",
+    "section": "첫 요청부터 재사용까지",
+    "num": "01",
+    "export_slide": 3
+  },
+  {
+    "key": "takeaway-files",
+    "page": 47,
+    "template": 14,
+    "title": "오늘의 파일로 다음 영상을 시작합니다",
+    "part": "마무리  다음 영상 준비",
+    "section": "실습 자료 저장",
+    "num": "01",
+    "export_slide": 18
+  },
+  {
+    "key": "questions",
+    "page": 48,
+    "template": 14,
+    "title": "질의응답",
+    "part": "마무리  질의응답",
+    "section": "함께 이야기하기",
+    "num": "02",
+    "export_slide": 17
+  }
+]

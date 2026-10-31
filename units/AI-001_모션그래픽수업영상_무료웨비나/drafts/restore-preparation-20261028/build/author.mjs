@@ -1,0 +1,13 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+import {PresentationFile,FileBlob} from '@oai/artifact-tool';
+const B=path.dirname(fileURLToPath(import.meta.url)),U=path.resolve(B,'../../..'),R=path.resolve(U,'../..');
+const source=path.join(R,'output/webinar-part01-added/NotionTalk_대표5장유지_Part0_Part1추가_9장_v2.pptx');
+const p=await PresentationFile.importPptx(await FileBlob.load(source));
+const restored=p.slides.items[2].duplicate();
+const notes='오늘의 준비물: 클로드 또는 코덱스 중 하나의 유료 계정이 필수입니다. 힉스필드는 있으면 좋고, 계정이 없으면 강사 시연을 봅니다. 두 AI 도구를 모두 구독하라는 뜻이 아닙니다. 준비물을 확인한 후 오늘의 전체 흐름과 모션 그래픽 기본 지식으로 넘어갑니다.';
+restored.speakerNotes.text=notes;
+await fs.writeFile(path.join(B,'restored-notes.txt'),notes,'utf8');
+await (await PresentationFile.exportPptx(p)).save(path.join(B,'restored-authoring.pptx'));
+console.log('Restored and authored preparation slide from the prior approved layout.');

@@ -1,0 +1,13 @@
+{
+  "source_sha256": "cc0be23c0ce2ea3d0255708074d05db668127ddca5844bc2da3e2a09a09e0b9c",
+  "changed_parts": [
+    "ppt/slides/fundamentals-entrances.xml",
+    "ppt/slides/fundamentals-reveals.xml",
+    "ppt/notesSlides/fundamentals-reveals.xml"
+  ],
+  "timing_updated": true,
+  "edited_pages": [
+    8,
+    9
+  ]
+}

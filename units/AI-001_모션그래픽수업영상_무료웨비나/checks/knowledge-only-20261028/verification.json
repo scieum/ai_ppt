@@ -1,0 +1,24 @@
+{
+  "slides": 10,
+  "notes": 10,
+  "native_animation_pages": [
+    3,
+    6,
+    7,
+    8,
+    9
+  ],
+  "native_animation_xml_preserved": true,
+  "native_table_pages": [
+    10
+  ],
+  "source_media_bytes_preserved": true,
+  "media_count": 8,
+  "removed_production_and_advice_content": true,
+  "pdf_pages": 10,
+  "body_text_overflow_count": 0,
+  "all_slides_native_rendered": true,
+  "pptx_sha256": "94f92328ac1a1c13a5920f5b9f2e4908314422c13b231422c802f3e7bf56d672",
+  "lesson_unchanged": true,
+  "g10_status": "unchanged; existing asset rights inventory remains pending"
+}

@@ -1,0 +1,14 @@
+{
+  "origin": "programmatically authored typography demonstrations",
+  "font": "Pretendard",
+  "loop": 0,
+  "fps": 25,
+  "effects": [
+    "fade",
+    "slide",
+    "zoom",
+    "reveal",
+    "typewriter",
+    "stagger"
+  ]
+}

@@ -1,0 +1,362 @@
+[
+  {
+    "page": 7,
+    "source_page": 8,
+    "export_id": "l6op5k",
+    "edits": {
+      "part_label": "Part 1  모션 그래픽 기본 지식",
+      "section_number": "01",
+      "section_heading": "뜻과 종류",
+      "title": "같은 내용도 톤에 따라 달라집니다",
+      "subtitle": "종류가 표현의 중심이라면, 톤은 그림의 질감과 분위기입니다",
+      "effect-name-0": "손그림",
+      "effect-en-0": "Hand-drawn",
+      "effect-desc-0": "불규칙한 선과 따뜻한 질감",
+      "effect-name-1": "청사진",
+      "effect-en-1": "Blueprint",
+      "effect-desc-1": "도면 같은 선과 격자",
+      "effect-name-2": "다크 네온",
+      "effect-en-2": "Dark Neon",
+      "effect-desc-2": "어둠 속에서 강조되는 빛"
+    },
+    "remove": [
+      "ex-fade-cell-0",
+      "ex-fade-time-0",
+      "ex-fade-state-0",
+      "ex-fade-cell-1",
+      "ex-fade-time-1",
+      "ex-fade-state-1",
+      "ex-fade-cell-2",
+      "ex-fade-time-2",
+      "ex-fade-state-2",
+      "ex-slide-cell-0",
+      "ex-slide-time-0",
+      "ex-slide-track-0",
+      "ex-slide-state-0",
+      "ex-slide-cell-1",
+      "ex-slide-time-1",
+      "ex-slide-track-1",
+      "ex-slide-state-1",
+      "ex-slide-cell-2",
+      "ex-slide-time-2",
+      "ex-slide-track-2",
+      "ex-slide-state-2",
+      "ex-zoom-cell-0",
+      "ex-zoom-time-0",
+      "ex-zoom-state-0",
+      "ex-zoom-cell-1",
+      "ex-zoom-time-1",
+      "ex-zoom-state-1",
+      "ex-zoom-cell-2",
+      "ex-zoom-time-2",
+      "ex-zoom-state-2"
+    ],
+    "images": [
+      {
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\hand.gif",
+        "poster": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\hand-poster.png",
+        "name": "tone-demo-hand",
+        "position": {
+          "left": 196,
+          "top": 451,
+          "width": 248,
+          "height": 139.26
+        }
+      },
+      {
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\blueprint.gif",
+        "poster": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\blueprint-poster.png",
+        "name": "tone-demo-blueprint",
+        "position": {
+          "left": 516,
+          "top": 451,
+          "width": 248,
+          "height": 139.26
+        }
+      },
+      {
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\neon.gif",
+        "poster": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\neon-poster.png",
+        "name": "tone-demo-neon",
+        "position": {
+          "left": 836,
+          "top": 451,
+          "width": 248,
+          "height": 139.26
+        }
+      }
+    ],
+    "notes": "종류와 톤의 구분은 기존 강의와 연결하기 위한 자체 정리입니다. 영상의 손그림·청사진·다크 네온 설명을 재구성하고 같은 원·이동을 세 질감으로 표현한 새 비교 예시를 사용합니다.\n참고: Ai-Con Lab, 「클로드로 만든 모션그래픽 20가지 톤, 전부 코드로 그렸습니다」 https://www.youtube.com/watch?v=oCRQP5S-900 , 00:14–00:42, 02:06–02:25, 05:00–05:22. 한국어 자막과 설명란을 분석했습니다. 원본 화면·음원·캐릭터·문구는 복제하지 않았습니다.",
+    "export_page": 12
+  },
+  {
+    "page": 8,
+    "source_page": 8,
+    "export_id": "8xjabk",
+    "edits": {
+      "part_label": "Part 1  모션 그래픽 기본 지식",
+      "section_number": "01",
+      "section_heading": "뜻과 종류",
+      "title": "재질에 따라 움직임의 인상도 달라집니다",
+      "subtitle": "빛이 흐르는 표면, 칸 단위 이동, 눌렸다 튀는 탄성을 비교합니다",
+      "effect-name-0": "크롬·유리",
+      "effect-en-0": "Chrome / Glass",
+      "effect-desc-0": "표면을 따라 미끄러지는 빛",
+      "effect-name-1": "픽셀",
+      "effect-en-1": "Pixel",
+      "effect-desc-1": "격자에 맞춰 끊어지는 이동",
+      "effect-name-2": "클레이",
+      "effect-en-2": "Clay",
+      "effect-desc-2": "눌렸다가 다시 튀는 형태"
+    },
+    "remove": [
+      "ex-fade-cell-0",
+      "ex-fade-time-0",
+      "ex-fade-state-0",
+      "ex-fade-cell-1",
+      "ex-fade-time-1",
+      "ex-fade-state-1",
+      "ex-fade-cell-2",
+      "ex-fade-time-2",
+      "ex-fade-state-2",
+      "ex-slide-cell-0",
+      "ex-slide-time-0",
+      "ex-slide-track-0",
+      "ex-slide-state-0",
+      "ex-slide-cell-1",
+      "ex-slide-time-1",
+      "ex-slide-track-1",
+      "ex-slide-state-1",
+      "ex-slide-cell-2",
+      "ex-slide-time-2",
+      "ex-slide-track-2",
+      "ex-slide-state-2",
+      "ex-zoom-cell-0",
+      "ex-zoom-time-0",
+      "ex-zoom-state-0",
+      "ex-zoom-cell-1",
+      "ex-zoom-time-1",
+      "ex-zoom-state-1",
+      "ex-zoom-cell-2",
+      "ex-zoom-time-2",
+      "ex-zoom-state-2"
+    ],
+    "images": [
+      {
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\chrome.gif",
+        "poster": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\chrome-poster.png",
+        "name": "tone-demo-chrome",
+        "position": {
+          "left": 196,
+          "top": 451,
+          "width": 248,
+          "height": 139.26
+        }
+      },
+      {
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\pixel.gif",
+        "poster": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\pixel-poster.png",
+        "name": "tone-demo-pixel",
+        "position": {
+          "left": 516,
+          "top": 451,
+          "width": 248,
+          "height": 139.26
+        }
+      },
+      {
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\clay.gif",
+        "poster": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\clay-poster.png",
+        "name": "tone-demo-clay",
+        "position": {
+          "left": 836,
+          "top": 451,
+          "width": 248,
+          "height": 139.26
+        }
+      }
+    ],
+    "notes": "영상의 재질·픽셀·클레이 톤을 초보자용 질감과 운동감 비교로 재구성했습니다. 자체 그래픽 모형이며 실제 3D 렌더 결과나 원본 영상 프레임이 아닙니다. 픽셀 예시는 의도적으로 계단식 이동을 사용합니다.\n참고: Ai-Con Lab, 「클로드로 만든 모션그래픽 20가지 톤, 전부 코드로 그렸습니다」 https://www.youtube.com/watch?v=oCRQP5S-900 , 02:45–03:06, 03:43–04:04, 06:25–06:44. 한국어 자막과 설명란을 분석했습니다. 원본 화면·음원·캐릭터·문구는 복제하지 않았습니다.",
+    "export_page": 11
+  },
+  {
+    "page": 13,
+    "source_page": 8,
+    "export_id": "6ycqxz",
+    "edits": {
+      "part_label": "Part 1  모션 그래픽 기본 지식",
+      "section_number": "02",
+      "section_heading": "움직임과 효과",
+      "title": "장면도 움직임으로 이어질 수 있습니다",
+      "subtitle": "형태 변화, 앞뒤의 속도 차이, 시점 변화가 화면을 연결합니다",
+      "effect-name-0": "형태 전환",
+      "effect-en-0": "Morph Transition",
+      "effect-desc-0": "앞 모양이 다음 모양으로 변화",
+      "effect-name-1": "시차 이동",
+      "effect-en-1": "Parallax",
+      "effect-desc-1": "가까운 층과 먼 층의 속도 차이",
+      "effect-name-2": "카메라 이동",
+      "effect-en-2": "Camera Move",
+      "effect-desc-2": "시점이 움직이며 공간을 탐색"
+    },
+    "remove": [
+      "ex-fade-cell-0",
+      "ex-fade-time-0",
+      "ex-fade-state-0",
+      "ex-fade-cell-1",
+      "ex-fade-time-1",
+      "ex-fade-state-1",
+      "ex-fade-cell-2",
+      "ex-fade-time-2",
+      "ex-fade-state-2",
+      "ex-slide-cell-0",
+      "ex-slide-time-0",
+      "ex-slide-track-0",
+      "ex-slide-state-0",
+      "ex-slide-cell-1",
+      "ex-slide-time-1",
+      "ex-slide-track-1",
+      "ex-slide-state-1",
+      "ex-slide-cell-2",
+      "ex-slide-time-2",
+      "ex-slide-track-2",
+      "ex-slide-state-2",
+      "ex-zoom-cell-0",
+      "ex-zoom-time-0",
+      "ex-zoom-state-0",
+      "ex-zoom-cell-1",
+      "ex-zoom-time-1",
+      "ex-zoom-state-1",
+      "ex-zoom-cell-2",
+      "ex-zoom-time-2",
+      "ex-zoom-state-2"
+    ],
+    "images": [
+      {
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\morph.gif",
+        "poster": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\morph-poster.png",
+        "name": "tone-demo-morph",
+        "position": {
+          "left": 196,
+          "top": 451,
+          "width": 248,
+          "height": 139.26
+        }
+      },
+      {
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\parallax.gif",
+        "poster": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\parallax-poster.png",
+        "name": "tone-demo-parallax",
+        "position": {
+          "left": 516,
+          "top": 451,
+          "width": 248,
+          "height": 139.26
+        }
+      },
+      {
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\camera.gif",
+        "poster": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\camera-poster.png",
+        "name": "tone-demo-camera",
+        "position": {
+          "left": 836,
+          "top": 451,
+          "width": 248,
+          "height": 139.26
+        }
+      }
+    ],
+    "notes": "영상 설명란의 세계가 다음 세계로 변하는 연결, 시네마틱 3D의 카메라 이동, 사이버펑크의 원근 시차를 자체 도식으로 다시 구성했습니다. 앞서 설명한 모핑의 정의를 반복하는 대신 장면을 잇는 역할을 비교합니다. 실제 인앱 생성 결과가 아닙니다.\n참고: Ai-Con Lab, 「클로드로 만든 모션그래픽 20가지 톤, 전부 코드로 그렸습니다」 https://www.youtube.com/watch?v=oCRQP5S-900 , 03:06–03:23, 04:38–05:00, 05:22–05:44; 설명란의 장면 전환 설명. 한국어 자막과 설명란을 분석했습니다. 원본 화면·음원·캐릭터·문구는 복제하지 않았습니다.",
+    "export_page": 10
+  },
+  {
+    "page": 14,
+    "source_page": 8,
+    "export_id": "bxbpsm",
+    "edits": {
+      "part_label": "Part 1  모션 그래픽 기본 지식",
+      "section_number": "02",
+      "section_heading": "움직임과 효과",
+      "title": "소리의 박자가 움직임의 기준이 됩니다",
+      "subtitle": "같은 박자에 크기·선·글자가 서로 다른 방식으로 반응합니다",
+      "effect-name-0": "크기의 반응",
+      "effect-en-0": "Pulse",
+      "effect-desc-0": "박자에 맞춰 커졌다 작아짐",
+      "effect-name-1": "선의 반응",
+      "effect-en-1": "Wave",
+      "effect-desc-1": "소리의 느낌을 떨리는 선으로",
+      "effect-name-2": "글자의 반응",
+      "effect-en-2": "Rhythmic Type",
+      "effect-desc-2": "강조되는 단어가 박자마다 바뀜"
+    },
+    "remove": [
+      "ex-fade-cell-0",
+      "ex-fade-time-0",
+      "ex-fade-state-0",
+      "ex-fade-cell-1",
+      "ex-fade-time-1",
+      "ex-fade-state-1",
+      "ex-fade-cell-2",
+      "ex-fade-time-2",
+      "ex-fade-state-2",
+      "ex-slide-cell-0",
+      "ex-slide-time-0",
+      "ex-slide-track-0",
+      "ex-slide-state-0",
+      "ex-slide-cell-1",
+      "ex-slide-time-1",
+      "ex-slide-track-1",
+      "ex-slide-state-1",
+      "ex-slide-cell-2",
+      "ex-slide-time-2",
+      "ex-slide-track-2",
+      "ex-slide-state-2",
+      "ex-zoom-cell-0",
+      "ex-zoom-time-0",
+      "ex-zoom-state-0",
+      "ex-zoom-cell-1",
+      "ex-zoom-time-1",
+      "ex-zoom-state-1",
+      "ex-zoom-cell-2",
+      "ex-zoom-time-2",
+      "ex-zoom-state-2"
+    ],
+    "images": [
+      {
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\pulse.gif",
+        "poster": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\pulse-poster.png",
+        "name": "tone-demo-pulse",
+        "position": {
+          "left": 196,
+          "top": 451,
+          "width": 248,
+          "height": 139.26
+        }
+      },
+      {
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\wave.gif",
+        "poster": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\wave-poster.png",
+        "name": "tone-demo-wave",
+        "position": {
+          "left": 516,
+          "top": 451,
+          "width": 248,
+          "height": 139.26
+        }
+      },
+      {
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\words.gif",
+        "poster": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\words-poster.png",
+        "name": "tone-demo-words",
+        "position": {
+          "left": 836,
+          "top": 451,
+          "width": 248,
+          "height": 139.26
+        }
+      }
+    ],
+    "notes": "영상은 악기별 소리와 화면 움직임의 연결을 소개합니다. 여기서는 원본 음악을 사용하지 않고 점등되는 네 박자와 동기화된 크기·선·글자의 자체 반복 GIF를 제시합니다. GIF에는 소리가 없으며 음성 분석이나 실제 음원에 반응하는 결과라고 설명하지 않습니다.\n참고: Ai-Con Lab, 「클로드로 만든 모션그래픽 20가지 톤, 전부 코드로 그렸습니다」 https://www.youtube.com/watch?v=oCRQP5S-900 , 04:04–04:38 및 설명란의 악기별 움직임 설명. 한국어 자막과 설명란을 분석했습니다. 원본 화면·음원·캐릭터·문구는 복제하지 않았습니다.",
+    "export_page": 9
+  }
+]

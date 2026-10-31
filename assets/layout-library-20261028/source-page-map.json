@@ -1,0 +1,914 @@
+[
+  {
+    "source_id": "R01",
+    "page": 1,
+    "layout_id": "L01",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 2,
+    "layout_id": "L02",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 3,
+    "layout_id": "L11",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 4,
+    "layout_id": "L17",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 5,
+    "layout_id": "L17",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 6,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 7,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 8,
+    "layout_id": "L05",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 9,
+    "layout_id": "L04",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 10,
+    "layout_id": "L06",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 11,
+    "layout_id": "L06",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 12,
+    "layout_id": "L16",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 13,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 14,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 15,
+    "layout_id": "L07",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 16,
+    "layout_id": "L08",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 17,
+    "layout_id": "L04",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 18,
+    "layout_id": "L12",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 19,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 20,
+    "layout_id": "L06",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 21,
+    "layout_id": "L15",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 22,
+    "layout_id": "L09",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 23,
+    "layout_id": "L05",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 24,
+    "layout_id": "L09",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 25,
+    "layout_id": "L10",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 26,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 27,
+    "layout_id": "L07",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 28,
+    "layout_id": "L15",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 29,
+    "layout_id": "L10",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 30,
+    "layout_id": "L15",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 31,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 32,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 33,
+    "layout_id": "L11",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 34,
+    "layout_id": "L11",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 35,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 36,
+    "layout_id": "L13",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 37,
+    "layout_id": "L11",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 38,
+    "layout_id": "L13",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 39,
+    "layout_id": "L07",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 40,
+    "layout_id": "L09",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 41,
+    "layout_id": "L09",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 42,
+    "layout_id": "L07",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 43,
+    "layout_id": "L09",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 44,
+    "layout_id": "L14",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 45,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 46,
+    "layout_id": "L12",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 47,
+    "layout_id": "L06",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 48,
+    "layout_id": "L13",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 49,
+    "layout_id": "L07",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 50,
+    "layout_id": "L09",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 51,
+    "layout_id": "L09",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 52,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 53,
+    "layout_id": "L06",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 54,
+    "layout_id": "L09",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 55,
+    "layout_id": "L14",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 56,
+    "layout_id": "L09",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 57,
+    "layout_id": "L09",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 58,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 59,
+    "layout_id": "L05",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 60,
+    "layout_id": "L12",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 61,
+    "layout_id": "L20",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 62,
+    "layout_id": "L10",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 63,
+    "layout_id": "L10",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 64,
+    "layout_id": "L10",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 65,
+    "layout_id": "L10",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 66,
+    "layout_id": "L10",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 67,
+    "layout_id": "L10",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 68,
+    "layout_id": "L10",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 69,
+    "layout_id": "L10",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 70,
+    "layout_id": "L06",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 71,
+    "layout_id": "L11",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 72,
+    "layout_id": "L07",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 73,
+    "layout_id": "L17",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 74,
+    "layout_id": "L13",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 75,
+    "layout_id": "L05",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 76,
+    "layout_id": "L16",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 77,
+    "layout_id": "L13",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 78,
+    "layout_id": "L11",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 79,
+    "layout_id": "L16",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 80,
+    "layout_id": "L09",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 81,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 82,
+    "layout_id": "L14",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 83,
+    "layout_id": "L11",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 84,
+    "layout_id": "L14",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 85,
+    "layout_id": "L09",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 86,
+    "layout_id": "L11",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 87,
+    "layout_id": "L07",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 88,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 89,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 90,
+    "layout_id": "L10",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 91,
+    "layout_id": "L20",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 92,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 93,
+    "layout_id": "L11",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 94,
+    "layout_id": "L16",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 95,
+    "layout_id": "L19",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 96,
+    "layout_id": "L19",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 97,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 98,
+    "layout_id": "L19",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 99,
+    "layout_id": "L18",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R01",
+    "page": 100,
+    "layout_id": "L17",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 1,
+    "layout_id": "L01",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 2,
+    "layout_id": "L02",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 3,
+    "layout_id": "L04",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 4,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 5,
+    "layout_id": "L15",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 6,
+    "layout_id": "L04",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 7,
+    "layout_id": "L15",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 8,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 9,
+    "layout_id": "L06",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 10,
+    "layout_id": "L11",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 11,
+    "layout_id": "L17",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 12,
+    "layout_id": "L14",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 13,
+    "layout_id": "L04",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 14,
+    "layout_id": "L10",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 15,
+    "layout_id": "L09",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 16,
+    "layout_id": "L05",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 17,
+    "layout_id": "L12",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 18,
+    "layout_id": "L10",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 19,
+    "layout_id": "L12",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 20,
+    "layout_id": "L12",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 21,
+    "layout_id": "L10",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 22,
+    "layout_id": "L05",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 23,
+    "layout_id": "L11",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 24,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 25,
+    "layout_id": "L04",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 26,
+    "layout_id": "L11",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 27,
+    "layout_id": "L12",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 28,
+    "layout_id": "L11",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 29,
+    "layout_id": "L16",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 30,
+    "layout_id": "L11",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 31,
+    "layout_id": "L09",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 32,
+    "layout_id": "L12",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 33,
+    "layout_id": "L09",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 34,
+    "layout_id": "L13",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 35,
+    "layout_id": "L09",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 36,
+    "layout_id": "L09",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 37,
+    "layout_id": "L12",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 38,
+    "layout_id": "L06",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 39,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 40,
+    "layout_id": "L03",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 41,
+    "layout_id": "L19",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 42,
+    "layout_id": "L18",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 43,
+    "layout_id": "L01",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 44,
+    "layout_id": "L01",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 45,
+    "layout_id": "L01",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 46,
+    "layout_id": "L19",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 47,
+    "layout_id": "L20",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 48,
+    "layout_id": "L11",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 49,
+    "layout_id": "L17",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 50,
+    "layout_id": "L17",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 51,
+    "layout_id": "L12",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  },
+  {
+    "source_id": "R03",
+    "page": 52,
+    "layout_id": "L19",
+    "basis": "visual role classification; not a pixel-identical reproduction"
+  }
+]

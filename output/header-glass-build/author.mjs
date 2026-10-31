@@ -1,0 +1,11 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+import {Presentation,PresentationFile} from '@oai/artifact-tool';
+import {shape} from '../../assets/layout-library-20261028/recipes/components.mjs';
+const B=path.dirname(fileURLToPath(import.meta.url));
+const p=Presentation.create({slideSize:{width:1280,height:720}});
+const s=p.slides.add();s.background.fill='#000000';
+shape(s,'required-container',200,564,506.6666666666667,38.666666666666664,'#242424','roundRect','#454545');
+await(await PresentationFile.exportPptx(p)).save(path.join(B,'container.pptx'));
+console.log('Authored editable required-account container');

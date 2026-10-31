@@ -1,0 +1,20 @@
+{
+  "actor": "user",
+  "scope": "global",
+  "status": "open",
+  "feedback": "실제앱 단계별 캡쳐 졸라 별로야. 레퍼런스 처럼 해달라니깐\n그리고 너가 예시로 넣은 것도 졸라 별로야.",
+  "example_direction_reply": "이 조합으로 수정",
+  "selected_topics": [
+    "노션톡 웨비나 홍보 타이포그래피",
+    "실제 웹사이트 소개",
+    "원자모형 변천 과학사 영상"
+  ],
+  "design_approval": false,
+  "correction_artifact": "output/webinar-three-cases-v2/NotionTalk_Part1_예제와실제시연_v4.pptx",
+  "remaining": [
+    "B·C의 인앱 시연 및 새 Codex 캡처",
+    "전체 강의 반영",
+    "사용자 디자인 확인",
+    "G10 권리 검토"
+  ]
+}

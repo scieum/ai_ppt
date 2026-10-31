@@ -1,0 +1,38 @@
+{
+  "edited_pages": [
+    12,
+    17
+  ],
+  "pages": 21,
+  "pdf_pages": 21,
+  "other_19_render_pixels_identical": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    13,
+    14,
+    15,
+    16,
+    18,
+    19,
+    20,
+    21
+  ],
+  "only_changed_parts": [
+    "ppt/slides/part01-slide4.xml",
+    "ppt/notesSlides/part01-notes4.xml",
+    "ppt/slides/lesson-compare.xml",
+    "ppt/notesSlides/lesson-compare.xml"
+  ],
+  "new_text_overflow": false,
+  "source_original_preserved": true,
+  "final_sha256": "1f567800ec6f55cc6e531951d07411b6b0901534ce0312a924449c7b247ce7fd"
+}

@@ -1,0 +1,72 @@
+{
+  "source": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\output\\webinar-knowledge-only\\NotionTalk_모션그래픽_표디자인정리_40장_v22.pptx",
+  "source_parts": [
+    "ppt/slides/reflow-01.xml",
+    "ppt/slides/partDivider0.xml",
+    "ppt/slides/restored-preparation.xml",
+    "ppt/slides/reflow-02.xml",
+    "ppt/slides/partDivider1.xml",
+    "ppt/slides/reflow-03.xml",
+    "ppt/slides/reflow-04.xml",
+    "ppt/slides/reflow-05.xml",
+    "ppt/slides/video-tones-7.xml",
+    "ppt/slides/video-tones-8.xml",
+    "ppt/slides/reflow-06.xml",
+    "ppt/slides/reflow-07.xml",
+    "ppt/slides/reflow-08.xml",
+    "ppt/slides/reflow-09.xml",
+    "ppt/slides/video-tones-13.xml",
+    "ppt/slides/video-tones-14.xml",
+    "ppt/slides/reflow-10.xml",
+    "ppt/slides/reflow-11.xml",
+    "ppt/slides/partDivider2.xml",
+    "ppt/slides/reflow-12.xml",
+    "ppt/slides/partDivider3.xml",
+    "ppt/slides/reflow-13.xml",
+    "ppt/slides/reflow-14.xml",
+    "ppt/slides/styleDocsrecommendation.xml",
+    "ppt/slides/styleDocsroles.xml",
+    "ppt/slides/styleDocsdesign-fields.xml",
+    "ppt/slides/styleDocsdesign-example.xml",
+    "ppt/slides/styleDocsmotion-fields.xml",
+    "ppt/slides/styleDocsmotion-example.xml",
+    "ppt/slides/styleDocsreview-links.xml",
+    "ppt/slides/styleDocsreuse.xml",
+    "ppt/slides/partDivider4.xml",
+    "ppt/slides/reflow-15.xml",
+    "ppt/slides/styleDocsroute-edits.xml",
+    "ppt/slides/styleDocsscope.xml",
+    "ppt/slides/styleDocsreview-sequence.xml",
+    "ppt/slides/styleDocsreview-criteria.xml",
+    "ppt/slides/styleDocslocal-global.xml",
+    "ppt/slides/styleDocsversion.xml",
+    "ppt/slides/reflow-16.xml"
+  ],
+  "changes": [
+    {
+      "key": "tools",
+      "replace": 3,
+      "before": null,
+      "title": "앱에서 만들고, 자료와 목소리를 더합니다",
+      "notes": "이번 웨비나의 선택 도구: Claude 또는 Codex 데스크탑 앱, yt-dlp, ElevenLabs. 유료 계정 안내는 강의 운영상 준비 기준이며 각 서비스의 모든 이용 방식에 대한 요금제 단정이 아니다. 힉스필드는 현재 준비물에서 제외한다. Node.js는 앱 로그인 자체의 조건과 구분한다. npm 기반 영상 프로젝트를 실행할 때 필요하므로 준비를 권장한다. Remotion 공식 안내 https://www.remotion.dev/docs/ai/coding-agents . yt-dlp의 YouTube 전체 지원에는 EJS와 지원 JS 런타임이 필요하며 Deno가 권장·기본 활성화된다. Node도 지원하지만 --js-runtimes node로 활성화해야 하며 현재 문서상 최소22다. https://github.com/yt-dlp/yt-dlp/wiki/EJS . FFmpeg/ffprobe는 영상·음성 병합 등에 사용한다. https://github.com/yt-dlp/yt-dlp . ElevenLabs 웹 TTS 사용은 Node 설치와 별개다. https://elevenlabs.io/docs/eleven-creative/playground/text-to-speech . Claude Desktop은 Code를 포함한다 https://support.claude.com/en/articles/14552382-your-first-day-in-claude-code . 공식 OpenAI 앱 문서 https://learn.chatgpt.com/docs/app . 2026-10-29 확인.",
+      "package_part": "ppt/slides/restored-preparation.xml"
+    },
+    {
+      "key": "mdroles",
+      "replace": 25,
+      "before": null,
+      "title": "영상의 기준을 세 문서에 나누어 담습니다",
+      "notes": "첨부한 파일별 카드 레퍼런스의 설명 구조만 참고하고 문구와 정보는 자체 구성한다. 우리 기존 흐름의 storyline.md, design.md, motion.md를 유지한다. 원본 레퍼런스의 video.md로 임의 교체하지 않는다. 파일 이름만으로 AI가 자동 적용하거나 같은 결과가 보장되는 것은 아니다. 다음 작업에 문서와 실제 자산을 명시적으로 함께 전달한다. 스틸컷은 문서와 다른 확인 자료로 23·30쪽에서 설명한다.",
+      "package_part": "ppt/slides/styleDocsroles.xml"
+    },
+    {
+      "key": "narration",
+      "replace": null,
+      "before": 37,
+      "title": "내레이션이 필요하면 ElevenLabs를 활용합니다",
+      "notes": "ElevenLabs Text to Speech는 입력한 대본과 선택한 목소리로 음성을 생성한다. 웹 화면에서 이용할 수 있으므로 이 소개를 위해 API나 Node.js 연결을 필수로 안내하지 않는다. 사용자는 기존 제작 방법 제외 범위의 좁은 추가로 내레이션 활용 소개를 요청했다. 장황한 앱 조작·명령어·음성 복제 실습은 추가하지 않는다. 슬라이드의 설명은 제안 흐름이며 실제 음성을 생성하거나 검증했다는 의미가 아니다. 음성 실제 길이와 발음·쉼을 듣고 장면 타이밍을 조정한다. ElevenLabs 공식 안내 https://elevenlabs.io/docs/eleven-creative/playground/text-to-speech (2026-10-29 확인).",
+      "package_part": "ppt/slides/tools-narration.xml"
+    }
+  ],
+  "count": 41
+}

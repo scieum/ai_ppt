@@ -1,0 +1,134 @@
+{
+  "checked_on": "2026-10-28",
+  "slides": 21,
+  "pdf_pages": 21,
+  "foundation_pages": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "animation_pages": [
+    4,
+    6,
+    7,
+    8,
+    9
+  ],
+  "native_effects": 18,
+  "powerpoint_open_render_export": true,
+  "native_animation_video_playback_check": {
+    "native_powerpoint_video_export": true,
+    "duration": "00:00:25.08",
+    "all_video_frames_decode": true,
+    "first_slide_mean_frame_difference": 0.3481452546296296,
+    "comparison_seconds": [
+      0.1,
+      1.8,
+      2.8
+    ],
+    "ffmpeg_existing_installation": "C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe"
+  },
+  "text_boxes_checked": 321,
+  "overflow_flags": 0,
+  "unchanged_previous_slides": [
+    {
+      "old_page": 1,
+      "new_page": 1,
+      "pixel_identical": true,
+      "non_text_xml_identical": true
+    },
+    {
+      "old_page": 2,
+      "new_page": 2,
+      "pixel_identical": false,
+      "non_text_xml_identical": true
+    },
+    {
+      "old_page": 3,
+      "new_page": 3,
+      "pixel_identical": true,
+      "non_text_xml_identical": true
+    },
+    {
+      "old_page": 5,
+      "new_page": 11,
+      "pixel_identical": true,
+      "non_text_xml_identical": true
+    },
+    {
+      "old_page": 6,
+      "new_page": 12,
+      "pixel_identical": true,
+      "non_text_xml_identical": true
+    },
+    {
+      "old_page": 7,
+      "new_page": 13,
+      "pixel_identical": true,
+      "non_text_xml_identical": true
+    },
+    {
+      "old_page": 8,
+      "new_page": 14,
+      "pixel_identical": true,
+      "non_text_xml_identical": true
+    },
+    {
+      "old_page": 9,
+      "new_page": 15,
+      "pixel_identical": true,
+      "non_text_xml_identical": true
+    },
+    {
+      "old_page": 10,
+      "new_page": 16,
+      "pixel_identical": true,
+      "non_text_xml_identical": true
+    },
+    {
+      "old_page": 11,
+      "new_page": 17,
+      "pixel_identical": true,
+      "non_text_xml_identical": true
+    },
+    {
+      "old_page": 12,
+      "new_page": 18,
+      "pixel_identical": true,
+      "non_text_xml_identical": true
+    },
+    {
+      "old_page": 13,
+      "new_page": 19,
+      "pixel_identical": true,
+      "non_text_xml_identical": true
+    },
+    {
+      "old_page": 14,
+      "new_page": 20,
+      "pixel_identical": true,
+      "non_text_xml_identical": true
+    },
+    {
+      "old_page": 15,
+      "new_page": 21,
+      "pixel_identical": true,
+      "non_text_xml_identical": true
+    }
+  ],
+  "original_media_masters_themes_preserved": true,
+  "original_decks_preserved": true,
+  "plan_slides": 48,
+  "plan_minutes": 90,
+  "part_1_minutes": 26,
+  "human_plan_matches_json": true,
+  "start_prompts_match_part_1": true,
+  "pptx_sha256": "2ecf45792bc570770a0e4f12731da4edeba89a15b1941cce192f3d865d8c037e",
+  "pdf_sha256": "afc95206854af7f2e3df07cb381a64a4a27a335c10f0f0b4121424c3f402c500",
+  "G10_clearance_created": false,
+  "new_AI_app_execution": false
+}

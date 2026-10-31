@@ -1,0 +1,119 @@
+[
+  {
+    "key": "recommendation",
+    "part": 3,
+    "title": "비슷한 톤을 다시 얻고 싶다면",
+    "before": 24,
+    "authored_slide": 1,
+    "layout": "L12"
+  },
+  {
+    "key": "roles",
+    "part": 3,
+    "title": "세 문서와 스틸컷의 역할",
+    "before": 24,
+    "authored_slide": 2,
+    "layout": "L06",
+    "native_table": true
+  },
+  {
+    "key": "design-fields",
+    "part": 3,
+    "title": "design.md에 담을 화면 기준",
+    "before": 24,
+    "authored_slide": 3,
+    "layout": "L06",
+    "native_table": true
+  },
+  {
+    "key": "design-example",
+    "part": 3,
+    "title": "design.md 예시",
+    "before": 24,
+    "authored_slide": 4,
+    "layout": "L09"
+  },
+  {
+    "key": "motion-fields",
+    "part": 3,
+    "title": "motion.md에 담을 움직임 기준",
+    "before": 24,
+    "authored_slide": 5,
+    "layout": "L06",
+    "native_table": true
+  },
+  {
+    "key": "motion-example",
+    "part": 3,
+    "title": "motion.md 예시",
+    "before": 24,
+    "authored_slide": 6,
+    "layout": "L09"
+  },
+  {
+    "key": "review-links",
+    "part": 3,
+    "title": "문서와 확인 자료를 함께 봅니다",
+    "before": 24,
+    "authored_slide": 7,
+    "layout": "L07"
+  },
+  {
+    "key": "reuse",
+    "part": 3,
+    "title": "다음 영상에도 기준 문서를 전달합니다",
+    "before": 24,
+    "authored_slide": 8,
+    "layout": "L16"
+  },
+  {
+    "key": "route-edits",
+    "part": 4,
+    "title": "수정 대상을 기준 파일과 연결합니다",
+    "before": 26,
+    "authored_slide": 9,
+    "layout": "L06",
+    "native_table": true
+  },
+  {
+    "key": "scope",
+    "part": 4,
+    "title": "바꿀 것과 유지할 것을 정합니다",
+    "before": 26,
+    "authored_slide": 10,
+    "layout": "L07"
+  },
+  {
+    "key": "review-sequence",
+    "part": 4,
+    "title": "짧은 구간부터 다시 확인합니다",
+    "before": 26,
+    "authored_slide": 11,
+    "layout": "L14"
+  },
+  {
+    "key": "review-criteria",
+    "part": 4,
+    "title": "내용·디자인·모션을 나누어 점검합니다",
+    "before": 26,
+    "authored_slide": 12,
+    "layout": "L06",
+    "native_table": true
+  },
+  {
+    "key": "local-global",
+    "part": 4,
+    "title": "한 장면 수정과 공통 규칙의 변경",
+    "before": 26,
+    "authored_slide": 13,
+    "layout": "L12"
+  },
+  {
+    "key": "version",
+    "part": 4,
+    "title": "확인한 기준을 다음 작업에 남깁니다",
+    "before": 26,
+    "authored_slide": 14,
+    "layout": "L10"
+  }
+]

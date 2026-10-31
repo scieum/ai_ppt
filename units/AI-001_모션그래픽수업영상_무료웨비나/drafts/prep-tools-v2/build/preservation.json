@@ -1,0 +1,13 @@
+{
+  "edited_display_slide": 3,
+  "edited_part": "ppt/slides/part01-slide1.xml",
+  "original_sha256": "dc83b195f382581ce81196334feb9bfe75d43a7bf3f7c3a444d378ca1b39d8ac",
+  "unchanged_other_slides": 8,
+  "allowed_changed_parts": [
+    "[Content_Types].xml",
+    "ppt/notesSlides/_rels/part01-notes1.xml.rels",
+    "ppt/notesSlides/part01-notes1.xml",
+    "ppt/slides/_rels/part01-slide1.xml.rels",
+    "ppt/slides/part01-slide1.xml"
+  ]
+}

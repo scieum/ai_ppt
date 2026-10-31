@@ -1,0 +1,50 @@
+{
+  "slides": 21,
+  "pdf_pages": 21,
+  "edited_page": 17,
+  "generated_images": [
+    "thomson",
+    "rutherford",
+    "bohr"
+  ],
+  "transparent_original_pngs_embedded": true,
+  "other_20_render_pixels_identical": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    18,
+    19,
+    20,
+    21
+  ],
+  "only_original_parts_changed": [
+    "ppt/slides/part01-slide4.xml",
+    "ppt/notesSlides/part01-notes4.xml",
+    "ppt/slides/_rels/part01-slide4.xml.rels"
+  ],
+  "flipbook_bytes_preserved": true,
+  "removed_student_slide_still_absent": true,
+  "new_or_moved_text_overflow": [],
+  "preexisting_bounds_exceedance_unchanged": [
+    "section_number",
+    "copyright_footer"
+  ],
+  "package_layout_font_import_checks": "pass (validation.json)",
+  "visual_review": "17쪽 렌더에서 모형 3개·이름표·모식도 설명 및 기존 레이아웃 확인",
+  "source_sha256": "441be29026ffa9760f67083c9908918454b6675059295eab0c62caa610bc6c1f",
+  "final_sha256": "8c55b0eb90c8ff9e509c808234aa4bf376544861e5e51773c8921767e98fd077",
+  "G10_approval_created": false
+}

@@ -1,0 +1,24 @@
+{
+  "slides": 13,
+  "added_page": 9,
+  "native_table_page": 13,
+  "all_twelve_source_slide_xml_preserved": true,
+  "all_prior_media_animations_preserved": true,
+  "three_embedded_looping_examples_verified": true,
+  "knowledge_only_scope_preserved": true,
+  "all_twelve_source_slide_pixels_preserved": true,
+  "body_text_overflow_count": 0,
+  "pdf_pages": 13,
+  "all_slides_native_rendered": true,
+  "motion_verified_in_native_powerpoint_video": {
+    "morph": 715,
+    "rotation": 2408,
+    "gradient": 7400
+  },
+  "pptx_sha256": "f42277c9aa4074d87fe2ddb8ac284b34b906484dfeecb41daef05df3992900d0",
+  "source_video_id": "7xOcIYWGG0A",
+  "caption_segments_read": 418,
+  "source_basis": "complete Korean captions and video description; no source visual footage reused",
+  "lesson_unchanged": true,
+  "inherited_g10_status": "unchanged; pending inherited rights inventory"
+}

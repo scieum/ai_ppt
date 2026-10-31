@@ -1,0 +1,24 @@
+[
+  {
+    "key": "library",
+    "slide_count": 20,
+    "only_modified_page": 2,
+    "editable_rounded_blocks": 4,
+    "part_labels": 4,
+    "extra_header_subtitle_and_bottom_slogan_removed": true,
+    "other_slide_XML_unchanged": true,
+    "body_overflow": [],
+    "final_sha256": "aef19f0d64c6887399ea5b7c83da520d0f7a4f4d0c88a77198ce45311b91703b"
+  },
+  {
+    "key": "application",
+    "slide_count": 21,
+    "only_modified_page": 3,
+    "editable_rounded_blocks": 4,
+    "part_labels": 4,
+    "extra_header_subtitle_and_bottom_slogan_removed": true,
+    "other_slide_XML_unchanged": true,
+    "body_overflow": [],
+    "final_sha256": "a09e60ec9bc7989c080af4ce40e7ef1d8df185545c25f1c4b52369d70f332a12"
+  }
+]

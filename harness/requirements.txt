@@ -1,0 +1,2 @@
+# Core and science profile use the standard library. AI training PDF delivery checks use:
+pypdf>=6.10.0,<7

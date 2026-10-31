@@ -1,0 +1,194 @@
+[
+  {
+    "page": 5,
+    "source_page": 5,
+    "edits": {
+      "dev-format-head-2": "움직이는 예시",
+      "dev-format-0-1": "문장과 핵심어",
+      "dev-format-1-1": "수치와 관계",
+      "dev-format-2-1": "화면과 기능",
+      "dev-format-3-1": "브랜드와 제목",
+      "dev-format-4-1": "그림과 인물"
+    },
+    "remove": [
+      "dev-format-0-2",
+      "dev-format-1-2",
+      "dev-format-2-2",
+      "dev-format-3-2",
+      "dev-format-4-2"
+    ],
+    "images": [
+      {
+        "kind": "typography",
+        "x": 740,
+        "y": 383.3
+      },
+      {
+        "kind": "infographic",
+        "x": 740,
+        "y": 431.97
+      },
+      {
+        "kind": "interface",
+        "x": 740,
+        "y": 480.64
+      },
+      {
+        "kind": "logo",
+        "x": 740,
+        "y": 529.31
+      },
+      {
+        "kind": "illustration",
+        "x": 740,
+        "y": 577.98
+      }
+    ],
+    "notes": "유형별 예시는 글자 등장, 0~100% 변화, 가상의 UI 반응, 노션톡 로고 등장, 종이비행기 일러스트의 이동입니다. 수치는 개념 설명용 가상 값이고 UI는 실제 서비스 화면이 아닌 자체 예시입니다. 로고는 사용자가 제공한 원본을 사용했습니다.",
+    "export_page": 5
+  },
+  {
+    "page": 10,
+    "source_page": 7,
+    "export_id": "jkubuy",
+    "edits": {
+      "part_label": "Part 2  움직임과 효과",
+      "section_number": "02",
+      "section_heading": "시간과 속도",
+      "title": "시작 시점과 지속시간",
+      "subtitle": "지연시간은 출발 전 대기, 지속시간은 움직이는 데 걸린 시간입니다",
+      "effect-name-0": "기준 움직임",
+      "effect-en-0": "Duration 1.0s",
+      "effect-desc-0": "바로 출발해 1초 동안 이동",
+      "effect-name-1": "시작을 늦추기",
+      "effect-en-1": "Delay 0.7s",
+      "effect-desc-1": "기다렸다 같은 속도로 이동",
+      "effect-name-2": "지속시간 늘리기",
+      "effect-en-2": "Duration 2.0s",
+      "effect-desc-2": "같은 거리를 2초 동안 이동"
+    },
+    "remove": [
+      "ex-fade-cell-0",
+      "ex-fade-time-0",
+      "ex-fade-state-0",
+      "ex-fade-cell-1",
+      "ex-fade-time-1",
+      "ex-fade-state-1",
+      "ex-fade-cell-2",
+      "ex-fade-time-2",
+      "ex-fade-state-2",
+      "ex-slide-cell-0",
+      "ex-slide-time-0",
+      "ex-slide-track-0",
+      "ex-slide-state-0",
+      "ex-slide-cell-1",
+      "ex-slide-time-1",
+      "ex-slide-track-1",
+      "ex-slide-state-1",
+      "ex-slide-cell-2",
+      "ex-slide-time-2",
+      "ex-slide-track-2",
+      "ex-slide-state-2",
+      "ex-zoom-cell-0",
+      "ex-zoom-time-0",
+      "ex-zoom-state-0",
+      "ex-zoom-cell-1",
+      "ex-zoom-time-1",
+      "ex-zoom-state-1",
+      "ex-zoom-cell-2",
+      "ex-zoom-time-2",
+      "ex-zoom-state-2"
+    ],
+    "images": [
+      {
+        "kind": "normal",
+        "x": 200,
+        "y": 451
+      },
+      {
+        "kind": "delay",
+        "x": 520,
+        "y": 451
+      },
+      {
+        "kind": "long",
+        "x": 840,
+        "y": 451
+      }
+    ],
+    "notes": "지연시간은 대상이 움직이기 전까지 기다리는 시간입니다. 지속시간은 실제 변화가 이어지는 시간입니다. 세 공의 이동 거리는 같습니다. 가운데는 0.7초 늦게 시작하지만 1초 동안 이동하고, 오른쪽은 2초 동안 이동합니다. 시작 대기와 이동 시간을 구분하는 기초 예시입니다.\n학습 참고: [사이클 라이브] 클로드 코드로 만드는 일관된 모션 시스템 (1).pdf 20·23쪽의 시간·순서 개념을 별개의 자체 예시와 설명으로 재구성.",
+    "export_page": 9
+  },
+  {
+    "page": 11,
+    "source_page": 7,
+    "export_id": "9lcoue",
+    "edits": {
+      "part_label": "Part 2  움직임과 효과",
+      "section_number": "02",
+      "section_heading": "시간과 속도",
+      "title": "가속과 감속의 세 가지 모습",
+      "subtitle": "세 공은 같은 거리를 1.8초 동안 이동하며 속도 변화만 다릅니다",
+      "effect-name-0": "이즈 인",
+      "effect-en-0": "Ease In",
+      "effect-desc-0": "천천히 시작해 빨라짐",
+      "effect-name-1": "이즈 아웃",
+      "effect-en-1": "Ease Out",
+      "effect-desc-1": "빠르게 시작해 느려짐",
+      "effect-name-2": "이즈 인아웃",
+      "effect-en-2": "Ease In Out",
+      "effect-desc-2": "천천히 출발하고 멈춤"
+    },
+    "remove": [
+      "ex-fade-cell-0",
+      "ex-fade-time-0",
+      "ex-fade-state-0",
+      "ex-fade-cell-1",
+      "ex-fade-time-1",
+      "ex-fade-state-1",
+      "ex-fade-cell-2",
+      "ex-fade-time-2",
+      "ex-fade-state-2",
+      "ex-slide-cell-0",
+      "ex-slide-time-0",
+      "ex-slide-track-0",
+      "ex-slide-state-0",
+      "ex-slide-cell-1",
+      "ex-slide-time-1",
+      "ex-slide-track-1",
+      "ex-slide-state-1",
+      "ex-slide-cell-2",
+      "ex-slide-time-2",
+      "ex-slide-track-2",
+      "ex-slide-state-2",
+      "ex-zoom-cell-0",
+      "ex-zoom-time-0",
+      "ex-zoom-state-0",
+      "ex-zoom-cell-1",
+      "ex-zoom-time-1",
+      "ex-zoom-state-1",
+      "ex-zoom-cell-2",
+      "ex-zoom-time-2",
+      "ex-zoom-state-2"
+    ],
+    "images": [
+      {
+        "kind": "ease-in",
+        "x": 200,
+        "y": 451
+      },
+      {
+        "kind": "ease-out",
+        "x": 520,
+        "y": 451
+      },
+      {
+        "kind": "ease-in-out",
+        "x": 840,
+        "y": 451
+      }
+    ],
+    "notes": "이즈 인은 점차 빨라지는 변화, 이즈 아웃은 점차 느려지는 변화, 이즈 인아웃은 출발과 도착 구간 모두 천천히 움직이는 변화입니다. 이동 거리와 1.8초의 지속시간을 같게 두어 비교합니다. 작은 점은 같은 시간 간격의 위치입니다.\n학습 참고: [사이클 라이브] 클로드 코드로 만드는 일관된 모션 시스템 (1).pdf 24쪽의 이징 분류를 새 설명과 자체 도형 예시로 재구성. 수치나 용도별 제작 규칙은 인용하지 않음.",
+    "export_page": 8
+  }
+]

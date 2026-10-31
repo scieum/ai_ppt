@@ -1,0 +1,175 @@
+{
+  "source": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\output\\webinar-knowledge-only\\NotionTalk_모션그래픽_목차수정_21장_v17.pptx",
+  "source_sha256": "a09e60ec9bc7989c080af4ce40e7ef1d8df185545c25f1c4b52369d70f332a12",
+  "count": 26,
+  "original_slides_byte_identical": true,
+  "original_media_byte_identical": true,
+  "slides": [
+    {
+      "page": 1,
+      "kind": "preserved",
+      "original_page": 1,
+      "package_part": "ppt/slides/reflow-01.xml"
+    },
+    {
+      "page": 2,
+      "kind": "divider",
+      "part": 0,
+      "title": "오늘의 준비물",
+      "package_part": "ppt/slides/partDivider0.xml",
+      "layout": "L03"
+    },
+    {
+      "page": 3,
+      "kind": "preserved",
+      "original_page": 2,
+      "package_part": "ppt/slides/restored-preparation.xml"
+    },
+    {
+      "page": 4,
+      "kind": "preserved",
+      "original_page": 3,
+      "package_part": "ppt/slides/reflow-02.xml"
+    },
+    {
+      "page": 5,
+      "kind": "divider",
+      "part": 1,
+      "title": "모션 그래픽 기본 지식",
+      "package_part": "ppt/slides/partDivider1.xml",
+      "layout": "L03"
+    },
+    {
+      "page": 6,
+      "kind": "preserved",
+      "original_page": 4,
+      "package_part": "ppt/slides/reflow-03.xml"
+    },
+    {
+      "page": 7,
+      "kind": "preserved",
+      "original_page": 5,
+      "package_part": "ppt/slides/reflow-04.xml"
+    },
+    {
+      "page": 8,
+      "kind": "preserved",
+      "original_page": 6,
+      "package_part": "ppt/slides/reflow-05.xml"
+    },
+    {
+      "page": 9,
+      "kind": "preserved",
+      "original_page": 7,
+      "package_part": "ppt/slides/video-tones-7.xml"
+    },
+    {
+      "page": 10,
+      "kind": "preserved",
+      "original_page": 8,
+      "package_part": "ppt/slides/video-tones-8.xml"
+    },
+    {
+      "page": 11,
+      "kind": "preserved",
+      "original_page": 9,
+      "package_part": "ppt/slides/reflow-06.xml"
+    },
+    {
+      "page": 12,
+      "kind": "preserved",
+      "original_page": 10,
+      "package_part": "ppt/slides/reflow-07.xml"
+    },
+    {
+      "page": 13,
+      "kind": "preserved",
+      "original_page": 11,
+      "package_part": "ppt/slides/reflow-08.xml"
+    },
+    {
+      "page": 14,
+      "kind": "preserved",
+      "original_page": 12,
+      "package_part": "ppt/slides/reflow-09.xml"
+    },
+    {
+      "page": 15,
+      "kind": "preserved",
+      "original_page": 13,
+      "package_part": "ppt/slides/video-tones-13.xml"
+    },
+    {
+      "page": 16,
+      "kind": "preserved",
+      "original_page": 14,
+      "package_part": "ppt/slides/video-tones-14.xml"
+    },
+    {
+      "page": 17,
+      "kind": "preserved",
+      "original_page": 15,
+      "package_part": "ppt/slides/reflow-10.xml"
+    },
+    {
+      "page": 18,
+      "kind": "preserved",
+      "original_page": 16,
+      "package_part": "ppt/slides/reflow-11.xml"
+    },
+    {
+      "page": 19,
+      "kind": "divider",
+      "part": 2,
+      "title": "이미지·영상 레퍼런스",
+      "package_part": "ppt/slides/partDivider2.xml",
+      "layout": "L03"
+    },
+    {
+      "page": 20,
+      "kind": "preserved",
+      "original_page": 17,
+      "package_part": "ppt/slides/reflow-12.xml"
+    },
+    {
+      "page": 21,
+      "kind": "divider",
+      "part": 3,
+      "title": "스토리라인과 스틸컷 확인",
+      "package_part": "ppt/slides/partDivider3.xml",
+      "layout": "L03"
+    },
+    {
+      "page": 22,
+      "kind": "preserved",
+      "original_page": 18,
+      "package_part": "ppt/slides/reflow-13.xml"
+    },
+    {
+      "page": 23,
+      "kind": "preserved",
+      "original_page": 19,
+      "package_part": "ppt/slides/reflow-14.xml"
+    },
+    {
+      "page": 24,
+      "kind": "divider",
+      "part": 4,
+      "title": "수정 후 영상 제작",
+      "package_part": "ppt/slides/partDivider4.xml",
+      "layout": "L03"
+    },
+    {
+      "page": 25,
+      "kind": "preserved",
+      "original_page": 20,
+      "package_part": "ppt/slides/reflow-15.xml"
+    },
+    {
+      "page": 26,
+      "kind": "preserved",
+      "original_page": 21,
+      "package_part": "ppt/slides/reflow-16.xml"
+    }
+  ]
+}

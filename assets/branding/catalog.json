@@ -1,0 +1,35 @@
+{
+  "notiontalk": {
+    "name": "노션톡",
+    "copyright_holder": "NotionTalk",
+    "variants": {
+      "black": {
+        "path": "assets/branding/notiontalk-black.png",
+        "sha256": "1488dd7b79cb26ecec4d191b9b341004957b5e2c34904fdf8291e1254f107e76",
+        "source_filename": "3ac105fd-6aa1-4bb0-aa3a-ab88645874a4.png",
+        "size": [
+          2172,
+          724
+        ],
+        "mode": "RGBA"
+      },
+      "white": {
+        "path": "assets/branding/notiontalk-white.png",
+        "sha256": "df7323d6ebf42b7c741488955487378f43dd34921230da2c0ba9f2713b401d21",
+        "source_filename": "51d4ba92-b469-436b-8ca7-441e5b8919a3.png",
+        "size": [
+          2172,
+          724
+        ],
+        "mode": "RGBA"
+      }
+    }
+  },
+  "scieum": {
+    "name": "사이음",
+    "copyright_holder": "Sci_eum",
+    "status": "original_asset_not_in_checkout",
+    "expected_source": "Original harness logo(black).png; locate supplied original before use",
+    "variants": {}
+  }
+}

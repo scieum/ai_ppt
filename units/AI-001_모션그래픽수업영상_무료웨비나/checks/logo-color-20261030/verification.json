@@ -1,0 +1,13 @@
+{
+  "output": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\output\\webinar-knowledge-only\\NotionTalk_모션그래픽_로고색복원_43장_v28.pptx",
+  "sha256": "000c6faa9264e9c0056fd3fd1431b8890db13a0fb94702c28a89dd40113052a9",
+  "slides": 43,
+  "only_changed_parts": [
+    "ppt/media/header-glass-claude.png",
+    "ppt/media/header-glass-higgsfield.png"
+  ],
+  "all_slide_xml_unchanged": true,
+  "all_42_other_pages_pixel_identical": true,
+  "prep_changes_confined_to_two_logo_frames": true,
+  "font_increase_and_text_container_preserved": true
+}

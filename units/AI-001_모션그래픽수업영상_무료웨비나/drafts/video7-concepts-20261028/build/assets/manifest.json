@@ -1,0 +1,11 @@
+{
+  "origin": "original mathematical motion illustrations",
+  "fps": 25,
+  "loop": 0,
+  "source_media_reused": false,
+  "kinds": [
+    "morph",
+    "rotation",
+    "gradient"
+  ]
+}

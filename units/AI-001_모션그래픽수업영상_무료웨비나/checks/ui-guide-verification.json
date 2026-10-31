@@ -1,0 +1,64 @@
+{
+  "screenshots": 15,
+  "source_hashes_match": true,
+  "pptx_slides": 12,
+  "pdf_pages": 12,
+  "footers_match": true,
+  "native_powerpoint_export": true,
+  "videos": [
+    {
+      "path": "results/codex-first.mp4",
+      "seconds": 10.0,
+      "decoded": true,
+      "sha256": "0e3f092a8c9b0e1ab3011701eb615f0f82cd90aa5407018bcbb7e499a7ce3854"
+    },
+    {
+      "path": "results/codex-revised.mp4",
+      "seconds": 11.0,
+      "decoded": true,
+      "sha256": "d933450b57184f521950962f03d64134ecdd2b908fa2ad3f36fa6358221b8d30"
+    },
+    {
+      "path": "results/codex-personalized.mp4",
+      "seconds": 11.0,
+      "decoded": true,
+      "sha256": "6adcebd1b54835e945026dd7df5831ab824fc5841f803e739c76423a81e32f1b"
+    }
+  ],
+  "G10": "not_cleared",
+  "whole_webinar_approval": false,
+  "visual_inspection": {
+    "actor": "assistant",
+    "application": "PowerPoint native PNG exports",
+    "slides": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "result": "inspected; no unintended clipping or overlap observed",
+    "limits": "Not a human G10 rights review or user design approval"
+  },
+  "outputs": [
+    {
+      "path": "output/webinar-ui-guide/NotionTalk_Part1_실제앱_단계별캡처_v1.pdf",
+      "sha256": "4bc3b5932243dd3333b937fc9df57f42ad1f200e214cdc18f4cbce34241fbee1"
+    },
+    {
+      "path": "output/webinar-ui-guide/NotionTalk_Part1_실제앱_단계별캡처_v1.pptx",
+      "sha256": "d1a08d3f64f4cc009425238431ae66baacc3a6ac7c39342e20f5e71180fd50d7"
+    },
+    {
+      "path": "output/webinar-ui-guide/Part1_실제캡처15장_영상3종.zip",
+      "sha256": "a60b82cc6d3c6c26c291e28d5a92490182ece3caa4578b2807e14f8eed1a87e8"
+    }
+  ]
+}

@@ -1,0 +1,1771 @@
+{
+  "snapshot_kst": "2026-10-28T23:31:08+09:00",
+  "candidate_count": 158,
+  "scope": "five query relevance searches plus two view-sort parameter searches, 30 results each, deduplicated; descending views among confirmed topic matches, not a global YouTube census",
+  "queries": [
+    "Claude Code motion graphics",
+    "Claude Code Remotion",
+    "Claude Code animation",
+    "클로드 코드 모션그래픽",
+    "클로드 리모션"
+  ],
+  "selected": [
+    {
+      "rank": 1,
+      "id": "hffQ4UleKUU",
+      "title": "Master Al Video Editing in 20 Minutes | Claude Al Editing Masterclass in Hindi",
+      "channel": "Last moment tuitions",
+      "view_count": 901013,
+      "duration": 1321,
+      "upload_date": "20261001",
+      "description": "Is Video Editing Dead? 🤯 | Claude AI Masterclass for Beginners in Hindi \n\nIn this Video we have Explain How to Use Claude Opus 5.5 to Edit your Complete Video add Caption , B Roll , Background Music and Also make 3D Animation \n\n👉 Join the WhatsApp Channel for all prompts: https://whatsapp.com/channel/0029VbE9BZg9hXF9yM6tVW1d\n\nConnect With Me\n\n👉 Twitter/X: https://x.com/SumersinghShow\n\n👉 LinkedIn: https://www.linkedin.com/in/sumersingh-rajpurohit/\n\nWhat You’ll Learn in This Video : \nHow to use Claude Opus 5.5 for video editing\nHow to automatically add captions to your videos\nHow to add relevant B-Roll using AI\nHow to add and sync background music\nHow to create 3D animations with Claude AI\nHow to edit an entire video using AI prompts\nHow to create a complete AI-powered video editing workflow\n\nCredits : \nChannel Intro Inspiration from : https://x.com/kenn\nEditing Inspiration / Shorts Explained from : Ankur Warikoo , Nitish Rajput , Apna College , \nPrompt Ideas and Inspiration from Neteherk : https://www.youtube.com/@nateherk\n\nTags : \nIs Video Editing Dead? 🤯 | Claude AI Masterclass for Beginners , Last Moment Tuitions , LMT \nClaude AI, Claude Opus 5.5, Claude video editing, Claude AI video editor, edit videos with Claude, video editing with AI, AI video editing, AI video editor, Claude video editing tutorial, how to edit videos with Claude, how to use Claude for video editing, Claude AI tutorial, Claude AI tools, Claude Opus 5.5 tutorial, AI video editing tools, best AI video editor, AI video editor 2026, video editing with Claude in Hindi, Claude AI in Hindi, AI video editing in Hindi, edit video with one prompt, one prompt video editing, AI video editing workflow, automated video editing, AI editing tools, AI tools for creators, AI tools for video editors, Claude for creators, Claude AI video workflow, future of video editing , Last Moment Tuitions , LMT , \n\n#ClaudeAI #AIVideoEditing #VideoEditing #AITools",
+      "chapters": null,
+      "language": "hi",
+      "webpage_url": "https://www.youtube.com/watch?v=hffQ4UleKUU",
+      "caption_segments": 621,
+      "caption_end": 1315.31,
+      "caption_sha256": "f9ad04c920be045c0ae6a9e2957662aab494221737c38a4d7444dd113a1b9ff8",
+      "analysis_basis": "video description, chapters, full caption text search and close reading of cited demo sections; source footage not reproduced"
+    },
+    {
+      "rank": 2,
+      "id": "8oIFBQ9BhVU",
+      "title": "Claude + CapCut Completely Changes Everything For Editors- Full Tutorial",
+      "channel": "Matt Loui",
+      "view_count": 772693,
+      "duration": 1441,
+      "upload_date": "20260505",
+      "description": "I've been able to create some of the most premium looking motion graphics I've ever made, all without actually editing. This video demonstrates how to create premium motion graphics quickly using a tool called Remotion. This step-by-step tutorial covers using AI for animation and the power of Claude for generating these incredible videos. If you want to dive deeper into video editing, this is for you!\n\n🔗 CapCut Lab - my absolute best resource: https://mattloui.com/capcut-lab/?cl=BW7HGRWP\n\n🔗 Access all the prompts I used in this video: https://mattloui.kit.com/5ef7f1a0b5\n\nCreate motion backgrounds in Claude, make motion graphics in Claude like stacked lists, map animations in Claude, text highlight effects in Claude and more! This is how to make motion graphics in Claude which you can then use in CapCut. \n\nTimestamps:\n0:00 Intro\n0:32 How to Install Claude\n0:54 Generating LUTS \n2:26 Counting Numbers Animation\n4:16 Intro to Animations\n4:44 How to Setup the Animation Tool\n6:58 Motion Backgrounds \n9:44 Stacked List Motion Graphic\n16:06 Animated Search Bar \n18:30 Text Highlight Effect\n19:40 Map Animation\n23:19 Recap of Video\n\n#claude #remotion #capcut #motiongraphics",
+      "chapters": [
+        {
+          "start_time": 0,
+          "title": "Intro",
+          "end_time": 32
+        },
+        {
+          "start_time": 32,
+          "title": "How to Install Claude",
+          "end_time": 54
+        },
+        {
+          "start_time": 54,
+          "title": "Generating LUTS",
+          "end_time": 146
+        },
+        {
+          "start_time": 146,
+          "title": "Counting Numbers Animation",
+          "end_time": 256
+        },
+        {
+          "start_time": 256,
+          "title": "Intro to Animations",
+          "end_time": 284
+        },
+        {
+          "start_time": 284,
+          "title": "How to Setup the Animation Tool",
+          "end_time": 418
+        },
+        {
+          "start_time": 418,
+          "title": "Motion Backgrounds",
+          "end_time": 584
+        },
+        {
+          "start_time": 584,
+          "title": "Stacked List Motion Graphic",
+          "end_time": 966
+        },
+        {
+          "start_time": 966,
+          "title": "Animated Search Bar",
+          "end_time": 1110
+        },
+        {
+          "start_time": 1110,
+          "title": "Text Highlight Effect",
+          "end_time": 1180
+        },
+        {
+          "start_time": 1180,
+          "title": "Map Animation",
+          "end_time": 1399
+        },
+        {
+          "start_time": 1399,
+          "title": "Recap of Video",
+          "end_time": 1441
+        }
+      ],
+      "language": "en",
+      "webpage_url": "https://www.youtube.com/watch?v=8oIFBQ9BhVU",
+      "caption_segments": 749,
+      "caption_end": 1442.16,
+      "caption_sha256": "b962180cc6f000b6411a554cae0c569807fb7ebf8c1423440ce96ac8805e8f1d",
+      "analysis_basis": "video description, chapters, full caption text search and close reading of cited demo sections; source footage not reproduced"
+    },
+    {
+      "rank": 3,
+      "id": "HzXD4GVqXwM",
+      "title": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
+      "channel": "Christian Peverelli",
+      "view_count": 743957,
+      "duration": 1018,
+      "upload_date": "20261004",
+      "description": "✅ Free Editing Skill: https://www.skool.com/wearenocode\n\n🛠 TOOLS\n\n\nTella.tv\nClaude\nHyperframes\n\nAI Sales\nBond: https://askbond.ai/\nHeyReach: https://heyreach.io/?via=wearenocode\n\nAI Coding:\nEmergent: https://app.emergent.sh/?via=wearenocode\nBase44: https://base44.pxf.io/c/4885934/2477538/25619?trafcat=hp \nLovable: https://dripl.ink/ZkTnR\nHostinger: https://hostinger.com/wearenocode\n\nAutomation:\nOpenClaw: http://hostinger.com/wearenocodeopenclaw\n\n\n🚨 SUBSCRIBE TO THE CHANNEL\nhttps://bit.ly/wearenocodeyt\n\n➡️  VISIT WeAreNoCode Website:\nhttps://www.wearenocode.com",
+      "chapters": [
+        {
+          "start_time": 0,
+          "title": "Introduction",
+          "end_time": 31
+        },
+        {
+          "start_time": 31,
+          "title": "The seven roles of the team",
+          "end_time": 336
+        },
+        {
+          "start_time": 336,
+          "title": "The role of the skill",
+          "end_time": 368
+        },
+        {
+          "start_time": 368,
+          "title": "System setup guide",
+          "end_time": 581
+        },
+        {
+          "start_time": 581,
+          "title": "Training your AI editor",
+          "end_time": 696
+        },
+        {
+          "start_time": 696,
+          "title": "Editing in action",
+          "end_time": 912
+        },
+        {
+          "start_time": 912,
+          "title": "Costs and conclusion",
+          "end_time": 1018
+        }
+      ],
+      "language": "ar",
+      "webpage_url": "https://www.youtube.com/watch?v=HzXD4GVqXwM",
+      "caption_segments": 523,
+      "caption_end": 1020.16,
+      "caption_sha256": "1f709874467482a39a372c202c205a6661fa95e7c4eec99a423c5bf1ad109477",
+      "analysis_basis": "video description, chapters, full caption text search and close reading of cited demo sections; source footage not reproduced"
+    },
+    {
+      "rank": 4,
+      "id": "747ZnEtsRbg",
+      "title": "How to Make Insane Motion Graphics With Opus 5.5",
+      "channel": "Lukas Margerie",
+      "view_count": 689058,
+      "duration": 1216,
+      "upload_date": "20260929",
+      "description": "Get the full Opus 5.5 video kit (every prompt, rule file, and template from this video): https://lukas-margerie.lemonsqueezy.com/checkout/buy/e5d01fe1-eb84-4e7b-bc6f-1351ab5d8fb7\n\nTry Fish Audio's S2.1 Pro API for free: https://fish.audio/?fpr=c2c1tf\nSign up with my link and get 10,000 free credits instead of 8,000.\n\nJoin CreatorNTWRK (free weekly live co-working):\nhttps://www.weekly10x.com/\n\nPeople are generating insane videos with Opus 5.5, but when most people try it they get a generic AI video with centered text and a gradient. The prompt is only 10% of the result. The other 90% is the harness. In this video I show you the full workflow to make stunning launch videos with Opus 5.5 and Claude Code: motion rules, real brand assets, reference videos, a voiceover in your own cloned voice with Fish Audio, sound synced to the beat, and a critique loop that keeps improving the output.\n\nWhat we cover:\n- How Opus 5.5 actually generates video\n- Motion studio rules that ban generic output\n- Turning a one-line prompt into a branded launch video\n- Voiceovers and voice cloning with the Fish Audio MCP\n- Stealing the style of a reference video\n- Brand and spec files for consistent results\n- Scoring the video to a 120 BPM beat\n- The director's brief behind the best Opus 5.5 videos\n- A critique loop that scores and fixes the output\n- Packaging the whole pipeline as a skill\n\nTimestamps:\n0:00 - Intro\n1:16 - How Opus 5.5 makes videos\n3:59 - Motion studio rules\n5:20 - Adding a real brand\n7:46 - Fish Audio: Sponsor\n10:20 - Sound\n10:56 - Reference videos\n16:17 - Director's brief and critique loop\n\nI Found 8 Tools That Make Opus 5.5 Motion Graphics Better: https://www.youtube.com/watch?si=v8MYMX80fi3ykjvh&v=oA8z3LrEjU0&feature=youtu.be\n\nReferenced:\nOpus 5.5 video deep dive by Movez: https://x.com/0xMovez/status/2104216919033192746\n\nTools:\nFish Audio: https://fish.audio/?fpr=c2c1tf\nMagicPath: https://magicpath.ai\nHyperFrames, Remotion, Diffusion Studio\nWhat I use to record/screenshot: https://shotbase.link/lukas-margerie\n\nSocials:\nX: https://x.com/lukas_margerie\nLinkedIn: https://www.linkedin.com/in/lukas-margerie-99196118a\n\nThis video is sponsored by Fish Audio.\n\n#FishAudio #FishAudioTurns1 #Opus55 #ClaudeCode #AIVideo #MotionGraphics",
+      "chapters": [
+        {
+          "start_time": 0,
+          "title": "Intro",
+          "end_time": 76
+        },
+        {
+          "start_time": 76,
+          "title": "How Opus 5.5 makes videos",
+          "end_time": 239
+        },
+        {
+          "start_time": 239,
+          "title": "Motion studio rules",
+          "end_time": 320
+        },
+        {
+          "start_time": 320,
+          "title": "Adding a real brand",
+          "end_time": 466
+        },
+        {
+          "start_time": 466,
+          "title": "Fish Audio: Sponsor",
+          "end_time": 620
+        },
+        {
+          "start_time": 620,
+          "title": "Sound",
+          "end_time": 656
+        },
+        {
+          "start_time": 656,
+          "title": "Reference videos",
+          "end_time": 977
+        },
+        {
+          "start_time": 977,
+          "title": "Director's brief and critique loop",
+          "end_time": 1216
+        }
+      ],
+      "language": "ar",
+      "webpage_url": "https://www.youtube.com/watch?v=747ZnEtsRbg",
+      "caption_segments": 570,
+      "caption_end": 1217.56,
+      "caption_sha256": "96611d7a0c94f4bee53efd1cacf820ae3e7d05e9cc2774b07b1fb1a7c039376a",
+      "analysis_basis": "video description, chapters, full caption text search and close reading of cited demo sections; source footage not reproduced"
+    },
+    {
+      "rank": 5,
+      "id": "j4FzO2fF1kg",
+      "title": "Forget After Effects: Claude + CapCut Is the Only Editing Stack You Need",
+      "channel": "Sanji Nai-Chien",
+      "view_count": 667979,
+      "duration": 1359,
+      "upload_date": "20260819",
+      "description": "Claude can now edit video inside CapCut - color grading, motion graphics and animation from a text prompt. One raw clip, a full cinematic edit, zero After Effects.\n👉 https://higgsfield.ai/s/sanjichien-sanji_chien-HgzXuc\n\nEverything here starts as a prompt. Claude generates a .cube LUT you drop straight into CapCut, an SRT file that turns into a premium counting animation without a single keyframe, and Remotion-powered motion graphics built inside Claude Code. You'll also see how to connect the Higgsfield AI MCP directly in Claude and use it to generate extra visual effects — falling money over the counter and a Civilization-style animated route across the map. The full setup is covered: installing Claude and CapCut, Node.js, Remotion, bypass permissions, and rendering motion graphics with a transparent background so they layer straight over your footage. If you've ever bought After Effects templates or burned two hours on a simple explainer animation, this workflow will change how you edit. Every prompt used in the video is linked below.\n\nTIMESTAMPS\n\n00:00 The before & after\n00:47 Installing Claude + CapCut\n01:47 Generating a custom LUT with AI\n03:02 Applying the LUT in CapCut\n03:56 Money counter with an SRT file\n06:24 Adding effects with Higgsfield MCP\n07:06 Setup: Claude Code, Node.js & Remotion\n09:00 AI motion backgrounds from Pinterest refs\n12:06 Animated boxes / stacked list graphic\n16:28 Transparent background render\n17:57 Text highlight effect (OCR + rough.js)\n19:22 LA to NY map animation\n21:50 Final result: raw vs finished",
+      "chapters": [
+        {
+          "start_time": 0,
+          "title": "The before & after",
+          "end_time": 47
+        },
+        {
+          "start_time": 47,
+          "title": "Installing Claude + CapCut",
+          "end_time": 107
+        },
+        {
+          "start_time": 107,
+          "title": "Generating a custom LUT with AI",
+          "end_time": 182
+        },
+        {
+          "start_time": 182,
+          "title": "Applying the LUT in CapCut",
+          "end_time": 236
+        },
+        {
+          "start_time": 236,
+          "title": "Money counter with an SRT file",
+          "end_time": 384
+        },
+        {
+          "start_time": 384,
+          "title": "Adding effects with Higgsfield MCP",
+          "end_time": 426
+        },
+        {
+          "start_time": 426,
+          "title": "Setup: Claude Code, Node.js & Remotion",
+          "end_time": 540
+        },
+        {
+          "start_time": 540,
+          "title": "AI motion backgrounds from Pinterest refs",
+          "end_time": 726
+        },
+        {
+          "start_time": 726,
+          "title": "Animated boxes / stacked list graphic",
+          "end_time": 988
+        },
+        {
+          "start_time": 988,
+          "title": "Transparent background render",
+          "end_time": 1077
+        },
+        {
+          "start_time": 1077,
+          "title": "Text highlight effect (OCR + rough.js)",
+          "end_time": 1162
+        },
+        {
+          "start_time": 1162,
+          "title": "LA to NY map animation",
+          "end_time": 1310
+        },
+        {
+          "start_time": 1310,
+          "title": "Final result: raw vs finished",
+          "end_time": 1359
+        }
+      ],
+      "language": "en",
+      "webpage_url": "https://www.youtube.com/watch?v=j4FzO2fF1kg",
+      "caption_segments": 606,
+      "caption_end": 1360.24,
+      "caption_sha256": "d1e0c1615b223a2df4c4b20416ef8f2388114c8b5a3cef869fd4e8e4e69bfb77",
+      "analysis_basis": "video description, chapters, full caption text search and close reading of cited demo sections; source footage not reproduced"
+    },
+    {
+      "rank": 6,
+      "id": "yf2OwchM9nw",
+      "title": "Claude Just Dropped MOTION. (Get Ahead of 95% in 11 Minutes.)",
+      "channel": "Tristen O'Brien",
+      "view_count": 585114,
+      "duration": 682,
+      "upload_date": "20261014",
+      "description": "Connect Higgsfield to Claude and make your Claude Motion videos look premium: https://higgsfield.ai?fpr=tristen15\n\n👇 FREE: Get my full Prompt Library and AI newsletter: https://tristenobrien.ai\n\n📘 Check out my book, The Smartest Move: https://tristenobrien.ai/smartest-move\n\nClaude just dropped Claude Motion, and every Claude Motion animation in this video was made with it. Claude Motion turns a prompt into an animated video right inside Claude. It doesn't generate pixels the way AI video tools do. Claude writes the animation as code, so you can change any word, number, or timing without starting over.\n\nIn this video I build a 20-second paper-style commercial for a bike company, show you how to edit it with Tweaks and comments, and export it. Then I show you how to make it look far more premium by blending Claude Motion with real images and video from Higgsfield, right inside Claude. And if you can't get Claude Motion yet, I show you the alternative I've been using: Claude Code with Remotion.\n\n⏱️ CHAPTERS\n0:00 Claude Motion just dropped\n0:28 What Claude Motion is and where to find it\n0:55 Building a paper bike commercial\n1:53 How Claude Motion works (code, not pixels)\n3:19 The finished commercial\n3:37 Editing your video with Tweaks\n4:18 Changing anything with comments\n4:53 Sharing and exporting\n5:15 What it costs\n5:56 Making it premium with Higgsfield\n7:13 Connecting Higgsfield to Claude\n8:10 The paper-to-real result\n8:50 Plans and availability\n9:05 The alternative: Claude Code + Higgsfield + Remotion\n9:35 Setting up Remotion\n9:55 Remotion demo\n10:11 Claude Motion vs Remotion\n10:43 Recap\n\nWHO CAN USE CLAUDE MOTION\n\nClaude Motion is in beta on Claude Team and Enterprise plans. It's on by default for Team. On Enterprise, an owner has to turn it on in Organization settings. It doesn't cost anything extra, but every animation counts toward your plan's usage limits, and longer, more complex animations use more.\n\nHOW TO SET UP REMOTION (the alternative if you're on Pro or Max)\n\nIn the terminal (what I recommend): claude plugin marketplace add remotion-dev/claude-code-plugin claude plugin install \n\nThis video is sponsored by Higgsfield. Try it here: https://higgsfield.ai?fpr=tristen15\n\n#Claude #ClaudeMotion #ClaudeAI #Anthropic #MotionGraphics #AIAnimation #Higgsfield #Remotion #ClaudeCode #AITools",
+      "chapters": [
+        {
+          "start_time": 0,
+          "title": "Claude Motion just dropped",
+          "end_time": 28
+        },
+        {
+          "start_time": 28,
+          "title": "What Claude Motion is and where to find it",
+          "end_time": 55
+        },
+        {
+          "start_time": 55,
+          "title": "Building a paper bike commercial",
+          "end_time": 113
+        },
+        {
+          "start_time": 113,
+          "title": "How Claude Motion works (code, not pixels)",
+          "end_time": 199
+        },
+        {
+          "start_time": 199,
+          "title": "The finished commercial",
+          "end_time": 217
+        },
+        {
+          "start_time": 217,
+          "title": "Editing your video with Tweaks",
+          "end_time": 258
+        },
+        {
+          "start_time": 258,
+          "title": "Changing anything with comments",
+          "end_time": 293
+        },
+        {
+          "start_time": 293,
+          "title": "Sharing and exporting",
+          "end_time": 315
+        },
+        {
+          "start_time": 315,
+          "title": "What it costs",
+          "end_time": 356
+        },
+        {
+          "start_time": 356,
+          "title": "Making it premium with Higgsfield",
+          "end_time": 433
+        },
+        {
+          "start_time": 433,
+          "title": "Connecting Higgsfield to Claude",
+          "end_time": 490
+        },
+        {
+          "start_time": 490,
+          "title": "The paper-to-real result",
+          "end_time": 530
+        },
+        {
+          "start_time": 530,
+          "title": "Plans and availability",
+          "end_time": 545
+        },
+        {
+          "start_time": 545,
+          "title": "The alternative: Claude Code + Higgsfield + Remotion",
+          "end_time": 575
+        },
+        {
+          "start_time": 575,
+          "title": "Setting up Remotion",
+          "end_time": 595
+        },
+        {
+          "start_time": 595,
+          "title": "Remotion demo",
+          "end_time": 611
+        },
+        {
+          "start_time": 611,
+          "title": "Claude Motion vs Remotion",
+          "end_time": 643
+        },
+        {
+          "start_time": 643,
+          "title": "Recap",
+          "end_time": 682
+        }
+      ],
+      "language": "ar",
+      "webpage_url": "https://www.youtube.com/watch?v=yf2OwchM9nw",
+      "caption_segments": 365,
+      "caption_end": 684.12,
+      "caption_sha256": "154f1d942e1e370aa72ce54f22181e5e88da73e35ed7201dbecf01f5ce25c07d",
+      "analysis_basis": "video description, chapters, full caption text search and close reading of cited demo sections; source footage not reproduced"
+    },
+    {
+      "rank": 7,
+      "id": "ZNbgOhxhzXg",
+      "title": "Claude Just Destroyed Every Video Editing Tool",
+      "channel": "Nate Herk | AI Automation",
+      "view_count": 395332,
+      "duration": 1920,
+      "upload_date": "20260418",
+      "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=claude-video-editing&hcategory=youtube-videos&utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-video-editing&hcategory=youtube-videos&utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nVoice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nVideo editing just changed forever. What used to take motion graphics artists and editors hours of manual work can now be done in minutes with natural language, no code required. \n\nIn this video, I'm breaking down two methods: Claude Design for spinning up custom motion graphics through conversation, and Claude Code connected with Hyperframes for a more advanced workflow with serious customization, so every output matches your brand's tone and style. \n\nI'll walk through real examples, use cases, and exactly how to set everything up. Plus, I'm giving away the free skills and GitHub repo I use in this video so you can skip the setup and start creating right away.\n\nSponsorship Inquiries:\n📧 nate@smoothmedia.co\n\nConnect with me:\nhttps://www.linkedin.com/in/nateherkelman/\nhttps://x.com/nateherk\nhttps://www.instagram.com/nateherk/\n\nTIMESTAMPS\n0:00 Demo\n1:42 Claude Design Examples\n4:44 Method 1: Claude Design\n10:33 Method 2: Hyperframes\n15:41 Setting Up Hyperframes\n18:35 Live Edit With Feedback\n30:45 Cost and Speed\n31:46 Final Thoughts",
+      "chapters": [
+        {
+          "start_time": 0,
+          "title": "Demo",
+          "end_time": 102
+        },
+        {
+          "start_time": 102,
+          "title": "Claude Design Examples",
+          "end_time": 284
+        },
+        {
+          "start_time": 284,
+          "title": "Method 1: Claude Design",
+          "end_time": 633
+        },
+        {
+          "start_time": 633,
+          "title": "Method 2: Hyperframes",
+          "end_time": 941
+        },
+        {
+          "start_time": 941,
+          "title": "Setting Up Hyperframes",
+          "end_time": 1115
+        },
+        {
+          "start_time": 1115,
+          "title": "Live Edit With Feedback",
+          "end_time": 1845
+        },
+        {
+          "start_time": 1845,
+          "title": "Cost and Speed",
+          "end_time": 1906
+        },
+        {
+          "start_time": 1906,
+          "title": "Final Thoughts",
+          "end_time": 1920
+        }
+      ],
+      "language": "en",
+      "webpage_url": "https://www.youtube.com/watch?v=ZNbgOhxhzXg",
+      "caption_segments": 1046,
+      "caption_end": 1921.36,
+      "caption_sha256": "5312557c7e7c53160f5c82857f817c9b37d1232acdf045980d584d1dd622297f",
+      "analysis_basis": "video description, chapters, full caption text search and close reading of cited demo sections; source footage not reproduced"
+    },
+    {
+      "rank": 8,
+      "id": "Aw3BkmhYu4I",
+      "title": "Claude Video Editing Just Became Unrecognizable",
+      "channel": "Nate Herk | AI Automation",
+      "view_count": 357434,
+      "duration": 1692,
+      "upload_date": "20260423",
+      "description": "My FREE AI OS Course: https://www.skool.com/ai-automation-society/about?el=hyperframes-v2&hcategory=youtube-videos&utm_campaign=free-group\nFull courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=hyperframes-v2&hcategory=youtube-videos&utm_campaign=ais-plus\nApply for my YT podcast: https://podcast.nateherk.com/apply\nWork with me: https://uppitai.com/\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nHyperframes:https://github.com/heygen-com/hyperframes\nVideo-use: https://github.com/browser-use/video-use\n\nIn this video I'm showing you how to edit videos end to end using Claude Code as the orchestrator, with HyperFrames handling motion graphics and video-use handling the trimming. \n\nYou drop in a raw video, tell it what you want in natural language, and it cuts the filler words, syncs animations to your exact timestamps, and renders the final video. I walk through the full setup, the prompting style that actually works, and how to iterate fast with the new timeline editor.\n\nSponsorship Inquiries:\n📧 nate@smoothmedia.co\n\nConnect with me:\nhttps://www.linkedin.com/in/nateherkelman/\nhttps://x.com/nateherk\nhttps://www.instagram.com/nateherk/\n\nTIMESTAMPS \n0:00 Intro\n1:07 How the Pipeline Works\n3:06 Claude Desktop Setup\n5:59 Trimming the Raw Video\n7:21 Hyperframes vs Remotion\n9:45 Teaching Your Style\n14:37 Prompting the Motion Graphics\n21:37 Preview and Iterate\n25:06 Final Render",
+      "chapters": [
+        {
+          "start_time": 0,
+          "title": "Intro",
+          "end_time": 67
+        },
+        {
+          "start_time": 67,
+          "title": "How the Pipeline Works",
+          "end_time": 186
+        },
+        {
+          "start_time": 186,
+          "title": "Claude Desktop Setup",
+          "end_time": 359
+        },
+        {
+          "start_time": 359,
+          "title": "Trimming the Raw Video",
+          "end_time": 441
+        },
+        {
+          "start_time": 441,
+          "title": "Hyperframes vs Remotion",
+          "end_time": 585
+        },
+        {
+          "start_time": 585,
+          "title": "Teaching Your Style",
+          "end_time": 877
+        },
+        {
+          "start_time": 877,
+          "title": "Prompting the Motion Graphics",
+          "end_time": 1297
+        },
+        {
+          "start_time": 1297,
+          "title": "Preview and Iterate",
+          "end_time": 1506
+        },
+        {
+          "start_time": 1506,
+          "title": "Final Render",
+          "end_time": 1692
+        }
+      ],
+      "language": "en",
+      "webpage_url": "https://www.youtube.com/watch?v=Aw3BkmhYu4I",
+      "caption_segments": 941,
+      "caption_end": 1694.28,
+      "caption_sha256": "ceff070602a215e992c09687c8445c15c33ad77591c67b69b77ffa55af8dfedf",
+      "analysis_basis": "video description, chapters, full caption text search and close reading of cited demo sections; source footage not reproduced"
+    },
+    {
+      "rank": 9,
+      "id": "5HYYXYYCrL4",
+      "title": "Claude Opus 5.5 + Higgsfield Make Insane Motion Graphics! (Claude Motion)",
+      "channel": "Higgsfield AI",
+      "view_count": 311463,
+      "duration": 646,
+      "upload_date": "20261013",
+      "description": "I push Claude Motion + Higgsfield through 3 challenges: an editable launch video, a 3D product ad, and a complete animated short.\n🧩 All Prompts and Skills: https://higgsfield.ai/s/claudemotion-higgsfieldai-skVQgf\n\n👉 Connect Higgsfield MCP to Claude Code: https://higgsfield.ai/s/claudemotion-higgsfieldai-HrEFvp\n\nIn this AI motion graphics tutorial, I use Claude Opus 5.5 and Higgsfield MCP to recreate references, animate SaaS interfaces, build 3D product ads, and create a 2D cartoon with AI-generated voices. See the first results, revision prompts, and final edits—including product swaps, timing changes, and editable projects in After Effects and Blender.\n\n⏱️ TIMESTAMPS\n00:00 Can Claude Handle These 3 Challenges?\n00:18 Set Up Claude Motion + Higgsfield\n00:42 Level 1: Recreating a Viral Launch Video\n02:39 Can You Edit It in After Effects?\n03:07 Turning Instagram References into an Original Launch\n04:10 Editing Text, Colors & Timing\n05:19 Level 2: Building a 3D Product Ad\n06:24 Swapping Products & Exporting to Blender\n07:04 Particle Animation & ASCII Art\n07:52 An Original 3D Launch from Six References\n08:23 Creating SaaS Motion Graphics\n09:04 Level 3: Creating an Animated Short\n10:27 Fixing Animation with Simple Comments\n11:23 From a Short Clip to a 10-Minute Film\n\nLinks \n💬 Discord: https://discord.gg/higgsfield \n🐦 Twitter / X: https://x.com/higgsfield\n📸 Instagram: https://www.instagram.com/higgsfield.ai",
+      "chapters": [
+        {
+          "start_time": 0,
+          "title": "Can Claude Handle These 3 Challenges?",
+          "end_time": 18
+        },
+        {
+          "start_time": 18,
+          "title": "Set Up Claude Motion + Higgsfield",
+          "end_time": 42
+        },
+        {
+          "start_time": 42,
+          "title": "Level 1: Recreating a Viral Launch Video",
+          "end_time": 159
+        },
+        {
+          "start_time": 159,
+          "title": "Can You Edit It in After Effects?",
+          "end_time": 187
+        },
+        {
+          "start_time": 187,
+          "title": "Turning Instagram References into an Original Launch",
+          "end_time": 250
+        },
+        {
+          "start_time": 250,
+          "title": "Editing Text, Colors & Timing",
+          "end_time": 319
+        },
+        {
+          "start_time": 319,
+          "title": "Level 2: Building a 3D Product Ad",
+          "end_time": 384
+        },
+        {
+          "start_time": 384,
+          "title": "Swapping Products & Exporting to Blender",
+          "end_time": 424
+        },
+        {
+          "start_time": 424,
+          "title": "Particle Animation & ASCII Art",
+          "end_time": 472
+        },
+        {
+          "start_time": 472,
+          "title": "An Original 3D Launch from Six References",
+          "end_time": 503
+        },
+        {
+          "start_time": 503,
+          "title": "Creating SaaS Motion Graphics",
+          "end_time": 544
+        },
+        {
+          "start_time": 544,
+          "title": "Level 3: Creating an Animated Short",
+          "end_time": 627
+        },
+        {
+          "start_time": 627,
+          "title": "Fixing Animation with Simple Comments",
+          "end_time": 646
+        }
+      ],
+      "language": "ar",
+      "webpage_url": "https://www.youtube.com/watch?v=5HYYXYYCrL4",
+      "caption_segments": 273,
+      "caption_end": 642.96,
+      "caption_sha256": "09e214ecc80c3844a2f4e7886aa68d88d7ba66a969b2094910073f91f37332e5",
+      "analysis_basis": "video description, chapters, full caption text search and close reading of cited demo sections; source footage not reproduced"
+    },
+    {
+      "rank": 10,
+      "id": "OIAWkkSO4WY",
+      "title": "Claude Opus 5.5 Is INSANE at Motion Graphics",
+      "channel": "RandomAI",
+      "view_count": 307479,
+      "duration": 709,
+      "upload_date": "20261002",
+      "description": "Claude Opus 5.5 can now create motion graphics that look like a professional motion designer spent hundreds of hours on them. In today's video, I'll show you some of the most impressive motion graphics people are making with Claude Opus 5.5, and then walk you through my exact process, step by step, so you can create AI motion graphics yourself.\n\nYou'll learn how to make motion graphics with Claude for product ads, logo animations, kinetic typography and launch videos, without After Effects and without any motion design experience. Whether you're a content creator, a marketer or a business owner, this AI motion graphics tutorial shows you how to use Claude Opus 5.5 to create clean, professional animations that don't look like AI slop.\n\nIf you've been wondering how to create motion graphics with Claude, or whether AI can finally replace expensive motion design work, this video will show you exactly what's possible right now.\n\n#ClaudeOpus55 #MotionGraphics #AIMotionGraphics",
+      "chapters": [
+        {
+          "start_time": 0,
+          "title": "AI motion design potential",
+          "end_time": 154
+        },
+        {
+          "start_time": 154,
+          "title": "Getting started with Remotion",
+          "end_time": 311
+        },
+        {
+          "start_time": 311,
+          "title": "Generating your first video",
+          "end_time": 496
+        },
+        {
+          "start_time": 496,
+          "title": "Advanced orchestration with MCP",
+          "end_time": 569
+        },
+        {
+          "start_time": 569,
+          "title": "Building complex compositions",
+          "end_time": 709
+        }
+      ],
+      "language": "en",
+      "webpage_url": "https://www.youtube.com/watch?v=OIAWkkSO4WY",
+      "caption_segments": 325,
+      "caption_end": 710.72,
+      "caption_sha256": "e1a831ee85d17fd794f9092e64b95918799c4afa28aed0a468901ff964536af2",
+      "analysis_basis": "video description, chapters, full caption text search and close reading of cited demo sections; source footage not reproduced"
+    }
+  ],
+  "screening": [
+    {
+      "id": "FoF77xQ2cPg",
+      "title": "Artlist MCP for Claude",
+      "view_count": 11470092,
+      "decision": "excluded",
+      "reason": "Artlist 커넥터 제품 광고. Claude Code 모션 그래픽 설명 영상이 아님."
+    },
+    {
+      "id": "WODnqHPLR38",
+      "title": "Claude Code Just Changed YouTube Forever!",
+      "view_count": 1724920,
+      "decision": "excluded",
+      "reason": "Code 사용은 확인. 핵심 시연은 생성 이미지와 내레이션을 잇는 얼굴 없는 채널 영상이며 코드 모션 그래픽 시연을 확인하지 못함."
+    },
+    {
+      "id": "3TNpOD6bov8",
+      "title": "LGTM (Looks Good to Me) - Claude Opus 5.5 music video",
+      "view_count": 1691670,
+      "decision": "excluded",
+      "reason": "완성 뮤직비디오. TypeScript/three.js를 사용했다는 설명은 있지만 Claude Code 작업 환경·기초 설명을 확인하지 못함."
+    },
+    {
+      "id": "en0GuyhieQk",
+      "title": "Introducing Claude Dashboards and Claude Motion",
+      "view_count": 1363950,
+      "decision": "excluded",
+      "reason": "Claude Motion·Dashboards 공식 제품 소개. Code 사용 강의와 구분."
+    },
+    {
+      "id": "VMvZuhcDdnw",
+      "title": "Build $10,000 Websites using Claude Code (Ultimate Guide)",
+      "view_count": 1245164,
+      "decision": "excluded",
+      "reason": "웹사이트·게임·도구 소개·일반 사용 강의로 분류. 모션 그래픽 중심 영상과 구분."
+    },
+    {
+      "id": "wU_bmWb6bhg",
+      "title": "I Used Higgsfield AI + Claude Fable 5 to Build a $39,500/Month Faceless Channel",
+      "view_count": 960178,
+      "decision": "excluded",
+      "reason": "일반 Claude와 외부 생성 영상으로 만든 얼굴 없는 채널·수익화 사례."
+    },
+    {
+      "id": "t_LBECIQQqs",
+      "title": "Introducing Claude Design by Anthropic Labs",
+      "view_count": 933863,
+      "decision": "excluded",
+      "reason": "웹사이트·게임·도구 소개·일반 사용 강의로 분류. 모션 그래픽 중심 영상과 구분."
+    },
+    {
+      "id": "fDTwHIKltpc",
+      "title": "The EASY way to build a beautiful website with Claude Code (full workflow)",
+      "view_count": 912717,
+      "decision": "excluded",
+      "reason": "웹사이트·게임·도구 소개·일반 사용 강의로 분류. 모션 그래픽 중심 영상과 구분."
+    },
+    {
+      "id": "hffQ4UleKUU",
+      "title": "Master Al Video Editing in 20 Minutes | Claude Al Editing Masterclass in Hindi",
+      "view_count": 901013,
+      "decision": "selected",
+      "reason": "Claude Code 사용 또는 Code와 Motion 혼합 시연을 명시하며 모션 그래픽 제작·합성 구간이 있음."
+    },
+    {
+      "id": "Y9Wz2PV404E",
+      "title": "Introducing Claude Fable 5",
+      "view_count": 833399,
+      "decision": "excluded",
+      "reason": "웹사이트·게임·도구 소개·일반 사용 강의로 분류. 모션 그래픽 중심 영상과 구분."
+    },
+    {
+      "id": "5N1moUCsVhI",
+      "title": "Claude Edited My Entire CapCut Video (I Didn’t Touch the Timeline)",
+      "view_count": 832709,
+      "decision": "excluded",
+      "reason": "일반 Claude 기반 CapCut 타임라인 자동 편집. Code 사용 근거 미확인."
+    },
+    {
+      "id": "8oIFBQ9BhVU",
+      "title": "Claude + CapCut Completely Changes Everything For Editors- Full Tutorial",
+      "view_count": 772693,
+      "decision": "selected",
+      "reason": "Claude Code 사용 또는 Code와 Motion 혼합 시연을 명시하며 모션 그래픽 제작·합성 구간이 있음."
+    },
+    {
+      "id": "HzXD4GVqXwM",
+      "title": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
+      "view_count": 743957,
+      "decision": "selected",
+      "reason": "Claude Code 사용 또는 Code와 Motion 혼합 시연을 명시하며 모션 그래픽 제작·합성 구간이 있음."
+    },
+    {
+      "id": "snErQUyqwCU",
+      "title": "How to Build $10K Websites in Minutes (Claude AI)",
+      "view_count": 740113,
+      "decision": "excluded",
+      "reason": "웹사이트·게임·도구 소개·일반 사용 강의로 분류. 모션 그래픽 중심 영상과 구분."
+    },
+    {
+      "id": "tSg3FAdWvzI",
+      "title": "Claude Fable 5 UI/UX One-Shots - 5 Tests",
+      "view_count": 707833,
+      "decision": "excluded",
+      "reason": "웹사이트·게임·도구 소개·일반 사용 강의로 분류. 모션 그래픽 중심 영상과 구분."
+    },
+    {
+      "id": "747ZnEtsRbg",
+      "title": "How to Make Insane Motion Graphics With Opus 5.5",
+      "view_count": 689058,
+      "decision": "selected",
+      "reason": "Claude Code 사용 또는 Code와 Motion 혼합 시연을 명시하며 모션 그래픽 제작·합성 구간이 있음."
+    },
+    {
+      "id": "TZUTe7s11-I",
+      "title": "Claude Code + Nano Banana 2 = Insane $10,000 Websites",
+      "view_count": 668287,
+      "decision": "excluded",
+      "reason": "웹사이트·게임·도구 소개·일반 사용 강의로 분류. 모션 그래픽 중심 영상과 구분."
+    },
+    {
+      "id": "j4FzO2fF1kg",
+      "title": "Forget After Effects: Claude + CapCut Is the Only Editing Stack You Need",
+      "view_count": 667979,
+      "decision": "selected",
+      "reason": "Claude Code 사용 또는 Code와 Motion 혼합 시연을 명시하며 모션 그래픽 제작·합성 구간이 있음."
+    },
+    {
+      "id": "J5EbL1UaqG8",
+      "title": "Claude 2.0 is Insane (All Updates Explained)",
+      "view_count": 648529,
+      "decision": "excluded",
+      "reason": "Claude 업데이트 전반 소개. 모션 그래픽 중심 설명이 아님."
+    },
+    {
+      "id": "Fuo1i_-9Frc",
+      "title": "Someone Just Rebuilt Adobe for Free, and Claude Can Run Them All (7 apps tested)",
+      "view_count": 647337,
+      "decision": "excluded",
+      "reason": "여러 그래픽 편집 앱 소개. Claude Code로 모션 그래픽 제작·합성하는 강의와 구분."
+    },
+    {
+      "id": "yf2OwchM9nw",
+      "title": "Claude Just Dropped MOTION. (Get Ahead of 95% in 11 Minutes.)",
+      "view_count": 585114,
+      "decision": "selected",
+      "reason": "Claude Code 사용 또는 Code와 Motion 혼합 시연을 명시하며 모션 그래픽 제작·합성 구간이 있음."
+    },
+    {
+      "id": "m-f56P_L660",
+      "title": "Claude Fable 5 Built a $10K Website in Minutes",
+      "view_count": 562024,
+      "decision": "excluded",
+      "reason": "웹사이트·게임·도구 소개·일반 사용 강의로 분류. 모션 그래픽 중심 영상과 구분."
+    },
+    {
+      "id": "9C4TRbucmhQ",
+      "title": "This 1 Claude Skill fully replaces your Higgsfield Subscription",
+      "view_count": 548178,
+      "decision": "excluded",
+      "reason": "이미지 광고·외부 생성 도구와 예산 관리 중심. 코드 모션 그래픽 시연 미확인."
+    },
+    {
+      "id": "B6wbbz8UOvA",
+      "title": "Claude Fable 5 + Higgsfield MCP: My Favorite Business Idea for 2026!",
+      "view_count": 526655,
+      "decision": "excluded",
+      "reason": "외부 생성 영상과 고객 영업·수익화 중심."
+    },
+    {
+      "id": "bCljOfCH8Ms",
+      "title": "Build & Sell Claude Code Operating Systems (2+ Hour Course)",
+      "view_count": 520790,
+      "decision": "excluded",
+      "reason": "웹사이트·게임·도구 소개·일반 사용 강의로 분류. 모션 그래픽 중심 영상과 구분."
+    },
+    {
+      "id": "t0Mesp118l4",
+      "title": "Claude Code Is Now 100% Free - Here's How",
+      "view_count": 496759,
+      "decision": "excluded",
+      "reason": "웹사이트·게임·도구 소개·일반 사용 강의로 분류. 모션 그래픽 중심 영상과 구분."
+    },
+    {
+      "id": "AsvN_feasyY",
+      "title": "How To Make Insane Motion Graphics With Opus 5.5 (Claude Motion)",
+      "view_count": 495031,
+      "decision": "excluded",
+      "reason": "02:17 부근에서 Claude Code 설정이 필요 없는 일반 Claude 사용이라고 설명."
+    },
+    {
+      "id": "i3tRkbsE54Q",
+      "title": "Claude Code is Amazing!",
+      "view_count": 488174,
+      "decision": "excluded",
+      "reason": "웹사이트·게임·도구 소개·일반 사용 강의로 분류. 모션 그래픽 중심 영상과 구분."
+    },
+    {
+      "id": "9vsg5kSYeEg",
+      "title": "Claude AI Full Course | Basic To Advance",
+      "view_count": 421381,
+      "decision": "excluded",
+      "reason": "웹사이트·게임·도구 소개·일반 사용 강의로 분류. 모션 그래픽 중심 영상과 구분."
+    },
+    {
+      "id": "k9cbm5jSOxk",
+      "title": "I Built My Dream Game in 72 Hours — Assets by AI, Gameplay by Claude Code",
+      "view_count": 419645,
+      "decision": "excluded",
+      "reason": "웹사이트·게임·도구 소개·일반 사용 강의로 분류. 모션 그래픽 중심 영상과 구분."
+    },
+    {
+      "id": "ChskqGovoHg",
+      "title": "This Open Source Repo Just Solved Claude Code's #1 Problem",
+      "view_count": 407918,
+      "decision": "excluded",
+      "reason": "웹사이트·게임·도구 소개·일반 사용 강의로 분류. 모션 그래픽 중심 영상과 구분."
+    },
+    {
+      "id": "ZNbgOhxhzXg",
+      "title": "Claude Just Destroyed Every Video Editing Tool",
+      "view_count": 395332,
+      "decision": "selected",
+      "reason": "Claude Code 사용 또는 Code와 Motion 혼합 시연을 명시하며 모션 그래픽 제작·합성 구간이 있음."
+    },
+    {
+      "id": "hpJuB3llhbk",
+      "title": "Claude Code + YouTube = $39,700/Tháng (Không Cần Lộ Mặt)",
+      "view_count": 394143,
+      "decision": "unverified",
+      "reason": "베트남어 얼굴 없는 채널 영상. 설명만으로 코드 모션 그래픽 시연을 확인하지 못해 확정 순위에서 보류."
+    },
+    {
+      "id": "2OwMjg5As2g",
+      "title": "Claude Fable 5.1 + Higgsfield AI = Insane Motion Graphics!",
+      "view_count": 389243,
+      "decision": "excluded",
+      "reason": "일반 Claude 커넥터와 외부 생성 영상·영업 사례 중심. Code 사용 미확인."
+    },
+    {
+      "id": "ZfYvv-0l9NA",
+      "title": "Claude Code + Nano Banana 2 + Kling =  $15K Animated Sites",
+      "view_count": 362592,
+      "decision": "excluded",
+      "reason": "웹사이트·게임·도구 소개·일반 사용 강의로 분류. 모션 그래픽 중심 영상과 구분."
+    },
+    {
+      "id": "Aw3BkmhYu4I",
+      "title": "Claude Video Editing Just Became Unrecognizable",
+      "view_count": 357434,
+      "decision": "selected",
+      "reason": "Claude Code 사용 또는 Code와 Motion 혼합 시연을 명시하며 모션 그래픽 제작·합성 구간이 있음."
+    },
+    {
+      "id": "kHtOSJRUkLs",
+      "title": "Paste This Into Claude Code, Never Run Out Of Tokens Again",
+      "view_count": 349929,
+      "decision": "excluded",
+      "reason": "웹사이트·게임·도구 소개·일반 사용 강의로 분류. 모션 그래픽 중심 영상과 구분."
+    },
+    {
+      "id": "qyPCVqFUyDo",
+      "title": "Boris Cherny: We Cut 80% of Claude Code’s Prompt",
+      "view_count": 343779,
+      "decision": "excluded",
+      "reason": "웹사이트·게임·도구 소개·일반 사용 강의로 분류. 모션 그래픽 중심 영상과 구분."
+    },
+    {
+      "id": "gBV5FT40N_M",
+      "title": "Claude + Canva: Design Anything in Minutes (Even If You Can't Design)",
+      "view_count": 341631,
+      "decision": "excluded",
+      "reason": "웹사이트·게임·도구 소개·일반 사용 강의로 분류. 모션 그래픽 중심 영상과 구분."
+    },
+    {
+      "id": "ZKpbtjrnRjw",
+      "title": "Claude Masterclass - Full Guide (Step by Step tutorial) - தமிழில்",
+      "view_count": 334006,
+      "decision": "excluded",
+      "reason": "웹사이트·게임·도구 소개·일반 사용 강의로 분류. 모션 그래픽 중심 영상과 구분."
+    },
+    {
+      "id": "Iup1WlUyj9M",
+      "title": "How to Use Claude Skills as a Designer",
+      "view_count": 327043,
+      "decision": "excluded",
+      "reason": "웹사이트·게임·도구 소개·일반 사용 강의로 분류. 모션 그래픽 중심 영상과 구분."
+    },
+    {
+      "id": "Ge1B-Ok1Pfk",
+      "title": "Claude Makes a New Kind of Video - Full Tutorial",
+      "view_count": 325830,
+      "decision": "unverified",
+      "reason": "코드 기반 모션 그래픽은 확인. 자막·설명에서 Claude Code 사용 환경을 명확히 확인하지 못해 보조 참고로 분리."
+    },
+    {
+      "id": "5HYYXYYCrL4",
+      "title": "Claude Opus 5.5 + Higgsfield Make Insane Motion Graphics! (Claude Motion)",
+      "view_count": 311463,
+      "decision": "selected",
+      "reason": "Claude Code 사용 또는 Code와 Motion 혼합 시연을 명시하며 모션 그래픽 제작·합성 구간이 있음."
+    },
+    {
+      "id": "OIAWkkSO4WY",
+      "title": "Claude Opus 5.5 Is INSANE at Motion Graphics",
+      "view_count": 307479,
+      "decision": "selected",
+      "reason": "Claude Code 사용 또는 Code와 Motion 혼합 시연을 명시하며 모션 그래픽 제작·합성 구간이 있음."
+    },
+    {
+      "id": "Lu95f1ZBIos",
+      "title": "Automatisiere ALLES mit Claude Code: Das ultimative Tutorial auf Deutsch (Vom Anfänger zum Profi)",
+      "view_count": 288372,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "RaxX_Q7Apj0",
+      "title": "FREE Claude Prompt That Creates VOX Style Videos AUTOMATICALLY | Here's How",
+      "view_count": 283101,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "ogn0FiDnAM4",
+      "title": "Make Unlimited AI Videos for Free with Claude",
+      "view_count": 279091,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "oWkUwno6b0E",
+      "title": "Claude + Remotion Just RETIRED video editors... (ULTIMATE REMOTION TUTORIAL)",
+      "view_count": 255416,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "7wuYBfE131U",
+      "title": "I Made Vox-Style Motion Graphics Using Only Claude Code & Remotion",
+      "view_count": 245962,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "1RCGep9wY8I",
+      "title": "Claude Code Can Now Help Edit Your Videos in 10 Minutes",
+      "view_count": 217579,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "Eg08Lr3zqdw",
+      "title": "Claude MOTION is Unreal for Video. Master it in 12 minutes.",
+      "view_count": 203988,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "2moKxAZjwCE",
+      "title": "How To Create Insane Motion Graphics With Opus 5.5",
+      "view_count": 202823,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "rscb1DgJtNg",
+      "title": "Claude Now Does Video (FOR FREE) Thanks To JavaScript",
+      "view_count": 197072,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "hbPvZvpu9KU",
+      "title": "The New Claude Motion Is Awesome",
+      "view_count": 189082,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "D5qpBbEWTxo",
+      "title": "How I Make $880/Day with AI Motion Design (Claude Motion)",
+      "view_count": 185334,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "wOF1EDpWxQw",
+      "title": "편집 프로그램 없이 모션그래픽 만드는 법 (클로드 오퍼스 5.5)",
+      "view_count": 179592,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "-INveHwbRz4",
+      "title": "Introducing agent view in Claude Code",
+      "view_count": 175518,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "ZE9URNHaP5M",
+      "title": "How to Create Motion Graphics with Claude AI",
+      "view_count": 145071,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "fNb53l93ELA",
+      "title": "Claudeを触った瞬間、今までのYouTube運営がバカらしくなった",
+      "view_count": 142791,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "xOhh274Ayac",
+      "title": "I Made This Viral Reel Using ONLY Remotion & Claude Code",
+      "view_count": 139237,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "lxmrK4RCWQQ",
+      "title": "How To Create Stunning Motion Graphics With Claude Design (Dead Simple Animations)",
+      "view_count": 139003,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "Ll45R_Z8tQc",
+      "title": "Claude Opus 5.5 Animated Every Motion Graphic in This Video (I Didn't Keyframe a Thing)",
+      "view_count": 135592,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "uTcTrFGiJ_g",
+      "title": "클로드로 영상 편집 완전 자동화하면 생기는 일 (설치 가이드 + 스킬 공유)",
+      "view_count": 125396,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "MAhkbZHcbLA",
+      "title": "Create Motion Graphics with Claude Code + Remotion",
+      "view_count": 120541,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "MPDhk385gSg",
+      "title": "Claude Opus 5.5 + JavaScript = INSANE 2D Animations (Full Tutorial)",
+      "view_count": 119299,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "uaVYHiF8f7k",
+      "title": "Turn Claude Into a Video Editing GENIUS (in 3 simple steps)",
+      "view_count": 111868,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "rSrs6Tighq4",
+      "title": "How I Use Claude Code to Create 2D Animations (Tutorial)",
+      "view_count": 108361,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "6_rCyryA6hg",
+      "title": "Claude Code Can Now Automate Your Videos (Remotion + Opus 5.5)",
+      "view_count": 103967,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "57IVfvXqUVs",
+      "title": "“영상 제작 100% 자동화” 클로드 모션그래픽부터 영상 편집 올인원 가이드",
+      "view_count": 92994,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "v1Gwa1KyUaI",
+      "title": "Claude FINALLY Unlocked AI Motion Graphics",
+      "view_count": 92293,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "vx10qHNXRIo",
+      "title": "Claude + Google Vids = Full Stickman Animations on Autopilot",
+      "view_count": 91319,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "VmJvywPQvqE",
+      "title": "صناعة فيديوهات بالذكاء الاصطناعي | طريقتي كاملة مع Claude Code و Remotion",
+      "view_count": 89885,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "kXmY6yQa5q4",
+      "title": "Claude Code + Remotion = FREE Motion Graphics Tutorial (No Subscription)",
+      "view_count": 87438,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "_kc0riDpxOY",
+      "title": "클로드가 모션그래픽을 정복했습니다",
+      "view_count": 83358,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "KphrV76DJoI",
+      "title": "Claude Video 2.0 Just Changed Everything (FREE Skill)",
+      "view_count": 75235,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "LiQPU7_5v68",
+      "title": "Create Motion Graphics with Claude (Vox-style & More)",
+      "view_count": 72037,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "i5bZ-Be9cAQ",
+      "title": "Your Videos Don't Have to Look Amateur Anymore (Claude + Remotion)",
+      "view_count": 69738,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "xAUifztpib8",
+      "title": "How I Created a Professional Motion Graphics Video With Claude Code + Remotion Skills (No Editing)",
+      "view_count": 62741,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "RSe268YFglA",
+      "title": "Create FREE Motion Graphics with Claude Code + Javascript",
+      "view_count": 62476,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "IFstAP91GtY",
+      "title": "This Claude Plugin Automates Full 2D Videos in Minutes (Full Guide)",
+      "view_count": 61751,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "u_J77nEB15M",
+      "title": "How to Make Motion Graphics With Claude AI for FREE (Game Changer)",
+      "view_count": 60777,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "8UEWit__gCI",
+      "title": "太誇張！只用 Claude Code + Remotion 做出大神級動畫？我實測給你看",
+      "view_count": 57949,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "Nmrg1Rn7Ht4",
+      "title": "Claude Code Generated This Entire Animation | Here's How",
+      "view_count": 56170,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "7OR-L0AySn8",
+      "title": "How people are generating videos with Claude Code (Remotion Skill)",
+      "view_count": 51345,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "qi3DHzhUSjs",
+      "title": "초간단 명령어로 차원이 다른 모션그래픽 만들기｜Claude Opus 5.5",
+      "view_count": 50744,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "F7qQwYmIoxA",
+      "title": "클로드 모션그래픽 — 살아움직이는 로고 애니메이션 제작 방법 (+범용 프롬프트 공유)",
+      "view_count": 49889,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "uIHJvUVaB34",
+      "title": "Claude Opus 5.5 Is INSANE at Vox-Style Motion Graphics",
+      "view_count": 48043,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "x08U8HJKV0E",
+      "title": "클로드 Opus 5.5로 미친 모션그래픽 만드는 방법",
+      "view_count": 47298,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "z7Bkf3Vc63U",
+      "title": "How I Vibe Code Technical Videos With Claude Code and Remotion",
+      "view_count": 42810,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "OX80FZjHJ7o",
+      "title": "Everything Claude Code + Remotion Can Do in 2026 (Full Animation Breakdown)",
+      "view_count": 42160,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "PgA4C6J3PZ4",
+      "title": "Claude Opus 5.5 Is INSANE at Creating Viral 2D Animated Videos",
+      "view_count": 41470,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "EqYVv-1uyuo",
+      "title": "How To Make INSANE Motion Graphics with Claude Motion",
+      "view_count": 40560,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "yOco2f7gU6I",
+      "title": "Claude Code Just Changed Animated Videos Forever | Claude + Seedance 2.0",
+      "view_count": 38303,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "Vu_XOKKgJtA",
+      "title": "Claude Code Can Make Videos Now (Remotion Guide)",
+      "view_count": 36720,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "6yndvwhxygE",
+      "title": "How To Install Remotion in Claude - EASY CLAUDE CODE REMOTION TUTORIAL",
+      "view_count": 35208,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "2l4s9yS_q6k",
+      "title": "노가다 끝! 클로드로 영상 공장 완성 (ft. 캡컷, 리모션) | AI 영상 자동화 (+무료 프롬프트 제공)",
+      "view_count": 33068,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "-76YAQ5Pv9Y",
+      "title": "Claude Code Can Create UNLIMITED 3D Animations",
+      "view_count": 31656,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "-YySYOBbhD8",
+      "title": "왜 배운 대로 해도 내 클로드 모션그래픽만 구릴까?｜전문가 되는 핵심 노하우 + 자료 무료 공개",
+      "view_count": 30555,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "IGdo9hR1_rE",
+      "title": "코드만으로 이런 영상이 나온다고? 클로드 코드 오픈소스 스킬 8가지",
+      "view_count": 30160,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "mV74tDW0mc0",
+      "title": "How to Make YouTube Explainer Videos With Claude (Not Higgsfield)",
+      "view_count": 26036,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "y-pxNV0IyTY",
+      "title": "Remotion + Claude Code Is AMAZING For Creating Videos (+ VPS, Skills)",
+      "view_count": 25404,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "S-foS0vfqIg",
+      "title": "Claude Code 영상 제작 기능 써봤는데 미쳤습니다 | 클로드 코드 + Remotion Skill Ai 영상 자동화 실전 가이드",
+      "view_count": 25256,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "DceFrd65KUg",
+      "title": "I Made This Viral Reel Using ONLY EffectCraft & Claude Code",
+      "view_count": 24147,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "ppS33Fvhn1M",
+      "title": "편집 배우지 마세요, 클로드 코드로 영상 만들기 (7단계 가이드)",
+      "view_count": 24013,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "kDq5GTckOVs",
+      "title": "Claude Code + Remotion = Insane Video Edits",
+      "view_count": 23938,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "gmRK1LZ7xos",
+      "title": "30일 삽질 끝에 찾은 AI 영상 자동화의 비밀!!! 대본만 넣으면 영상이 나온다",
+      "view_count": 22459,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "DpOWdBVcCB0",
+      "title": "Tek Bir Prompt ile Profesyonel Youtube Videosu Üretmek: #claude code + #remotion Rehberi",
+      "view_count": 22442,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "zJl1yFYujiw",
+      "title": "Claude Code + Nano Banana 2 = INSANE AI Website Animations",
+      "view_count": 22413,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "UcAbZwtEfbk",
+      "title": "클로드 Opus 5.5 영상 자동화 실전 | 모션그래픽 광고·예고편·3D 제작 × Higgsfield",
+      "view_count": 21340,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "EHQwM1pxH2c",
+      "title": "클로드 코드 Mods 출시! 이제 클로드 코드를 내 마음대로 개조할 수 있습니다",
+      "view_count": 20629,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "NE306sbvopY",
+      "title": "클로드 오퍼스 5.5의 미친 모션그래픽 방법 총정리.. ㄷㄷ",
+      "view_count": 19404,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "p8rphwT9g-A",
+      "title": "이제 영상까지 바이브 코딩으로 만듭니다 | 클로드",
+      "view_count": 18389,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "jv8MtZ-T1iw",
+      "title": "Claude로 15초 모션그래픽 만들기｜Opus 5.5 프로젝트 완벽 가이드",
+      "view_count": 18379,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "sB_Q3dhafA0",
+      "title": "Opus 5.5 + Three.js = MEGA Viral 3D Cartoon Animations (Full Tutorial)",
+      "view_count": 18247,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "kuDzysXdUsY",
+      "title": "How To Make Video Animations In Minutes With Remotion! (Claude Code Beginner Tutorial)",
+      "view_count": 18109,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "yKu1NHRFV4k",
+      "title": "🔥 실용성 미쳤다!  클로드 코드 + Remotion = 영상 공장 완성 | 개인 무료 영상 자동화 | 오후다섯씨",
+      "view_count": 17861,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "I9Ib9au7js4",
+      "title": "이제 편집조차 필요 없습니다 (클로드 리모션 영상 제작)",
+      "view_count": 17239,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "Nr9TaL0RQSY",
+      "title": "How to Build Professional Video Animations with Claude.",
+      "view_count": 16513,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "RpY-KKZ7QTg",
+      "title": "편집 프로그램 없이 클로드로 모션그래픽 쇼츠 만드는 법 (Opus 5.5 + Aside)",
+      "view_count": 16357,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "W1jRF5hDAfo",
+      "title": "Vox Motion Graphics Tutorial using Claude Code & Codex",
+      "view_count": 15888,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "otEnTZR6okk",
+      "title": "클로드 신기능 모션, 이제 스킬이나 편집 프로그램 필요 없습니다 | 사용법 총정리 [모션그래픽]",
+      "view_count": 15110,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "Rl2wLcnYAvU",
+      "title": "AI 영상 편집 시간 2시간 줄여주는 클로드 코드 활용법 (ft.클로드 코드, 리모션)",
+      "view_count": 14916,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "7duJ4R03Wqs",
+      "title": "클로드 코드가 100% 편집한 영상",
+      "view_count": 14326,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "uQPegX8CiyA",
+      "title": "클로드 코드 X remotion 미친 조합! 모션 영상 만드는 새로운 방법 (비개발자를 위한 가이드)",
+      "view_count": 13150,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "uK-SNyzmFGI",
+      "title": "Claude Code Just Automated My Video Production",
+      "view_count": 12873,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "kI1soqlxwl8",
+      "title": "클로드 코드와 하이퍼프레임으로 모션 그래픽 영상 제작 (feat. 입문편)",
+      "view_count": 12829,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "rK4vrMK4i2U",
+      "title": "I Made Documentary Motion Graphics Using Only Claude Code & Remotion",
+      "view_count": 12706,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "Cft-TBQv_Y4",
+      "title": "I Tested Claude Motion vs. Claude Code for Motion Design",
+      "view_count": 12669,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "vhbaZJtW2Hg",
+      "title": "🔴LIVE - Full AI Video Generation Workflow Using Claude Code + Remotion + Archon",
+      "view_count": 12484,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "UM9FmXJQ3yg",
+      "title": "클로드 코드로 유튜브 영상을 자동화할 수 있다고? | Remote Control 실제 활용까지",
+      "view_count": 12172,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "OPFMs1-WoKE",
+      "title": "[유료강의 무료공개] 클로드 영상 자동화 3탄, 모션그래픽 꿀팁 풀겠습니다.",
+      "view_count": 11786,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "R2adkIau9UM",
+      "title": "클로드 에펙 연동: 자동화된 모션 그래픽의 시작! Claude AI, After Effects  (feat. Higgsfield)",
+      "view_count": 11395,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "L5zMizSVyNI",
+      "title": "Claude Code + Remotion Just Changed Content Creation Forever",
+      "view_count": 10360,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "NU3OIRcaQeI",
+      "title": "The Death of After Effects? Generate Pro Motion Graphics with Claude Code & Remotion",
+      "view_count": 10023,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "XfDpAGwKU4s",
+      "title": "안티그래피티 + 리모션으로 AI 모션그래픽 영상 무료 무제한 제작하는 방법 (TTS·캐릭터 애니메이션까지)",
+      "view_count": 9577,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "cn_pKdlr1kE",
+      "title": "Claude Code + Remotion Tutorial: Create Motion Graphics with AI (Too EASY!!)",
+      "view_count": 8451,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "4nUmNEHpZfY",
+      "title": "用 Claude Code + Remotion 打造全自動影片生產流水線，告別手動剪輯!",
+      "view_count": 6849,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "FvekX5GYYKA",
+      "title": "편집없이 클로드로 모션그래픽 만들기(Opus 5.5)",
+      "view_count": 6517,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "HMJ5JN0kauw",
+      "title": "리모션 익스플레이너 영상 누구나 쉽게 만들기 (feat. 입문편, 클로드 코드)",
+      "view_count": 6446,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "_z4geBa76FI",
+      "title": "\"코드를 한 줄도 치지 않았습니다\" 클로드코드 + Remotion으로 '모션그래픽 공장'이 완성.. 이 영상을 보면 영상 제작 방식이 완전히 바뀝니다. 지금 이거 못 막습니다.💀💀",
+      "view_count": 5872,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "8XpTfPeLxLY",
+      "title": "How to Make Insane Motion Graphics With Claude (No Team Plan Needed)",
+      "view_count": 4893,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "07p0_bqzN-U",
+      "title": "말 한마디로 쉽게 고퀄리티 영상 뽑아내기 | 클로드 코드 + 리모션 실전 활용법",
+      "view_count": 4691,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "QJ7UAEf57gs",
+      "title": "Antigravity + Remotion 是什么？如何用 Claude Code 做自动视频生成（从 0 到实战）",
+      "view_count": 4326,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "OmM2iUVHR60",
+      "title": "Create INSANE Motion Graphics With Claude Code & Remotion | Easy Guide",
+      "view_count": 4078,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "C-rzmH3571c",
+      "title": "녹음/녹화/편집/모션 그래픽까지 클로드 코드에게 완전히 맡겨봤습니다",
+      "view_count": 3630,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "UbvfkTfUfjc",
+      "title": "클로드 결제 없이 모션그래픽 만들기! 텍스트만 치면 MP4 영상이 나오는 AI 모션그래픽 실전 (Claude Opus 5.5 X Sonnet 5.5 O)",
+      "view_count": 3549,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "Ip49HQF-C6w",
+      "title": "'클로드 코드(Claude Code)'와 '리모션(Remotion)'을 활용한 영상제작",
+      "view_count": 3370,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "9uijvrx8yYI",
+      "title": "Claude Code Tutorial: Edit Videos with Remotion  (Full Workflow)",
+      "view_count": 3173,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "gwE0zuwDrwU",
+      "title": "화면 녹화 1개로 모션그래픽 홍보영상 완성 | 클로드 Claude 제작과정 전부 공개",
+      "view_count": 2628,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "FhX-zrZMYlA",
+      "title": "클로드 코드가 우리 집을 해킹했습니다",
+      "view_count": 2238,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "hhk3U8iVFX8",
+      "title": "클로드코드만 써서 AI 모션그래픽 만들기 — 유튜브 인트로·구독 화면 5종을 하룻저녁에",
+      "view_count": 1787,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "Gfwk081iQUs",
+      "title": "클로드 AI 영상 편집 자동화 실습 (Remotion, ElevenLabs)",
+      "view_count": 1445,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "aSPIIPGmdhc",
+      "title": "이게 진짜 클로드로만 만든 거라고? 영상 생성기 없이 만든 애니메이션 | 클로드의 출근",
+      "view_count": 995,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "OwEE6UF52Ks",
+      "title": "애프터이펙트 없이 AI로 모션그래픽 만들기 | 클로드 하나로 끝내는 법",
+      "view_count": 908,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "zFNBPnYPkNc",
+      "title": "클로드코드로 편집 노가다 끝 유튜브 영상 자동생성 유튜브하려면 제발 이거부터 하세요 | 리모션 + 클로드",
+      "view_count": 421,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "F3OpLWN1QiY",
+      "title": "클로드로 인트로 영상 뚝딱 만들기 #리모션",
+      "view_count": 277,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "vpBgG39HFAw",
+      "title": "클로드엔 모션그래픽 플러그인을 뭘쓰면 좋을까?! 리모션 vs 하이퍼프레임 6판 붙여 봤더니 (Opus 5.5)",
+      "view_count": 264,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    },
+    {
+      "id": "MTOOtcO1oAA",
+      "title": "클로드로 Remotion 영상 뽑기 — 나레이션에 화면을 입히는 순서",
+      "view_count": 201,
+      "decision": "below_cutoff",
+      "reason": "확정 상위 10개 마지막 영상보다 조회수가 낮음. 주제 적합성 전체 정독은 하지 않음."
+    }
+  ],
+  "limitations": [
+    "Description and captions, not a frame-by-frame visual or audio inspection.",
+    "Unverified higher-view candidates remain separately listed rather than declared irrelevant.",
+    "Creator pricing, earnings, model access, speed and rights claims are not adopted as verified webinar facts."
+  ]
+}

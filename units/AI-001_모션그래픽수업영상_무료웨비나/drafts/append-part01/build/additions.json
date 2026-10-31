@@ -1,0 +1,22 @@
+[
+  {
+    "key": "preparation",
+    "template_slide": 2,
+    "export_slide": 3
+  },
+  {
+    "key": "typography",
+    "template_slide": 5,
+    "export_slide": 9
+  },
+  {
+    "key": "website",
+    "template_slide": 5,
+    "export_slide": 8
+  },
+  {
+    "key": "history",
+    "template_slide": 5,
+    "export_slide": 7
+  }
+]

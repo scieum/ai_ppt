@@ -1,0 +1,173 @@
+[
+  {
+    "id": "bear-thinking",
+    "character": "bear",
+    "pose": "thinking",
+    "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\character-sheets-20261028\\bear-sheet-v1.png",
+    "pixel_rect": [
+      200,
+      12,
+      708,
+      712
+    ],
+    "crop": {
+      "left": 0.09319664492078285,
+      "top": 0.01637107776261937,
+      "right": 0.6700838769804287,
+      "bottom": 0.028649386084583894
+    },
+    "aspect_ratio": 0.7257142857142858
+  },
+  {
+    "id": "bear-stopwatch",
+    "character": "bear",
+    "pose": "stopwatch",
+    "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\character-sheets-20261028\\bear-sheet-v1.png",
+    "pixel_rect": [
+      819,
+      14,
+      1278,
+      713
+    ],
+    "crop": {
+      "left": 0.38164026095060577,
+      "top": 0.019099590723055934,
+      "right": 0.4044734389561976,
+      "bottom": 0.027285129604365577
+    },
+    "aspect_ratio": 0.6566523605150214
+  },
+  {
+    "id": "bear-greeting",
+    "character": "bear",
+    "pose": "greeting",
+    "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\character-sheets-20261028\\bear-sheet-v1.png",
+    "pixel_rect": [
+      1464,
+      13,
+      2016,
+      715
+    ],
+    "crop": {
+      "left": 0.6821994408201305,
+      "top": 0.017735334242837655,
+      "right": 0.06057781919850891,
+      "bottom": 0.024556616643929052
+    },
+    "aspect_ratio": 0.7863247863247863
+  },
+  {
+    "id": "woman-compare",
+    "character": "woman",
+    "pose": "compare",
+    "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\character-sheets-20261028\\woman-sheet-v1.png",
+    "pixel_rect": [
+      70,
+      36,
+      527,
+      870
+    ],
+    "crop": {
+      "left": 0.03945885005636979,
+      "top": 0.040586245772266064,
+      "right": 0.7029312288613303,
+      "bottom": 0.01916572717023679
+    },
+    "aspect_ratio": 0.5479616306954437
+  },
+  {
+    "id": "woman-explain",
+    "character": "woman",
+    "pose": "explain",
+    "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\character-sheets-20261028\\woman-sheet-v1.png",
+    "pixel_rect": [
+      654,
+      34,
+      1217,
+      870
+    ],
+    "crop": {
+      "left": 0.3686583990980834,
+      "top": 0.038331454340473504,
+      "right": 0.31397970687711385,
+      "bottom": 0.01916572717023679
+    },
+    "aspect_ratio": 0.6734449760765551
+  },
+  {
+    "id": "woman-celebrate",
+    "character": "woman",
+    "pose": "celebrate",
+    "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\character-sheets-20261028\\woman-sheet-v1.png",
+    "pixel_rect": [
+      1295,
+      37,
+      1696,
+      870
+    ],
+    "crop": {
+      "left": 0.729988726042841,
+      "top": 0.04171364148816235,
+      "right": 0.04396843291995489,
+      "bottom": 0.01916572717023679
+    },
+    "aspect_ratio": 0.48139255702280914
+  },
+  {
+    "id": "man-review",
+    "character": "man",
+    "pose": "review",
+    "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\character-sheets-20261028\\man-sheet-v1.png",
+    "pixel_rect": [
+      134,
+      19,
+      522,
+      873
+    ],
+    "crop": {
+      "left": 0.07553551296505073,
+      "top": 0.02142051860202931,
+      "right": 0.705749718151071,
+      "bottom": 0.015783540022547893
+    },
+    "aspect_ratio": 0.45433255269320844
+  },
+  {
+    "id": "man-approve",
+    "character": "man",
+    "pose": "approve",
+    "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\character-sheets-20261028\\man-sheet-v1.png",
+    "pixel_rect": [
+      668,
+      19,
+      1079,
+      874
+    ],
+    "crop": {
+      "left": 0.3765501691093574,
+      "top": 0.02142051860202931,
+      "right": 0.39177001127395716,
+      "bottom": 0.01465614430665163
+    },
+    "aspect_ratio": 0.4807017543859649
+  },
+  {
+    "id": "man-present",
+    "character": "man",
+    "pose": "present",
+    "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\character-sheets-20261028\\man-sheet-v1.png",
+    "pixel_rect": [
+      1196,
+      20,
+      1754,
+      873
+    ],
+    "crop": {
+      "left": 0.6741826381059752,
+      "top": 0.02254791431792559,
+      "right": 0.011273957158962844,
+      "bottom": 0.015783540022547893
+    },
+    "aspect_ratio": 0.6541617819460727
+  }
+]

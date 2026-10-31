@@ -1,0 +1,8 @@
+# Local full transcripts, expiring media URLs, downloaded tool and private keyring.
+yt-dlp/
+toolchain/
+*-metadata.json
+*-captions-*.json
+metadata-index.json
+normalize.log
+__pycache__/

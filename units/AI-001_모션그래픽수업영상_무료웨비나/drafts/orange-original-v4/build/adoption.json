@@ -1,0 +1,47 @@
+[
+  {
+    "slide": 1,
+    "template": "cover",
+    "source": "[사이클 라이브] 클로드 코드로 만드는 일관된 모션 시스템.pdf",
+    "page": 1,
+    "background": "cover/background.png",
+    "background_sha256": "177dc1b2b2b9bf621e668d678fc23ab7f3769d015e3af32edcf0dce7bba3f6ee",
+    "geometry": "Original extracted background, no shape recreation or rescaling within the source canvas."
+  },
+  {
+    "slide": 2,
+    "template": "five-elements",
+    "source": "[사이클 라이브] 클로드 코드로 만드는 일관된 모션 시스템.pdf",
+    "page": 23,
+    "background": "five-elements/background.png",
+    "background_sha256": "b7ac8eaecc330b8b8a39439caac0ac034f5c244e59b418db134b153f34c34ae5",
+    "geometry": "Original extracted background, no shape recreation or rescaling within the source canvas."
+  },
+  {
+    "slide": 3,
+    "template": "five-elements",
+    "source": "[사이클 라이브] 클로드 코드로 만드는 일관된 모션 시스템.pdf",
+    "page": 23,
+    "background": "five-elements/background.png",
+    "background_sha256": "b7ac8eaecc330b8b8a39439caac0ac034f5c244e59b418db134b153f34c34ae5",
+    "geometry": "Original extracted background, no shape recreation or rescaling within the source canvas."
+  },
+  {
+    "slide": 4,
+    "template": "brief",
+    "source": "[사이클 라이브] 클로드 코드로 만드는 일관된 모션 시스템.pdf",
+    "page": 91,
+    "background": "brief/background.png",
+    "background_sha256": "4fa5deda7f965368ae8b304b993d4c31bc40b78d1c30d677062462f76b83c812",
+    "geometry": "Original extracted background, no shape recreation or rescaling within the source canvas."
+  },
+  {
+    "slide": 5,
+    "template": "prompt",
+    "source": "[초보자 3주 챌린지 - 2주차] Figma 디자인 기반으로 프론트 엔드 화면 만들어보기.pdf",
+    "page": 31,
+    "background": "prompt/background.png",
+    "background_sha256": "16344baaf69d01a3149a3147ec697545dfe716c9cecefdf3d9b622672d8a87b8",
+    "geometry": "Original extracted background, no shape recreation or rescaling within the source canvas."
+  }
+]

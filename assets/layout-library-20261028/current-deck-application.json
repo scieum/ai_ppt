@@ -1,0 +1,27 @@
+{
+  "source": "NotionTalk_모션그래픽_캐릭터시트적용_21장_v14.pptx",
+  "result": "NotionTalk_모션그래픽_목차수정_21장_v17.pptx",
+  "applied": [
+    {
+      "page": 15,
+      "layout_id": "L14",
+      "note": "three GIFs and timing conditions preserved"
+    },
+    {
+      "page": 17,
+      "layout_id": "L07",
+      "note": "native animated heading and woman pose preserved"
+    },
+    {
+      "page": 21,
+      "layout_id": "L10",
+      "note": "man approval pose preserved"
+    }
+  ],
+  "slide_count": 21,
+  "agenda_fix": {
+    "page": 3,
+    "layout_id": "L02",
+    "library_version": "v4"
+  }
+}

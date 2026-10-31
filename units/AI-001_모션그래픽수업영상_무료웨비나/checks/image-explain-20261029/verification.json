@@ -1,0 +1,33 @@
+{
+  "final": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\output\\webinar-knowledge-only\\NotionTalk_모션그래픽_이미지설명강화_40장_v21.pptx",
+  "sha256": "c7c9fe11dfcd2d65ab55c8de01fad7f94fe4aa99957990d5dfa2a72292aec455",
+  "pages": 40,
+  "image_led_pages": [
+    24,
+    30,
+    38
+  ],
+  "unchanged_slides_XML_and_PDF_pixels": 37,
+  "all_existing_media_preserved": true,
+  "GIF_parts": 33,
+  "native_timing_pages": [
+    6,
+    11,
+    20
+  ],
+  "native_table_pages": [
+    22,
+    25,
+    33,
+    34
+  ],
+  "text_overflow": [],
+  "generated_assets": [
+    "consistent-tone.png",
+    "still-and-sequence.png",
+    "local-and-shared.png"
+  ],
+  "notes_updated": true,
+  "lesson_md_unchanged": true,
+  "G10": "inherited state unchanged; no legal clearance fabricated"
+}

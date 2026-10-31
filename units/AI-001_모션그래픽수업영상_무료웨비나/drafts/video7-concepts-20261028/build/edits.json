@@ -1,0 +1,131 @@
+[
+  {
+    "page": 9,
+    "source_page": 7,
+    "export_id": "w644x0",
+    "remove": [
+      "ex-fade-cell-0",
+      "ex-fade-time-0",
+      "ex-fade-state-0",
+      "ex-fade-cell-1",
+      "ex-fade-time-1",
+      "ex-fade-state-1",
+      "ex-fade-cell-2",
+      "ex-fade-time-2",
+      "ex-fade-state-2",
+      "ex-slide-cell-0",
+      "ex-slide-time-0",
+      "ex-slide-track-0",
+      "ex-slide-state-0",
+      "ex-slide-cell-1",
+      "ex-slide-time-1",
+      "ex-slide-track-1",
+      "ex-slide-state-1",
+      "ex-slide-cell-2",
+      "ex-slide-time-2",
+      "ex-slide-track-2",
+      "ex-slide-state-2",
+      "ex-zoom-cell-0",
+      "ex-zoom-time-0",
+      "ex-zoom-state-0",
+      "ex-zoom-cell-1",
+      "ex-zoom-time-1",
+      "ex-zoom-state-1",
+      "ex-zoom-cell-2",
+      "ex-zoom-time-2",
+      "ex-zoom-state-2"
+    ],
+    "images": [
+      {
+        "kind": "morph",
+        "x": 200,
+        "y": 451,
+        "animated": true
+      },
+      {
+        "kind": "morph-state-0",
+        "x": 196,
+        "y": 583,
+        "animated": false
+      },
+      {
+        "kind": "morph-state-1",
+        "x": 280,
+        "y": 583,
+        "animated": false
+      },
+      {
+        "kind": "morph-state-2",
+        "x": 364,
+        "y": 583,
+        "animated": false
+      },
+      {
+        "kind": "rotation",
+        "x": 520,
+        "y": 451,
+        "animated": true
+      },
+      {
+        "kind": "rotation-state-0",
+        "x": 516,
+        "y": 583,
+        "animated": false
+      },
+      {
+        "kind": "rotation-state-1",
+        "x": 600,
+        "y": 583,
+        "animated": false
+      },
+      {
+        "kind": "rotation-state-2",
+        "x": 684,
+        "y": 583,
+        "animated": false
+      },
+      {
+        "kind": "gradient",
+        "x": 840,
+        "y": 451,
+        "animated": true
+      },
+      {
+        "kind": "gradient-state-0",
+        "x": 836,
+        "y": 583,
+        "animated": false
+      },
+      {
+        "kind": "gradient-state-1",
+        "x": 920,
+        "y": 583,
+        "animated": false
+      },
+      {
+        "kind": "gradient-state-2",
+        "x": 1004,
+        "y": 583,
+        "animated": false
+      }
+    ],
+    "edits": {
+      "part_label": "Part 2  움직임과 효과",
+      "section_number": "01",
+      "section_heading": "모양과 입체 표현",
+      "title": "형태·깊이·색의 움직임",
+      "subtitle": "모양·입체 방향·색의 위치가 시간에 따라 달라지는 예시입니다",
+      "effect-name-0": "모핑",
+      "effect-en-0": "Morphing",
+      "effect-desc-0": "형태가 이어지며 바뀜",
+      "effect-name-1": "입체 회전",
+      "effect-en-1": "3D Rotation",
+      "effect-desc-1": "입체 도형의 방향이 바뀜",
+      "effect-name-2": "그라데이션 흐름",
+      "effect-en-2": "Animated Gradient",
+      "effect-desc-2": "색의 경계가 계속 이동"
+    },
+    "notes": "모핑은 하나의 형태가 다른 형태로 연속해서 바뀌는 표현입니다. 입체 회전은 도형의 방향이 달라지면서 보이는 면과 깊이감이 달라집니다. 그라데이션은 색이 이어지는 모습이고, 이 예시에서는 그 색의 위치가 시간에 따라 이동합니다.\n학습 참고: 헤이디_일잘러의 업무스킬, 이제 모션그래픽은 클로드한테 맡기세요. https://www.youtube.com/watch?v=7xOcIYWGG0A&t=781 (13:01~13:22, 도형 변화·입체 표현·그라데이션 언급). 한국어 자막과 설명란 기반으로 기본 용어를 풀어 썼으며 명칭과 도형 예시는 자체 구성. 원본 영상·이미지·음악을 장표에 사용하지 않음.",
+    "export_page": 8
+  }
+]

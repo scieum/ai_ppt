@@ -1,0 +1,961 @@
+[
+  {
+    "page": 1,
+    "source_page": 1,
+    "title": "AI 모션 그래픽 표현과 전달의 원리",
+    "edits": {
+      "cover_title": "AI 모션 그래픽\n표현과 전달의 원리",
+      "cover_subtitle": "읽는 시간과 장면의 연결을 살펴보는 무료 웨비나"
+    },
+    "note": "오늘은 여섯 영상에서 정리한 모션 그래픽의 표현 원리를 살펴봅니다. 무엇을 보여 주는지, 얼마나 읽게 하는지, 어떤 순서로 설명하는지를 사례로 비교합니다. 타이포그래피·웹사이트 소개·수업 보조 영상은 전달 목적이 다른 사례입니다.",
+    "refs": [
+      {
+        "video": 1,
+        "channel": "에이젠 AI",
+        "url": "https://www.youtube.com/watch?v=F7qQwYmIoxA&t=96"
+      },
+      {
+        "video": 2,
+        "channel": "디자인하는AI",
+        "url": "https://www.youtube.com/watch?v=9uQVYIaYIeg&t=55"
+      },
+      {
+        "video": 3,
+        "channel": "Eric Park",
+        "url": "https://www.youtube.com/watch?v=O0NR110DmLk&t=220"
+      },
+      {
+        "video": 4,
+        "channel": "피프",
+        "url": "https://www.youtube.com/watch?v=wOF1EDpWxQw&t=50"
+      },
+      {
+        "video": 5,
+        "channel": "노디 AI",
+        "url": "https://www.youtube.com/watch?v=x08U8HJKV0E&t=179"
+      },
+      {
+        "video": 6,
+        "channel": "Jay Choi",
+        "url": "https://www.youtube.com/watch?v=_kc0riDpxOY&t=352"
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "source_page": 2,
+    "title": "모션 그래픽을 읽는 다섯 가지 관점",
+    "edits": {
+      "part_label": "무료 웨비나  오늘 살펴볼 내용",
+      "section_number": "01",
+      "section_heading": "표현을 읽는 다섯 관점",
+      "title": "모션 그래픽을 읽는 다섯 가지 관점",
+      "subtitle": "목적과 시간, 시선과 설명 흐름을 사례로 살펴봅니다",
+      "summary_label": "핵심",
+      "summary_text": "화면의 움직임을 정보 전달과 연결해 봅니다",
+      "heading_0": "전달 목적",
+      "description_0": "영상이 전할 정보",
+      "tag_0": "무엇을",
+      "heading_1": "읽는 시간",
+      "description_1": "문구가 머무는 시간",
+      "tag_1": "얼마나",
+      "heading_2": "시선과 순서",
+      "description_2": "강조와 등장 순서",
+      "tag_2": "어떤 순서",
+      "heading_3": "설명 흐름",
+      "description_3": "정보와 장면의 연결",
+      "tag_3": "연결",
+      "heading_4": "소리와 일관성",
+      "description_4": "리듬과 시각적 기준",
+      "tag_4": "어떤 느낌"
+    },
+    "note": "강의의 중심은 도구 조작이 아니라 표현을 이해하는 다섯 관점입니다. 영상의 목적을 먼저 보고 문구가 머무는 시간, 중요한 정보가 보이는 순서, 장면 사이의 의미, 소리와 시각적 일관성으로 이어갑니다. 앞에서 본 사례를 뒤의 원리와 연결합니다.",
+    "refs": [
+      {
+        "video": 1,
+        "channel": "에이젠 AI",
+        "url": "https://www.youtube.com/watch?v=F7qQwYmIoxA&t=262"
+      },
+      {
+        "video": 2,
+        "channel": "디자인하는AI",
+        "url": "https://www.youtube.com/watch?v=9uQVYIaYIeg&t=55"
+      },
+      {
+        "video": 5,
+        "channel": "노디 AI",
+        "url": "https://www.youtube.com/watch?v=x08U8HJKV0E&t=264"
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "source_page": 12,
+    "title": "영상마다 다른 전달 목적",
+    "edits": {
+      "part_label": "Part 1  목적과 표현",
+      "section_number": "01",
+      "section_heading": "영상의 목적",
+      "title": "영상마다 다른 전달 목적",
+      "subtitle": "같은 모션 그래픽이라도 전달해야 할 정보는 다릅니다",
+      "dev-case-head-0": "사례",
+      "dev-case-head-1": "전달할 정보",
+      "dev-case-head-2": "중요한 관점",
+      "dev-case-0-0": "홍보 타이포그래피",
+      "dev-case-0-1": "행사 문구와 일정",
+      "dev-case-0-2": "읽는 시간과 핵심어",
+      "dev-case-1-0": "웹사이트 소개",
+      "dev-case-1-1": "기능이 쓰이는 상황",
+      "dev-case-1-2": "원문과 설명의 대응",
+      "dev-case-2-0": "수업 보조 영상",
+      "dev-case-2-1": "개념과 변화의 이유",
+      "dev-case-2-2": "정확성과 설명 순서",
+      "dev-case-choice": "표현 형식·내용의 출처·활용 목적은 서로 다른 기준입니다"
+    },
+    "note": "세 사례는 같은 분류의 세 장르를 뜻하지 않습니다. 타이포그래피는 글자 중심의 표현이고 웹사이트는 정보의 출처이며 수업 보조 영상은 활용 목적입니다. 홍보에서는 일정과 문구가 읽혀야 하고 서비스 소개에서는 쓰임이 보이며 지식 전달에서는 설명이 정확해야 합니다.",
+    "refs": [
+      {
+        "video": 2,
+        "channel": "디자인하는AI",
+        "url": "https://www.youtube.com/watch?v=9uQVYIaYIeg&t=55"
+      },
+      {
+        "video": 3,
+        "channel": "Eric Park",
+        "url": "https://www.youtube.com/watch?v=O0NR110DmLk&t=220"
+      },
+      {
+        "video": 3,
+        "channel": "Eric Park",
+        "url": "https://www.youtube.com/watch?v=O0NR110DmLk&t=385"
+      },
+      {
+        "video": 4,
+        "channel": "피프",
+        "url": "https://www.youtube.com/watch?v=wOF1EDpWxQw&t=562"
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "source_page": 20,
+    "title": "표현의 기준이 되는 브랜드 정보",
+    "edits": {
+      "part_label": "Part 1  목적과 표현",
+      "section_number": "01",
+      "section_heading": "목적을 구체화하는 정보",
+      "title": "표현의 기준이 되는 브랜드 정보",
+      "subtitle": "이름과 성격, 필수 문구가 화면의 방향을 정합니다",
+      "full-hero": "브랜드 이름\n전달할 내용\n필수 문구",
+      "full-reasons": "누구의 이야기인지\n어떤 인상을 남길지\n무엇을 정확히 기억할지",
+      "full-foot": "구체적인 정보가 있을수록 표현을 판단할 기준도 분명해집니다"
+    },
+    "note": "V1에서는 브랜드의 이름·성격·소재와 참고 이미지가 표현의 기준이 됩니다. 여기서는 노션톡의 이름과 행사 안내를 자체 예시로 봅니다. 주황색이라는 색상 하나만으로 정체성이 완성되지는 않습니다. 어떤 정보를 반드시 전달할지, 어떤 분위기가 내용과 어울릴지 함께 보아야 합니다.",
+    "refs": [
+      {
+        "video": 1,
+        "channel": "에이젠 AI",
+        "url": "https://www.youtube.com/watch?v=F7qQwYmIoxA&t=96"
+      },
+      {
+        "video": 1,
+        "channel": "에이젠 AI",
+        "url": "https://www.youtube.com/watch?v=F7qQwYmIoxA&t=262"
+      }
+    ]
+  },
+  {
+    "page": 5,
+    "source_page": 33,
+    "title": "장면을 이어 주는 시각적 일관성",
+    "edits": {
+      "part_label": "Part 1  목적과 표현",
+      "section_number": "01",
+      "section_heading": "시각적 일관성",
+      "title": "장면을 이어 주는 시각적 일관성",
+      "subtitle": "문구가 바뀌어도 같은 영상으로 느껴지게 하는 기준입니다"
+    },
+    "note": "V1의 브랜드 조건과 V2의 캐릭터·제품 참고는 시각적 일관성과 연결됩니다. 여러 장면에서 같은 이름과 특징이 이어지면 시청자가 정보를 연결하기 쉽습니다. 모든 장면의 배치를 똑같이 반복한다는 뜻은 아닙니다. 장면의 내용에 따라 강조와 행동은 달라질 수 있습니다.",
+    "refs": [
+      {
+        "video": 1,
+        "channel": "에이젠 AI",
+        "url": "https://www.youtube.com/watch?v=F7qQwYmIoxA&t=96"
+      },
+      {
+        "video": 2,
+        "channel": "디자인하는AI",
+        "url": "https://www.youtube.com/watch?v=9uQVYIaYIeg&t=608"
+      }
+    ],
+    "table": [
+      [
+        "요소",
+        "일관되게 보일 것",
+        "달라질 수 있는 것"
+      ],
+      [
+        "문구와 글자",
+        "이름·필수 정보·서체",
+        "핵심어의 크기와 강조"
+      ],
+      [
+        "색과 분위기",
+        "기본 색·대비·인상",
+        "장면에 필요한 강조색"
+      ],
+      [
+        "캐릭터와 소재",
+        "외형·성격·주요 특징",
+        "행동·상황·장면 속 역할"
+      ]
+    ]
+  },
+  {
+    "page": 6,
+    "source_page": 13,
+    "title": "타이포그래피와 읽는 시간",
+    "edits": {
+      "part_label": "Part 2  시간과 시선",
+      "section_number": "01",
+      "section_heading": "문장과 시간",
+      "title": "타이포그래피와 읽는 시간",
+      "subtitle": "글자의 등장과 머무는 시간이 문장을 읽는 순서를 만듭니다",
+      "tool_caption": "노션톡 홍보 문구 예시",
+      "prompt_label": "문장의 역할",
+      "prompt_body": "처음에는 주제를 소개\n중간에는 핵심어 강조\n마지막에는 일정과\n참여 안내가 남습니다",
+      "dev-type-time": "20초 예시   주제 소개 4초   핵심어 전개 12초   마지막 안내 4초"
+    },
+    "note": "글자 중심의 영상에서는 문장이 화면의 시간과 만납니다. 같은 문구도 한꺼번에 보일 때와 핵심어가 차례로 보일 때 읽는 순서가 달라집니다. 이 20초 배분은 lesson.md의 자체 사례입니다. 4초는 모든 문장의 공통 정답이 아니라 일정과 안내가 읽히는지 비교하기 위한 값입니다.",
+    "refs": [
+      {
+        "video": 2,
+        "channel": "디자인하는AI",
+        "url": "https://www.youtube.com/watch?v=9uQVYIaYIeg&t=55"
+      },
+      {
+        "video": 1,
+        "channel": "에이젠 AI",
+        "url": "https://www.youtube.com/watch?v=F7qQwYmIoxA&t=262"
+      }
+    ]
+  },
+  {
+    "page": 7,
+    "source_page": 28,
+    "title": "전체 길이와 마지막 안내의 시간",
+    "edits": {
+      "part_label": "Part 2  시간과 시선",
+      "section_number": "01",
+      "section_heading": "움직이는 시간과 읽는 시간",
+      "title": "전체 길이와 마지막 안내의 시간",
+      "subtitle": "전체 20초 안에서도 시간 배분에 따라 읽는 경험이 달라집니다",
+      "full-foot": "전체 길이가 같아도 안내가 머무는 시간은 달라집니다"
+    },
+    "note": "마지막 일정이 지나가 읽지 못하는 문제를 생각합니다. 전체 길이가 같더라도 어디에 시간을 배분했는지가 다릅니다. 마지막 안내를 2초에서 4초로 늘리면 앞부분의 시간이나 내용도 함께 달라집니다. 문구의 양과 읽는 시간을 함께 보아야 합니다. 표는 실제 생성 영상의 측정값이 아닌 비교 예입니다.",
+    "refs": [
+      {
+        "video": 1,
+        "channel": "에이젠 AI",
+        "url": "https://www.youtube.com/watch?v=F7qQwYmIoxA&t=202"
+      },
+      {
+        "video": 2,
+        "channel": "디자인하는AI",
+        "url": "https://www.youtube.com/watch?v=9uQVYIaYIeg&t=55"
+      }
+    ],
+    "table": [
+      [
+        "구간",
+        "안내가 짧은 예",
+        "안내 시간을 확보한 예"
+      ],
+      [
+        "주제·핵심어 전개",
+        "0~18초 · 18초",
+        "0~16초 · 16초"
+      ],
+      [
+        "일정·참여 안내",
+        "18~20초 · 2초",
+        "16~20초 · 4초"
+      ],
+      [
+        "전체 길이",
+        "20초",
+        "20초"
+      ]
+    ]
+  },
+  {
+    "page": 8,
+    "source_page": 29,
+    "title": "핵심어와 시선의 우선순위",
+    "edits": {
+      "part_label": "Part 2  시간과 시선",
+      "section_number": "01",
+      "section_heading": "시선의 우선순위",
+      "title": "핵심어와 시선의 우선순위",
+      "subtitle": "색과 크기의 차이가 먼저 볼 정보를 드러냅니다",
+      "full-foot": "같은 문구에서도 강조의 위치가 첫 시선을 바꿉니다"
+    },
+    "note": "모든 글자가 같은 크기와 색으로 강하게 보이면 무엇부터 볼지 불분명할 수 있습니다. 오른쪽은 웨비나를 강조한 자체 비교입니다. 강조어는 영상의 목적에 따라 달라집니다. 색과 크기는 화려함 자체보다 어떤 정보에 시선을 모으는지로 봅니다.",
+    "refs": [
+      {
+        "video": 1,
+        "channel": "에이젠 AI",
+        "url": "https://www.youtube.com/watch?v=F7qQwYmIoxA&t=202"
+      },
+      {
+        "video": 2,
+        "channel": "디자인하는AI",
+        "url": "https://www.youtube.com/watch?v=9uQVYIaYIeg&t=55"
+      }
+    ]
+  },
+  {
+    "page": 9,
+    "source_page": 30,
+    "title": "등장 순서와 설명의 순서",
+    "edits": {
+      "part_label": "Part 2  시간과 시선",
+      "section_number": "01",
+      "section_heading": "정보 공개의 순서",
+      "title": "등장 순서와 설명의 순서",
+      "subtitle": "보이는 순서가 말로 설명하는 순서와 연결됩니다",
+      "full-foot": "다음 핵심어가 앞의 설명보다 먼저 시선을 가져가지 않게 합니다"
+    },
+    "note": "동일한 세 문구를 한꺼번에 볼 때와 차례로 볼 때를 비교합니다. 순차 등장은 여러 요소의 시작 시점을 나누는 방식입니다. 천천히 보여 주는 것 자체가 목적은 아닙니다. 한 기능을 설명하는 동안 다른 정보가 시선을 분산시키는지와 설명의 순서가 맞는지를 봅니다.",
+    "refs": [
+      {
+        "video": 2,
+        "channel": "디자인하는AI",
+        "url": "https://www.youtube.com/watch?v=9uQVYIaYIeg&t=55"
+      },
+      {
+        "video": 3,
+        "channel": "Eric Park",
+        "url": "https://www.youtube.com/watch?v=O0NR110DmLk&t=220"
+      }
+    ]
+  },
+  {
+    "page": 10,
+    "source_page": 31,
+    "title": "움직임과 멈춤의 리듬",
+    "edits": {
+      "part_label": "Part 2  시간과 시선",
+      "section_number": "02",
+      "section_heading": "속도와 리듬",
+      "title": "움직임과 멈춤의 리듬",
+      "subtitle": "같은 거리와 같은 시간에도 속도 변화가 다르게 느껴집니다"
+    },
+    "note": "lesson.md에서는 끝에서 속도가 줄어드는 움직임을 첫 결과의 문제와 연결합니다. 이 비교는 같은 거리와 1.8초라는 같은 지속 시간에서 일정 속도와 끝 감속을 보여 주는 기존 예입니다. 끝에서 느려지는 이즈 아웃과 도착한 뒤 문구가 머무는 시간은 서로 다른 요소입니다.",
+    "refs": [
+      {
+        "video": 1,
+        "channel": "에이젠 AI",
+        "url": "https://www.youtube.com/watch?v=F7qQwYmIoxA&t=202"
+      },
+      {
+        "video": 5,
+        "channel": "노디 AI",
+        "url": "https://www.youtube.com/watch?v=x08U8HJKV0E&t=179"
+      }
+    ]
+  },
+  {
+    "page": 11,
+    "source_page": 32,
+    "title": "문구와 소리가 만나는 시점",
+    "edits": {
+      "part_label": "Part 2  시간과 시선",
+      "section_number": "02",
+      "section_heading": "소리와 읽는 시간",
+      "title": "문구와 소리가 만나는 시점",
+      "subtitle": "박자의 강조와 글자를 읽는 시간이 함께 살아 있어야 합니다",
+      "full-left-title": "문구의 흐름",
+      "full-right-title": "소리와의 관계",
+      "full-left": "끝까지 읽히는 문장\n따라갈 수 있는 설명 순서",
+      "full-right": "강조 순간과 박자의 대응\n사라지기 전 충분한 유지 시간",
+      "full-foot": "음악의 박자가 문구의 읽는 시간을 대신하지는 않습니다"
+    },
+    "note": "V5는 음악의 박자와 강조 시점에 애니메이션 시간을 맞추는 과정을 설명합니다. lesson.md의 핵심은 음악이 들어와도 읽는 시간을 확보한다는 점입니다. 강조 시점이 맞는지와 문장이 너무 빨리 사라지는지를 함께 봅니다. 이 장표는 소리를 합성한 결과물이 아니라 관계를 설명하는 자료입니다.",
+    "refs": [
+      {
+        "video": 5,
+        "channel": "노디 AI",
+        "url": "https://www.youtube.com/watch?v=x08U8HJKV0E&t=264"
+      }
+    ]
+  },
+  {
+    "page": 12,
+    "source_page": 22,
+    "title": "한 장면에서 살펴볼 세 시점",
+    "edits": {
+      "part_label": "Part 3  레퍼런스의 이해",
+      "section_number": "01",
+      "section_heading": "레퍼런스 관찰",
+      "title": "한 장면에서 살펴볼 세 시점",
+      "subtitle": "등장 전부터 모두 나온 뒤까지 움직임의 역할을 나누어 봅니다",
+      "full-foot": "정지 화면은 배치를 보여 주고, 재생은 시간과 움직임을 보여 줍니다"
+    },
+    "note": "V2와 V5에서는 레퍼런스의 움직임·전환·타이밍을 분석합니다. 한 장면을 등장 전, 움직이는 동안, 모두 나온 뒤로 나누면 시작 위치와 이동, 유지 시간을 구분할 수 있습니다. 정지 이미지에서 실제 속도와 소리까지 확인했다고 해석하지 않습니다.",
+    "refs": [
+      {
+        "video": 2,
+        "channel": "디자인하는AI",
+        "url": "https://www.youtube.com/watch?v=9uQVYIaYIeg&t=370"
+      },
+      {
+        "video": 5,
+        "channel": "노디 AI",
+        "url": "https://www.youtube.com/watch?v=x08U8HJKV0E&t=179"
+      }
+    ]
+  },
+  {
+    "page": 13,
+    "source_page": 21,
+    "title": "내용의 근거와 시각 참고",
+    "edits": {
+      "part_label": "Part 3  레퍼런스의 이해",
+      "section_number": "01",
+      "section_heading": "내용과 표현의 출처",
+      "title": "내용의 근거와 시각 참고",
+      "subtitle": "설명할 사실과 보여 주는 방식은 서로 다른 역할입니다"
+    },
+    "note": "V3와 V4는 URL의 내용과 시각 참고를 함께 다룹니다. 웹사이트가 설명할 정보의 출처인 경우와 영상의 움직임을 참고하는 경우는 역할이 다릅니다. 같은 주소라도 어떤 정보를 설명하며 어떤 표현을 참고하는지 나누어 생각할 수 있습니다.",
+    "refs": [
+      {
+        "video": 3,
+        "channel": "Eric Park",
+        "url": "https://www.youtube.com/watch?v=O0NR110DmLk&t=708"
+      },
+      {
+        "video": 4,
+        "channel": "피프",
+        "url": "https://www.youtube.com/watch?v=wOF1EDpWxQw&t=562"
+      }
+    ],
+    "table": [
+      [
+        "구분",
+        "살펴볼 내용",
+        "사례"
+      ],
+      [
+        "내용의 근거",
+        "설명할 사실과 정보",
+        "웹사이트의 기능 설명"
+      ],
+      [
+        "시각 참고",
+        "등장 순서·타이밍·전환",
+        "핵심어가 나타나는 방식"
+      ],
+      [
+        "자체 표현",
+        "목적에 맞는 문구와 장면",
+        "정보를 사용하는 상황"
+      ]
+    ]
+  },
+  {
+    "page": 14,
+    "source_page": 25,
+    "title": "참고할 원리와 새롭게 표현할 내용",
+    "edits": {
+      "part_label": "Part 3  레퍼런스의 이해",
+      "section_number": "01",
+      "section_heading": "참고 원리와 고유한 표현",
+      "title": "참고할 원리와 새롭게 표현할 내용",
+      "subtitle": "등장과 연결의 원리를 보면서 문구와 사례는 구분합니다"
+    },
+    "note": "lesson.md는 원본의 독특한 문구·캐릭터·서사를 가져오지 않고 참고할 원리를 고르는 방향을 제안합니다. 등장 순서나 의미 연결을 이해하는 것과 특정 자산을 재사용하는 일은 구분됩니다. 색상이나 이름만 바꾸었다는 사실만으로 독자성이 확인되지는 않습니다. 여기서는 표현을 읽는 관점으로만 설명합니다.",
+    "refs": [
+      {
+        "video": 3,
+        "channel": "Eric Park",
+        "url": "https://www.youtube.com/watch?v=O0NR110DmLk&t=708"
+      },
+      {
+        "video": 2,
+        "channel": "디자인하는AI",
+        "url": "https://www.youtube.com/watch?v=9uQVYIaYIeg&t=370"
+      }
+    ],
+    "table": [
+      [
+        "관점",
+        "참고할 원리",
+        "고유하게 정할 내용"
+      ],
+      [
+        "등장",
+        "정보의 우선순위",
+        "어떤 내용을 먼저 보여 줄지"
+      ],
+      [
+        "강조",
+        "핵심 정보로 시선 모으기",
+        "어떤 문구가 핵심인지"
+      ],
+      [
+        "전환",
+        "앞뒤 장면의 연결",
+        "우리 설명에 맞는 연결 이유"
+      ],
+      [
+        "자산",
+        "출처와 이용 범위",
+        "실제로 사용할 문구·이미지"
+      ]
+    ]
+  },
+  {
+    "page": 15,
+    "source_page": 24,
+    "title": "기능이 쓰이는 상황",
+    "edits": {
+      "part_label": "Part 4  설명의 흐름",
+      "section_number": "01",
+      "section_heading": "서비스 소개의 맥락",
+      "title": "기능이 쓰이는 상황",
+      "subtitle": "기능 이름과 함께 그 기능이 필요한 이유가 보입니다",
+      "full-right-title": "정보를 사용하는 상황",
+      "full-foot": "기능의 이름과 사용 맥락이 연결될 때 설명의 흐름이 생깁니다"
+    },
+    "note": "V3에서는 기능을 나열한 서비스 영상과 사용 맥락이 드러나는 전개를 비교합니다. 이 장표의 Notion 사례는 lesson.md에 있는 자체 적용안입니다. 블록·목차·공동 편집을 각각 자료 구성·찾기·함께 수정하는 상황과 연결합니다. 현재 제품의 추가 기능이나 성능을 주장하지 않습니다.",
+    "refs": [
+      {
+        "video": 3,
+        "channel": "Eric Park",
+        "url": "https://www.youtube.com/watch?v=O0NR110DmLk&t=220"
+      },
+      {
+        "video": 5,
+        "channel": "노디 AI",
+        "url": "https://www.youtube.com/watch?v=x08U8HJKV0E&t=341"
+      }
+    ]
+  },
+  {
+    "page": 16,
+    "source_page": 15,
+    "title": "정보와 장면의 연결",
+    "edits": {
+      "part_label": "Part 4  설명의 흐름",
+      "section_number": "01",
+      "section_heading": "정보와 장면의 관계",
+      "title": "정보와 장면의 연결",
+      "subtitle": "같은 기능도 사용 상황에 따라 다른 설명이 됩니다",
+      "tool_caption": "내용을 설명하는 개념 예시",
+      "prompt_label": "설명의 연결",
+      "prompt_body": "흩어진 자료를 정리\n필요한 부분으로 이동\n같은 문서를 함께 수정\n기능을 쓰는 이유가 보입니다",
+      "website-output": "사용 맥락의 설명"
+    },
+    "note": "왼쪽은 기능 정보를 요약한 개념 예시이고 실제 앱 화면이 아닙니다. 오른쪽은 그 기능이 쓰이는 상황입니다. 단순한 화면 이동이나 기능명 나열보다 어느 상황에서 도움이 되는지를 연결해 봅니다. 원문의 표현을 그대로 가져오는 것과 정보를 새 설명으로 연결하는 것을 구분합니다.",
+    "refs": [
+      {
+        "video": 3,
+        "channel": "Eric Park",
+        "url": "https://www.youtube.com/watch?v=O0NR110DmLk&t=220"
+      },
+      {
+        "video": 4,
+        "channel": "피프",
+        "url": "https://www.youtube.com/watch?v=wOF1EDpWxQw&t=562"
+      }
+    ]
+  },
+  {
+    "page": 17,
+    "source_page": 27,
+    "title": "원문과 소개 문구의 대응",
+    "edits": {
+      "part_label": "Part 4  설명의 흐름",
+      "section_number": "01",
+      "section_heading": "원문과 설명의 대응",
+      "title": "원문과 소개 문구의 대응",
+      "subtitle": "영상의 설명이 내용의 출처를 벗어나지 않아야 합니다",
+      "full-left-title": "내용의 출처",
+      "full-right-title": "영상의 설명",
+      "full-left": "원문에서 확인한 정보\n그 정보가 쓰이는 맥락\n확인되지 않은 부분",
+      "full-right": "같은 의미의 소개 문구\n이해를 돕는 구체적 상황\n단정하지 않는 설명",
+      "full-foot": "보기 좋은 화면과 설명의 정확성은 함께 살펴볼 대상입니다"
+    },
+    "note": "lesson.md의 웹사이트 사례는 원문에서 확인한 정보와 영상 문구의 대응을 핵심으로 삼습니다. 원문에 없는 기능이나 효과가 더해지면 화면이 자연스러워도 설명은 달라질 수 있습니다. 실제 서비스 화면과 개념 설명용 장면도 구분됩니다. 이 장표는 특정 사이트의 현재 상태를 새로 검증한 자료가 아닙니다.",
+    "refs": [
+      {
+        "video": 4,
+        "channel": "피프",
+        "url": "https://www.youtube.com/watch?v=wOF1EDpWxQw&t=562"
+      },
+      {
+        "video": 3,
+        "channel": "Eric Park",
+        "url": "https://www.youtube.com/watch?v=O0NR110DmLk&t=220"
+      }
+    ]
+  },
+  {
+    "page": 18,
+    "source_page": 27,
+    "title": "수업 보조 영상의 설명 목표",
+    "edits": {
+      "part_label": "Part 4  설명의 흐름",
+      "section_number": "02",
+      "section_heading": "수업 보조 영상의 목적",
+      "title": "수업 보조 영상의 설명 목표",
+      "subtitle": "시청자가 이해해야 할 내용이 설명의 중심이 됩니다",
+      "full-left-title": "전달할 내용",
+      "full-right-title": "장면의 역할",
+      "full-left": "무엇이 달라졌는지\n왜 설명이 바뀌었는지\n어떤 차이를 기억할지",
+      "full-right": "변화 전후를 비교\n관찰과 이유를 연결\n끝부분에서 핵심을 정리",
+      "full-foot": "시계열은 수업 보조 영상에서 활용할 수 있는 한 가지 설명 방식입니다"
+    },
+    "note": "V3는 서비스 소개와 교육 내용의 성공 기준이 다름을 보여 주고 V4는 대사와 이미지가 있는 지식 전달 사례를 설명합니다. 수업 보조 영상은 핵심 개념과 변화의 이유를 이해하도록 돕습니다. 원자모형은 그중 시간의 흐름을 보여 주는 구체 예시이며 수업 보조 영상을 과학사에만 한정하지 않습니다.",
+    "refs": [
+      {
+        "video": 3,
+        "channel": "Eric Park",
+        "url": "https://www.youtube.com/watch?v=O0NR110DmLk&t=385"
+      },
+      {
+        "video": 4,
+        "channel": "피프",
+        "url": "https://www.youtube.com/watch?v=wOF1EDpWxQw&t=335"
+      }
+    ]
+  },
+  {
+    "page": 19,
+    "source_page": 17,
+    "title": "수업 보조 영상의 시계열 설명 예시",
+    "edits": {
+      "part_label": "Part 4  설명의 흐름",
+      "section_number": "02",
+      "section_heading": "시계열 설명 예시",
+      "title": "수업 보조 영상의 시계열 설명 예시",
+      "subtitle": "원자모형 변천은 시간에 따른 변화를 설명하는 한 가지 소재입니다",
+      "prompt_label": "변화의 순서와 차이",
+      "prompt_body": "달라진 설명을 비교\n관찰과 해석을 구분\n모형이 바뀐 이유를 연결\n마지막에는 핵심을 정리"
+    },
+    "note": "기존에 생성한 세 개념 모식도를 설명의 순서 예로 봅니다. 이 사례의 중심은 원자모형을 자세히 가르치는 것이 아니라 변화의 순서와 이유가 연결되는 설명입니다. 전자 수와 크기 비율은 단순화했고 실제 원자의 사진이나 관측 궤적이 아닙니다. 보어 모형을 현대의 최종 원자모형으로 설명하지 않습니다.",
+    "refs": [
+      {
+        "video": 3,
+        "channel": "Eric Park",
+        "url": "https://www.youtube.com/watch?v=O0NR110DmLk&t=385"
+      },
+      {
+        "video": 4,
+        "channel": "피프",
+        "url": "https://www.youtube.com/watch?v=wOF1EDpWxQw&t=335"
+      }
+    ]
+  },
+  {
+    "page": 20,
+    "source_page": 27,
+    "title": "관찰한 것과 설명하는 모형",
+    "edits": {
+      "part_label": "Part 4  설명의 흐름",
+      "section_number": "02",
+      "section_heading": "관찰과 해석",
+      "title": "관찰한 것과 설명하는 모형",
+      "subtitle": "현상과 그 현상을 설명하는 생각은 구분됩니다",
+      "full-left-title": "관찰",
+      "full-right-title": "해석과 모형",
+      "full-left": "어떤 현상이 보였는가\n어떤 결과가 달랐는가",
+      "full-right": "그 결과를 어떻게 설명할까\n이전 설명의 한계는 무엇일까",
+      "full-foot": "지식 영상의 움직임은 설명의 의미를 따라가야 합니다"
+    },
+    "note": "lesson.md의 C 사례는 관찰과 모형의 해석을 구분하라고 제안합니다. 보인 현상과 그것을 설명하는 생각이 한 화면에서 혼동되면 잘못 이해할 수 있습니다. 모식도의 움직임을 실제로 관측한 궤적으로 받아들이지 않도록 설명의 범위를 분명히 합니다.",
+    "refs": [
+      {
+        "video": 3,
+        "channel": "Eric Park",
+        "url": "https://www.youtube.com/watch?v=O0NR110DmLk&t=385"
+      },
+      {
+        "video": 4,
+        "channel": "피프",
+        "url": "https://www.youtube.com/watch?v=wOF1EDpWxQw&t=335"
+      }
+    ]
+  },
+  {
+    "page": 21,
+    "source_page": 27,
+    "title": "장면 전환과 의미의 연결",
+    "edits": {
+      "part_label": "Part 4  설명의 흐름",
+      "section_number": "02",
+      "section_heading": "장면과 의미의 연결",
+      "title": "장면 전환과 의미의 연결",
+      "subtitle": "앞 장면에서 본 정보가 다음 설명으로 이어집니다",
+      "full-left-title": "연결이 끊길 때",
+      "full-right-title": "의미가 이어질 때",
+      "full-left": "장면마다 새로운 주제\n전환 효과에 시선 집중\n앞뒤 설명의 관계가 모호",
+      "full-right": "같은 핵심 정보가 이어짐\n다음 장면의 이유가 보임\n설명의 변화가 드러남",
+      "full-foot": "전환의 화려함과 설명의 연결은 서로 다른 관점입니다"
+    },
+    "note": "lesson.md의 최소 모션 지식에는 장면마다 주제가 끊길 때 같은 핵심 도형으로 다음 설명을 이어 주는 관점이 있습니다. 같은 시각 요소가 반복된다는 이유만으로 의미가 이어지는 것은 아닙니다. 그 요소가 앞 장면의 어떤 정보를 다음 장면으로 가져오는지가 중요합니다.",
+    "refs": [
+      {
+        "video": 2,
+        "channel": "디자인하는AI",
+        "url": "https://www.youtube.com/watch?v=9uQVYIaYIeg&t=370"
+      },
+      {
+        "video": 5,
+        "channel": "노디 AI",
+        "url": "https://www.youtube.com/watch?v=x08U8HJKV0E&t=179"
+      }
+    ]
+  },
+  {
+    "page": 22,
+    "source_page": 20,
+    "title": "장면을 함께 볼 때 드러나는 설명 흐름",
+    "edits": {
+      "part_label": "Part 4  설명의 흐름",
+      "section_number": "02",
+      "section_heading": "설명 전체의 흐름",
+      "title": "장면을 함께 볼 때 드러나는 설명 흐름",
+      "subtitle": "개별 화면의 인상과 전체 설명의 이해를 함께 봅니다",
+      "full-hero": "도입의 질문\n중간의 비교\n마지막 정리",
+      "full-reasons": "무엇을 궁금해할지\n어떤 차이를 이해할지\n무엇을 기억하고 끝낼지",
+      "full-foot": "순서가 달라지면 같은 정보도 다르게 이해될 수 있습니다"
+    },
+    "note": "V2와 V6는 장면의 계획을 먼저 보면서 순서를 바꾸거나 장면을 덜어낼 수 있다는 점을 설명합니다. 질문·비교·정리는 수업 보조 영상의 한 예시이며 모든 영상이 반드시 같은 구조를 가져야 한다는 뜻은 아닙니다.",
+    "refs": [
+      {
+        "video": 2,
+        "channel": "디자인하는AI",
+        "url": "https://www.youtube.com/watch?v=9uQVYIaYIeg&t=608"
+      },
+      {
+        "video": 6,
+        "channel": "Jay Choi",
+        "url": "https://www.youtube.com/watch?v=_kc0riDpxOY&t=151"
+      }
+    ]
+  },
+  {
+    "page": 23,
+    "source_page": 33,
+    "title": "목적에 따라 달라지는 완성도의 기준",
+    "edits": {
+      "part_label": "Part 5  정리와 대화",
+      "section_number": "01",
+      "section_heading": "세 사례를 다시 보기",
+      "title": "목적에 따라 달라지는 완성도의 기준",
+      "subtitle": "같은 효과를 쓰더라도 영상이 전달해야 할 내용은 다릅니다"
+    },
+    "note": "세 사례를 처음의 전달 목적으로 다시 연결합니다. 홍보 타이포그래피는 읽히는 문구, 웹사이트 소개는 사실에 맞는 사용 맥락, 수업 보조 영상은 정확한 개념 설명이 중심입니다. 세 사례의 목적에 맞춰 정보 전달을 비교합니다.",
+    "refs": [
+      {
+        "video": 3,
+        "channel": "Eric Park",
+        "url": "https://www.youtube.com/watch?v=O0NR110DmLk&t=220"
+      },
+      {
+        "video": 3,
+        "channel": "Eric Park",
+        "url": "https://www.youtube.com/watch?v=O0NR110DmLk&t=385"
+      },
+      {
+        "video": 4,
+        "channel": "피프",
+        "url": "https://www.youtube.com/watch?v=wOF1EDpWxQw&t=335"
+      }
+    ],
+    "table": [
+      [
+        "사례",
+        "먼저 볼 관점",
+        "설명에서 남을 내용"
+      ],
+      [
+        "홍보 타이포그래피",
+        "문구와 일정이 읽히는가",
+        "핵심 메시지와 참여 안내"
+      ],
+      [
+        "웹사이트 소개",
+        "원문과 설명이 대응하는가",
+        "기능이 쓰이는 상황"
+      ],
+      [
+        "수업 보조 영상",
+        "사실과 설명 순서가 맞는가",
+        "개념 차이와 변화의 이유"
+      ]
+    ]
+  },
+  {
+    "page": 24,
+    "source_page": 46,
+    "title": "모션 그래픽을 이해하는 다섯 관점",
+    "edits": {
+      "part_label": "Part 5  정리와 대화",
+      "section_number": "01",
+      "section_heading": "오늘의 핵심",
+      "title": "모션 그래픽을 이해하는 다섯 관점",
+      "subtitle": "목적에 맞는 시간과 순서가 설명의 전달력을 만듭니다",
+      "summary_label": "기억할 점",
+      "summary_text": "각 효과가 어떤 정보 전달을 돕는지 살펴봅니다",
+      "heading_0": "전달 목적",
+      "description_0": "영상이 전할 정보",
+      "tag_0": "무엇을",
+      "heading_1": "읽는 시간",
+      "description_1": "문구가 머무는 시간",
+      "tag_1": "얼마나",
+      "heading_2": "시선과 순서",
+      "description_2": "강조와 등장 순서",
+      "tag_2": "어떤 순서",
+      "heading_3": "설명 흐름",
+      "description_3": "정보와 장면의 연결",
+      "tag_3": "연결",
+      "heading_4": "소리와 일관성",
+      "description_4": "리듬과 시각적 기준",
+      "tag_4": "어떤 느낌"
+    },
+    "note": "다섯 관점을 다시 연결합니다. 무엇을 전하는지 정하고, 문구가 읽힐 시간을 보며, 시선이 이동하는 순서와 장면의 연결을 이해합니다. 소리와 일관성은 그 흐름을 돕습니다. 특정 도구나 효과의 이름보다 각 표현의 역할을 중심으로 기억합니다.",
+    "refs": [
+      {
+        "video": 1,
+        "channel": "에이젠 AI",
+        "url": "https://www.youtube.com/watch?v=F7qQwYmIoxA&t=262"
+      },
+      {
+        "video": 2,
+        "channel": "디자인하는AI",
+        "url": "https://www.youtube.com/watch?v=9uQVYIaYIeg&t=55"
+      },
+      {
+        "video": 5,
+        "channel": "노디 AI",
+        "url": "https://www.youtube.com/watch?v=x08U8HJKV0E&t=264"
+      },
+      {
+        "video": 6,
+        "channel": "Jay Choi",
+        "url": "https://www.youtube.com/watch?v=_kc0riDpxOY&t=352"
+      }
+    ]
+  },
+  {
+    "page": 25,
+    "source_page": 12,
+    "title": "참고 영상 1",
+    "edits": {
+      "part_label": "Part 5  정리와 대화",
+      "section_number": "02",
+      "section_heading": "참고 자료",
+      "title": "참고 영상 1",
+      "subtitle": "제공한 여섯 영상의 자막과 설명란에서 정리한 원리입니다",
+      "dev-case-head-0": "참고 영상",
+      "dev-case-head-1": "살펴본 주제",
+      "dev-case-head-2": "핵심 관점",
+      "dev-case-choice": "원본 링크와 참고 구간은 각 장표의 발표자 노트에 있습니다",
+      "dev-case-0-0": "V1  에이젠 AI",
+      "dev-case-0-1": "브랜드 정보",
+      "dev-case-0-2": "필수 요소와 구체적 표현",
+      "dev-case-1-0": "V2  디자인하는AI",
+      "dev-case-1-1": "타이포그래피",
+      "dev-case-1-2": "장면·문구·타이밍의 관계",
+      "dev-case-2-0": "V3  Eric Park",
+      "dev-case-2-1": "서비스와 교육",
+      "dev-case-2-2": "목적에 따른 설명 방식"
+    },
+    "note": "이 강의는 lesson.md의 자막·설명란 기반 분석을 사용합니다. 화면의 정확한 배치와 색, 화면에만 있는 프롬프트 전문을 분석한 것으로 해석하지 않습니다. 영상 제목에 포함된 모델명이나 저자의 개인 경험은 현재 성능 순위나 보장 조건의 근거로 사용하지 않습니다.\nV1 에이젠 AI: https://www.youtube.com/watch?v=F7qQwYmIoxA\nV2 디자인하는AI: https://www.youtube.com/watch?v=9uQVYIaYIeg\nV3 Eric Park: https://www.youtube.com/watch?v=O0NR110DmLk",
+    "refs": [
+      {
+        "video": 1,
+        "channel": "에이젠 AI",
+        "url": "https://www.youtube.com/watch?v=F7qQwYmIoxA&t=0"
+      },
+      {
+        "video": 2,
+        "channel": "디자인하는AI",
+        "url": "https://www.youtube.com/watch?v=9uQVYIaYIeg&t=0"
+      },
+      {
+        "video": 3,
+        "channel": "Eric Park",
+        "url": "https://www.youtube.com/watch?v=O0NR110DmLk&t=0"
+      }
+    ]
+  },
+  {
+    "page": 26,
+    "source_page": 12,
+    "title": "참고 영상 2",
+    "edits": {
+      "part_label": "Part 5  정리와 대화",
+      "section_number": "02",
+      "section_heading": "참고 자료",
+      "title": "참고 영상 2",
+      "subtitle": "제공한 여섯 영상의 자막과 설명란에서 정리한 원리입니다",
+      "dev-case-head-0": "참고 영상",
+      "dev-case-head-1": "살펴본 주제",
+      "dev-case-head-2": "핵심 관점",
+      "dev-case-choice": "원본 링크와 참고 구간은 각 장표의 발표자 노트에 있습니다",
+      "dev-case-0-0": "V4  피프",
+      "dev-case-0-1": "대사와 자료",
+      "dev-case-0-2": "정보와 장면의 대응",
+      "dev-case-1-0": "V5  노디 AI",
+      "dev-case-1-1": "음악과 리듬",
+      "dev-case-1-2": "박자와 읽는 시간",
+      "dev-case-2-0": "V6  Jay Choi",
+      "dev-case-2-1": "계획과 판단",
+      "dev-case-2-2": "전체 흐름과 표현의 선택"
+    },
+    "note": "이 강의는 lesson.md의 자막·설명란 기반 분석을 사용합니다. 화면의 정확한 배치와 색, 화면에만 있는 프롬프트 전문을 분석한 것으로 해석하지 않습니다. 영상 제목에 포함된 모델명이나 저자의 개인 경험은 현재 성능 순위나 보장 조건의 근거로 사용하지 않습니다.\nV4 피프: https://www.youtube.com/watch?v=wOF1EDpWxQw\nV5 노디 AI: https://www.youtube.com/watch?v=x08U8HJKV0E\nV6 Jay Choi: https://www.youtube.com/watch?v=_kc0riDpxOY",
+    "refs": [
+      {
+        "video": 4,
+        "channel": "피프",
+        "url": "https://www.youtube.com/watch?v=wOF1EDpWxQw&t=0"
+      },
+      {
+        "video": 5,
+        "channel": "노디 AI",
+        "url": "https://www.youtube.com/watch?v=x08U8HJKV0E&t=0"
+      },
+      {
+        "video": 6,
+        "channel": "Jay Choi",
+        "url": "https://www.youtube.com/watch?v=_kc0riDpxOY&t=0"
+      }
+    ]
+  },
+  {
+    "page": 27,
+    "source_page": 48,
+    "title": "함께 이야기하기",
+    "edits": {
+      "part_label": "Part 5  정리와 대화",
+      "section_number": "03",
+      "section_heading": "질의응답",
+      "title": "함께 이야기하기",
+      "subtitle": "오늘 살펴본 원리와 사례에 대해 이야기합니다",
+      "questions-hero": "어떤 표현이\n가장 이해하기 쉬웠나요?",
+      "questions-bottom": "문구가 읽힌 순간    기능이 이해된 장면    변화가 드러난 설명"
+    },
+    "note": "영상의 어떤 표현이 이해를 도왔는지 묻습니다. 문구가 충분히 읽힌 순간, 기능의 쓰임이 보였던 장면, 변화의 이유가 이어진 설명을 떠올리며 대화합니다. 다섯 관점과 사례를 연결하며 강의를 마무리합니다.",
+    "refs": [
+      {
+        "video": 6,
+        "channel": "Jay Choi",
+        "url": "https://www.youtube.com/watch?v=_kc0riDpxOY&t=352"
+      }
+    ]
+  }
+]

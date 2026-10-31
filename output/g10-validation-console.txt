@@ -1,0 +1,19 @@
+EOF marker not found
+{
+  "profile": "all",
+  "rules_version": "2.2.0",
+  "tests_run": 187,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "expected_results_match": true,
+  "source_unchanged": true,
+  "training_simulation_all_gates_passed": true,
+  "production_rejects_simulation": true,
+  "limits": [
+    "Fixtures test records and parser behavior, not real user approval, UI fidelity, or tool execution.",
+    "No reference PDF, installed tool, external service, or Figma file is modified.",
+    "The local guard applies to harness-managed writes, not OS-wide access control."
+  ]
+}
+Validation details: C:\Users\User\Documents\ChatGPT\Sci_eum_AIPPT\ppt_harness\harness\validation\20261027T101558-904ee9f0\tests.log

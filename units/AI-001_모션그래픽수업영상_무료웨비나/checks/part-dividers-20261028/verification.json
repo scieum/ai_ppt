@@ -1,0 +1,28 @@
+{
+  "final": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\output\\webinar-knowledge-only\\NotionTalk_모션그래픽_파트구분_26장_v18.pptx",
+  "slide_count": 26,
+  "added_divider_pages": [
+    2,
+    5,
+    19,
+    21,
+    24
+  ],
+  "original_slide_count": 21,
+  "all_original_slide_XML_notes_media_unchanged": true,
+  "all_original_slides_pixel_identical": true,
+  "GIF_parts_preserved": 33,
+  "native_timing_pages": [
+    6,
+    11,
+    20
+  ],
+  "new_slide_body_overflow": [],
+  "PDF_pages": 26,
+  "research_candidates": 158,
+  "research_selected": 10,
+  "selected_caption_segments": 6019,
+  "lesson_md_unchanged": true,
+  "G10_inherited_state": "unchanged, not approved by this task",
+  "final_sha256": "a851d031c1822e7e7125b1dfb6bf4dc0550bf86f5d0c2008940495f1b68c866d"
+}

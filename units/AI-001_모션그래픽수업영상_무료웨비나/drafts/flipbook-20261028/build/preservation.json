@@ -1,0 +1,159 @@
+{
+  "source_sha256": "50fda67a7c277fcd8f90d6d1765a90771f8bcf2127d123e1be917a4edf8ba9b3",
+  "sequence": [
+    1,
+    2,
+    3,
+    4,
+    "flipbook",
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "source_slide_geometry": [
+    {
+      "source_display_page": 1,
+      "target_page": 1,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 2,
+      "target_page": 2,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 3,
+      "target_page": 3,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 4,
+      "target_page": 4,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 5,
+      "target_page": 6,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 6,
+      "target_page": 7,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 7,
+      "target_page": 8,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 8,
+      "target_page": 9,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 9,
+      "target_page": 10,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 10,
+      "target_page": 11,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 11,
+      "target_page": 12,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 12,
+      "target_page": 13,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 13,
+      "target_page": 14,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 14,
+      "target_page": 15,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 15,
+      "target_page": 16,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 16,
+      "target_page": 17,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 17,
+      "target_page": 18,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 18,
+      "target_page": 19,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 19,
+      "target_page": 20,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 20,
+      "target_page": 21,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 21,
+      "target_page": 22,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    }
+  ],
+  "all_original_media_masters_layouts_themes_identical": true,
+  "new_slide_parts": {
+    "flipbook": "ppt/slides/lesson-flipbook.xml"
+  }
+}

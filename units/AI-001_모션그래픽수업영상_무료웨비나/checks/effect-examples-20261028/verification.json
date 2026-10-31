@@ -1,0 +1,33 @@
+{
+  "slides": 10,
+  "modified_pages": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "other_slide_xml_unchanged": true,
+  "retained_native_animation_pages": [
+    3,
+    6,
+    9
+  ],
+  "existing_media_preserved": true,
+  "six_embedded_looping_gifs_verified": true,
+  "knowledge_only_scope_and_native_table_preserved": true,
+  "other_slide_pixels_unchanged": true,
+  "changed_slide_header_logo_footer_pixels_unchanged": true,
+  "body_text_overflow_count": 0,
+  "pdf_pages": 10,
+  "all_slides_rendered": true,
+  "pptx_sha256": "42f4e3878a8e6730230e5f37cba3a81c03693f0d7c26a12945ff595e88e14a3d",
+  "six_effects_motion_verified_in_native_powerpoint_video": {
+    "7-0": 1833,
+    "7-1": 1921,
+    "7-2": 1223,
+    "8-0": 3455,
+    "8-1": 3811,
+    "8-2": 2660
+  },
+  "g10_status": "unchanged for inherited assets; new effect assets authored in project code"
+}

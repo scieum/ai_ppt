@@ -1,0 +1,14 @@
+{
+  "slides": 48,
+  "removed_bars": [
+    15,
+    16,
+    19,
+    20,
+    25
+  ],
+  "remaining_bars": 11,
+  "other_43_slides_byte_and_pixel_identical": true,
+  "other_objects_media_notes_timing_unchanged": true,
+  "sha256": "cae41738b915277f2448a48ffc51111377aecd39ac79177eae22e76f1f008d0b"
+}

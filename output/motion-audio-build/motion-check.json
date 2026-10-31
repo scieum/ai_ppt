@@ -1,0 +1,51 @@
+{
+  "snap": {
+    "frames": 92,
+    "unique_frames": 23,
+    "duration_ms": 4600
+  },
+  "blur": {
+    "frames": 92,
+    "unique_frames": 24,
+    "duration_ms": 4600
+  },
+  "counter": {
+    "frames": 92,
+    "unique_frames": 35,
+    "duration_ms": 4600
+  },
+  "squash": {
+    "frames": 92,
+    "unique_frames": 35,
+    "duration_ms": 4600
+  },
+  "flip": {
+    "frames": 92,
+    "unique_frames": 24,
+    "duration_ms": 4600
+  },
+  "silent": {
+    "streams": [
+      {
+        "codec_type": "video",
+        "duration": "4.000000"
+      }
+    ]
+  },
+  "with-sound": {
+    "streams": [
+      {
+        "codec_type": "video",
+        "duration": "4.000000"
+      },
+      {
+        "codec_type": "audio",
+        "duration": "4.000000"
+      }
+    ]
+  },
+  "powerpoint_export_audio": {
+    "peak": 0.1844867467880249,
+    "nonzero_samples": 10790
+  }
+}

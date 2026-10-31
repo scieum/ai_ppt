@@ -1,0 +1,60 @@
+{
+  "slides": 21,
+  "pdf_pages": 21,
+  "sheet_count": 3,
+  "pose_count": 9,
+  "old_body_character_instances": 7,
+  "new_body_character_instances": 4,
+  "used": [
+    {
+      "page": 4,
+      "pose": "bear-thinking",
+      "crop": {
+        "l": "9320",
+        "t": "1637",
+        "r": "67008",
+        "b": "2865"
+      }
+    },
+    {
+      "page": 16,
+      "pose": "bear-stopwatch",
+      "crop": {
+        "l": "38164",
+        "t": "1910",
+        "r": "40447",
+        "b": "2729"
+      }
+    },
+    {
+      "page": 17,
+      "pose": "woman-compare",
+      "crop": {
+        "l": "3946",
+        "t": "4059",
+        "r": "70293",
+        "b": "1917"
+      }
+    },
+    {
+      "page": 21,
+      "pose": "man-approve",
+      "crop": {
+        "l": "37655",
+        "t": "2142",
+        "r": "39177",
+        "b": "1466"
+      }
+    }
+  ],
+  "all_21_slides_visible_text_tables_and_timing_preserved": true,
+  "all_original_gif_parts_unchanged": 33,
+  "14_unmodified_slides_pixel_identical": true,
+  "all_sheet_png_bytes_embedded_unchanged": true,
+  "native_transparent_crops_verified": true,
+  "body_text_overflow": [],
+  "lesson_unchanged": true,
+  "finalizer_pass": true,
+  "final_sha256": "6089b062742adc0a3b9882b5002aad6801f01bbd4da2be46ef2a08cad41cea56",
+  "new_assets_rights_record": "user-owned character references, built-in generated pose sheets; inherited G10 status unchanged"
+}

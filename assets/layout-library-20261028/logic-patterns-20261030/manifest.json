@@ -1,0 +1,110 @@
+{
+  "references": [
+    {
+      "attachment": 1,
+      "source": "C:\\Users\\User\\AppData\\Local\\Temp\\codex-clipboard-56485ada-1a9a-45a1-a8b3-29f0f8b74109.png",
+      "internal_reference_copy": "assets\\layout-library-20261028\\logic-patterns-20261030\\references\\reference-01.png",
+      "sha256": "0079772b0639d324d64c4523b8a7518c79aef500a656765d5b4a2a24b9793ca1",
+      "used_as_slide_image": false
+    },
+    {
+      "attachment": 2,
+      "source": "C:\\Users\\User\\AppData\\Local\\Temp\\codex-clipboard-bce621b6-e672-4e1c-b2e7-b352cea22029.png",
+      "internal_reference_copy": "assets\\layout-library-20261028\\logic-patterns-20261030\\references\\reference-02.png",
+      "sha256": "2c9875b171ff150cd701165606681cc4a6604e94fe9285d6a13dd6f20e62d864",
+      "used_as_slide_image": false
+    },
+    {
+      "attachment": 3,
+      "source": "C:\\Users\\User\\AppData\\Local\\Temp\\codex-clipboard-64c144b1-1847-4621-9ffe-66cd0ac1c5b5.png",
+      "internal_reference_copy": "assets\\layout-library-20261028\\logic-patterns-20261030\\references\\reference-03.png",
+      "sha256": "95fb7c385b6388f6d95912d1e0f9c25749ebe59c8df9110bd232654afbee8433",
+      "used_as_slide_image": false
+    },
+    {
+      "attachment": 4,
+      "source": "C:\\Users\\User\\AppData\\Local\\Temp\\codex-clipboard-e0d2ea86-4978-454e-8831-18171cf16341.png",
+      "internal_reference_copy": "assets\\layout-library-20261028\\logic-patterns-20261030\\references\\reference-04.png",
+      "sha256": "a183ba3fda9cac0f09c133a3e5e77e0245511c363e14451f8ed7d9057cc56697",
+      "used_as_slide_image": false
+    },
+    {
+      "attachment": 5,
+      "source": "C:\\Users\\User\\AppData\\Local\\Temp\\codex-clipboard-f637c771-1843-480a-aaf7-2221c2088c91.png",
+      "internal_reference_copy": "assets\\layout-library-20261028\\logic-patterns-20261030\\references\\reference-05.png",
+      "sha256": "ad07e62aa4fc614d031a382b005e2e1dea056c784755f6bd6ce343c3df8f0e67",
+      "used_as_slide_image": false
+    },
+    {
+      "attachment": 6,
+      "source": "C:\\Users\\User\\AppData\\Local\\Temp\\codex-clipboard-6000ed83-4096-43be-86f7-c7aee164e2c0.png",
+      "internal_reference_copy": "assets\\layout-library-20261028\\logic-patterns-20261030\\references\\reference-06.png",
+      "sha256": "212fb9bcc041f67fe693df669189e9a25fa6a3cb723f36a3043f72a66096f8eb",
+      "used_as_slide_image": false
+    },
+    {
+      "attachment": 7,
+      "source": "C:\\Users\\User\\AppData\\Local\\Temp\\codex-clipboard-035c9349-87d2-4185-ba81-88321f2b2269.png",
+      "internal_reference_copy": "assets\\layout-library-20261028\\logic-patterns-20261030\\references\\reference-07.png",
+      "sha256": "5ec4907b64bf067d69d58f3e722315696cbdff8c96c17e99d7473178b972c8da",
+      "used_as_slide_image": false
+    },
+    {
+      "attachment": 8,
+      "source": "C:\\Users\\User\\AppData\\Local\\Temp\\codex-clipboard-68d93889-922e-4674-b502-80fa7f347f57.png",
+      "internal_reference_copy": "assets\\layout-library-20261028\\logic-patterns-20261030\\references\\reference-08.png",
+      "sha256": "5ec4907b64bf067d69d58f3e722315696cbdff8c96c17e99d7473178b972c8da",
+      "used_as_slide_image": false
+    }
+  ],
+  "mapping": [
+    {
+      "page": 20,
+      "pattern": "질문에서 이미지·영상 두 기준으로 분기",
+      "refs": [
+        "첨부 3 / R01 p17"
+      ],
+      "package_part": "ppt/slides/reflow-12.xml",
+      "notes_part": "ppt/notesSlides/reflow-12.xml"
+    },
+    {
+      "page": 36,
+      "pattern": "스틸컷→짧은 구간→전체 영상의 세 단계",
+      "refs": [
+        "첨부 5 / R01 p23"
+      ],
+      "package_part": "ppt/slides/styleDocsreview-sequence.xml",
+      "notes_part": "ppt/notesSlides/styleDocsreview-sequence.xml"
+    },
+    {
+      "page": 37,
+      "pattern": "점검 기준·질문·확인 자료를 연결한 행별 비교",
+      "refs": [
+        "첨부 1 / R01 p11",
+        "첨부 4 / R01 p20"
+      ],
+      "package_part": "ppt/slides/styleDocsreview-criteria.xml",
+      "notes_part": "ppt/notesSlides/styleDocsreview-criteria.xml"
+    },
+    {
+      "page": 39,
+      "pattern": "혼동되는 보관과 재사용 가능한 보관의 대조",
+      "refs": [
+        "첨부 2 / R01 p15",
+        "첨부 6 / 결론 띠"
+      ],
+      "package_part": "ppt/slides/styleDocsversion.xml",
+      "notes_part": "ppt/notesSlides/styleDocsversion.xml"
+    },
+    {
+      "page": 40,
+      "pattern": "기준 확인→수정 확인→제작, 중간 확인 지점 표시",
+      "refs": [
+        "첨부 7·8 / R01 p29",
+        "첨부 6 / 결론 띠"
+      ],
+      "package_part": "ppt/slides/reflow-16.xml",
+      "notes_part": "ppt/notesSlides/reflow-16.xml"
+    }
+  ]
+}

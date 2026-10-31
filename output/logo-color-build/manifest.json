@@ -1,0 +1,16 @@
+[
+  {
+    "name": "claude",
+    "generated_path": "C:/Users/User/.codex/generated_images/01a17c20-5bae-7d62-b099-b665b7e19a91/exec-caf3e9e4-22e6-4c5a-9980-f37f938926b2.png",
+    "prompt": "Precise color restoration edit. Image 1 is the edit target: a neutral smoked-glass app tile. Image 2 is a color reference only: the earlier colored logo tile. Change ONLY the central white claude logo in Image 1 to warm coral terracotta #D97757, matching the central logo color in Image 2. Keep the logo silhouette, size, position, topology, existing glass tile material, neutral graphite glass, silver rim, reflections and exact canvas composition of Image 1. Do NOT bring back the orange corner decorations, orange border, orange underline, or warm background tint from Image 2. The logo itself MUST be clearly colored, not white, pale gray or monochrome. Keep flat vivid readable logo color with no glow bleeding across the tile. No text, no new symbols. Preserve transparent background and generous transparent margin around the centered square glass tile.",
+    "tool": "built-in image_gen.imagegen",
+    "asset": "assets/tool-logos/glass-color-v4/claude-front.png"
+  },
+  {
+    "name": "higgsfield",
+    "generated_path": "C:/Users/User/.codex/generated_images/01a17c20-5bae-7d62-b099-b665b7e19a91/exec-9c62609c-bd59-456a-a37d-06dc470441d7.png",
+    "prompt": "Precise color restoration edit. Image 1 is the edit target: a neutral smoked-glass app tile. Image 2 is a color reference only: the earlier colored logo tile. Change ONLY the central white higgsfield logo in Image 1 to bright acid lime #CFFF00, matching the central logo color in Image 2. Keep the logo silhouette, size, position, topology, existing glass tile material, neutral graphite glass, silver rim, reflections and exact canvas composition of Image 1. Do NOT bring back the orange corner decorations, orange border, orange underline, or warm background tint from Image 2. The logo itself MUST be clearly colored, not white, pale gray or monochrome. Keep flat vivid readable logo color with no glow bleeding across the tile. No text, no new symbols. Preserve transparent background and generous transparent margin around the centered square glass tile.",
+    "tool": "built-in image_gen.imagegen",
+    "asset": "assets/tool-logos/glass-color-v4/higgsfield-front.png"
+  }
+]

@@ -1,71 +1,117 @@
 # 하네스 사용 안내
 
-## 현재 구현 범위
+기본 프로필은 AI 사용법 연수용 `ai_training` 2.2.0이다. 기존 G01~G09와 단계·승인·원본 보호 구조를 유지하고 G10 저작권·권리·독자성 검토를 추가했다. 과학 프로필은 기존 G01~G09를 유지한다.
 
-- `rules.json`: G01~G09 게이트, 단계별 선행·종료 검사, 역할별 쓰기 폴더, 재시도 한도.
-- `gate.py`: Python 표준 라이브러리 기반 검사기. 외부 패키지 설치가 필요 없다.
-- `validate.py`: 삼투 현상 복사본과 명확히 표시된 모의 자료를 사용하는 회귀 검증.
-- `validation/latest.json`: 가장 최근 검증 결과 위치.
+새 강의에서 브랜드 지정이 없으면 항상 **“이번에는 사이음/노션톡 중 무엇인가요?”**라고 질문한다. 선택은 해당 강의에만 적용하며 이전 강의의 선택을 자동 재사용하지 않는다. 모든 장표 우측 상단에 선택한 원본 로고를 넣고, 푸터 권리자는 사이음=`Sci_eum`, 노션톡=`NotionTalk`으로 적용한다. 나머지 푸터 문구·연도·기호는 유지한다. [브랜드 자산](../assets/branding/README.md)을 따른다.
 
-새 수업 제작, 공식 교육과정 적합성 판정, 피그마 업로드를 이번 검증에서 수행한 것은 아니다.
+- `rules.json`: 연수용 규칙의 단일 기준
+- `training_gate.py`: 수행 목표·실습·시간·캡처·배포본·리허설·브랜드·참조 차용 검사
+- `copyright_gate.py`: 원문 문구 일치 선별, 권리 목록·배포 범위·현재 파일 해시·사람의 독자성 검토 확인
+- `gate.py`, `design_gate.py`: 공통 실행·승인·상태·참조 검사
+- `rules-science.json`: 기존 과학 수업용 1.1.0 규칙 보존
+- `validate.py`: 외부 원본 없이 실행하는 격리 회귀 검사
+- `validate_science.py`: 기존 79건의 과학 수업 회귀 검사와 선택적 원본 복사본 검증
+- [데이터 계약](../docs/ai-training-contract.md): JSON 필드와 증빙 형식
+- [편집용 양식](templates/ai-training/plan.md): 승인·통과 증빙을 포함하지 않은 예시
 
-## 레퍼런스 재현 검사
+## 설치와 실행
 
-G08·G09 및 prototype/design_confirmation 단계와 sample 쓰기 역할을 추가했다. 7유형과 실제 사용자 확인이 없으면 전체 제작과 최종화를 막는다. 명령과 파일 계약은 [엄격한 레퍼런스 검증](../docs/harness-reference-fidelity.md)을 따른다. 과거 디자인 승인이나 기존 체크포인트는 새 검사를 대체하지 않는다.
-
-## 명령
-
-프로젝트 루트에서 Python 3.10 이상으로 실행한다. 아래 `python`은 사용 중인 Python 실행 파일로 바꿀 수 있다.
-
-```powershell
-python harness/gate.py --unit units/2-05_삼투현상 baseline --protect inbox/ppt --protect textbook-chunjae --protect etc
-python harness/gate.py --unit units/2-05_삼투현상 check --gate G01
-python harness/gate.py --unit units/2-05_삼투현상 plan-hash
-python harness/gate.py --unit units/2-05_삼투현상 check --report
-python harness/gate.py --unit units/2-05_삼투현상 checkpoint research
-python harness/gate.py --unit units/2-05_삼투현상 resume
-python harness/gate.py --unit units/2-05_삼투현상 retry production overlap-slide08
-python harness/gate.py --unit units/2-05_삼투현상 write production drafts/deck.pptx --from-file path/to/prepared.pptx
-python harness/gate.py --unit units/2-05_삼투현상 finalize
-```
-
-실제 존재하는 보호 대상 경로를 지정한다. 기준 목록은 `harness/control/`에 소단원별로 저장하며 기존 기준을 조용히 덮어쓸 수 없다. 각 단계의 산출물이 준비되면 `checkpoint`로 종료 검사를 수행한다. `check`는 기본 읽기 전용이며 `--report`를 지정할 때 보고서를 저장한다. 각 실행 보고서는 checks/runs/실행ID.json에 보존하고 checks/report.json은 최신 결과를 가리킨다. 종료 코드는 0=통과, 1=게이트 실패, 2=실행·입력 차단이다. `resume`은 무효화된 단계 상태를 갱신하므로 읽기 전용 명령이 아니다.
-
-`write`는 해당 역할의 경로와 단계 선행 게이트를 확인한 뒤에만 파일을 기록한다. 기존 파일은 `history/실행ID/`에 보존한다. 판정자 역할은 쓸 수 없다. 허용 경로 안에 있더라도 보호 대상으로 등록된 파일은 변경 전에 차단한다.
-
-`finalize`는 모든 게이트와 단계별 체크포인트가 유효할 때만 PPTX·DOCX를 final/로 복사한다. 모의 시험 모드에서는 최종 납품을 금지한다.
-
-## 데이터 계약
-
-구체적인 전체 예시는 최신 검증 세션의 `unit/`을 참조한다. 그 예시는 모두 시험용이며 실제 승인·교과서 근거·리뷰로 재사용하면 안 된다.
-
-- `input.json`: unit, curriculum, target_slides, minutes.
-- `research/sources.json`: 비어 있지 않은 배열. 각 항목에 id, role, citation, curriculum, evidence가 필요하다. role은 primary(천재 물질과 에너지), secondary(화학Ⅱ), comparison(다른 교과서·완자), standard(성취기준)의 근거를 포함해야 한다.
-- `research/content-map.json`: id, claim, standard, standard_source_id, rationale, scope, source_ids. scope는 범위 내 / 보충·심화 / 제외. 보충·심화는 inclusion_reason과 separation도 필요하다.
-- 증빙 형식: `{"path":"research/extract.txt","sha256":"파일의 SHA-256"}`. 경로는 소단원 폴더 기준 상대 경로이며 실제 파일의 해시와 일치해야 한다. 내용 발췌에는 책명·쪽수·URL 등 원문 위치를 기재한다.
-- `plan.md`: 사람이 읽는 설명·페이지 표와 함께, 기계가 읽을 JSON 블록을 정확히 하나 둔다. 블록 언어 표시는 `harness-plan`이다. 변경 후 설명과 JSON을 함께 갱신한다.
-- 계획 JSON: unit, curriculum, objectives, target_slides, minutes, design, supplementary, slides. slides 각 항목은 number, title, message, content_ids, visual(자산 ID 배열), source_ids, layout, character를 포함한다. 본문에 사용하지 않는 캐릭터는 `none`처럼 명시한다.
-- supplementary는 보충 내용 ID별 inclusion_reason, separation, source_ids를 담는다. 보충 내용이 없으면 빈 객체다.
-- `approvals.json`: 배열. unit, actor=`human`, decision=`approve`, message_ref, plan_hash, evidence를 포함한다. 실제 사용자 응답을 출처로 저장해야 하며 오케스트레이터가 승인 문구를 지어내면 안 된다. 모의 승인은 simulation=true로 표시하고 실제 모드에서는 거절한다.
-- 승인 해시는 교육과정·목표·시간·장수·페이지별 핵심 메시지·내용 ID·내용 판정과 보충 내용을 포함한다. 레이아웃만 바꾸면 승인은 유지되지만 단계별 재검사는 필요하다. 기계가 문구의 의미 동등성을 이해하는 것은 아니므로 핵심 메시지 문구를 바꾸면 보수적으로 재승인을 요구한다.
-- `assets/manifest.json`: id, file(경로·해시), kind(crop/generated/existing), purpose, review=`passed`, reviewer. 크롭은 source_id와 page, 나머지는 provenance가 필요하다. 계획에 연결된 전체 자산 ID와 일치해야 한다.
-- `drafts/deck.pptx`: 실제 OOXML 슬라이드 관계 순서와 노트를 읽는다. 각 장 노트에는 비어 있지 않은 설명과 `출처:` 또는 `Source:`가 필요하다.
-- `drafts/script.docx`: 각 장 제목 문단을 `Slide 1`, `Slide 2` 형식으로 둔다. 해당 구간에 원고와 출처를 둔다. 구간 수·순서·출처의 존재를 검사하지만 원고의 교육적 품질은 별도 리뷰가 필요하다.
-- `checks/reviews.json`: plan_hash, artifacts(PPTX·DOCX의 현재 해시), open_issues(미해결 배열), slides. 장별 number, render(경로·해시), science/curriculum/visual 검토 기록을 둔다. 각 검토에는 status=`passed`, reviewer, comment, evidence가 필요하다.
-- `figma/mapping.json`: url, deck_sha256, status=`verified`, reviewer, evidence, frames(각 slide·node_id). 프레임 ID는 중복될 수 없다. 피그마 연결 도구로 실제 확인한 결과를 증빙에 저장한다.
-
-## 재개·판정의 범위
-
-- 해시에는 규칙 파일과 검사기 코드도 포함한다. 규칙·입출력 변경은 관련 단계와 후속 단계의 기존 통과를 무효화한다.
-- 로컬 증빙 검사는 기록·파일·해시·참조의 일관성을 판정한다. 사용자 신원 인증, 원문 내용의 진위, 피그마 서버의 현재 상태를 독립적으로 인증하지 않는다.
-- 이 구현의 쓰기 제한은 `gate.py write`를 통하는 파일 작업에 적용된다. 임의의 터미널·앱·플러그인 접근까지 OS 수준에서 차단하는 샌드박스는 아니다. 작업 에이전트는 반드시 이 경로를 사용해야 한다.
-- 이미지 생성 도구와 피그마 쓰기 호출 전에도 오케스트레이터가 해당 선행 게이트를 실행해야 한다. 도구 자체가 이 검사기에 기술적으로 종속된 것은 아니다.
-- 과학·교육과정·시각 리뷰가 없으면 통과하지 않는다. 시험의 모의 통과 기록은 실제 수업의 내용 검수 결과가 아니다.
-
-## 검증 재실행
+Python 3.10 이상을 사용한다. 공통 실행기와 과학 프로필은 표준 라이브러리만 사용한다. 연수용 PDF 검증과 전체 회귀 시험에는 `pypdf`가 필요하다.
 
 ```powershell
-python harness/validate.py --source 'inbox/ppt/[물에맛.Zip] 2-05. 삼투 현상.pptx' --renders analysis/render1
+python -m pip install -r harness/requirements.txt
+python harness/gate.py --help
+python harness/validate.py
 ```
 
-검증은 별도 세션 폴더와 임시 복사본에서만 실패를 유도한다. 원본의 실행 전후 SHA-256을 비교한다. 정상 경로는 모의 근거·승인·리뷰·피그마 자료로 검사하며, 실제 복사본은 그런 기록 없이 별도 검사해 전체 완료가 차단되는지 확인한다.
+회귀 시험은 모의 자료를 임시 폴더에 만들며 실제 강의·승인·Figma 검증을 수행하지 않는다. 상세 로그와 요약은 `harness/validation/<실행ID>/`, 최신 위치는 `harness/validation/latest.json`에 저장한다. 모의 증빙은 실제 모드에서 거절한다.
+
+## 새 연수 준비
+
+`units/AI-001_강의명/` 안에 강의별 자료를 준비한다. 루트 `plan.md`는 공통 지침이며 직접 검사할 실행 계획이 아니다.
+
+편집용 예시는 `harness/templates/ai-training/`에 있다. `input.json`, `plan.md`를 강의 폴더에 복사하고, `sources.json`, `content-map.json`은 그 안의 `research/`에 둔다. 실제 강의의 입력·쪽별 계획·시간·실습으로 수정한다. 양식의 해시 자리표시자는 실제 출처 파일의 SHA-256으로 바꾼다. 승인 파일은 실제 사용자 응답을 확보한 뒤 작성한다.
+
+1. `input.json`에 청중·환경·수행 목표·시간·장수·납품 항목·브랜드를 정한다.
+2. `research/`에 출처와 내용·목표 대응, 필요한 공식 사용법 검증을 남긴다.
+3. 강의별 `plan.md`에 사람이 읽을 계획과 정확히 하나의 `harness-plan` JSON 블록을 둔다.
+4. 원본 보호 기준을 만들고 G01·G02를 검사한다. 실제 계획 확인 응답을 현재 계획 해시에 연결한다.
+5. 자산과 실습 파일을 준비하고 G04, 대표 7유형과 G08, 사용자 디자인 확인 G09를 차례로 진행한다.
+6. 전체 PPTX·DOCX·선택한 PDF를 제작하고, 페이지별 검토·리허설·필요 시 Figma 대응을 기록한다.
+
+사용할 자료의 권리를 조사하고, 전체 제작 종료 검사 전에 [G10 검토 기록](../docs/copyright-review.md)을 준비한다. `copyright-scan`은 검사 자료만 계산하며 권리를 승인하지 않는다. `--report`를 붙이면 원본 보호·역할 검사를 거쳐 `rights/scan.json`에 저장한다. 계획·자산·출처·현재 출력 변경 후에는 스캔과 사람의 검토를 갱신한다.
+
+```powershell
+python harness/gate.py --unit units/AI-001_강의명 copyright-scan --report
+python harness/gate.py --unit units/AI-001_강의명 check --gate G10
+```
+
+아래 `sources`는 실제 존재하는 읽기 전용 원본 경로로 바꾼다. 원본 없이 빈 보호 기준을 만들거나 기존 기준을 조용히 덮어쓸 수 없다.
+
+```powershell
+python harness/gate.py --unit units/AI-001_강의명 baseline --protect sources
+python harness/gate.py --unit units/AI-001_강의명 check --gate G01 --gate G02
+python harness/gate.py --unit units/AI-001_강의명 plan-hash
+python harness/gate.py --unit units/AI-001_강의명 checkpoint research
+python harness/gate.py --unit units/AI-001_강의명 checkpoint plan
+python harness/gate.py --unit units/AI-001_강의명 preflight image
+python harness/gate.py --unit units/AI-001_강의명 write image exercises/prompt.txt --from-file path/to/prepared-prompt.txt
+python harness/gate.py --unit units/AI-001_강의명 checkpoint image
+python harness/gate.py --unit units/AI-001_강의명 preflight prototype
+python harness/gate.py --unit units/AI-001_강의명 check --gate G08 --gate G09
+python harness/gate.py --unit units/AI-001_강의명 checkpoint prototype
+python harness/gate.py --unit units/AI-001_강의명 checkpoint design_confirmation
+python harness/gate.py --unit units/AI-001_강의명 preflight production
+python harness/gate.py --unit units/AI-001_강의명 checkpoint production
+python harness/gate.py --unit units/AI-001_강의명 checkpoint review
+python harness/gate.py --unit units/AI-001_강의명 resume
+python harness/gate.py --unit units/AI-001_강의명 finalize
+```
+
+각 명령 전에 해당 단계의 실제 파일·검토·승인 증빙을 준비해야 한다. 위 명령을 연속 실행하는 것만으로 증빙이 생성되지 않는다. `check`는 읽기 전용이며 `--report`를 붙이면 검사 기록을 저장한다. `preflight`, `checkpoint`, `resume`, `write`, `finalize`는 상태나 파일을 기록한다. 종료 코드는 0=통과, 1=검사 실패, 2=입력·실행 차단이다.
+
+## 검사 내용
+
+| 게이트 | 연수용 검사 |
+|---|---|
+| G01 | 수행 목표, 내용·디자인 출처, 기본/심화/제외 판정, 기술 절차의 공식 근거·검증일·환경·증빙 |
+| G02 | 입력과 계획 일치, 내용·목표·실습·확인 연결, 페이지/실습/휴식의 시간 합계, 오류 복구·합류 경로 |
+| G03 | 실제 사용자 확인, 현재 강의·계획 해시·응답 증빙 연결 |
+| G04 | 계획한 이미지·실습 파일의 정확한 목록·해시·검토, 실제 캡처의 환경과 확인일 |
+| G05 | PPTX/DOCX 페이지와 출처, 발화·조작·대기 구분, 선택한 PDF 파싱과 페이지 수 |
+| G06 | 현재 파일의 내용/목표 적합성/시각 검토, PDF 페이지 대응, 전체 브랜드, 실습 리허설과 링크 확인, 선택한 Figma |
+| G07 | 보호 원본의 경로·내용 불변 |
+| G08 | 대표 7유형, exact/adopt 참조, 변경 명세와 목표 레이아웃, 현재 비교·검토, 제공 브랜드 |
+| G09 | 현재 대표 버전의 실제 사용자 디자인 확인, 미해결 의견 없음 |
+| G10 | 문구 일치 선별 결과와 건별 처리, 모든 등록 출처·자산의 이용 근거·배포 범위, 사례·전개·시각 표현에 대한 사람의 현재 검토, 미해결 권리 이슈 없음 |
+
+설명 그림이 없는 강의에도 선택한 사이음/노션톡 로고는 필요하다. 목표마다 실습 또는 관찰 활동과 결과 확인이 필요하다. 생성 이미지로 도구 UI 증거를 대체할 수 없다. 캐릭터·T셀파를 일괄 필수로 요구하지 않는다.
+
+대표 시안 7유형은 실제 강의 장수와 별도로 준비한다. `exact`는 원본 레이아웃을 대조한다. `adopt`는 원본에서 무엇을 바꿨는지 전부 명세하고, 별도로 고정한 목표 템플릿과 시안을 대조한다. 두 방식 모두 좌표 허용 오차를 임의로 넓히지 않는다. 참조 변경은 현재 디자인 확인을 무효화한다.
+
+## 선택 산출물과 최종화
+
+`input.json.deliverables`의 `pdf`, `figma`, `exercises`는 모두 명시적인 불리언이다. 납품·브랜드·푸터 변경은 계획 승인 해시에 반영된다. 편집 양식의 `branding.brand_id=null`은 질문이 필요한 상태이며 자동으로 사이음을 선택하지 않는다.
+
+- PPTX·DOCX는 항상 필요하다. PDF를 선택하면 `drafts/deck.pdf`, 페이지별 PDF 대응 검토가 필요하다.
+- 실습 파일을 선택하면 `exercises/` 파일을 자산 목록에 등록한다. `finalize`는 원래 하위 경로를 유지하여 `final/exercises/`로 복사한다.
+- Figma를 선택하면 기존 URL·현재 덱 해시·전체 페이지 대응·고유 노드·원격 확인 증빙을 요구한다. 선택하지 않으면 `figma/` 폴더를 요구하지 않으며 Figma 쓰기 선행 명령도 거절한다.
+- 최종화는 모든 게이트·체크포인트가 유효할 때만 현재 납품 계약의 파일을 `final/`로 복사한다. 기존 파일은 이력에 보존하며 보호 대상으로 등록한 출력은 덮어쓰지 않는다.
+
+## 기존 과학 수업 재개
+
+과학 프로필은 자동 추정하지 않는다. 기존 계획과 승인 기록을 그대로 사용하되 모든 명령에 같은 규칙 파일을 지정한다. 코드 변경으로 기존 체크포인트가 무효화될 수 있으므로 먼저 재검사한다.
+
+```powershell
+python harness/gate.py --rules harness/rules-science.json --unit units/3-01_엔탈피와열화학반응식 check --report
+python harness/validate.py --profile science
+python harness/validate.py --profile ai_training
+```
+
+`docs/harness-*.md`의 기존 과학 수업 설계 이력과 새 연수 계약을 구분한다. 실제 레퍼런스 PPTX 복사본으로 과학 검사를 재실행하려면 `--source`와 `--renders`를 함께 제공할 수 있다.
+
+## 판정의 범위
+
+해시와 기록은 파일·참조·현재 버전의 일관성을 검사한다. 사람의 신원, 공식 문서 내용의 진위, 실제 실습 수행, 원격 서버의 현재 상태나 시각적 품질을 독립적으로 인증하지 않는다. 코드로 확인한 부분과 실제 사람·도구로 확인한 부분을 나누어 보고한다.
+
+쓰기 제한은 `gate.py write`와 `finalize`를 통하는 관리 작업에 적용되며 OS 전체를 격리하지 않는다. 이미지 생성·Figma 도구는 해당 `tool-preflight` 성공 후 호출한다. 시험용 표시를 지워 모의 자료를 실제 승인·검토로 재사용하지 않는다.

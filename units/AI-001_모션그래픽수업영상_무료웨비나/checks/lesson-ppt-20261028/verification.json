@@ -1,0 +1,193 @@
+{
+  "checked_on": "2026-10-28",
+  "timezone": "Asia/Seoul",
+  "scope": "Existing representative deck and Part 1 content applied; not the complete 42-slide curriculum",
+  "pptx": "output\\webinar-lesson-applied\\NotionTalk_웨비나_계획반영_Part1_15장_v1.pptx",
+  "pptx_sha256": "525b5583a5d79fd26ff83baa66046c921e067921250c4467d4d0363ed5702b11",
+  "pdf_sha256": "b779f58ab1d6ad1cbc0b57979753e36a162e77cd14b95ffcc813311408b88b1a",
+  "slides": 15,
+  "pdf_pages": 15,
+  "opened_and_exported_by_powerpoint": true,
+  "individual_slides_visually_inspected": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "native_text_boxes_checked": 232,
+  "text_overflow_flags": 0,
+  "start_prompts": [
+    {
+      "page": 7,
+      "matches_part_1_prompt": true
+    },
+    {
+      "page": 9,
+      "matches_part_1_prompt": true
+    },
+    {
+      "page": 11,
+      "matches_part_1_prompt": true
+    }
+  ],
+  "original_geometry_preserved": [
+    {
+      "source_display_page": 1,
+      "target_page": 1,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 2,
+      "target_page": 2,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": false
+    },
+    {
+      "source_display_page": 3,
+      "target_page": 3,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 4,
+      "target_page": 6,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": false
+    },
+    {
+      "source_display_page": 5,
+      "target_page": 8,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": false
+    },
+    {
+      "source_display_page": 6,
+      "target_page": 10,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": false
+    },
+    {
+      "source_display_page": 7,
+      "target_page": 13,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": false
+    },
+    {
+      "source_display_page": 8,
+      "target_page": 14,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": false
+    },
+    {
+      "source_display_page": 9,
+      "target_page": 15,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": false
+    }
+  ],
+  "original_media_masters_layouts_themes_preserved": true,
+  "comparisons": [
+    {
+      "source_page": 1,
+      "target_page": 1,
+      "pixel_identical": true
+    },
+    {
+      "source_page": 2,
+      "target_page": 2,
+      "pixel_identical": false
+    },
+    {
+      "source_page": 3,
+      "target_page": 3,
+      "pixel_identical": true
+    },
+    {
+      "source_page": 4,
+      "target_page": 6,
+      "pixel_identical": false
+    },
+    {
+      "source_page": 5,
+      "target_page": 8,
+      "pixel_identical": false
+    },
+    {
+      "source_page": 6,
+      "target_page": 10,
+      "pixel_identical": false
+    },
+    {
+      "source_page": 7,
+      "target_page": 13,
+      "pixel_identical": false
+    },
+    {
+      "source_page": 8,
+      "target_page": 14,
+      "pixel_identical": false
+    },
+    {
+      "source_page": 9,
+      "target_page": 15,
+      "pixel_identical": false
+    }
+  ],
+  "source_files_unchanged": [
+    {
+      "path": "output/webinar-samples/NotionTalk_모션그래픽_주황포인트_자체사례_v5.pptx",
+      "sha256": "771434da595af58f4e2d41c9e0c8dbaa0d64012695777ba08f1c3a2ac06f6a26",
+      "unchanged": true
+    },
+    {
+      "path": "output/webinar-samples/NotionTalk_모션그래픽_주황포인트_자체사례_v5.pdf",
+      "sha256": "99fdee0a2ef6bb37f69c267958644a85fde0174f6ab42acac9092c3ace6b3949",
+      "unchanged": true
+    },
+    {
+      "path": "output/webinar-part01-added/NotionTalk_대표5장유지_Part0_Part1추가_9장_v2.pptx",
+      "sha256": "aef19b2c90fd6e91f5d83aacfdc6225d3b579f1c1d170fda34082a8463680a20",
+      "unchanged": true
+    },
+    {
+      "path": "output/webinar-part01-added/NotionTalk_대표5장유지_Part0_Part1추가_9장_v2.pdf",
+      "sha256": "99cf973027311b7a4b26ab95dfa8a72eab9a4b719642bab22f2e7d02dc1c2c67",
+      "unchanged": true
+    },
+    {
+      "path": "units/AI-001_모션그래픽수업영상_무료웨비나/design.md",
+      "sha256": "06cf919e9f51c929c0898dc3740396ef897512c04473983c45a18339966431f1",
+      "unchanged": true
+    },
+    {
+      "path": "design.md",
+      "sha256": "c703baa01fb0e677dcb9387101ce15cf0eef6f88e8e08d33ff497304eb3da907",
+      "unchanged": true
+    },
+    {
+      "path": "plan.md",
+      "sha256": "46079a31988e35e758dbea888904570c445ca21888585bb49b9d09dc7ff24478",
+      "unchanged": true
+    },
+    {
+      "path": "lesson.md",
+      "sha256": "845e711e86e7017598b9f98ff43760d1cc485d9becbf29c0c27cc477feedc471",
+      "unchanged": true
+    }
+  ],
+  "formal_G10_clearance_created": false,
+  "new_app_execution_performed": false,
+  "new_video_generation_performed": false
+}

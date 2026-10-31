@@ -1,0 +1,20 @@
+{
+  "slides": 41,
+  "added": 41,
+  "original_40_slides_xml_and_pdf_pixels_unchanged": true,
+  "original_media_and_notes_unchanged": true,
+  "cycle_1": [
+    "2026-11-01",
+    "2026-11-07"
+  ],
+  "cycle_2": [
+    "2026-11-08",
+    "2026-11-14"
+  ],
+  "calendar_days_verified": 14,
+  "references": [
+    "R01 page 99",
+    "R03 page 42"
+  ],
+  "pptx_sha256": "7531c8ddc633c4bb93165ec42a1d44da732d08beea91cfa33866028a7eb5ec87"
+}

@@ -1,0 +1,85 @@
+{
+  "source_sha256": "aef19b2c90fd6e91f5d83aacfdc6225d3b579f1c1d170fda34082a8463680a20",
+  "sequence": [
+    1,
+    2,
+    3,
+    "types",
+    "compare",
+    4,
+    "prompt-a",
+    5,
+    "prompt-b",
+    6,
+    "prompt-c",
+    "reflection",
+    7,
+    8,
+    9
+  ],
+  "source_slide_geometry": [
+    {
+      "source_display_page": 1,
+      "target_page": 1,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 2,
+      "target_page": 2,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": false
+    },
+    {
+      "source_display_page": 3,
+      "target_page": 3,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 4,
+      "target_page": 6,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": false
+    },
+    {
+      "source_display_page": 5,
+      "target_page": 8,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": false
+    },
+    {
+      "source_display_page": 6,
+      "target_page": 10,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": false
+    },
+    {
+      "source_display_page": 7,
+      "target_page": 13,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": false
+    },
+    {
+      "source_display_page": 8,
+      "target_page": 14,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": false
+    },
+    {
+      "source_display_page": 9,
+      "target_page": 15,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": false
+    }
+  ],
+  "all_original_media_masters_layouts_themes_identical": true,
+  "new_slide_parts": {
+    "types": "ppt/slides/lesson-types.xml",
+    "compare": "ppt/slides/lesson-compare.xml",
+    "prompt-a": "ppt/slides/lesson-prompt-a.xml",
+    "prompt-b": "ppt/slides/lesson-prompt-b.xml",
+    "prompt-c": "ppt/slides/lesson-prompt-c.xml",
+    "reflection": "ppt/slides/lesson-reflection.xml"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "source_sha256": "441be29026ffa9760f67083c9908918454b6675059295eab0c62caa610bc6c1f",
+  "display_slide": 17,
+  "changed_original_parts": [
+    "ppt/slides/part01-slide4.xml",
+    "ppt/notesSlides/part01-notes4.xml",
+    "ppt/slides/_rels/part01-slide4.xml.rels"
+  ],
+  "added_media": [
+    "ppt/media/atomic-thomson.png",
+    "ppt/media/atomic-rutherford.png",
+    "ppt/media/atomic-bohr.png"
+  ],
+  "other_slide_parts_byte_identical": true,
+  "slide_count": 21
+}

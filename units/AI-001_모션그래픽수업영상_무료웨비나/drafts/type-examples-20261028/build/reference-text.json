@@ -1,0 +1,462 @@
+[
+  {
+    "page": 1,
+    "text": "일관성과 토큰 지켜주는\nAI 모션 영상 만들기 팁\n내 프로젝트에 바로 쓰는 모션 토큰 만들기\n2026년 10월 25일 오후 9시 LIVE\n"
+  },
+  {
+    "page": 2,
+    "text": "교안은 프로토타입 혹은 슬라이드에서 함께 확인해주세요!\n오늘 라이브 장표는 일부 구간에서 모션 영상이 포함되어 있습니다\n"
+  },
+  {
+    "page": 3,
+    "text": "사이클 4주 간의\n각오 한마디 남겨볼까요?\n오늘의 각오 한마디 \n"
+  },
+  {
+    "page": 4,
+    "text": "오늘 라이브는 이렇게 진행할 예정입니다.\nPART 3\n모션 하네스\n실습\nPART 1\n모션 시스템이\n필요한 이유\nPART 2\n준비 상태\n점검\nPART 4\n마무리\n"
+  },
+  {
+    "page": 5,
+    "text": "5회차 사이클 목표\n모션 하네스로 일관된 모션 영상 만들기\n"
+  },
+  {
+    "page": 6,
+    "text": "이번 사이클 라이브에선 이런 것을 배워요\n재료 → 기준 정하기 → 하네스 → 영상\nSTEP 1\nmotion.md · video.md\n기준 같이 정하기\nSTEP 2\n프롬프트 하나로\n하네스 만들기\nSTEP 3\n일관된 우리 제품의\n모션 만들기\n"
+  },
+  {
+    "page": 7,
+    "text": "라이브가 끝나면 이런 결과를 얻을 수 있어요\n레퍼런스가 달라도 우리 브랜드로 나오는 일관된 모션 하네스\n위의 영상 선택해 재생해보세요\n"
+  },
+  {
+    "page": 8,
+    "text": "오프닝\n00 진행 방식\n1\n기준 이해\n모션 디자인 시스템 3층\n기준 세우기\n전체 사이클 진행 흐름은 이렇습니다\n라이브에서는 장면표까지, 스냅보드 · 영상은 결과로 보고 과제에서 이어가요\n2\n기준 정하기\nmotion.md · video.md 같이\n3\n하네스\n규칙 · 역할 · 순서\n4\n첫 실행\n장면표까지\n5\n레퍼런스 넣기\nURL만 · 구성만 가져오기\n하네스 만들기\n6\n피드백 → 규칙\n규칙으로 쌓기 · 2차 영상\n반복 · 확장\n"
+  },
+  {
+    "page": 9,
+    "text": "오늘 작업에서는 아래 6가지가 필요해요\nHyperFrames\nClaude Code에\n 요청\nnpx sk\nills add\nheygen-com/hyperframes\nyt-dlp\n유튜\n브 레퍼런스 받기\nMac: bre\nw install yt-dlp\nWin: winget install yt-dlp\nClaude 데스크탑앱\n데스크탑앱 설치\n 및 로그인 (Pro 이상)\nclaude.ai/downloadload\nFFmpeg\n영상 렌\n더 · 레퍼런스 분석\nMac:\n brew install ffmpeg\nWin: winget install Gyan.FFmpeg\nNode.js 22+\n스킬 설치\n · 영상 렌더에 필요\nnodejs.org에서 LTS 설치\nFigma MCP 연결\n부품 HTML 확인용 (선택)\n"
+  },
+  {
+    "page": 10,
+    "text": "데스크탑 앱 준비\n클로드 데스크탑앱을 준비해주세요\n데스크탑앱을 열고 왼쪽 위에서 Code 탭을 선택해 주세요\n"
+  },
+  {
+    "page": 11,
+    "text": "데스크탑 앱 준비\n새 프로젝트를 열어주세요\n+New → 클론한 huddling-motion-start 폴더를 고르고, Trust workspace를 누르면 준비 끝이에요\n"
+  },
+  {
+    "page": 12,
+    "text": "Part 1\n모션 시스템이 필요한 이유\nAI 모션이 왜 매번 달라지는지부터 짚어요\n"
+  },
+  {
+    "page": 13,
+    "text": "01\nAI 모션의 문제\n결과가 들쭉날쭉한 이유를 봐요\n"
+  },
+  {
+    "page": 14,
+    "text": "Part 1  모션 시스템이 필요한 이유\n01 AI 모션의 문제\n똑같이 모션 만들기 요청인데, 왜 매번 다른 영상이 나올까요?\n\"런칭 영상 만들어줘\"만 했을 때, 빠르게 만들어도\n바로 적용할 퀄리티가 아니거나 수정이 필요할 때가 많아요\n"
+  },
+  {
+    "page": 15,
+    "text": "Part 1  모션 시스템이 필요한 이유\n01 AI 모션의 문제\n모션에 기준이 없다면 AI도 마음대로 판단하게 돼요\n디자인 시스템에 컬러 · 텍스트 값이 있어도 모션이 불안정한 이유예요\n이미 있는 것\n보이는 것의 기준\n컬러 토큰\n✓\n타이포 스케일\n✓\n간격 · radius\n✓\n비어 있는 것\n움직임의 기준\n움직이는 속도\n✕\n가속 · 감속 방식\n✕\n나오는 순서와 간격\n✕\n한 줄 정리\n이 빈칸을 채우는 문서가 오늘의 motion.md예요\n"
+  },
+  {
+    "page": 16,
+    "text": "Part 1  모션 시스템이 필요한 이유\n01 AI 모션의 문제\n모션 디자인 시스템 없이, 영상을 제작하면 이런 식으로 나와요\n아래의 영상처럼 우리 디자인 요소가 부족하거나, 의도한 바와 다른 단조로운 결과물을 만들게 돼요\n단조로운 화면 전환\n달라진 비율\n깨진 레이아웃\n과하게 커진 텍스트 사이즈\n위의 영상 선택해 재생해보세요\n"
+  },
+  {
+    "page": 17,
+    "text": "Part 1  모션 시스템이 필요한 이유\n01 AI 모션의 문제\nAI로 만든 모션이 실패하면, 토큰도 시간도 많이 들어요\n아래의 영상처럼 우리 디자인 요소가 부족하거나,\n전환, 모션 효과가 의도한 바와 다른 결과물을 만들게 돼요\n"
+  },
+  {
+    "page": 18,
+    "text": "02\n모션 디자인 시스템이란?\n움직임에도 토큰이 있어요\n"
+  },
+  {
+    "page": 19,
+    "text": "Part 1  모션 시스템이 필요한 이유\n02 모션 디자인 시스템\n이런 ‘플립북’ 한 번쯤 만들어봤나요?\n한 장마다 조금씩 다른 그림을 넘기면 움직이는 것처럼, \n모션도 정적인 장면을 이어 붙인 거예요\n영상 선택해\n재생해보세요\n"
+  },
+  {
+    "page": 20,
+    "text": "Part 1  모션 시스템이 필요한 이유\n02 모션 디자인 시스템\n정적인 그래픽 요소에 ‘움직임’을 더하는 모션\n한 장면의 모습에 '언제 · 얼마나 · 어떻게'가 더해지면 모션이 돼요\n정적인 디자인\n모션\n한 장면의 모습\n컬러 토큰\n✓\n타이포 스케일\n✓\n간격 · radius\n✓\n모습 + 시간\n언제 움직이나?\n✓\n얼마나 오래 유지하나?\n✓\n어떻게 빨라지고 멈추나?\n✓\n→\n"
+  },
+  {
+    "page": 21,
+    "text": "Part 1  모션 시스템이 필요한 이유\n02 모션 디자인 시스템\n모션 디자인 시스템이란?\n기존 디자인 시스템의 정적인 요소에, 시간과 움직임을 더해 표준화한 규칙이에요\n정적인 요소\n색 · 글자 · 간격 · 컴포넌트\n디자인 시스템 = 팔레트\n시간 · 움직임\nduration · easing · 순서를\n토큰으로 더해요\n같은 리듬\n누가 만들어도 같은 느낌\n= 박자표\n"
+  },
+  {
+    "page": 22,
+    "text": "Part 1  모션 시스템이 필요한 이유\n02 모션 디자인 시스템\n영상 선택해\n재생해보세요\n모션 디자인 시스템이 왜 필요할까요?\n움직임은 단순히 효과가 아니라, 제품이 사용자에게 말을 거는 방법이에요\n사용성\n버튼 피\n드백과 화면 전환이\n다음 행동을 안내해요\n브랜드 일관성\n모든 화면이 같\n은 리듬으로 움직여\n움직임만 봐도 우리 서비스예요\n협업 효율\n디자이너 · \n개발자 · AI가\n감각 대신 같은 토큰으로 만들어요\n"
+  },
+  {
+    "page": 23,
+    "text": "Part 1  모션 시스템이 필요한 이유\n02 모션 디자인 시스템\n1\n대상\n누가 (무용수)\n글자 · 카드 · 화면\n모션을 표현하는 5가지 구성 요소\n누가, 어떤 동작을,  몇 박자 동안, 어떤 파워로, 어떤 순서로 움직인다고\n안무로 정하는 것처럼 모션에도 규칙이 있어요\n2\n속성\n어떤 동작을\n위치 · 크기 · 투명도\n3\n시간\n몇 박자 동안\nduration\n4\n곡선\n어떤 힘으로\neasing\n한 줄 정리\n안무에 카운트(박자)가 있듯, 모션에도 숫자가 있어요\n5\n순서\n어떤 순서로\ndelay · stagger\n"
+  },
+  {
+    "page": 24,
+    "text": "Part 1  모션 시스템이 필요한 이유\n02 모션 디자인 시스템\n같은 0.5초라도 속도(easing)에 따라 느낌이 달라져요\n③ 시간은 길이, ④ 곡선은 속도의 모양이에요\n1\n들어올 때 · ease-out\n2\n나갈 때 · ease-in\n3\n옮길 때 · ease-in-out\n빠르게 시작 → 천천히 멈춤\n0.25~0.5초\n천천히 시작 → 빠르게 사라짐\n등장보다 짧게 (절반 정도)\n부드럽게 출발 → 부드럽게 도착\n화면 이동 · 카메라\n위의 영상 선택해 재생해보세요\n"
+  },
+  {
+    "page": 25,
+    "text": "Part 1  모션 시스템이 필요한 이유\n02 모션 디자인 시스템\n디자인 파운데이션을 정의하는 것처럼,\n모션의 움직임도 숫자로 정해요\nAI마다 다르게 해석할 수 있는 모션을 디자인 시스템으로 누구나 동일하게 읽도록 해요\nAfter\nBefore\nAI마다 모션을 다르게 표현해요\n매번 같은 값이 나와요\n✓\n✓\n✓\nenter = dur-m (6f) · ease-out\nexit = dur-s (3f) · ease-in\nstagger = 간격 dur-m · 6개까지\n✕\n✕\n✕\n부드럽게 나타나게\n빠르게 넘어가게\n적당히 순서대로\n"
+  },
+  {
+    "page": 26,
+    "text": "Part 1  모션 시스템이 필요한 이유\n02 모션 디자인 시스템\n영상 선택해\n재생해보세요\n이런 모션 토큰은 '언제 쓰는지'\nsemantic으로 의미 이름을 붙여요\n같은 숫자라도 쓰는 때에 따라 이름이 달라요\n1\n글자가 들어올 때\n2\n버튼을 누를 때\n3\n장면이 바뀔 때\ndur-m · ease-out\nenter\npress-scale 0.96 · dur-m\nemphasis\n컷 · 카메라 cam-in\ntransition\n"
+  },
+  {
+    "page": 27,
+    "text": "Part 1  모션 시스템이 필요한 이유\n02 모션 디자인 시스템\n디자인 시스템처럼, 모션 토큰도 한 단계씩 쌓아 올려요\n숫자에 이름을 붙이고 용도로 묶어서, 우리 제품 규칙대로 움직이게 해요\n1\nPrimitives\nduration 6단계 · easing 4종\ndur-m 6f · ease-out\n→\n2\nSemantic\n동작별 의미 부여\nenter = dur-m + ease-out\n→\n3\nPatterns\n조립된 움직임\n텍스트 등장 · 카운트업\n→\n4\n새로운 모션 추가\n바로 쓰지 않아요\n새 후보로 묻고 승인 ✓\n한 줄 정리\n컬러는 원색 → 의미 → 컴포넌트, 모션은 숫자 → 용도 → 패턴\n"
+  },
+  {
+    "page": 28,
+    "text": "Part 1  모션 시스템이 필요한 이유\n02 모션 디자인 시스템\n정해 둔 모션 기준은 AI가 이해하기 쉽게 문서 3개로 정리해요\ndesign.md는 재료로 받고, motion.md · video.md는 같이 정해요\ndesign.md\n제품 컬러 · 글자, 피그마에서 그대로\nvideo.md\n영상 룩 · 배경 · 폰 프레임\nmotion.md\n속도 · 곡선 · 패턴\n모션에서 어떤 배경과 비주얼로 갈지\n컨셉을 정해요\n가장 기본적으로 사용할 모션의 규칙을\n정리해요\n영상의 재료로 피그마 소스에서  미리 받아요\n"
+  },
+  {
+    "page": 29,
+    "text": "Part 2\n준비 상태 점검\n실습 전에 환경을 맞춰요\n"
+  },
+  {
+    "page": 30,
+    "text": "01\n준비 확인\n저장소 클론 · 스킬 설치 · 연결 확인\n"
+  },
+  {
+    "page": 31,
+    "text": "Part 2  준비 상태 점검\n01 준비 확인\n아래 깃허브를 열어 함께 시작해주세요\n오늘 실습 소재로 사용할 화면의 design.md와 디자인 에셋이 들어있어요\n깃허브 바로가기\n"
+  },
+  {
+    "page": 32,
+    "text": "Part 2  준비 상태 점검\n01 준비 확인\nClaude Code로 저장소를 클론해서 열어요\nhuddling-motion-start 폴더 안에서 시작해요\n프롬프트\nhttps://github.com/figmatutor-info/\nhuddling-motion-start.git  \n이 깃허브 저장소를 클론해줘.\n한 줄 정리\n폴더를 열자마자 docs/와 src/가 보이면 준비 끝이에요\n"
+  },
+  {
+    "page": 33,
+    "text": "Part 2  준비 상태 점검\n01 준비 확인\n깃허브 복제한 폴더에 아래처럼 열리는지 확인해요\n아래 우리가 함께 준비할 소재가 폴더에 들어있으면 성공\n1\ndocs/\n재료 1 + 같이 만들 기준 2\ndesign.md\n2\nsrc/\n영상에 들어가는 재료\nscreens\nparts\nassets\n우리 라이브에서 활용할 피그마 실습 소재가 학습되어 있어요.\n내 영상을 작업할 땐 이 부분을 갈아끼우셔야 합니다! \n"
+  },
+  {
+    "page": 34,
+    "text": "Part 2  준비 상태 점검\n01 준비 확인\nAI 코드로 모션을 제작하려면,\n모션이 잘 구현될 개발 환경이 필요해요\n우리가 코드 개발할 때 프로젝트 초기화를 하는 것처럼,\n모션을 적용할 프레임워크가 준비되어 있어야 해요\nRemotion\nReact로 만들어요 \n(4인 이상 유료)\nHyperFrames\nHTML로 만들어요\nMotion Canvas\nTypeScript로 만들어요\n"
+  },
+  {
+    "page": 35,
+    "text": "Part 2  준비 상태 점검\n01 준비 확인\nAI 영상을 손쉽게 만들어주는 프레임워크, HyperFrames\n AI 에이전트와 표준 웹 기술을 활용해 코드로 영상을 제작하는 최신 프레임워크로,\n오픈 소스로 상업적 이용 제한이 없고 HTML로 가볍게 사용할 수 있어요\n"
+  },
+  {
+    "page": 36,
+    "text": "Part 2  준비 상태 점검\n01 준비 확인\nClaude Code에 HyperFrames를 설치해주세요\nClaude Code에 아래 명령을 실행해 달라고 하세요\n프롬프트\nnpx skills add heygen-com/hyperframes\n"
+  },
+  {
+    "page": 37,
+    "text": "Part 2  준비 상태 점검\n01 준비 확인\nFigma MCP와 HyperFrames를 확인해요\nFigma는 영상에 등장할 부품을, HyperFrames는 영상을 만들 그릇을 맡아요\n✓\n✓\n클로드 데스크탑앱 connector에서 figma 연결 확인\n움직이는 모션 소스를 피그마에서 HTML로 가져올 때 필요해요\nnpx hyperframes preview로 미리보기가 열린다\n렌더는 라이브 후에 해요 (Node · FFmpeg 필요)\n"
+  },
+  {
+    "page": 38,
+    "text": "Part 3\n모션 하네스 실습\n기준을 정하고, 내 하네스로 장면표까지\n"
+  },
+  {
+    "page": 39,
+    "text": "01\n모션 하네스 구조 살펴보기\n기준을 지키게 만드는 구조\n"
+  },
+  {
+    "page": 40,
+    "text": "Part 3  실습\n01 하네스 구조\n우리 motion.md 준수\n규칙\n왜 모션에도 ‘하네스’가 필요할까요?\n기획부터 모션 제작까지 지켜야 할 순서가 많은 만큼\nAI가 순서를 건너뛰거나 놓칠 가능성이 많아져요\n작업 순서\n요청 내용\n구도 및 연출\n장면표\n레퍼런스 참고사항\n→\n토\n큰량 ·\n시간 소모가 큼\n"
+  },
+  {
+    "page": 41,
+    "text": "Part 3  실습\n01 하네스 구조\n이때 모션 하네스로, 우리 규칙대로 안정적으로\n제작할 수 있게 설계해요\n재료는 받고, 기준은 정하고, 하네스가 지켜요\nmotion.md\nvideo.md\nCLAUDE.md\nagents\n순서 (스킬)\n"
+  },
+  {
+    "page": 42,
+    "text": "Part 3  실습\n01 하네스 구조\n우리 하네스의 전체 구조는 이렇게 되어있어요.\n디자인 기준, 움직임 기준 값, 영상룩 등 컨텍스트 자료와 스킬, 에이전트, 게이트로 이뤄져 있어요.\n하네스\n순서 (스킬) “영상 제작해줘! or /make-video”\n디자인 기준\ndesign.md · screens · parts\n움직임 기준값\nmotion.md · 시간 · 곡선 · Pattern\n영상 룩\nvideo.md · 글자 크기 · 배경 · 폰 프레임\n컨택스트\n요청서 (영상마다)\nBRIEF.md · 영상 이름 · 길이 · 핵심 메시지 · 엔드 카드\n레퍼런스 (영상마다)\nURL · 가져올 구도 · 전환 · 박자\n실행 입력\n서브 에이전트\nArt director  \n에이전트\ndirector \n에이전트\nbuilder \n에이전트\nCritic \n에이전트\n게이트\n게이트\n게이트\n"
+  },
+  {
+    "page": 43,
+    "text": "Part 3  실습\n01 하네스 구조\n구성\n재료\n1\n2 기준\n3 하네스\n4 입력\n5 결과\n하네스는 이런 폴더로 만들어져요\n재료는 받고, 기준은 정하고, 하네스가 지켜요\n폴더 · 파일\ndesign.md · src/\n역할 · 언제 생기나\n색 · 글자 · 화면 · 부품\nstarter로 받아요\n02 기준 정하기에서 만들어요\n움직임 · 보이는 방식\nmotion.md · video.md\n03 하네스 만들기에서 만들어요\n규칙 · 역할 4개 · 순서\nCLAUDE.md · .claude/\n\"모션 만들자\" 할 때마다 바뀌어요\n메시지 · 레퍼런스\nBRIEF.md · references/\n장면표 · 판정 · 스냅보드 · mp4\n영상마다 하나씩 생겨요\nout/<영상이름>/\n"
+  },
+  {
+    "page": 44,
+    "text": "Part 3  실습\n01 하네스 구조\n왜 모션 작업에 에이전트를 4개로 나누었을까요?\n실제 모션 제작팀처럼, 각 단계마다 작업 전문가를 구성해요\nart-director\n1\n아트 디렉터\n레퍼런스에서 가져올 것 정리 정리\ndirector\n2\nBRIEF 메시지로 장면 순서 짜기\nbuilder\n3\n작\n장면표대로 만들기\ncritic\n4\n기준으로 채점\n에이전트\n작업 단계\n레퍼런스 정리\n장면표\n스냅보드 · 영상\n단계별 판정\n"
+  },
+  {
+    "page": 45,
+    "text": "Part 3  실습\n01 하네스 구조\n하네스가 실행되면, 어떤 기획으로 만들지 순서대로 먼저 확인해요\n장면표와 스냅보드를 승인해야 영상을 만들어요\n레퍼런스 제공\nBRIEF · 레퍼런스 URL + 역할\n사용자\n→\n레퍼런스 정리\n역할별 비트 · 구도 · 카메라 · \n전환\n에이전트art-director\n→\n장면표 기획\n3안 요약 → 고른 안만 장면표\n에이전트director\n승인\n반려\n스냅보드 작성\n장면마다 정지 화면 한 장\n에이전트builder\n승인\n반려\n영상 생성\n승인한 구도로만\n에이전트builder\n→\n→\n→\n→\nBRIEF.md · URL\nbeat-sheet.md\nscenes.md\nsnap/\n<영상이름>.mp4\n"
+  },
+  {
+    "page": 46,
+    "text": "Part 3  실습\n01 하네스 구조\n모션 영상 한 편은 이 순서로 파일이 쌓여요\nBRIEF로 시작해서 장면표 · 스냅보드를 승인하면 영상이 만들어져요\n1\nBRIEF.md\n무엇을 말할지 — 3가지 유형의 질문에 답하면 Claude가 써요\n2\nreferences/<이름>/beat-sheet.md\n레퍼런스마다 구도 · 카메라 · 전환을 받아 적은 비트 시트\n3\nscenes.md\n장면표 — 3안 요약 중 고른 안의 장면 · 시간 · 화면 · 토큰\n승인\n4\nsnap/\n스냅보드 — 장면마다 정지 화면 한 장씩 미리보기 제공\n승인\n5\n<영상이름>.mp4\n승인한 대로 최종 산출물로 렌더링\n* 파일 이름 · 위치는 각자 하네스 실행 시, 조금씩 달라질 수 있어요\n"
+  },
+  {
+    "page": 47,
+    "text": "Part 3  실습\n01 하네스 구조\n레퍼런스가 왜 필요할까요?\n말로 다 설명하기 어려운 원하는 움직임을 보여주고\nAI가 의도와 다르게 작업하지 않도록 방향을 잡아줘요\n말로 다 못 하는 것을 보여줘요\n1\n구도 · 전환 · 박자를 영상으로\nAI가 멋대로 채우지 않게 의도를 지켜요\n2\n'멋진 영상' 해석을 하나로\n레퍼런스\n작업 명세서의 기준점이 돼요\n3\n장면표 · 검토의 비교 대상\n"
+  },
+  {
+    "page": 48,
+    "text": "Part 3  실습\n01 하네스 구조\n레퍼런스를 주면, 가져올 것과 그대로 둘 것을\nAI가 beat-sheet.md로 정리해요\n레퍼런스가 없으면 Claude Code가 방향을 알아서 정해서\n의도와 다른 결과가 나오기 쉬워요\n1\n레퍼런스에서 가져올 것\n구도 · 전환 · 장면 순서 · 박자\n2\n우리 기준 문서에서 그대로 둘 것\n컬러 · 글자 · 영상 룩 · 실제 화면\n3\ndocs에 없는 숫자 · 부품만 새 후보로\n후보로 올려서 승인받기\n"
+  },
+  {
+    "page": 49,
+    "text": "Part 3  실습\n01 하네스 구조\n정확한 기준과 결과만 보고 판정하도록\n검사자 역할의 에이전트(critic)를 따로 구성해요\ncritic은 기준 문서와 결과만 보고 통과인지 판정해요\n만든 쪽이 직접 검사하면\n스스로에게 관대한 결과\n자기 결과를 \"좋다\"고 판정\n✕\n같은 실수를 반복\n✕\n무엇이 틀렸는지 기록이 없음\n✕\ncritic 역할\n기준과 결과만 보고 판정\n장면마다 기준 밖의 값을 짚음\n✓\n고치지 않고 지적만\n✓\n판정 결과가 gates.md에 남음\n✓\n"
+  },
+  {
+    "page": 50,
+    "text": "Part 3  실습\n01 하네스 구조\n결과물\n레퍼런스\n피드백\n검사\n다음 영상\n하네스 유무에 따른 제작 방법 차이\n한 번 만들어 두면, 영상이 늘수록 편해져요\n레퍼런스로만 요청(원샷)\n✕요청할 때마다 다른 영상\n✕색 · 효과까지 그대로 베낌\n✕영상마다 같은 말을 반복\n✕내가 눈으로 하나하나\n✕처음부터 다시 설명\n하네스로 요청\n레퍼런스가 바뀌어도 같은 룩\n✓\n구성만 참고하고, 각 가이드는 우리 규칙을 유지\n✓\n한 번 고치면 규칙으로 남음\n✓\ncritic이 기준으로 먼저 판정\n✓\n세 질문에 답하면 바로 시작\n✓\n"
+  },
+  {
+    "page": 51,
+    "text": "02\n모션의 기준 정하기\nmotion.md와 video.md를 같이 만들어요\n"
+  },
+  {
+    "page": 52,
+    "text": "Part 3  실습\n02 기준 정하기\n이 파트에서 만드는 것 \n모션을 일관되게 뽑기 위한 \n기준 문서를 만들어요.\nvideo.md\ndesign.md를 바탕으로, 영상에서 보이는 크\n기 · 배경 · 글자를 정하는 문서\nmotion.md\n우리 서비스의 움직임 기준이 되는 문서\n"
+  },
+  {
+    "page": 53,
+    "text": "Part 3  실습\n02 기준 정하기\n모션을 만들 때 왜 기준점이 필요할까요?\n기준이 없으면 같은 요청에도 AI는 매번 다른 속도와 구성으로 제작해요\n모션 기준은 하네스가 “무엇을 지킬지” 설계하는 구조예요\n1\n모션의 결을 일관되게 유지해요\n2\n퀄리티를 객관적으로 검증할 수 있어요\n기준이 없으면 매번 다른 결과가 나와요\n느낌이 아니라 구체적인 수치값으로 대응해요\n"
+  },
+  {
+    "page": 54,
+    "text": "Part 3  실습\n02 기준 정하기\n이때 이런 모션 레퍼런스로 기준 문서를 작성해요.\n움직임 성격이 분명한 모션 시스템이나 영상을 골라요. 고르기 어렵다면 아래 예시로 시작하세요\nIBM Carbon Motion\nRemotion · 폰 등장\nskillry · Nafa 마케팅 영상\n[레퍼런스 링크] \nhttps://carbondesignsystem.com/elements/motion/overview/  \nhttps://www.remotion.dev/prompts/apple-style-device-rise-\nanimation  \nhttps://skillry.dev/ai-videos/opus-5-5?\ncategory=motion&video=saadpastadev-347341\n"
+  },
+  {
+    "page": 55,
+    "text": "Part 3  실습\n02 기준 정하기\n이제 기준문서를 제작해볼까요?\n레퍼런스 URL을 기반으로 motion.md랑 video.md를 제작해보아요!\n"
+  },
+  {
+    "page": 56,
+    "text": "Part 3  실습\n02 기준 정하기\n기준점 만들기\nmotion.md\n프롬프트\n1-1 motion.md를 같이 만들어요\ndocs/motion.md(우리 서비스의 움직임 기준)를 만들어줘.\nhttps://www.remotion.dev/prompts/apple-style-device-rise-animation  \nhttps://skillry.dev/ai-videos/opus-5-5?\ncategory=motion&video=saadpastadev-347341 \n1. 이 영상의 움직임 · 전환 방식 · 타이밍을 분석해서 duration 6단계 · 곡선 · Semantic \n5개로 우리 토큰 이름에 정리해. Pattern은 src/parts · src/screens 기준으로.\n2. 장은 1 Primitives · 2 Semantic · 3 Pattern · 4 머무는 시간 · 5 카메라.\n3. 색 · 글자 · 로고는 가져오지 마. 장면 순서 · 화면 배치는 motion.md에 넣지 마 (영상\n마다 비트 시트로). docs에 없는 숫자가 필요한 움직임은 \"새 후보\"로 물어.\n4. 값마다 레퍼런스의 어느 시점인지 적어줘 (예: 00:03 글줄 등장 6f).\n5. 나에게는 하나만 물어봐: 움직임 성격 한 단어 (분석 결과로 기본값을 제안해).\n6. 레퍼런스가 문서(모션 시스템)면 그 값을 우리 토큰 이름으로 옮기고 출처에 문서 이름\n을 적어. 영상을 못 받으면 성격만으로 정해. 받은 파일은 references/ 안에만.  \n150줄 이내.\n레퍼런스 영상 한 편을 분석하고, 하나만 물어요. 답하면 값과 출처까지 채워요\n"
+  },
+  {
+    "page": 57,
+    "text": "Part 3  실습\n02 기준 정하기\n기준점 만들기\n완성본 예시\n막히면 이 motion.md 완성본으로 시작해도 돼요\n직접 만든 motion.md 결과가 아쉬우면 이걸로 바꿔 끼워요\n0 영상 전체 규칙 · 1 Primitives · 2 Semantic · 3 Pattern · 4 머무는 시간 · 5 카메라\nmotion.md (완성본예시) \n# motion.md\n\n런칭 영상용 움직임 기준. 성격: **경쾌함** (2026-10-24 요청 · 분석 기본 제안은 \"단정함\") · 레퍼런스: inoue-aix (LoreOS 광고 40초, `references/ref-frames/inoue-aix/original.mp4`)\n규칙: 이 문서에 있는 값만 쓴다. 장면에서는 Semantic(2장) 이름으로 부르고, Primitive(1장)를 직접 쓰지 않는다.\n출처 표기: `레퍼런스 <장면>` = 위 영상에서 프레임으로 잰 값 · `성격: 경쾌함` = 성격에서 정한 값 · `요청` = 요청에서 정한 조건 · `기존` = 전 motion.md에서 유지.\n프레임 수는 30fps 기준. 레퍼런스에서 가져오지 않는 것: 프레임 · 에셋 · 음악 · 로고 · 카피 문장 · 색값 (CLAUDE.md 4번 고정 · 참조 · 금지 참고).\n규칙 표시: 0장도 [고정] · [기본 스타일]을 구분한다. 0~5장 규칙 끝의 [고정]은 늘 지킨다. [기본 스타일]은 첫 레퍼런스(inoue-aix)에서 온 스타일이라, beat-sheet.md에 다른 규칙이 있으면 그쪽을 따르고 decisions.md에 \"기본 스타일 X 대신 비트 시트 Y\"로 기록한다. 1장 숫자 · 4장 hold \n숫자는 고정.\nbeat-sheet.md에 해당 규칙이 없으면 [기본 스타일]을 따른다.\n\n---\n\n## 0. 영상 전체 규칙\n\n장면표를 쓰기 전에 먼저 본다. 1~5장보다 앞선다. 규칙 끝 괄호는 근거(날짜 · 반려 내용, work/launch-30s/log.md).\n\n- 폰 프레임은 한 영상에서 한 장면에만 나온다. 나머지 장면은 폰 없이 부품을 화면 가운데에 둔다. 엔드 카드에도 폰을 두지 않는다. (2026-10-24 반려 2: 폰은 장면2만 · 나머지는 UI 확대 · 장면10 폰 뺌) [기본 스타일]\n- 같은 종류의 부품을 이어서 보여주는 이웃 장면은 한 장면으로 합친다 (예: 카드 여러 장 → `skill-carousel`). (2026-10-24 반려 2: 장면3+4 합쳐 스킬 카드만) [고정]\n- 부품 장면에는 그 부품만 둔다. 제목 · 부제 같은 영상 글자는 글자 장면에서만 쓴다. (2026-10-24 반려 2: 장면6 버튼만 · 스킬 카드만 · 2026-10-24 결정: stat-card 제목 · 부제 없음) [기본 스타일]\n- 앞뒤 장면에 없던 화면이나 메시지를 더하지 않는 장면은 뺀다. (2026-10-24 반려 2: 장면5 · 8 삭제) [고정]\n- 장면 길이가 그 장면의 움직임과 hold(4장)를 더한 것보다 길면, 빈 hold로 채우지 않는다. 대신 사람에게 BRIEF 길이를 줄이자고 묻는다. (2026-10-24 반려 2: 30초 → hold 규칙대로 약 20초) [고정]\n- 카메라가 대상에 다가간 장면은 머묾 컷을 따로 두지 않는다. 그 대상의 동작(`button-press` · `shape-morph`)으로 다음 장면에 넘긴다. (2026-10-24 요청: 장면2 머묾 02 뺌 · 장면2→3 멈춤 해소 → button-press) [기본 스타일]\n\n---\n\n## 1. Primitives\n\n### Duration (6단계)\n\n| 토큰 | ms | 프레임 | 출처 |\n|---|---|---|---|\n| `dur-xs` | 67 | 2 | 레퍼런스 엔드 로고 (글자 하나씩 올라오는 간격) |\n| `dur-s` | 100 | 3 | 레퍼런스 장면 끝 글줄 사라짐 · 입력창 타이핑 한 글자 |\n| `dur-m` | 200 | 6 | 레퍼런스 글줄 등장 · 로고 글자 하나 · 폴더 한 줄 |\n| `dur-l` | 400 | 12 | 레퍼런스 입력창 줌아웃 (확대 → 전체 화면) |\n| `dur-xl` | 800 | 24 | 레퍼런스 \"翌朝\" 어두운 바탕 → 밝은 바탕 |\n| `dur-2xl` | 1000 | 30 | 레퍼런스 아이콘 고리 연결선 그려짐 · 카메라 이동 상한 |\n\n### Easing (넘치지 않는 곡선)\n\n모든 곡선의 y값은 0–1 안에 있다. 목표값을 넘었다 돌아오는 곡선은 없다. (레퍼런스 전체 — 튀거나 넘치는 움직임 없음)\n\n| 토큰 | 값 | 쓰는 곳 | 출처 |\n|---|---|---|---|\n| `ease-out` | `cubic-bezier(0.16, 1, 0.3, 1)` | 들어오기 · 상태 바뀜 | 레퍼런스 글줄 등장 (6프레임 중 3프레임에 거의 도착) |\n| `ease-in` | `cubic-bezier(0.5, 0, 0.75, 0)` | 나가기 · 모이기 | 레퍼런스 아이콘 고리가 로고로 모임 (점점 빨라짐) |\n| `ease-inout` | `cubic-bezier(0.65, 0, 0.35, 1)` | 카메라 줌 | 레퍼런스 입력창 줌아웃 |\n| `ease-linear` | `linear` | 타이핑 따라가는 카메라 · 바탕 바뀜 | 레퍼런스 입력창 타이핑 · \"翌朝\" 바탕 |\n\n### Distance · Scale · 기타\n\n| 토큰 | 값 | 출처 |\n|---|---|---|\n| `mask-rise` | 100% (글줄 높이, 마스크 아래에서 위로) | 레퍼런스 글줄 · 로고 글자 등장 (줄 밖은 잘려 안 보임) |\n| `dist-s` | 8px | 레퍼런스 폴더 줄 · 파일 칩 (옆에서 살짝) |\n| `dist-m` | 24px | 레퍼런스 \"翌朝\" 결과 카드 (위에서 차례로 쌓임) |\n| `dist-l` | 70px | 요청 (2026-10-24, snapcn phone-frame `rise` · `cam-crane` 시작 위치) |\n| `press-scale` | 0.96 | 요청 (2026-10-24, 버튼 누름) |\n| `scale-from` | 0 | 레퍼런스 엔드 로고 L 아이콘 · \"1ヶ月無料\" 배지 (점에서 커짐) |\n| `tilt` | 15deg → 0 | 레퍼런스 엔드 로고 L 아이콘 (기운 채 커지며 바로 섬) |\n| `cam-in` | × 2.4 | 레퍼런스 입력창 (화면 폭을 입력창 하나가 채움) |\n| `dim` | 투명도 0.4 | 레퍼런스 \"探さない。まとめない。\" (지운 줄이 흐려짐) |\n| `type-step` | 100ms (3프레임) = `dur-s` | 레퍼런스 입력창 타이핑 (한 글자 간격) |\n| `cut-scale` | × 1.7 (컷 너머 클로즈 크기) | 요청 (2026-10-24, snapcn wordmark-cut 1.71배) |\n| `crane-angle` | rotateX 12° · rotateY -18° (왼쪽 아래에서 올려다봄) · perspective 2400px · 회전 중심 폰 가운데 | 요청 (2026-10-24, snapcn phone-frame `showcase`) |\n| `flip-turn` | rotateY 180° (세로축 뒤집힘 반 바퀴) · perspective 2400px (`crane-angle`과 같음) · 회전 중심 부품 가운데 | 요청 (2026-10-25, launch-c 후보 승인 · 1password 격자 뒤집힘 · langease 카드 뒤집힘) |\n| `spin` | rotateZ 360° (제자리 한 바퀴) · 회전 중심 부품 가운데 | 요청 (2026-10-25, launch-c 후보 승인 · 1password 아이콘 회전 측정 약 6f) |\n| `dolly-scale` | × 0.5 (× 1보다 멀리) | 요청 (2026-10-25, launch-c 후보 승인 · 1password 그물 줌아웃 측정 끝 배율 약 × 0.5) |\n| `ring-count` | 4 (둘레에 놓는 같은 요소 수) | 요청 (2026-10-25, launch-c 후보 승인 · langease 폰 터널 4대 · 흩어진 카드 4장) |\n\n---\n\n## 2. Semantic\n\n5개뿐이다. 변형은 만들지 않고, 3장 Pattern에서 \"Semantic + 차이\"로 적는다.\n\n| 토큰 | 구성 | 출처 |\n|---|---|---|\n| `enter` | `dur-m` · `ease-out` · 마스크 안에서 아래 `mask-rise` → 0 (투명도는 바꾸지 않음, 마스크가 가림) | 레퍼런스 글줄 등장 |\n| `exit` | `dur-s` · `ease-in` · 제자리에서 투명도 1 → 0 | 레퍼런스 장면 끝 (거의 컷처럼 짧게) |\n| `emphasis` | 상태 한 번 바뀜 (값 · 테두리 · 채움 시작 → 최종) · `dur-m` · `ease-out` · 크기 변화 없음 | 레퍼런스 폴더 파일 칩 하이라이트 |\n| `transition` | 0ms 컷 (길이 · 곡선 [고정]). 다음 장면 첫 프레임에 이미 `enter` 중 | 레퍼런스 장면 경계 (전부 컷, 밀기 · 페이드 없음) [기본 스타일] |\n| `stagger` | 항목 · 줄 사이 `dur-m`, 글자 사이 `dur-xs`. 6개를 넘으면 7번째부터 같이 | 레퍼런스 폴더 줄 · 엔드 로고 글자 · 6개 상한은 기존 |\n\n---\n\n## 3. Pattern\n\nsrc/parts · src/screens에 있는 것만. Semantic 이름으로 적고, 다른 점만 `+`로 붙인다 (차이도 1장 토큰 이름으로).\n\n| 패턴 | 대상 | 움직임 (Semantic + 차이) | 출처 |\n|---|---|---|---|\n| `headline-in` | 화면 제목 · 부제 (01–05) | 줄마다 `enter`, 줄 사이 `stagger` | 레퍼런스 \"9つのサービスと / 連携。\" |\n| `text-type` | 훅 제목 한 줄 | 글자가 `type-step`마다 하나씩 그냥 나타남 (움직임 없음) · 끝 글자 뒤 커서 (폭 6px · 끝 글자와 6px 띄움 · 높이는 그 글자 스타일 행간, video.md 3장). 카메라 `cam-follow`와 같이 | 레퍼런스 입력창 타이핑 · 요청 (2026-10-24, 커서 치수) |\n| `word-strike` | 앞서 보인 제목 줄 | 다음 줄 `enter`와 같이 시작: 취소선이 왼쪽 → 오른쪽 `dur-m` · `ease-out` + 그 줄 투명도 → `dim` | 레퍼런스 \"探さない。まとめない。\" |\n| `logo-reveal` | brand-icon → logo | brand-icon `enter` + 마스크 대신 `scale-from` → 1 · `tilt` → 0 → logo(logotype) 글자마다 `enter`, 글자 사이 `stagger`. 엔드 카드에서는 brand-icon 없이 logo 글자 `enter`만 (logotype 안에 심볼이 있음) | 레퍼런스 엔드 로고 \"L \nLoreOS\" · 요청 (2026-10-24, 엔드 아이콘 뺌) |\n| `end-reveal` | 엔드 카드 logo + 슬로건 | `logo-reveal` → `dur-l` 뒤 슬로건 `enter` + 마스크 대신 투명도 0 → 1 · `dur-l` | 레퍼런스 엔드 \"loreos.jp\" |\n| `chip-row` | 카테고리 칩 (01 · 02 · 05) | 칩마다 `enter` + 마스크 대신 왼쪽 `dist-s` · 투명도 0 → 1, `stagger` | 레퍼런스 폴더 줄 |\n| `skill-list` | skill-card-1 · 2 · 3 (02 화면에 보이는 3장 · 01은 skill-card-1 한 장뿐이라 `part-in`) | 카드마다 `enter` + 마스크 대신 위 `dist-m` · 투명도 0 → 1, `stagger` | 레퍼런스 \"翌朝\" 결과 카드 |\n| `skill-carousel` | skill-card-1 · 2 · 3 (폰 없이) | 카드 3장 가로 한 줄 → 한 장씩 왼쪽으로, 거리 = 카드 폭 + `video-gap` (video.md 3장) · `dur-l` · `ease-inout`, 카드마다 `hold-m` | 요청 (2026-10-24, 스킬 카드 캐러셀) |\n| `count-up` | stat-card 금액 | 카드 `part-in` 바로 뒤 (사이 hold 없음) 0 → 최종값 · `dur-2xl` · `ease-out` · 정수 단위, 끝나면 `hold-s` | 요청 (2026-10-24, 새 후보에서 승인) |\n| `button-press` | button-submit (화면 이미지 속 같은 버튼 자리에 겹쳐도 됨 — 겹침 · 덮개판은 video.md 4장 · 03-mission 제출하기 자리는 video.md 4장) | 앞 hold는 `hold-m` (글자 수와 관계없이, 누를 대상을 보는 시간) → 누름 1 → `press-scale` (중심: 버튼 가운데) · `dur-\ns` · `ease-in` → 뗌 `press-scale` → 1 · `dur-m` · `ease-out` → 떼는 끝 프레임에 다음 장면으로 `transition` (컷, `scene-out` 없음) | 요청 (2026-10-24, 씬2 → 씬3 멈춤 해소 · 새 후보에서 승인) |\n| `asset-list` | asset-card (05 화면에 보이는 3장) | `skill-list`와 같음 | 레퍼런스 \"翌朝\" 결과 카드 |\n| `part-in` | 부품 하나 (mission-card · stat-card · button-submit) | `enter` + 마스크 대신 위 `dist-m` · 투명도 0 → 1 | 레퍼런스 \"翌朝\" 결과 카드 |\n| `mission-in` | mission-card (01 · 03) | `part-in` → 진행 바 · 진행 글자 `emphasis` (값 시작 → 최종) | 레퍼런스 결과 카드 · 파일 칩 하이라이트 |\n| `mission-done` | mission-card 진행 100% (03 → 04) | 진행 바 · 글자 `emphasis` → `badge-pulse` | 레퍼런스 파일 칩 하이라이트 · 배지 |\n| `badge-pulse` | badge-approved (04) | `enter` + 마스크 대신 `scale-from` → 1 | 레퍼런스 \"1ヶ月無料\" 배지 |\n| `screen-reveal` | 폰 화면 (01–05) 한 부분(01 mission-card · 02 첫 skill-card · 03 mission-card · 04 badge-approved · 05 stat-card) → 전체 | `cam-in` 상태로 시작 → `cam-pull` → 멈춘 뒤 주변 요소 `enter` + 마스크 대신 투명도 0 → 1, `stagger`. 폰은 첫 프레임부터 제\n자리에 있고 `cam-pull` 동안 화면 안으로 들어온다 (폰에 따로 `enter` 없음, 빈 바탕 프레임 없음) | 레퍼런스 입력창 → 채팅 화면 (주변 UI는 줌아웃하며 이미 있음) · 요청 (2026-10-24, 폰 전환 어색) |\n| `screen-change` | 01 → 02 → 03 → 04 → 05 | `transition` | 레퍼런스 장면 경계 |\n| `dark-cut` | 강조 전환 (한 영상에 1곳) | `transition`으로 `video-bg-dark`에 들어와 제목 `enter` → `hold-s` → 글자는 두고 바탕만 다음 밝은 바탕으로 `dur-xl` · `ease-linear` (글자 색은 video.md 규칙대로 같이 바뀜) | 레퍼런스 \"翌朝。\" |\n| `scene-out` | 장면 끝 요소 전체 | 한꺼번에 `exit` (stagger 없음) | 레퍼런스 장면 끝 |\n| `match-cut` | 장면 경계 (같은 요소가 양쪽에 있을 때) | `transition`. 이어지는 요소(brand-icon · logo · 숫자)는 다음 장면 첫 프레임에 같은 자리 · 같은 크기. 바탕 · 주변만 바뀜 | 레퍼런스 L 아이콘 (로고 → 고리 가운데 → 폴더 맨 위) |\n| `shape-morph` | 장면 경계 (button-submit → 다음 장면 주인공 부품) | 버튼 글자 `exit` → 버튼 가로 폭이 높이와 같아질 때까지 줄어 원이 됨 · `dur-m` · `ease-in` → 원이 `scale-from`까지 줄어듦 · `dur-m` · `ease-in` → 그 점 자리에서 `transition`, 다음 장면 주인공이 같은 자\n리에서 `scale-from` → 1 · `dur-m` · `ease-out` (사이 hold 없음, 빈 바탕 프레임 없음) | 요청 (2026-10-24, skillry saadpastadev 검색창 → 점 → 차트 · 측정 9f · 7f · 5f · 6f) |\n| `slot-roll` | 영상 글자 두 줄 (윗줄 고정 · 아랫줄 단어만 바뀜) | 아랫줄: 나가는 단어와 다음 단어가 세로로 붙은 한 덩어리로 마스크 안에서 같이 위로 `mask-rise`만큼 · `dur-s` · `ease-out` (같은 거리 · 같은 곡선이라 두 단어는 겹치지 않는다). 단어 간격은 `dur-l`로 시작해 한 번마다 짧아\n져 마지막 간격 `dur-m` (점점 빨라짐). 단어는 최대 6개, 각 단어는 줄 가운데 정렬 (윗줄은 움직이지 않음). 마지막 단어 뒤 `hold-m` | 요청 (2026-10-24, skillry saadpastadev \"Buy + 회사명\" · 측정 구름 3–4f · 간격 10f → 7f · 끝 25f) |\n| `punch-cut` | 엔드 카드 logo (와이드 → 클로즈) | `logo-reveal` → `hold-s` → `transition` (컷) → 다음 프레임에 같은 logo가 `cut-scale`, 프레이밍 기준은 logotype 안 심볼 (심볼을 화면 가운데). 클로즈 샷에는 logo만 둔다 (와이드에 있던 슬로건 등은 컷에서 빠짐). 컷 뒤 움직임 \n없음 → `hold-end` | 요청 (2026-10-24, snapcn wordmark-cut 와이드 → 클로즈 하드컷 · 뒤 push · 오버슈트는 빼기로) |\n| `cut-in-motion` | 장면 경계 (이어지는 요소가 없을 때) | `scene-out`이 절반 진행된 프레임에서 `transition` (빈 바탕 프레임 없음) | 레퍼런스 \"あとは毎日\" → 엔드 |\n| `phone-rise-tilt` | 폰 프레임 등장 | 아래 `dist-l` · `crane-angle`에서 위치 0 · 각도 0으로 · `dur-l` · `ease-out` | 기존 이름 · 2026-10-25 토큰 조립 |\n| `phone-tip` | 장면 경계 (폰이 나갈 때) | 각도 0 → `crane-angle` + `exit` · `dur-l` · `ease-in` → 끝 프레임에 `transition` | 기존 이름 · 2026-10-25 토큰 조립 |\n| `screen-dissolve` | 장면 경계 (앞 화면 → 다음 화면, 이어지는 요소가 없을 때) | 앞 화면 투명도 1 → 0과 다음 화면 투명도 0 → 1이 같은 시간에 · `dur-m` · `ease-inout`. 다음 화면은 제자리에서 나타나고 위치 · 크기는 바뀌지 않음. 끝난 프레임부터 다음 장면의 `enter` 시작 (빈 바탕 프\n레임 없음) | 2026-10-25 요청 (skillry saadpastadev 화면 겹침 · 측정 4f · 10f · 12f → `dur-m`) |\n| `zoom-through` | 장면 경계 (부품 안으로 들어가며) | 대상 부품 쪽으로 × 1 → `cam-in` · `dur-l` · `ease-in` → 끝 프레임에 `transition`. 다음 장면 첫 프레임은 그 부품 자리에서 이어짐 (`match-cut`처럼) | 기존 이름 · 2026-10-25 토큰 조립 |\n| `icon-expand` | 장면 경계 (부품이 커져 다음 바탕이 됨) | 부품 글자 `exit` → 부품이 화면을 덮을 때까지 커짐 · `dur-m` · `ease-in` → `transition`, 다음 장면 바탕이 그 색 | 기존 이름 · 2026-10-25 토큰 조립 |\n| `word-swap` | 영상 글자 한 단어 자리 → brand-icon (video.md `icon-inline`) | 단어 `exit` → 같은 자리에 brand-icon `enter` + 마스크 대신 `scale-from` → 1 | 기존 이름 · 2026-10-25 토큰 조립 (`word-close`를 합침) |\n| `flip-wave` | 같은 부품 여러 개 격자 (brand-icon → badge-approved, 또는 asset-card · skill-card 같은 부품끼리) | 부품마다 `flip-turn` × 3 · `dur-m` · `ease-out`, 90°를 지나는 프레임에 앞면이 다음 상태로 바뀜 · 왼쪽 위부터 대각선 순서로 `stagger` (6개 상한 그대로, 7번째\n부터 같이) | 요청 (2026-10-25, launch-c 후보 승인 · 1password 비트 2, 측정 한 개 약 6f · 물결 약 1.2초) |\n| `icon-spin` | brand-icon | `spin` · `dur-m` · `ease-out` + 같은 자리에 brand-icon 모양 고리 하나가 `color-primary`로 × 1 → `cut-scale` · 투명도 0.45 → 0 (`video-glow` 가운데 불투명도) · `dur-l` · `ease-out`. 블러 없음 | 요청 (2026-10-25, launch-c 후보 승인 · \n1password 비트 4 · 10, 측정 회전 6f · 빛 12f) |\n| `phone-ring` | 폰 프레임 `ring-count`대 (화면 이미지 01–05, video.md 4장 크기 그대로) · 가운데 영상 글자 한 줄 | 폰이 화면 위 · 아래 · 왼쪽 · 오른쪽 가장자리 가운데에 반쯤 잘린 채 놓임, 각 폰은 `crane-angle`을 가운데 쪽으로 돌린 각도 (반대편은 부호 반대). 들어옴: 화면 밖 → 자\n리 · `crane-angle` 각도 그대로 · `dur-xl` · `ease-out`, 폰 사이 `stagger`. 머묾: 둘레 전체 rotateZ 0 → `tilt` · hold 길이 동안 · `ease-linear`. 나감: `phone-tip` 묶음으로. 0장 \"폰 한 장면\" [기본 스타일] 대신이므로 비트 시트에 있을 때만 · `대신:` 기록 | 요청 (2026-10-25, launch-\nc 후보 승인 · langease 비트 6–7, 측정 들어옴 약 22f · 머묾 약 70f) |\n| `bar-stretch` | button-submit → mission-card 진행 바 | 버튼 글자 `exit` → 버튼 폭이 mission-card 진행 바 폭으로 · 높이가 진행 바 높이로 (design.md 4장 mission-card 치수 × `video-scale`) · 오른쪽으로 늘어남 · `dur-l` · `ease-inout` · 카메라는 `cam-pan`으로 늘어나\n는 끝을 따라감 → 끝 프레임에 `match-cut`으로 mission-card의 진행 바 자리 (`mission-in` 진행 `emphasis`가 이어짐) | 요청 (2026-10-25, launch-c 후보 승인 · langease 비트 8, 측정 약 30f · 카메라 회전은 뺌) |\n| `focus-lift` | 화면 · 목록 속 부품 하나 (skill-card · asset-card) | 대상 부품 위 `dist-m` · `dur-l` · `ease-out` + 같은 시간에 주변 요소 전부 `exit` (투명도 1 → 0, 길이는 `dur-l`로). 블러 없음 · 크기 변화 없음 | 요청 (2026-10-25, launch-c 후보 승인 · langease 비트 13, 측정 약 11f · \n심도 흐림은 뺌) |\n| `card-flip-scatter` | 카드 한 장 (skill-card · asset-card) → 같은 카드 `ring-count`장 | 카드 `flip-turn` · `dur-m` · `ease-in` → 뒤집힌 끝 프레임에 같은 카드 `ring-count`장으로 나뉘어 화면 네 귀퉁이(반쯤 잘림)로 · 각 카드 `crane-angle`을 가운데 쪽으로 · `dur-l` · `ease-\nout`. 다음 글자 장면 둘레로 남고, 머무는 동안 `cam-drift` 쓸 수 있음 (비트 시트에 있을 때) | 요청 (2026-10-25, launch-c 후보 승인 · langease 비트 13–14, 측정 뒤집힘 약 7f · 흩어짐 약 10f) |\n| `icon-flight` | brand-icon (통째, 조각 아님) | 화면 오른쪽 밖 → 영상 글자 줄 끝 자리 · 위로 볼록한 곡선 (높이 `dist-l`) · `dur-l` · `ease-out`. 꼬리 없음. 글자가 붙는 동안 줄 끝을 따라 `video-gap` 띄워 붙어 감 (`stagger`와 같은 박자). 끝: 글자 `exit` → `match-cut`으로 logo 심볼 \n자리 | 요청 (2026-10-25, launch-c 후보 승인 · langease 비트 18–19, 측정 나감 약 4f · 들어옴 약 10f · 꼬리 · 별 조각은 뺌) |\n\n- 장면 경계는 `match-cut`을 먼저, 이어지는 요소가 없으면 `cut-in-motion`. button-submit에서 나갈 때는 `shape-morph`를 쓸 수 있다. 주인공 요소는 같은 자리에 둬서 경계에서 눈이 움직이지 않게 한다. (레퍼런스 L 아이콘) [기본 스타일]\n- 강조 색 글자(둘째 줄 색 바꿈)는 움직임이 아니다. 색은 video.md에서만. [고정]\n- `phone-rise-tilt`와 `screen-reveal`은 한 장면에 같이 쓰지 않는다 (폰 등장은 둘 중 하나). [고정]\n\n### 새 후보 (승인 전엔 쓰지 않음)\n\ndocs에 없는 숫자가 필요하거나, 대상 부품 · 화면이 없는 것. 쓰려면 먼저 묻는다.\n\n| 후보 | 무엇 | 왜 후보인가 |\n|---|---|---|\n| `orbit-collapse` | 서비스 아이콘 고리가 `dur-l` · `ease-in`으로 가운데 로고에 빨려 들어감 | 레퍼런스 \"連携。\" · 서비스 아이콘 부품 없음 |\n| `line-draw` | 아이콘 사이 연결선이 `dur-2xl`로 그려짐 | 레퍼런스 \"連携。\" · 연결선 부품 없음 |\n| `modal-dismiss` | 등록 후 창이 줄며 빠지고 위에 알림이 내려옴 | 레퍼런스 \"登録する\" · 모달 부품 없음 |\n| `whip-blur` | 전환 중 흐림 | 흐림 값이 docs에 없음 |\n| `grid-collapse` (승인 2026-10-25 · 부품 대기) | 격자가 한 줄로 모여 입력창이 되고 점이 하나씩 채워짐 | 입력창 · 비밀 점 부품이 src에 없음. 부품이 들어오면 Pattern으로 (1password 비트 3) |\n| `orbit-in` (승인 2026-10-25 · 부품 대기) | brand-icon 둘레에 서비스 로고가 하나씩 `scale-from`으로 붙음 | 서비스 로고 부품이 src에 없음 (다른 회사 로고는 CLAUDE.md 4번 금지) · 6개 넘는 stagger (1password 비트 8) |\n| `confetti` (승인 2026-10-25 · 부품 대기) | 완료 순간 색종이가 터져 흩날림 | 색종이 부품이 src에 없음 (langease 비트 10) |\n| `cursor-tap` (승인 2026-10-25 · 부품 대기) | 손 커서가 대상을 가리키고 누름 | 커서 부품이 src에 없음. 그동안은 커서 없이 `button-press` (langease 비트 12 · 15–17) |\n\n---\n\n## 4. 머무는 시간\n\n움직임이 **끝난 뒤** 화면이 멈춰 있는 시간. 읽을 수 있어야 다음으로 넘어간다.\n\n| 토큰 | ms | 프레임 | 쓰는 곳 | 출처 |\n|---|---|---|---|---|\n| `hold-s` | 400 | 12 | 배지 · 숫자 하나 · `dark-cut` 첫 제목 | 레퍼런스 \"翌朝。\" (바탕 바뀌기 전 0.4초) |\n| `hold-m` | 700 | 21 | 제목 한 줄 · 카드 하나 | 기존 15초 박자 (레퍼런스 40초판은 약 1000) |\n| `hold-l` | 1200 | 36 | 화면 한 장 전체 (목록 포함) | 기존 15초 박자 (레퍼런스 40초판은 약 2000) |\n| `hold-end` | 1500 | 45 | 엔드 카드 (`end-reveal` · `logo-reveal`) | 기존 15초 박자 (레퍼런스 40초판은 약 3000) |\n\n- 읽을 글자가 15자를 넘으면 한 단계 위 hold를 쓴다. 올려도 `hold-l`까지 — `hold-end`는 엔드 카드 전용. (기존) [고정]\n- 같은 장면에서 다음 움직임은 앞 움직임의 hold가 끝난 뒤 시작한다. stagger와 `word-strike`는 예외. (레퍼런스 줄마다 읽을 틈) [기본 스타일]\n- 한 덩어리로 같이 들어오는 요소(제목 + 버튼 등)는 `stagger`로 같이 들어오고 hold는 한 번만. (기존) [고정]\n- 예외: 영상 마지막 hold는 멈춰도 된다 (엔드 카드). (레퍼런스 엔드) [기본 스타일]\n- hold 동안 카메라는 멈춰 있다. 경계는 `scene-out`으로 넘긴다. (레퍼런스 — 머무는 동안 카메라 정지) [기본 스타일]\n\n---\n\n## 5. 카메라\n\n화면(폰 프레임 · 부품)을 찍는 가상 카메라. 요소 움직임과 따로 둔다.\n\n| 토큰 | 구성 | 쓰는 곳 | 출처 |\n|---|---|---|---|\n| `cam-hold` | × 1 정지 | 기본 (대부분의 장면) | 레퍼런스 제목 장면 전부 |\n| `cam-follow` | `cam-in` 상태에서 가로 이동 · 글자가 늘어나는 속도 그대로 · `ease-linear` | `text-type` 동안 커서 쪽으로 | 레퍼런스 입력창 타이핑 |\n| `cam-pull` | `cam-in` → × 1 · 대상에서 전체 화면 가운데로 · `dur-l` · `ease-inout` | `screen-reveal` | 레퍼런스 입력창 줌아웃 |\n| `cam-crane` | `crane-angle` · × 1 · 폰이 머묾 자리보다 아래 `dist-l` → 각도 0 · 위치 0 · `cam-in`, 대상 쪽으로 올라오며 줌인 (각도 · 위치 · 줌이 같은 시간에 같은 곡선으로) · `dur-2xl` · `ease-inout`. 다음 `cam-pull`은 생략할 수 있다 — 생략하면 `cam-in` 상태로 hold 후 장면을 \n끝낸다 (한 묶음) | 폰이 처음 나오는 장면 (`screen-reveal` 앞) | 요청 (2026-10-24, snapcn phone-frame `showcase`) |\n| `cam-focus` | × 1 → `cam-in` · 전체 가운데에서 대상으로 · `dur-l` · `ease-inout` (`cam-pull`의 반대) | 부품 하나를 가까이 볼 때 | 기존 이름 · 2026-10-25 토큰 조립 |\n| `cam-release` | `cut-scale` → × 1 · `dur-2xl` · `ease-out`. 그동안 요소 `enter`가 같이 진행됨 | 장면을 천천히 열 때 (비트 시트에 그 카메라 · 전환이 있을 때만) | 기존 이름 · 2026-10-25 토큰 조립 |\n| `cam-push` | × 1 → `cut-scale` · 대상 쪽으로 · `dur-2xl` · `ease-in` (점점 빨라짐, 멈추지 않고 다음은 `transition`) | 장면을 밀어붙이며 끝낼 때 (비트 시트에 그 카메라 · 전환이 있을 때만) | 기존 이름 · 2026-10-25 토큰 조립 |\n| `cam-pan` | × 1 그대로 다음 대상까지 가로 · 세로 이동 (거리 = 두 대상 사이) · `dur-l` · `ease-inout` | 한 화면 안에서 대상을 옮겨 갈 때 | 기존 이름 · 2026-10-25 토큰 조립 |\n| `cam-drift` | × 1 그대로 가로 `dist-m` · hold 길이 동안 · `ease-linear` | hold 중 화면을 살짝 살려 둘 때 (비트 시트에 그 카메라 · 전환이 있을 때만) | 기존 이름 · 2026-10-25 토큰 조립 |\n| `cam-dolly-out` | × 1 → `dolly-scale` · 화면 가운데 기준 · hold 길이 동안 · `ease-linear` (`cam-drift`처럼 머묾과 같이 감) | 엔드 앞 전체를 한 번 넓게 볼 때 (비트 시트에 그 카메라가 있을 때만, 영상에 1곳) | 요청 (2026-10-25, launch-c 후보 승인 · 1password 비트 9, 측정 약 4.5\n초) |\n\n- 확대는 `cam-in`(× 2.4)을 넘지 않고, 축소는 `dolly-scale`(× 0.5) 아래로 가지 않는다. [고정]\n- 한 장면에 카메라는 한 묶음 (`cam-follow` → `cam-pull` 또는 `cam-crane` → `cam-pull`, `cam-crane`만, 또는 `cam-focus` · `cam-pan` · `cam-drift` · `cam-dolly-out` · `cam-release` · `cam-push` 중 하나). (레퍼런스) [기본 스타일]\n- 카메라가 움직이는 동안 요소의 `enter` · `emphasis`를 시작하지 않는다. 멈추고 나서 시작한다 (예외: `cam-follow`는 `text-type`과 같이). (레퍼런스 줌아웃 뒤 주변 등장) [기본 스타일]\n- `cam-drift` · `cam-dolly-out` · `cam-release` · `cam-push`는 비트 시트에 그 카메라 · 전환이 있을 때만 쓴다. 그때는 4장 \"hold 동안 카메라 정지\" · \"경계는 `scene-out`\", 5장 \"카메라 움직이는 동안 요소 시작 안 함\" 중 해당 [기본 스타일]을 대신하고 decisions.md에 기록한다. \n[고정]\n"
+  },
+  {
+    "page": 58,
+    "text": "Part 3  실습\n02 기준 정하기\n레퍼런스를 분석하면,\n이렇게 우리 토큰으로 바뀌어요\n값마다 출처가 남고, 색 · 글자 · 로고는 가져오지 않고, 장면 순서 · 화면 배치는 영상마다 비트 시트에서 정해요\n레퍼런스에서 본 것\n모션이 걸린 시간\n6프레임 (0.2초)\n3프레임 만에 거의 도착\n3프레임 (0.1초)\n거의 컷처럼 짧게\n12프레임 (0.4초)\n천천히 시작해 천천히 멈춤\n0프레임 (바로 컷)\n밀기 · 페이드 없이 컷\n우리 토큰\nenter\ndur-m · ease-out\nexit\ndur-s · ease-in\n카메라 줌\ndur-l · ease-inout\ntransition\n0ms 컷\n글줄이 아래에서 올라옴\n장면 끝에 글줄이 사라짐\n입력창 → 화면 전체 줌아웃\n장면이 바뀔 때\n"
+  },
+  {
+    "page": 59,
+    "text": "Part 3  실습\n02 기준 정하기\n기준점 만들기\nvideo.md\n1-2 video.md로 장면별 보이는 방식을 정해요\ndesign.md를 바탕으로, 영상에서 보이는 크기 · 배경 · 글자를 정해요\n프롬프트\ndocs/video.md(영상 룩)를 만들어줘.  \n필수: 1 텍스트 최소 크기 · 2 배경 · 3 글자 · 4 폰 프레임 · 5 parts. 16:9 · 1920×1080 \n· 30fps.\n색 · 폰트는 docs/design.md에서만, 영상 글자 크기는 Figma 값 ×2.8배(모션용 텍스\n트를 위한 배율) 토큰 이름은 video-bg 같은 짧은 영어로 네가 정해. 장면 순서 · 흐름 · \n구성 규칙은 넣지 마 (레퍼런스가 정함).\n나에게 세 가지만 물어봐, 기본값을 같이: 1 배경 톤 (밝은 / 어두운)  2 헤드라인 느낌 (단\n정하게 / 크고 꽉 차게)  3 엔드 카드 바탕 (밝은 / 어두운)\n"
+  },
+  {
+    "page": 60,
+    "text": "Part 3  실습\n02 기준 정하기\n기준점 만들기\nvideo.md\ndesign.md 값이, 이렇게 영상 토큰으로 바뀌어요\n색은 그대로, 크기는 × 2.8로 키우고, design.md에 없는 건 세 가지 질문으로 정해요\ndesign.md (피그마)\n쓰는 곳\nvideo.md 토큰\nText/display 28px\nvideo-display 78px · 헤드라인 최대\nText/eyebrow 11px\nvideo-text-min 31px · 이보다 작은 글자 없음\ncolor-bg #FFFFFF\nvideo-bg 기본 배경\ncolor-primary #3759DE\nvideo-bg-brand 브랜드 장면 · 강조 글자\ndesign.md에 없음\nvideo-bg-end 어두운 바탕 + 브랜드색 빛\n가장 작은 글자\n색은 새로 만들지 않아요\n브랜드 강조\n엔드 카드 바탕\n"
+  },
+  {
+    "page": 61,
+    "text": "Part 3  실습\n02 기준 정하기\n각 체크리스트 점검하기\n4개 모두 맞으면 다음 하네스를 설계하는 단계로 넘어가요\ndocs/에 design.md · motion.md · video.md가 있다\nsrc/screens/에 화면 5장, src/parts/에 부품 HTML이 있다\nmotion.md 값마다 출처가 있고, Semantic은 5개다\nvideo.md에 장면 순서 · 흐름 규칙이 없다\n"
+  },
+  {
+    "page": 62,
+    "text": "Part 3  실습\n02 기준 정하기\n막혔을 때는 이렇게 대응해봐요\n증상을 찾아 대응을 그대로 따라해보세요\n증상\n깃허브 저장소 폴더가 안 열려요\n→\n이렇게 해보세요\n깃허브 저장소에서 Code → Download ZIP으로 다시 받기\n폴더가 다르게 풀렸어요\n→\n깃허브 저장소 폴더 안에 docs/와 src/가 바로 보이게 옮기기\nClaude Code가 다른 폴더에서 열렸어요\n→\n새로운 프로젝트 다시 열고 깃허브 저장소 클론하기\n"
+  },
+  {
+    "page": 63,
+    "text": "03\n하네스 만들기\n프롬프트 하나로 규칙 · 역할 · 순서를 만들고 장면표까지 돌려요\n"
+  },
+  {
+    "page": 64,
+    "text": "Part 3  실습\n03 하네스 만들기\n그럼 본격적으로 모션 하네스를 제작해볼까요?\n모션 디자인 시스템까지 완성했다면,\n만들어둔 기준으로 하네스를 완성해요\n"
+  },
+  {
+    "page": 65,
+    "text": "Part 3  실습\n03 하네스 만들기\n CLAUDE.md \n전체 플로우를 하나로 묶어주\n는데 사용됩니다. \n이 파트에서 만드는 것 \n전체 플로우를 하나로 묶어주고 \n각 스텝별 에이전트로 이루어진 하네스\n4개의 에이전트 \nart-director, director, \nbuilder, critic 각각의 에이전트 \nSkills\nmake-video 스킬 파일 \n(하네스 시작 시 사용) \n순서와 검증 게이트 \n내가 정한 순서대로 작업하고 \ncritic이 기준대로 판정해요\n"
+  },
+  {
+    "page": 66,
+    "text": "Part 3  실습\n03 하네스 만들기\n시작 프롬프트는 3라운드 인터뷰로 하네스를 만들어요\nAI가 라운드마다 묻고, 내가 답하면 그 답으로 파일이 만들어져요\n1\nR1 목적\n고정 · 참조 · 금지 나누기\nCLAUDE.md\n2\nR2 역할 · 순서\n누가 무엇을, 어디서 승인할까\n.claude/agents × 4 · skills/make-video\n3\nR3 게이트\n무엇을 세서 통과시킬까\ncritic 판정 기준\n한 줄 정리\n모르면 \"기본값\"이라고 답해도 같은 하네스가 나와요\n"
+  },
+  {
+    "page": 67,
+    "text": "Part 3  실습\n03 하네스 만들기\n하네스 시작 프롬프트\n하네스 뼈대 설계하기 (그대로 복사해서 사용해도 됩니다)\n프롬프트\n초보자가 요청해도 전문가처럼 영상을 일관되게 만들어주는 모션 하네스를 같이 설계하자.  \n바로 만들지 말고 아래 3라운드로 나에게 물어봐.\n- 라운드마다 질문 2개 이하, 질문마다 기본값을 같이. \"기본값\"이라고 하면 그대로 정해.\n- 만드는 파일은 CLAUDE.md · agents 4개 · skills/make-video/SKILL.md, 6개뿐. 마지\n막 라운드 뒤에 한 번에 만들어.\n- agents · 스킬에는 docs 폴더 기준문서 내용을 베껴 적지 말고, \"motion.md 3장 참고\"처럼 \n어디를 볼지만 적어.\n\nR1 목적 — 매번 바뀌는 것과 고정할 것은?\n  기본값: 바뀌는 건 BRIEF와 레퍼런스. 레퍼런스에서는 구성 · 구도 · 카메라 · 전환 · 글자 배치를 \n참조하고, 여러 개면 역할을 나눠(뼈대는 하나). 색 · 글자 · 숫자는 docs/에서, 화면 · 부품은 \nsrc/에서만.\nR2 역할 · 순서 — 누가 무엇을 하고, 어디서 사람이 승인할까?\n  기본값: art-director(레퍼런스 정리) → director(장면표) → builder(스냅보드 · 영상) → \ncritic(판정만).\n  승인은 장면표(3안 요약 중 고르기) · 스냅보드 두 번. \"모션 만들자\"로 시작.\n  영상 한 편은 BRIEF(무엇을 · 몇 초 · 레퍼런스 세 질문) → 레퍼런스 정리 → 장면표 → 스냅보\n드 → 영상 순서.\n  BRIEF와 결과는 영상마다 out/<영상이름>/에 따로 둬.\nR3 게이트 — 무엇을 세서 통과시킬까?\n  기본값: docs에 없는 숫자(길이 · 곡선 · 색 · 크기) 0 / 화면에 없는 UI 0 / 레퍼런스 반영 60% \n이상. 놓는 위치 · 정렬은 화면과 부품을 보고 정했으면 통과. 먼저 보여주고 판정은 한 줄, 같은 곳\n에서 2번 떨어지면 멈추고 묻기.\n\n다 만들면 파일 트리와 내가 확인할 것 3가지를 알려줘.\n"
+  },
+  {
+    "page": 68,
+    "text": "Part 3  실습\n03 하네스 만들기\nCLAUDE.md에는 꼭 지킬 규칙만 적어요\n목적 한 줄 + 규칙 3개 + 폴더 + 작업 순서 한 줄. 자세한 순서는 스킬에 있어요\n \n규칙 1\n규칙 2\n규칙 3\n산출물\n규칙\n값은 기준 문서에서만\n장면표 → 스냅보드 승인 후 생성\n생성 후 critic 검수\nout/<영상이름>/ 아래 장면표와 결과물\n막는 것\n지어낸 속도 · 색\n다 만든 뒤 방향 수정\n관대한 자기 판정\n규칙 충돌 · 흩어진 파일\n확인\ncritic\n사람\ncritic\n사람\n"
+  },
+  {
+    "page": 69,
+    "text": "Part 3  실습\n03 하네스 만들기\n에이전트 4개가 생겼는지 봐요\n모션을 만드는 역할 3개와 검사하는 역할 1개로 나눠요. 서로 파일로 주고받아요\n에이전트\nart-director\n1\n역할\n아트 디렉터\n하는 일 · 남기는 파일\n레퍼런스마다 역할을 정해 비트 시트로 정리한다.\nbeat-sheet.md\n3안 요약 후, 고른 안을 장면표로 짠다.\nscenes.md\n감독\n2 director\nsnap/ · out/ — 장면표에 없는 결정은 안 함\n승인한 장면표대로만 만든다.\n제작\n3 builder\n고치지 않고 판정만 한다.\ngates.md\n검수\n4 critic\n"
+  },
+  {
+    "page": 70,
+    "text": "Part 3  실습\n03 하네스 만들기\n\"모션 만들자\" 한마디면, 승인할 곳에서만 멈춰요\n브리프부터 규칙까지 7단계. 분홍 칸에서만 사람이 승인해요\n준비\n0 브리프\n1 레퍼런스\n2 장면표\n3 스냅보드\n4 생성 · 5 검수\n6 규칙\n준비물 확인: docs(design · motion · video) · src가 있는지 봐요\n무엇을 · 몇 초 · 레퍼런스 세 가지만 묻고 BRIEF.md를 써요\n레퍼런스마다 역할(뼈대 · 카메라 · 구도)을 정하고 비트 시트로 정리\n해요\n3안 요약 중 하나를 고르면 장면표로 짜요\n장면마다 한 장 + 모아보기. 판정을 기다리지 않고 먼저 보여줘요\nHyperFrames로 만들고 critic이 검수해요\n다음에도 지킬 것을 제안하고, 고른 것만 기준 문서에 넣어요\n→\n→\n→\n→\n→\n→\n→\n메인\n메인\n브리프 승인\nart-director\nbeat-sheet.md\ndirector\n승인 1\nbuilder\n승인 2\nbuilder · critic\ngates.md\n메인\n고른 것만 채택\n한 줄 정리\n중간에 멈춰도, 다시 치면 멈춘 단계부터 이어요\n추가된 규칙은 docs(motion.md · video.md)에 쌓여요\n"
+  },
+  {
+    "page": 71,
+    "text": "Part 3  실습\n03 하네스 만들기\n단계를 넘어갈 때마다 게이트가 있어요\n먼저 보여주고, critic 판정은 한 줄로 덧붙여요\n넘어가는 곳\n장면표\ncritic 판정 (보여준 뒤)\n0장 구성 · 반영률 60% 이상 · 다른 영상과 반복 없음 · 파일과 토큰이 실제로 있는\n지\ndocs에 없는 숫자 · 색 · 크기 0 · 화면에 없는 UI 0\ndocs에 없는 숫자 · 색 · 크기 0 · 화면에 없는 UI 0\n고른 규칙만 docs에 · 장 번호로 가리키기\n사람 게이트\n3안 중 고르기\n스냅보드 승인\n—\n렌더 · 규칙 승인\n떨어지면\ndirector 다시 \n(critic은 한 번)\nbuilder 다시\nbuilder 다시\n2번이면 멈춤\n스냅보드\n생성\n한 줄 정리\n같은 게이트에서 2번 떨어지면 보여준 뒤 멈추고 물어요\n"
+  },
+  {
+    "page": 72,
+    "text": "Part 3  실습\n03 하네스 만들기\n하네스가 잘 만들어졌는지 이 3가지로 확인해요\n\"모션 만들자\"를 치고 각 단계별로 승인하고 산출물을 주면, 하네스 만들기는 성공이에요\n확인 1\n세 가지 질문에 답하고 BRIEF 초안을 \n승인했다\n확인 2\n장면표가 먼저 나오고 \"승인할까\n요?\"에서 멈췄다\n확인 3\nout/<영상이름>/에 snapborard 이미지\n가 생성됐다  \n(영상은 아직)\n"
+  },
+  {
+    "page": 73,
+    "text": "Part 3  실습\n03 하네스 만들기\n막혔을 때는 이렇게 대응해봐요\n증상을 찾아 대응을 그대로 따라해보세요\n증상\n질문에 답하기 어려워요\n→\n이렇게 해보세요\n\"기본값\"이라고만 답해도 같은 하네스가 나와요\nmotion.md 내용을 CLAUDE.md에 복사해요\n→\n\"내용은 복사하지 말고 경로로만 가리켜줘\"\n\"모션 만들자\"로 안 켜져요\n→\n새 세션을 열고 다시 \"모션 만들자\", 그래도 안 되면 /make-video\n"
+  },
+  {
+    "page": 74,
+    "text": "04\n하네스로\n모션 뽑고 관리하기 \n리허설 결과로 보는 실행 과정 · BRIEF부터 영상까지\n"
+  },
+  {
+    "page": 75,
+    "text": "Part 3  실습\n04 하네스로 모션 뽑고 관리하기 \n하네스가 완료되면 \n이런 구조로 완성이됩니다!\nreferences/ · work/ 폴더는 레퍼런스를 넣고 영상을 만들면 그때 채워져요\nCLAUDE.md\n.claude/agents/\n.claude/skills/make-video/\ndocs/\nsrc/\nreferences/\nout/<영상이름>/\n하네스 규칙 · 고정 · 참조 · 금지와 게이트\n역할 4개 · art-director · director · builder · critic\n\"모션 만들자\" 순서와 승인 2번\n기준점 · design · motion · video\n영상에 나오는 화면 · 부품\n레퍼런스 정리 · 비트 시트 (원본은 커밋 안 함)\n영상마다 BRIEF · 장면표 · 스냅보드 · mp4\nmotion-harness\n"
+  },
+  {
+    "page": 76,
+    "text": "Part 3  실습\n04 하네스로 모션 뽑고 관리하기 \n만든 하네스는 자연어로 간단하게\n요청해서 직접 돌려보세요!\n\"모션 만들자\" 한마디를 하면 제작부터 크리틱까지 컨펌 받으면서 제작해요. \nprompt\n모션 만들자\nprompt\n영상 만들자\nOR\n"
+  },
+  {
+    "page": 77,
+    "text": "Part 3  실습\n04 하네스로 모션 뽑고 관리하기 \n한 번 만들긴 쉬워도\n원본 · 버전 관리가 어려운 모션! 이렇게 해보세요!\nFigma MCP로 motion과 연결해서 변수가 있는 원본으로 관리해요!\n*hyperframe으로도 버전 관리는 가능합니다!\n"
+  },
+  {
+    "page": 78,
+    "text": "Part 3  실습\n04 하네스로 모션 뽑고 관리하기 \nfigma motion 옮기기\n실습 1/3\n먼저 motion.md 토큰을 피그마 변수로 등록해요\nFigma MCP가 motion.md를 읽고 Motion 컬렉션을 만들어요\n프롬프트\ndocs/motion.md를 피그마 파일에 변수로 등록해줘. \n[피그마 파일 사본 링크]\n1. Motion Primitives: 1장 값. duration은 초 단위 TIMING, distance · scale은 숫\n자,\n   easing은 EASING 타입. 이름은 \"duration/dur-m\"처럼.\n2. Motion Semantic: 2장 5개를 속성별 별칭으로.\n값은 motion.md에 있는 것만. 없는 건 만들지 말고 알려줘.\n"
+  },
+  {
+    "page": 79,
+    "text": "Part 3  실습\n04 하네스로 모션 뽑고 관리하기 \n등록하면 이렇게 Motion 변수가 생겨요\nPrimitives는 길이는 초(TIMING) · 곡선은 EASING · 나머지는 숫자로, Semantic은 Primitives를 가리키는 별칭으로 들어가요\n"
+  },
+  {
+    "page": 80,
+    "text": "Part 3  실습\n04 하네스로 모션 뽑고 관리하기 \nfigma motion 옮기기\n실습 2/3\n피그마 모션으로 결과물 모션 씬을 옮겨요\nFigma MCP로 장면마다 프레임을 만들고 Motion 변수에 연결해요\n프롬프트\nout/<영상이름>/ 영상의 장면을 Figma MCP로 이 파일에 장면마다 프레임 하나씩 옮\n겨줘.\n[피그마 파일 링크]\n애니메이션 값은 새로 만들지 말고, 방금 등록한 Motion Primitives · Semantic 변수\n에 연결해줘.\n한 줄 정리\n영상과 피그마가 같은 변수를 쓰면, 기준이 한 곳에 모여요\n"
+  },
+  {
+    "page": 81,
+    "text": "Part 3  실습\n04 하네스로 모션 뽑고 관리하기 \n시작부터 엔딩까지,\n장면 별로 figma motion으로 옮겨요\n미리 등록한 모션 변수가 figma motion 레이어에 자동으로 연결돼요\n"
+  },
+  {
+    "page": 82,
+    "text": "Part 3  실습\n04 하네스로 모션 뽑고 관리하기 \nfigma motion 옮기기\n실습 3/3\n장면 별 부분 모션을 확인했으면,\n이제 전체 결과물을 피그마 모션으로 옮겨요\n장면 프레임은 그대로 두고, 이어 붙인 전체 프레임을 하나 더 만들어요\n프롬프트\n지금 만든 out/<영상이름>/ 장면 프레임은 그대로 두고, 옆에 \"out/<영상이름>/ 전체\" \n프레임을 새로 만들어줘.\n  - 각 장면의 레이어를 순서대로 한 프레임에 넣고, 각 장면 애니메이션 시작 시각을 앞 \n장면 길이만큼 밀어서 이어지게 해줘 (장면 길이는 지금 타임라인 값 그대로)\n  - 장면이 바뀔 때 앞 장면 레이어는 나감이 끝나면 안 보이게 처리\n  - 타임라인 전체 길이는 전체 장면 길이의 합\n  - 기존 변수·애니메이션 스타일 연결은 그대로 유지\n  - 다 만들면 처음부터 끝까지 내보내서 장면 사이에 겹치거나 비는 구간이 없는지 확인\n해줘\n"
+  },
+  {
+    "page": 83,
+    "text": "Part 3  실습\n04 하네스로 모션 뽑고 관리하기 \n이 방식으로 관리하면 \n간단한 수정은 피그마에서 손쉽게 할 수 있어요!\nStep 1\n베리어블 등록\nmotion.md의 모션 토큰을\n피그마 베리어블로 옮긴다.\nStep 2\n장면 별 프레임 옮기기\n모션 토큰이 연결된 상태로, 각 장면 별 프레\n임을 figma motion으로 만든다.\nStep 3\n전체 프레임 옮기기\n장면 별 프레임 순서대로 전체 프레임을\n새로 생성한다.\n"
+  },
+  {
+    "page": 84,
+    "text": "05\n추가 팁\n피그마 연결 · 모션 이름 · 레퍼런스 · 스킬\n"
+  },
+  {
+    "page": 85,
+    "text": "Part 3  실습\n05 추가 팁\n하네스를 한 번 구조화하면 다른 렌더링 도구로 교체해도\n기준점은 그대로\n나아가 비트 효과 · 소리까지 더할 수 있어요 \n도구\nHyperFrames (오늘)\n기준점과의 관계\nHTML 장면 · motion.md 값 그대로\n같은 motion.md · BRIEF로 런칭 템플릿 (4명 이상 회사는 유료)\n비트에 맞춘 컷 · 효과음, 체감 품질을 크게 올림\nRemotion + snapcn\n소리 (/media-use)\n"
+  },
+  {
+    "page": 86,
+    "text": "Part 3  실습\n05 추가 팁\n모션은 이름으로 부르면 AI가 알아들어요\n레퍼런스에서 본 움직임을 이름으로 말하고, 우리 토큰으로 연결해요\nPush in cam-in\n화면 속으로 다가감\nPull out cam-pull\n뒤로 빠지며 전체를 보여줌\nCrane cam-crane\n아래에서 올라오며 각도 변화\nMask reveal enter\n줄 안에서 아래 → 위로\nScale in scale-from\n점에서 커짐\nStagger stagger\n여러 개가 차례로\nTypewriter type-step\n한 글자씩 타이핑\nCount-up count-up\n숫자가 올라감\n영상 선택해\n재생해보세요\n"
+  },
+  {
+    "page": 87,
+    "text": "Part 3  실습\n05 추가 팁\n모션 레퍼런스 추천 사이트 3곳\nskillry\nsnapcn\nMotion Prompt\n"
+  },
+  {
+    "page": 88,
+    "text": "Part 3  실습\n05 추가 팁\n모션을 더 다듬고 싶다면, 이 스킬을 더해요\nHyperFrames 애니메이션\nLottieFiles motion-design\nMotion Prompt\n"
+  },
+  {
+    "page": 89,
+    "text": "06\n하네스 직접 돌리고\n영상 제작해보기 \n완성된 하네스를 활용해서 영상을 만들어보세요.\n"
+  },
+  {
+    "page": 90,
+    "text": "Part 3  실습\n06 하네스 직접 돌려보기\n만든 하네스를 실행할 땐 자연어로 간단하게\n요청만 해도 실행해요\n\"모션 만들자\" 한마디를 하면 AI가 질문하면서 BRIEF를 함께 써요\nprompt\n모션 만들자\nprompt\n영상 만들자\nOR\n"
+  },
+  {
+    "page": 91,
+    "text": "Part 3  실습\n06 하네스 직접 돌려보기\n영상마다 바뀌는 작업 요청서, BRIEF.md\n\"모션 만들자\"를 하면 Claude가 세 가지를 자동으로 질문하고, 답으로 BRIEF.md를 써요\nClaude가 물어보는 질문\n무엇을 만드나요?\n설명\n어떤 영상인지 한 줄로 \n요약 정리\n답변 예시\n앱 런칭 영상. 폰 목업에 \n화면을 넣어서\n모션 작업 시작\n몇 초인가요?\n길이 · 화면 비율\n20초 정도\n레퍼런스가 있나요?\n참고할 영상 URL · 역할\nURL 2~3개 + \"분석해서 역할 나눠 배치해줘\"\n"
+  },
+  {
+    "page": 92,
+    "text": "Part 3  실습\n06 하네스 직접 돌려보기\nBRIEF.md에 들어갈 내용을 알려준 뒤,\n연출을 참고할 레퍼런스를 넣어주세요\n레퍼런스를 물어보면, 연출을 참고할 영상 URL을 넣어주세요\n레퍼런스마다 어떤 역할을 적을지 게 나눠 달라고 요청해요\n"
+  },
+  {
+    "page": 93,
+    "text": "Part 3  실습\n06 하네스 직접 돌려보기\nart-director는 레퍼런스에서 어떤 것을\n사용할지 물어보며 정리해요\n레퍼런스마다 역할을 정하고, 나머지는 기준대로 나눠요\n1\n가져올 것\n역할별: 뼈대 · 카메라 · 전환 · 구도\n→\n2\n고정할 것\n색 · 글자 · 화면\n→\n3\n조립되는 움직임\n묻지 않고 쓰고 기록\n→\n4\n새 후보\n없는 숫자 · 부품만, 승인 후 motion.md에\n한 줄 정리\n새 후보는 바로 쓰지 않고, 승인부터 받아요\n"
+  },
+  {
+    "page": 94,
+    "text": "Part 3  실습\n06 하네스 직접 돌려보기\nart-director가 작성하는 beat-sheet.md 완성본 예시\n레퍼런스마다 맡은 역할 칸을 자세히 받아 적어요\nreference\nbeat-sheet.md\n근거콘텐츠 기획에 활용할 근거 조사\n비트 표비율 · 구도 · 카메라 · 전환 · 글자 위치\n시각 \n규칙 5\n줄\n그리드 · 구도 · 글자 배치 · 전환 · 리듬\n새 후보가까운 토큰이 없을 경우 추가할 요소\n"
+  },
+  {
+    "page": 95,
+    "text": "Part 3  실습\n06 하네스 직접 돌려보기\nart-director가 레퍼런스에서 새 모션 토큰을 찾으면,\n반복 사용할지 검토한 뒤 최종 승인 후 토큰으로 등록해요\n바로 쓰지 않고 decisions.md에 올린 뒤, 승인한 것만 motion.md에 들어가요\n발견\n1단계\nart-director가 레퍼런스에서 motion.md\n에 없는 패턴 발견\n대기 · decisions.md\n2단계\n후보 이름 · 출처 · 왜 후보인지를 \ndecisions.md에 작성\n승인 → motion.md\n3단계\n motion.md 기준에 토큰으로 신규 등록\n예: cam-crane · snapcn-phone-frame · 5\n장 카메라에 없음\n예: 폰이 왼쪽 아래에서 올라오는 크레인 카메라\n예: 1장 crane-angle · 5장 cam-crane 추가\n"
+  },
+  {
+    "page": 96,
+    "text": "Part 3  실습\n06 하네스 직접 돌려보기\n레퍼런스에 따라 연출 구성은 달라도 룩은 같아요\n레퍼런스를 가져와도 하네스는 구성만 가져와 우리 모션과 룩으로 옮겨요\n레퍼런스 원본\n하네스로 제작\n영상 선택해\n재생해보세요\n색 · 효과 · 바운스까지 그대로\n✕\n우리 화면이 아님\n✕\n출처: https://snapcn.dev/docs/screens/phone-frame  (MIT 오픈소스)\n✓\n✓\n✓\n구성 · 전환은 레퍼런스를 따름\n배경 · 글자 · 색은 같음\n없는 움직임은 후보로\n"
+  },
+  {
+    "page": 97,
+    "text": "Part 3  실습\n06 하네스 직접 돌려보기\n실제 모션 만들기 전, 장면표로 콘티를 확인해요\n3안 요약 중 하나를 고르면, 그 안만 장면표로 자세히 써요. / 승인하면 이 표대로만 스냅보드를 만들어요\ndecisions.md 새 모션 움직임 후보\nscenes.md 각 화면의 장면표 장면표\n"
+  },
+  {
+    "page": 98,
+    "text": "Part 3  실습\n06 하네스 직접 돌려보기\n실제 모션 만들기 전, 스냅보드로 시안을 확인해요\n시안에서 개선이 필요한 부분은 장면 번호로 구체적으로 피드백 주고 (다음 장),\n다시 장면표와 최종 스냅보드를 승인하면 모션을 제작해요\nsnap/scene\n"
+  },
+  {
+    "page": 99,
+    "text": "Part 3  실습\n06 하네스 직접 돌려보기\n스냅보드에서 추가 판단이 필요한 부분을 직접 요청해요\n모션 토큰과 불일치 여부는 critic이 판정하고, 영상의 취향은 사람이 승인 · 반려로 정해요\n이때, 수정하려는 부분은 “장면 번호 + 무엇을 + 어떻게” 수정할지 요청해요\n1 critic docs에 없는 숫자 · 색 · 크기, 화면에 없는 UI, 레퍼런스 반영률 · 반복을 세요\n장면 5는 앱 아이콘을 빼고 미션 카드만 화\n면 폭 절반 크기로하고 우리 motion 값이\n서 변경하거나 수정할 부분 알려줘.\n다음에도 지킬 규칙이면 docs에 넣을지 물\n어봐.\n2 사람장면 구성 · 분위기 · 강약을 승인 · 반려로 정해요\n3 AI의 질문docs에 없는 숫자 · 부품이 필요하면 새 후보로 물어봐요\n반려한 이유를 규칙으로 남기면, 다음 영상은 덜 고쳐요\n"
+  },
+  {
+    "page": 100,
+    "text": "Part 3  실습\n06 하네스 직접 돌려보기\n반복적으로 수정한 부분은 이렇게 규칙으로 정리해요\n수정 요청 → 규칙 제안 → 승인하는 구조로\n다음 모션 작업에서는 같은 수정이 들어오지 않게 규칙을 남겨요\n구분\n예시\n레이아웃이 불안정함\n커서 폭 · 정렬 값 수정\n폰 목업이 너무 많이 등장\n장면 빼기\n크레인 카메라 추가\n새 후보 → 승인\n기준에 남은 곳\nmotion.md · video.md\ntext-type · 정렬 줄\nmotion.md\nskill-carousel 추가\nmotion.md\ncrane-angle · cam-crane\n스냅보드 2번 불합격\n장면 구성 반려\n영상 인터랙션이 미비함\n"
+  },
+  {
+    "page": 101,
+    "text": "Part 3  실습\n06 하네스 직접 돌려보기\n기획에 요청한 대로 잘 나왔는지\nHTML 프리뷰로 영상을 확인하고 렌더링을 요청해요 \nHyperFrames Studio에서 미리 보고, 괜찮으면 \"렌더링하자\"로 mp4를 만들어요\nHyperFrames Studio\nprompt\n렌더링하자\n"
+  },
+  {
+    "page": 102,
+    "text": "Part 3  실습\n06 하네스 직접 돌려보기\n모션 생성 과정 체크리스트\n직접 돌려볼 때 이 5가지를 확인해요\n레퍼런스는 URL로만 넣었다 (영상 파일은 저장소에 안 올림)\n레퍼런스마다 역할이 정해져 있다 (뼈대는 하나)\nbeat-sheet.md에 비트 표와 시각 규칙 5줄이 있다\n장면표의 화면 · 토큰 이름이 docs와 src에 실제로 있다\n스냅보드의 색 · 글자가 design.md · video.md 그대로다\n"
+  },
+  {
+    "page": 103,
+    "text": "Part 4\n마무리\n오늘 만든 것을 돌아보고 다음 실험을 안내해요\n"
+  },
+  {
+    "page": 104,
+    "text": "01\n오늘 배운 것\n오늘 만든 하네스를 한 장으로 정리해요\n"
+  },
+  {
+    "page": 105,
+    "text": "Part 4  마무리\n01 오늘 배운 것\n이번 시간에는 모션을 일관되게 뽑는 방법부터 \n산출물 관리하는 방법에 대해서 배웠어요\n모션 디자인 시스템모션 디자인 시스템 구성요소와 필요성에 대해 배웠어요.\n모션 기준 문서motion.md와 video.md 제작하는 법\n모션 하네스 일관된 모션 제작을 위해 순서, 검증 단계, 에이전트로 구성된 워크플로우 짜기 \n모션 산출물 관리하기Figma와 연결해서 모션 토큰, 원본으로 관리해요. \n"
+  },
+  {
+    "page": 106,
+    "text": "Part 4  마무리\n01 오늘 배운 것\n이번 시간에서 배운 것과 만든 것\n모션을 숫자로 정하고, 그 기준을 지키는 하네스를 만들었어요\n배운 것\n1\n모션 = 디자인 요소 + 시간\n대상 · 속성 · 시간 · 곡선 · 순서, 다섯 칸\n2\n모션도 토큰으로\nPrimitives → Semantic → Pattern\n3\n기준은 문서로\nmotion.md · video.md, 값은 docs에서만\n4\n하네스 = 규칙 · 역할 · 순서 · 게이트\n장면표 · 스냅보드를 먼저 보고 승인\n5\n레퍼런스는 구성만, 고친 건 규칙으로\n영상을 만들수록 피드백이 줄어요\n만든 것\nhuddling-motion-start/\n· docs/motion.md · video.md\n· CLAUDE.md\n실습 2\n· .claude/agents/ × 4\n실습 2\n· .claude/skills/make-video/\n· BRIEF.md\n실습 2\n· references/<이름>/\n실습 3\n· out/<영상>/ 장면표\n실습 2 · 3\n실습 1\n실습 2\n"
+  },
+  {
+    "page": 107,
+    "text": "Part 4  마무리\n01 오늘 배운 것\n구성\n재료\n1\n2 기준\n3 승인\n4 하네스\n모션 하네스 한눈에 보기\n재료를 받고, 기준을 정하고, 보고 승인하면, 하네스가 지켜요\n역할\n모션에 등장하는 소재\n한 줄 설명\ndesign.md · 화면 · 부품\nmotion.md · video.md\n값은 여기서만 가져온다\n같이 정함\n장면표 · 스냅보드를 먼저 본다\n승인 전에는 만들지 않는다\n사람이 봄\n규칙 · 역할 · 순서 · 게이트\n고친 건 규칙으로 쌓인다\n지켜 줌\n"
+  },
+  {
+    "page": 108,
+    "text": "Part 4  마무리\n01 오늘 배운 것\n일관된 모션을 위한 5가지 팁\n오늘 직접 해보며 확인한 것들이에요\n1\n2\n레퍼런스에서는\n구성만 가져오기\n형용사 말고\n구체적으로 모션명, 숫자로 적기\n2\ndur-m · ease-out처럼\n3\n에이전트는 만드는 역할과\n판정하는 역할 나누기\n4\n영상 만들기 전에\n스냅보드부터 확인하기\n5\n고친 건 반드시\ndocs에 규칙으로 남기기\n"
+  },
+  {
+    "page": 109,
+    "text": "Part 4  마무리\n01 오늘 배운 것\n모션 하네스까지 제작해보았나요?\n이번 시간에 만든 하네스로 모션을 만들고\n하네스 완성도를 보완해보세요\n"
+  },
+  {
+    "page": 110,
+    "text": "Part 4  마무리\n02 산출물 제출\n피그잼에 오늘 라이브의 소감을 남겨주세요!\n베스트 리뷰어 2명에게는 커피 쿠폰을 드려요!\n후기 쓰러 가기\n"
+  },
+  {
+    "page": 111,
+    "text": "03\n과제 안내\n두 트랙 중 하나를 골라 실험해요\n"
+  },
+  {
+    "page": 112,
+    "text": "Part 4  마무리\n03 과제 안내\n1차 실험 주제를 공개합니다!\n두 트랙 중 하나를 고르세요\n오늘 라이브에서 실습 같이 완주한 분들은 그대로 제출해도 됩니다!\n트랙 A- 순한맛\n나만의 모션 디자인 시스템 만들기\n진행 방식\n모션 디자인 시스템 제작해서 나만의 motion.md 완성하기\n 실험 결과 제출\nmotion.md 파일 · md 스크린샷 캡처 제출하기\n트랙 B- 매운맛\n모션 하네스 만들기\n진행 방식\n오늘  수업에서  모션 하네스 완성하기\n 실험 결과 제출\n하네스 파일 트리 캡처 제출하기\n"
+  },
+  {
+    "page": 113,
+    "text": "Part 4  마무리\n03 과제 안내\n2차 실험 주제를 공개합니다!\n두 트랙 중 하나를 고르세요\n트랙 A- 순한맛\n1차 실험에 이어서 모션 하네스 만들기\n진행 방식\n모션 하네스 세팅하기\n 실험 결과 제출\n하네스 파일 트리 캡처 제출하기\n트랙 B- 매운맛\n나만의 하네스+직접 만든 모션 영상\n진행 방식\n설계한 모션 하네스로 결과물까지 만들기\n 실험 결과 제출\n영상 mp4 업로드 + 장면표 캡쳐 제출하기\n"
+  },
+  {
+    "page": 114,
+    "text": "Part 4  마무리\n03 과제 안내\n실험 일정 공개\n일\n월\n화\n수\n목\n금\n토\n10/25\n라이브 스터디\n10/26\n10/27\n10/28\n1차 실험 진행\n10/29\n10/30\n10/31\n11/1\n11/2\n11/3\n11/4\n1차 실험 진행\n11/5\n11/6\n11/7\n11/8\n1차 실험 진행\n11/9\n11/10\n11/11\n2차 실험 진행\n11/12\n11/13\n11/14\n11/15\n11/16\n11/17\n11/18\n2차 실험 진행 (~11/22)\n11/19\n11/20\n11/21\n"
+  },
+  {
+    "page": 115,
+    "text": "Part 4  마무리\n04 다가오는 행사 안내\n다가오는 행사 안내\n허들링 클럽 2번째\n오프라인 밋업을 개최합니다!\n11월 14일 (토) 09:00 ~ 18:00\n스페이스쉐어 서울역1센터\n"
+  }
+]

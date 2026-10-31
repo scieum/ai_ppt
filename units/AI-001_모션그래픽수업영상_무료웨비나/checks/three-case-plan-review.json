@@ -1,0 +1,16 @@
+{
+  "status": "draft_plan_consistency_checked",
+  "cases": [
+    "typography",
+    "website_content",
+    "history_explainer"
+  ],
+  "slides": 42,
+  "minutes_proposed": 90,
+  "part1_minutes_proposed": 18,
+  "single_plan_block": true,
+  "exercise_minutes_match": true,
+  "rebuild_stable": true,
+  "new_examples_produced": false,
+  "G10": "not_cleared"
+}

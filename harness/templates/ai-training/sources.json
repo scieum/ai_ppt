@@ -1,0 +1,22 @@
+[
+  {
+    "id": "S1",
+    "role": "content",
+    "citation": "제공할 일정 메모의 파일명",
+    "locator": "해당 위치",
+    "evidence": {
+      "path": "research/source-extract.txt",
+      "sha256": "실제 파일 해시로 교체"
+    }
+  },
+  {
+    "id": "D1",
+    "role": "design",
+    "citation": "선택한 디자인 레퍼런스",
+    "locator": "PDF 쪽/PPTX 장",
+    "evidence": {
+      "path": "research/design-extract.txt",
+      "sha256": "실제 파일 해시로 교체"
+    }
+  }
+]

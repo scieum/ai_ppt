@@ -1,0 +1,238 @@
+{
+  "status": "captured",
+  "checked_on": "2026-10-27",
+  "codex_thread_id": "01a17ce3-29b5-72d0-96c8-1c8a9fa619fb",
+  "claude_chat_url": "https://claude.ai/chat/c79646dc-61cb-49cc-b5c0-bfddb6ae6bbd",
+  "captures": [
+    {
+      "app": "claude",
+      "step": "01-prompt-entered",
+      "caption": "새 대화의 입력창에 첫 프롬프트를 입력한 실제 화면",
+      "path": "claude/01-prompt-entered.jpg",
+      "sha256": "6282b195f16b2a194591db0ac55660514a372711800be6be9634831832305371",
+      "captured_at": "2026-10-27T10:24:47.907Z",
+      "window": {
+        "app": "Claude_pzs8sxrjxfjjc!Claude",
+        "title": "Claude"
+      },
+      "width": 1920,
+      "height": 1033,
+      "original": true
+    },
+    {
+      "app": "claude",
+      "step": "02-generating",
+      "caption": "첫 요청 제출 후 Claude가 실제 응답을 생성하는 화면",
+      "path": "claude/02-generating.jpg",
+      "sha256": "377f0c51cbab34513f32f92ea71ac104e8eb83c74d3521f4fb0c5439290878b7",
+      "captured_at": "2026-10-27T10:25:12.027Z",
+      "window": {
+        "app": "Claude_pzs8sxrjxfjjc!Claude",
+        "title": "Claude"
+      },
+      "width": 1920,
+      "height": 1033,
+      "original": true
+    },
+    {
+      "app": "codex",
+      "step": "03-first-result-playing",
+      "caption": "Codex 새 실습 채팅에서 생성된 10초 MP4를 실제 인앱 플레이어로 재생한 화면",
+      "path": "codex/03-first-result-playing.jpg",
+      "sha256": "8262bf25318abeb9b4d19013841e948796400e8a3dd01992f061241f16776a0e",
+      "captured_at": "2026-10-27T10:25:30.849Z",
+      "window": {
+        "app": "OpenAI.Codex_2p2nqsd0c76g0!App",
+        "title": "ChatGPT"
+      },
+      "width": 1920,
+      "height": 1032,
+      "original": true
+    },
+    {
+      "app": "codex",
+      "step": "01-prompt-submitted",
+      "caption": "실습용 새 채팅에 전달된 첫 프롬프트와 실제 첫 결과. 다른 채팅에서 보냄 표시를 유지한 원본 화면",
+      "path": "codex/01-prompt-submitted.jpg",
+      "sha256": "0fc783bb9b18755f78c59bc646a3611d41e6639d5e531cbb612e19c0882b63ff",
+      "captured_at": "2026-10-27T10:26:30.666Z",
+      "window": {
+        "app": "OpenAI.Codex_2p2nqsd0c76g0!App",
+        "title": "ChatGPT"
+      },
+      "width": 1920,
+      "height": 1032,
+      "original": true
+    },
+    {
+      "app": "claude",
+      "step": "03-first-artifact",
+      "caption": "Claude가 실제 생성한 10초 HTML 아티팩트와 재생 컨트롤",
+      "path": "claude/03-first-artifact.jpg",
+      "sha256": "a42bfa01a840fb7749a3bfb194d237a032c249b610a689ffcaa75dbc2e1c8679",
+      "captured_at": "2026-10-27T10:27:12.732Z",
+      "window": {
+        "app": "Claude_pzs8sxrjxfjjc!Claude",
+        "title": "Claude"
+      },
+      "width": 1920,
+      "height": 1033,
+      "original": true
+    },
+    {
+      "app": "claude",
+      "step": "04-export-menu",
+      "caption": "HTML 아티팩트 제목 메뉴의 실제 내보내기 위치",
+      "path": "claude/04-export-menu.jpg",
+      "sha256": "912c62bc4d52acd106058b26f5047ca0670ae0a5edba76924ff0825bc276b311",
+      "captured_at": "2026-10-27T10:28:13.303Z",
+      "window": {
+        "app": "Claude_pzs8sxrjxfjjc!Claude",
+        "title": "Claude"
+      },
+      "width": 1920,
+      "height": 1033,
+      "original": true
+    },
+    {
+      "app": "claude",
+      "step": "05-revision-entered",
+      "caption": "첫 결과를 보면서 같은 대화에서 유지 시간만 바꾸는 실제 수정 요청",
+      "path": "claude/05-revision-entered.jpg",
+      "sha256": "03a9f108617f10db19a774d4fe207b809c58ad22625a14fbde8482598f167248",
+      "captured_at": "2026-10-27T10:29:14.150Z",
+      "window": {
+        "app": "Claude_pzs8sxrjxfjjc!Claude",
+        "title": "Claude"
+      },
+      "width": 1920,
+      "height": 1033,
+      "original": true
+    },
+    {
+      "app": "claude",
+      "step": "06-revised-result",
+      "caption": "같은 아티팩트에서 질문 유지 시간을 1초 늘린 실제 11초 결과",
+      "path": "claude/06-revised-result.jpg",
+      "sha256": "bd30006bc5a73bd23b2d657376463063ff1256a3458aa522db085504c5fd32f8",
+      "captured_at": "2026-10-27T10:30:55.054Z",
+      "window": {
+        "app": "Claude_pzs8sxrjxfjjc!Claude",
+        "title": "Claude"
+      },
+      "width": 1920,
+      "height": 1033,
+      "original": true
+    },
+    {
+      "app": "claude",
+      "step": "07-revised-question-playing",
+      "caption": "수정된 HTML 아티팩트의 두 번째 질문을 실제 6.7초 지점에서 재생한 화면",
+      "path": "claude/07-revised-question-playing.jpg",
+      "sha256": "98d481259b3c2abcd56ad20eca279dee6eca2855602825be65be5a19e8523ffa",
+      "captured_at": "2026-10-27T10:31:16.928Z",
+      "window": {
+        "app": "Claude_pzs8sxrjxfjjc!Claude",
+        "title": "Claude"
+      },
+      "width": 1920,
+      "height": 1033,
+      "original": true
+    },
+    {
+      "app": "codex",
+      "step": "04-revision-submitted",
+      "caption": "같은 코덱스 실습 대화에 보낸 실제 수정 요청과 11초 결과의 재생 컨트롤",
+      "path": "codex/04-revision-submitted.jpg",
+      "sha256": "894465d07cc1e4cb97158487443aeb4c3105317585507f3b9e425fa355e50f36",
+      "captured_at": "2026-10-27T10:31:41.010Z",
+      "window": {
+        "app": "OpenAI.Codex_2p2nqsd0c76g0!App",
+        "title": "ChatGPT"
+      },
+      "width": 1920,
+      "height": 1032,
+      "original": true
+    },
+    {
+      "app": "codex",
+      "step": "05-revised-result-playing",
+      "caption": "실제 11초 수정 MP4를 인앱 플레이어에서 재생한 화면",
+      "path": "codex/05-revised-result-playing.jpg",
+      "sha256": "c0f71114c761ada842fdc3d4fcbfee0fd9661afa9f8407c1793da712086ad188",
+      "captured_at": "2026-10-27T10:32:32.317Z",
+      "window": {
+        "app": "OpenAI.Codex_2p2nqsd0c76g0!App",
+        "title": "ChatGPT"
+      },
+      "width": 1920,
+      "height": 1032,
+      "original": true
+    },
+    {
+      "app": "codex",
+      "step": "06-revised-question-seek",
+      "caption": "실제 MP4의 재생 위치를 약 5초로 이동해 가운데 질문을 확인한 화면",
+      "path": "codex/06-revised-question-seek.jpg",
+      "sha256": "551022257348998acccbe607ef47d4980277d1bbf472e3ea503bb1acf966f049",
+      "captured_at": "2026-10-27T10:33:27.152Z",
+      "window": {
+        "app": "OpenAI.Codex_2p2nqsd0c76g0!App",
+        "title": "ChatGPT"
+      },
+      "width": 1920,
+      "height": 1032,
+      "original": true
+    },
+    {
+      "app": "codex",
+      "step": "07-personalization-entered",
+      "caption": "코덱스 실제 입력창에 가운데 질문만 바꾸는 개인화 프롬프트를 입력한 화면",
+      "path": "codex/07-personalization-entered.jpg",
+      "sha256": "2a055dafbea0caf83b4235968305f39701a39fbecf48fccf86eeccf4ef6377b4",
+      "captured_at": "2026-10-27T10:33:57.822Z",
+      "window": {
+        "app": "OpenAI.Codex_2p2nqsd0c76g0!App",
+        "title": "ChatGPT"
+      },
+      "width": 1920,
+      "height": 1032,
+      "original": true
+    },
+    {
+      "app": "codex",
+      "step": "08-personalization-submitting",
+      "caption": "개인화 요청을 제출한 직후 보내기 버튼이 처리 중으로 바뀐 실제 화면",
+      "path": "codex/08-personalization-submitting.jpg",
+      "sha256": "48d1c0706a5f174e9f39304578487203582290d509e7cb098a640f8789f635fa",
+      "captured_at": "2026-10-27T10:35:21.095Z",
+      "window": {
+        "app": "OpenAI.Codex_2p2nqsd0c76g0!App",
+        "title": "ChatGPT"
+      },
+      "width": 1920,
+      "height": 1032,
+      "original": true
+    },
+    {
+      "app": "codex",
+      "step": "09-personalized-result",
+      "caption": "개인화 요청 후 가운데 문구가 실제로 바뀐 11초 MP4의 약 5초 지점",
+      "path": "codex/09-personalized-result.jpg",
+      "sha256": "0fe5aa10ebb00622244d99933e4c0670e5842a4ca1be2ae260437de8b4dcb0f0",
+      "captured_at": "2026-10-27T10:36:59.418Z",
+      "window": {
+        "app": "OpenAI.Codex_2p2nqsd0c76g0!App",
+        "title": "ChatGPT"
+      },
+      "width": 1920,
+      "height": 1032,
+      "original": true
+    }
+  ],
+  "limits": [
+    "Native original screenshots; no regenerated UI.",
+    "Codex first prompt was sent by the authorized thread tool, not typed manually.",
+    "No G10 rights clearance or whole-course approval is implied."
+  ]
+}

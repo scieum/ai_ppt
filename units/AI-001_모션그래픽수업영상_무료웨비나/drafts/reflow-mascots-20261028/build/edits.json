@@ -1,0 +1,461 @@
+[
+  {
+    "page": 1,
+    "source_page": 1,
+    "export_id": "cpoghe",
+    "edits": {},
+    "remove": [],
+    "positions": {},
+    "styles": {},
+    "images": [],
+    "export_page": 2
+  },
+  {
+    "page": 2,
+    "source_page": 2,
+    "export_id": "uu8wd8",
+    "edits": {
+      "part_label": "오늘의 흐름",
+      "section_number": "01",
+      "section_heading": "기본 개념부터 제작까지",
+      "title": "오늘은 이 순서로 진행합니다",
+      "subtitle": "기본을 익히고, 두 레퍼런스를 모아, 미리 확인한 뒤 제작합니다"
+    },
+    "remove": [
+      "dev-content-clear",
+      "dev-case-head-0",
+      "dev-case-head-1",
+      "dev-case-head-2",
+      "dev-case-0-0",
+      "dev-case-0-1",
+      "dev-case-0-2",
+      "dev-case-1-0",
+      "dev-case-1-1",
+      "dev-case-1-2",
+      "dev-case-2-0",
+      "dev-case-2-1",
+      "dev-case-2-2",
+      "dev-case-choice"
+    ],
+    "positions": {},
+    "styles": {},
+    "images": [
+      {
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\assets\\reference-templates\\agenda\\background.png",
+        "name": "roadmap-reference-background",
+        "x": 0,
+        "y": 0,
+        "w": 1280,
+        "h": 720,
+        "layer": "back"
+      }
+    ],
+    "notes": "오늘의 순서는 기본 지식, 이미지·영상 레퍼런스, 스토리라인 .md와 대표 스틸컷 두 장, 수정 후 제작입니다. 중복되던 개념 소개와 용어 정리, 레퍼런스 비교, 사전 확인 개요는 각 단계에 통합했습니다.",
+    "export_page": 4
+  },
+  {
+    "page": 3,
+    "source_page": 3,
+    "export_id": "87ylyo",
+    "edits": {
+      "part_label": "Part 1  모션 그래픽 기본 지식",
+      "section_number": "01",
+      "section_heading": "뜻과 종류"
+    },
+    "remove": [],
+    "positions": {
+      "still-panel": {
+        "left": 430,
+        "width": 330
+      },
+      "moving-panel": {
+        "left": 790,
+        "width": 330
+      },
+      "still-label": {
+        "left": 445,
+        "width": 300
+      },
+      "moving-label": {
+        "left": 805,
+        "width": 300
+      },
+      "still-title": {
+        "left": 445,
+        "width": 300
+      },
+      "demo-definition": {
+        "left": 805,
+        "width": 300
+      },
+      "still-caption": {
+        "left": 445,
+        "width": 300
+      },
+      "moving-caption": {
+        "left": 805,
+        "width": 300
+      }
+    },
+    "styles": {},
+    "images": [
+      {
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\mascots-20261028\\bear-guide-v1.png",
+        "name": "mascot-bear",
+        "x": 70,
+        "y": 335,
+        "w": 220,
+        "h": 330,
+        "layer": "front"
+      }
+    ],
+    "export_page": 6
+  },
+  {
+    "page": 4,
+    "source_page": 4,
+    "export_id": "1hhn4w",
+    "edits": {
+      "part_label": "Part 1  모션 그래픽 기본 지식",
+      "section_number": "01",
+      "section_heading": "뜻과 종류"
+    },
+    "remove": [],
+    "positions": {},
+    "styles": {},
+    "images": [],
+    "export_page": 8
+  },
+  {
+    "page": 5,
+    "source_page": 5,
+    "export_id": "aqgvvy",
+    "edits": {
+      "part_label": "Part 1  모션 그래픽 기본 지식",
+      "section_number": "01",
+      "section_heading": "뜻과 종류"
+    },
+    "remove": [],
+    "positions": {},
+    "styles": {},
+    "images": [
+      {
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\mascots-20261028\\woman-guide-v1.png",
+        "name": "mascot-woman",
+        "x": 1130,
+        "y": 402,
+        "w": 128,
+        "h": 192,
+        "layer": "front"
+      }
+    ],
+    "export_page": 10
+  },
+  {
+    "page": 6,
+    "source_page": 6,
+    "export_id": "06bg2e",
+    "edits": {
+      "part_label": "Part 1  모션 그래픽 기본 지식",
+      "section_number": "02",
+      "section_heading": "움직임과 효과"
+    },
+    "remove": [],
+    "positions": {},
+    "styles": {},
+    "images": [],
+    "export_page": 12
+  },
+  {
+    "page": 7,
+    "source_page": 7,
+    "export_id": "1nrv96",
+    "edits": {
+      "part_label": "Part 1  모션 그래픽 기본 지식",
+      "section_number": "02",
+      "section_heading": "움직임과 효과"
+    },
+    "remove": [],
+    "positions": {},
+    "styles": {},
+    "images": [],
+    "export_page": 14
+  },
+  {
+    "page": 8,
+    "source_page": 8,
+    "export_id": "uqpftm",
+    "edits": {
+      "part_label": "Part 1  모션 그래픽 기본 지식",
+      "section_number": "02",
+      "section_heading": "움직임과 효과"
+    },
+    "remove": [],
+    "positions": {},
+    "styles": {},
+    "images": [],
+    "export_page": 16
+  },
+  {
+    "page": 9,
+    "source_page": 9,
+    "export_id": "gbf1jn",
+    "edits": {
+      "part_label": "Part 1  모션 그래픽 기본 지식",
+      "section_number": "02",
+      "section_heading": "움직임과 효과"
+    },
+    "remove": [],
+    "positions": {},
+    "styles": {},
+    "images": [],
+    "export_page": 18
+  },
+  {
+    "page": 10,
+    "source_page": 11,
+    "export_id": "edts13",
+    "edits": {
+      "part_label": "Part 1  모션 그래픽 기본 지식",
+      "section_number": "03",
+      "section_heading": "시간과 속도"
+    },
+    "remove": [],
+    "positions": {},
+    "styles": {},
+    "images": [],
+    "notes": "지연시간은 출발 전 기다림, 지속시간은 실제 변화의 길이입니다. 기존 지속시간·이징 개요 장표의 시간 정의를 여기로 통합했습니다. 세 예시의 이동 거리와 원래 GIF를 유지합니다.",
+    "export_page": 21
+  },
+  {
+    "page": 11,
+    "source_page": 12,
+    "export_id": "lu0l44",
+    "edits": {
+      "part_label": "Part 1  모션 그래픽 기본 지식",
+      "section_number": "03",
+      "section_heading": "시간과 속도"
+    },
+    "remove": [],
+    "positions": {},
+    "styles": {},
+    "images": [],
+    "notes": "이즈 인·아웃·인아웃은 움직이는 동안의 속도 변화입니다. 기존 개요의 이징 정의와 일정 속도의 차이를 이 설명에 묶었습니다. 같은 거리·같은 1.8초를 유지한 기존 GIF와 같은 시간 간격의 위치 표시를 보존합니다.",
+    "export_page": 23
+  },
+  {
+    "page": 12,
+    "source_page": 16,
+    "export_id": "4tqzma",
+    "edits": {
+      "part_label": "Part 2  이미지·영상 레퍼런스",
+      "section_number": "01",
+      "section_heading": "두 자료를 함께 넣기",
+      "title": "이미지·영상 레퍼런스 함께 넣기",
+      "dev-definition-takeaway": "각 자료에서 무엇을 참고할지 적어 함께 전달합니다"
+    },
+    "remove": [
+      "lesson7-color-chip-0",
+      "lesson7-color-chip-1",
+      "lesson7-color-chip-2",
+      "lesson7-motion-dot-0",
+      "lesson7-motion-dot-1",
+      "lesson7-motion-dot-2"
+    ],
+    "positions": {
+      "still-panel": {
+        "left": 430,
+        "width": 330
+      },
+      "moving-panel": {
+        "left": 790,
+        "width": 330
+      },
+      "still-label": {
+        "left": 445,
+        "width": 300
+      },
+      "moving-label": {
+        "left": 805,
+        "width": 300
+      },
+      "still-title": {
+        "left": 445,
+        "width": 300
+      },
+      "demo-definition": {
+        "left": 805,
+        "width": 300
+      },
+      "still-caption": {
+        "left": 445,
+        "width": 300
+      },
+      "moving-caption": {
+        "left": 805,
+        "width": 300
+      }
+    },
+    "styles": {},
+    "images": [
+      {
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\mascots-20261028\\woman-guide-v1.png",
+        "name": "mascot-woman",
+        "x": 70,
+        "y": 335,
+        "w": 220,
+        "h": 330,
+        "layer": "front"
+      }
+    ],
+    "notes": "정지 이미지와 영상은 전달하는 정보가 다르므로 함께 제공합니다. 이미지에서는 색·글자·소재·구도, 영상에서는 등장 순서·속도·전환을 참고한다고 구체적으로 적습니다. 기존 두 시행착오 비교 장표는 이 역할 구분에 통합했습니다. 참고 자료가 하나뿐이면 반드시 실패한다는 뜻은 아닙니다.\n참고: https://www.youtube.com/watch?v=7xOcIYWGG0A&t=43 , 00:43~04:42 및 04:46~06:38. 캐릭터와 패널은 자체 구성입니다.",
+    "export_page": 28
+  },
+  {
+    "page": 13,
+    "source_page": 17,
+    "export_id": "ld65pq",
+    "edits": {
+      "part_label": "Part 3  스토리라인과 스틸컷 확인",
+      "section_number": "01",
+      "section_heading": "글과 두 장면으로 미리 보기"
+    },
+    "remove": [],
+    "positions": {},
+    "styles": {},
+    "images": [
+      {
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\mascots-20261028\\man-guide-v1.png",
+        "name": "mascot-man",
+        "x": 1130,
+        "y": 402,
+        "w": 128,
+        "h": 192,
+        "layer": "front"
+      }
+    ],
+    "export_page": 30
+  },
+  {
+    "page": 14,
+    "source_page": 18,
+    "export_id": "lexgev",
+    "edits": {
+      "part_label": "Part 3  스토리라인과 스틸컷 확인",
+      "section_number": "01",
+      "section_heading": "글과 두 장면으로 미리 보기"
+    },
+    "remove": [
+      "lesson7-still-a-orbit",
+      "lesson7-still-a-dot"
+    ],
+    "positions": {
+      "still-title": {
+        "left": 205,
+        "width": 255
+      },
+      "demo-definition": {
+        "left": 720,
+        "width": 255
+      },
+      "still-caption": {
+        "top": 568,
+        "height": 28
+      },
+      "moving-caption": {
+        "top": 568,
+        "height": 28
+      }
+    },
+    "styles": {},
+    "images": [
+      {
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\mascots-20261028\\bear-guide-v1.png",
+        "name": "mascot-bear",
+        "x": 488,
+        "y": 421,
+        "w": 82,
+        "h": 123,
+        "layer": "front"
+      },
+      {
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\mascots-20261028\\woman-guide-v1.png",
+        "name": "mascot-woman",
+        "x": 1000,
+        "y": 421,
+        "w": 82,
+        "h": 123,
+        "layer": "front"
+      }
+    ],
+    "export_page": 32
+  },
+  {
+    "page": 15,
+    "source_page": 19,
+    "export_id": "naa9ks",
+    "edits": {
+      "part_label": "Part 4  수정 후 제작",
+      "section_number": "01",
+      "section_heading": "피드백을 반영하고 진행하기",
+      "title": "고칠 부분을 정하고 다시 확인",
+      "lesson7-feedback-note": "수정된 스틸컷과 해당 영상 구간을 확인한 뒤 제작을 진행합니다"
+    },
+    "remove": [],
+    "positions": {},
+    "styles": {},
+    "images": [],
+    "export_page": 34
+  },
+  {
+    "page": 16,
+    "source_page": 14,
+    "export_id": "8y335m",
+    "edits": {
+      "part_label": "Part 4  수정 후 제작",
+      "section_number": "01",
+      "section_heading": "피드백을 반영하고 진행하기",
+      "title": "확인한 방향으로 영상을 제작합니다",
+      "subtitle": "스토리라인과 스틸컷을 확정한 뒤 전체 제작으로 넘어갑니다"
+    },
+    "remove": [
+      "effect-card-0",
+      "effect-name-0",
+      "effect-en-0",
+      "effect-desc-0",
+      "effect-card-1",
+      "effect-name-1",
+      "effect-en-1",
+      "effect-desc-1",
+      "effect-card-2",
+      "effect-name-2",
+      "effect-en-2",
+      "effect-desc-2",
+      "preview-document",
+      "preview-md",
+      "preview-doc-line",
+      "preview-still-0",
+      "preview-still-num-0",
+      "preview-still-1",
+      "preview-still-num-1",
+      "preview-confirm",
+      "preview-confirm-text",
+      "preview-saving"
+    ],
+    "positions": {},
+    "styles": {},
+    "images": [
+      {
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\mascots-20261028\\man-guide-v1.png",
+        "name": "mascot-man",
+        "x": 150,
+        "y": 335,
+        "w": 220,
+        "h": 330,
+        "layer": "front"
+      }
+    ],
+    "notes": "스토리라인과 대표 스틸컷을 먼저 확인하고 필요한 수정을 반영한 다음 전체 영상 제작을 진행합니다. 중복되던 사전 확인 개요는 이 마지막 진행 순서와 앞선 두 장면 확인에 통합했습니다. 반복 생성을 줄이면 토큰과 시간을 아낄 수 있으나 수치나 절감률을 보장하지 않습니다.\n참고: https://www.youtube.com/watch?v=7xOcIYWGG0A&t=564 , 09:24~10:13. .md 형식과 새 노션톡 장면은 사용자 요청/자체 구성입니다.",
+    "export_page": 26
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "page": 20,
+    "pattern": "질문에서 이미지·영상 두 기준으로 분기",
+    "refs": [
+      "첨부 3 / R01 p17"
+    ],
+    "package_part": "ppt/slides/reflow-12.xml",
+    "notes_part": "ppt/notesSlides/reflow-12.xml"
+  },
+  {
+    "page": 36,
+    "pattern": "스틸컷→짧은 구간→전체 영상의 세 단계",
+    "refs": [
+      "첨부 5 / R01 p23"
+    ],
+    "package_part": "ppt/slides/styleDocsreview-sequence.xml",
+    "notes_part": "ppt/notesSlides/styleDocsreview-sequence.xml"
+  },
+  {
+    "page": 37,
+    "pattern": "점검 기준·질문·확인 자료를 연결한 행별 비교",
+    "refs": [
+      "첨부 1 / R01 p11",
+      "첨부 4 / R01 p20"
+    ],
+    "package_part": "ppt/slides/styleDocsreview-criteria.xml",
+    "notes_part": "ppt/notesSlides/styleDocsreview-criteria.xml"
+  },
+  {
+    "page": 39,
+    "pattern": "혼동되는 보관과 재사용 가능한 보관의 대조",
+    "refs": [
+      "첨부 2 / R01 p15",
+      "첨부 6 / 결론 띠"
+    ],
+    "package_part": "ppt/slides/styleDocsversion.xml",
+    "notes_part": "ppt/notesSlides/styleDocsversion.xml"
+  },
+  {
+    "page": 40,
+    "pattern": "기준 확인→수정 확인→제작, 중간 확인 지점 표시",
+    "refs": [
+      "첨부 7·8 / R01 p29",
+      "첨부 6 / 결론 띠"
+    ],
+    "package_part": "ppt/slides/reflow-16.xml",
+    "notes_part": "ppt/notesSlides/reflow-16.xml"
+  }
+]

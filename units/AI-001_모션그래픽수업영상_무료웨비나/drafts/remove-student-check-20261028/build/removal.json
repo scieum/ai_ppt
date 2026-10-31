@@ -1,0 +1,13 @@
+{
+  "source": "output\\webinar-flipbook\\NotionTalk_플립북설명추가_22장_v1.pptx",
+  "source_sha256": "100f9b349b53274d9b20df52de47d4a2d5114b77adea31111cd5863546156509",
+  "removed_display_page": 20,
+  "removed_title": "학생이 따라올 수 있는 영상인가요?",
+  "removed_parts": [
+    "ppt/slides/slide3.xml",
+    "ppt/slides/_rels/slide3.xml.rels",
+    "ppt/notesSlides/notesSlide3.xml",
+    "ppt/notesSlides/_rels/notesSlide3.xml.rels"
+  ],
+  "remaining_slides": 21
+}

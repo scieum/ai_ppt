@@ -1,0 +1,136 @@
+{
+  "slides": 27,
+  "pdf_pages": 27,
+  "visual_inspection_all_pages": true,
+  "source": "lesson.md",
+  "excluded_production_terms_in_visible_slide_text": [],
+  "removed_original_slides_and_notes_from_package": true,
+  "geometry_comparison": [
+    {
+      "page": 1,
+      "same_template_geometry": true
+    },
+    {
+      "page": 2,
+      "same_template_geometry": true
+    },
+    {
+      "page": 3,
+      "same_template_geometry": true
+    },
+    {
+      "page": 4,
+      "same_template_geometry": true
+    },
+    {
+      "page": 5,
+      "same_template_geometry": true
+    },
+    {
+      "page": 6,
+      "same_template_geometry": true
+    },
+    {
+      "page": 7,
+      "same_template_geometry": true
+    },
+    {
+      "page": 8,
+      "same_template_geometry": true
+    },
+    {
+      "page": 9,
+      "same_template_geometry": true
+    },
+    {
+      "page": 10,
+      "same_template_geometry": true
+    },
+    {
+      "page": 11,
+      "same_template_geometry": true
+    },
+    {
+      "page": 12,
+      "same_template_geometry": true
+    },
+    {
+      "page": 13,
+      "same_template_geometry": true
+    },
+    {
+      "page": 14,
+      "same_template_geometry": true
+    },
+    {
+      "page": 15,
+      "same_template_geometry": true
+    },
+    {
+      "page": 16,
+      "same_template_geometry": true
+    },
+    {
+      "page": 17,
+      "same_template_geometry": true
+    },
+    {
+      "page": 18,
+      "same_template_geometry": true
+    },
+    {
+      "page": 19,
+      "same_template_geometry": true
+    },
+    {
+      "page": 20,
+      "same_template_geometry": true
+    },
+    {
+      "page": 21,
+      "same_template_geometry": true
+    },
+    {
+      "page": 22,
+      "same_template_geometry": true
+    },
+    {
+      "page": 23,
+      "same_template_geometry": true
+    },
+    {
+      "page": 24,
+      "same_template_geometry": true
+    },
+    {
+      "page": 25,
+      "same_template_geometry": true
+    },
+    {
+      "page": 26,
+      "same_template_geometry": true
+    },
+    {
+      "page": 27,
+      "same_template_geometry": true
+    }
+  ],
+  "native_animation_pages": [
+    8,
+    9,
+    10
+  ],
+  "native_table_pages": [
+    5,
+    7,
+    13,
+    14,
+    23
+  ],
+  "unchanged_reused_media_count": 10,
+  "body_bound_issues": [],
+  "G10_status": "unchanged; prior reused asset rights inventory remains pending",
+  "new_external_execution": false,
+  "source_lesson_sha256": "845e711e86e7017598b9f98ff43760d1cc485d9becbf29c0c27cc477feedc471",
+  "pptx_sha256": "22103ca535811187ed45c78255e954973ab8994473c20f2ed386b23fbd9327e5"
+}

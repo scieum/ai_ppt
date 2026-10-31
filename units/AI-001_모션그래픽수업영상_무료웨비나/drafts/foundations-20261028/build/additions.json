@@ -1,0 +1,37 @@
+[
+  {
+    "key": "definition",
+    "template": 7,
+    "export_slide": 14
+  },
+  {
+    "key": "formats",
+    "template": 2,
+    "export_slide": 3
+  },
+  {
+    "key": "properties",
+    "template": 7,
+    "export_slide": 13
+  },
+  {
+    "key": "entrances",
+    "template": 7,
+    "export_slide": 12
+  },
+  {
+    "key": "reveals",
+    "template": 7,
+    "export_slide": 11
+  },
+  {
+    "key": "timing",
+    "template": 7,
+    "export_slide": 10
+  },
+  {
+    "key": "vocabulary-prompt",
+    "template": 7,
+    "export_slide": 9
+  }
+]

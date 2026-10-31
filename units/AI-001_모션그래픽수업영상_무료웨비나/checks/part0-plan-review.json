@@ -1,0 +1,20 @@
+{
+  "scope": "planning_only",
+  "part0_minutes_proposed": 5,
+  "part0_slides": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "paid_subscription_required": true,
+  "choice": "Codex or Claude, one selected tool",
+  "policy_source": "explicit user instruction",
+  "webinar_fee": "free",
+  "tool_subscription_fee": "separate",
+  "exact_plan_and_price": "not_selected",
+  "total_minutes_proposed": 90,
+  "slides_proposed": 42,
+  "rebuild_stable": true,
+  "payment_executed": false
+}

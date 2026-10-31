@@ -36,6 +36,9 @@ def feedback(engine, version, approval_ref=None):
 
 
 def review(engine, current_plan_hash):
+    if engine.profile == 'ai_training':
+        from training_gate import design_review
+        return design_review(engine, current_plan_hash)
     from gate import read, evidence
     root = engine.unit
     cfg = engine.rules['design_review']
@@ -141,6 +144,9 @@ def approve(engine, current_plan_hash):
 def full_deck_branding(engine, rows, deck_hash):
     """Fail closed on every slide's current exporter evidence, not just representatives."""
     from gate import read, evidence
+    if engine.profile == 'ai_training':
+        from training_gate import full_deck_layouts
+        return full_deck_layouts(engine, rows, deck_hash)
     cfg = engine.rules['design_review']
     lock = read(engine.unit / 'design-review/reference-lock.json')
     cover = next(x for x in lock['templates'] if x['type'] == cfg['branding']['cover_type'])

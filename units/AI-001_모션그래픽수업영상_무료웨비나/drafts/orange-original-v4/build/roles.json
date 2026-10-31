@@ -1,0 +1,1058 @@
+[
+  {
+    "slide": 1,
+    "role": "cover_title",
+    "text": "모션 그래픽을 이용한\n수업 영상 제작하기",
+    "box": [
+      192,
+      184,
+      1120,
+      285
+    ],
+    "size": 116
+  },
+  {
+    "slide": 1,
+    "role": "cover_subtitle",
+    "text": "AI로 달라지는 선생님의 수업 영상 제작 · 무료 웨비나",
+    "box": [
+      192,
+      496,
+      1120,
+      60
+    ],
+    "size": 40
+  },
+  {
+    "slide": 1,
+    "role": "webinar_date",
+    "text": "2026년 11월 1일(일) 20:00 LIVE",
+    "box": [
+      192,
+      890,
+      950,
+      60
+    ],
+    "size": 40
+  },
+  {
+    "slide": 1,
+    "role": "copyright_footer",
+    "text": "© 2026. NotionTalk. All rights reserved.",
+    "box": [
+      1080,
+      1030,
+      760,
+      30
+    ],
+    "size": 20
+  },
+  {
+    "slide": 2,
+    "role": "part_label",
+    "text": "무료 웨비나  전체 흐름",
+    "box": [
+      78.964,
+      89.313,
+      1200,
+      45
+    ],
+    "size": 32
+  },
+  {
+    "slide": 2,
+    "role": "section_number",
+    "text": "01",
+    "box": [
+      78.964,
+      142.055,
+      65,
+      60
+    ],
+    "size": 44
+  },
+  {
+    "slide": 2,
+    "role": "section_heading",
+    "text": "다섯 단계로 직접 만들기",
+    "box": [
+      150.964,
+      142.055,
+      1250,
+      60
+    ],
+    "size": 44
+  },
+  {
+    "slide": 2,
+    "role": "title",
+    "text": "수업 영상을 만드는 다섯 단계",
+    "box": [
+      400,
+      297.625,
+      1120,
+      90
+    ],
+    "size": 64
+  },
+  {
+    "slide": 2,
+    "role": "subtitle",
+    "text": "질문을 보여 주는 짧은 영상에서 시작해\n장면 계획과 외부 제작까지 연결합니다",
+    "box": [
+      400,
+      403.27,
+      1120,
+      90
+    ],
+    "size": 34
+  },
+  {
+    "slide": 2,
+    "role": "number_0",
+    "text": "1",
+    "box": [
+      234,
+      579.113,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 2,
+    "role": "heading_0",
+    "text": "단순 요청",
+    "box": [
+      234,
+      623.355,
+      276,
+      45
+    ],
+    "size": 30
+  },
+  {
+    "slide": 2,
+    "role": "description_0",
+    "text": "수업 시작 질문 만들기",
+    "box": [
+      234,
+      678.57,
+      276,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 2,
+    "role": "tag_0",
+    "text": "첫 결과",
+    "box": [
+      234,
+      726.613,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 2,
+    "role": "number_1",
+    "text": "2",
+    "box": [
+      528,
+      579.113,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 2,
+    "role": "heading_1",
+    "text": "레퍼런스",
+    "box": [
+      528,
+      623.355,
+      276,
+      45
+    ],
+    "size": 30
+  },
+  {
+    "slide": 2,
+    "role": "description_1",
+    "text": "토의 안내 배치 정하기",
+    "box": [
+      528,
+      678.57,
+      276,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 2,
+    "role": "tag_1",
+    "text": "이미지 참고",
+    "box": [
+      528,
+      726.613,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 2,
+    "role": "number_2",
+    "text": "3",
+    "box": [
+      822,
+      579.113,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 2,
+    "role": "heading_2",
+    "text": "모션 지식",
+    "box": [
+      822,
+      623.355,
+      276,
+      45
+    ],
+    "size": 30
+  },
+  {
+    "slide": 2,
+    "role": "description_2",
+    "text": "읽기와 시선 확인",
+    "box": [
+      822,
+      678.57,
+      276,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 2,
+    "role": "tag_2",
+    "text": "시간",
+    "box": [
+      822,
+      726.613,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 2,
+    "role": "number_3",
+    "text": "4",
+    "box": [
+      1116,
+      579.113,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 2,
+    "role": "heading_3",
+    "text": "문서 설계",
+    "box": [
+      1116,
+      623.355,
+      276,
+      45
+    ],
+    "size": 30
+  },
+  {
+    "slide": 2,
+    "role": "description_3",
+    "text": "활동 순서를 파일로",
+    "box": [
+      1116,
+      678.57,
+      276,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 2,
+    "role": "tag_3",
+    "text": "장면",
+    "box": [
+      1116,
+      726.613,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 2,
+    "role": "number_4",
+    "text": "5",
+    "box": [
+      1410,
+      579.113,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 2,
+    "role": "heading_4",
+    "text": "외부 제작",
+    "box": [
+      1410,
+      623.355,
+      276,
+      45
+    ],
+    "size": 30
+  },
+  {
+    "slide": 2,
+    "role": "description_4",
+    "text": "교사 캐릭터 장면",
+    "box": [
+      1410,
+      678.57,
+      276,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 2,
+    "role": "tag_4",
+    "text": "클립 생성",
+    "box": [
+      1410,
+      726.613,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 2,
+    "role": "summary_label",
+    "text": "수업 기준",
+    "box": [
+      630,
+      902.57,
+      103,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 2,
+    "role": "summary_text",
+    "text": "내 수업에 필요한 결과부터 작게 만들어요",
+    "box": [
+      749,
+      898.441,
+      540,
+      40
+    ],
+    "size": 26
+  },
+  {
+    "slide": 2,
+    "role": "copyright_footer",
+    "text": "© 2026. NotionTalk. All rights reserved.",
+    "box": [
+      1080,
+      1030,
+      760,
+      30
+    ],
+    "size": 20
+  },
+  {
+    "slide": 3,
+    "role": "part_label",
+    "text": "Part 3  수업에 맞는 움직임 고르기",
+    "box": [
+      78.964,
+      89.313,
+      1200,
+      45
+    ],
+    "size": 32
+  },
+  {
+    "slide": 3,
+    "role": "section_number",
+    "text": "01",
+    "box": [
+      78.964,
+      142.055,
+      65,
+      60
+    ],
+    "size": 44
+  },
+  {
+    "slide": 3,
+    "role": "section_heading",
+    "text": "학생 화면으로 검토하기",
+    "box": [
+      150.964,
+      142.055,
+      1250,
+      60
+    ],
+    "size": 44
+  },
+  {
+    "slide": 3,
+    "role": "title",
+    "text": "학생이 따라올 수 있는 영상인가요?",
+    "box": [
+      400,
+      297.625,
+      1120,
+      90
+    ],
+    "size": 64
+  },
+  {
+    "slide": 3,
+    "role": "subtitle",
+    "text": "보기 좋은 효과와 함께, 학생이 읽고 이해하고\n무엇을 할지 알 수 있는지 확인합니다",
+    "box": [
+      400,
+      403.27,
+      1120,
+      90
+    ],
+    "size": 34
+  },
+  {
+    "slide": 3,
+    "role": "number_0",
+    "text": "1",
+    "box": [
+      234,
+      579.113,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 3,
+    "role": "heading_0",
+    "text": "읽기",
+    "box": [
+      234,
+      623.355,
+      276,
+      45
+    ],
+    "size": 30
+  },
+  {
+    "slide": 3,
+    "role": "description_0",
+    "text": "질문을 읽을 시간",
+    "box": [
+      234,
+      678.57,
+      276,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 3,
+    "role": "tag_0",
+    "text": "문구 · 대비",
+    "box": [
+      234,
+      726.613,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 3,
+    "role": "number_1",
+    "text": "2",
+    "box": [
+      528,
+      579.113,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 3,
+    "role": "heading_1",
+    "text": "시선",
+    "box": [
+      528,
+      623.355,
+      276,
+      45
+    ],
+    "size": 30
+  },
+  {
+    "slide": 3,
+    "role": "description_1",
+    "text": "핵심어만 먼저 강조",
+    "box": [
+      528,
+      678.57,
+      276,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 3,
+    "role": "tag_1",
+    "text": "크기 · 강조",
+    "box": [
+      528,
+      726.613,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 3,
+    "role": "number_2",
+    "text": "3",
+    "box": [
+      822,
+      579.113,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 3,
+    "role": "heading_2",
+    "text": "순서",
+    "box": [
+      822,
+      623.355,
+      276,
+      45
+    ],
+    "size": 30
+  },
+  {
+    "slide": 3,
+    "role": "description_2",
+    "text": "한 번에 하나씩",
+    "box": [
+      822,
+      678.57,
+      276,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 3,
+    "role": "tag_2",
+    "text": "시간",
+    "box": [
+      822,
+      726.613,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 3,
+    "role": "number_3",
+    "text": "4",
+    "box": [
+      1116,
+      579.113,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 3,
+    "role": "heading_3",
+    "text": "행동",
+    "box": [
+      1116,
+      623.355,
+      276,
+      45
+    ],
+    "size": 30
+  },
+  {
+    "slide": 3,
+    "role": "description_3",
+    "text": "할 일을 구체적으로",
+    "box": [
+      1116,
+      678.57,
+      276,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 3,
+    "role": "tag_3",
+    "text": "안내",
+    "box": [
+      1116,
+      726.613,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 3,
+    "role": "number_4",
+    "text": "5",
+    "box": [
+      1410,
+      579.113,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 3,
+    "role": "heading_4",
+    "text": "정리",
+    "box": [
+      1410,
+      623.355,
+      276,
+      45
+    ],
+    "size": 30
+  },
+  {
+    "slide": 3,
+    "role": "description_4",
+    "text": "마지막 과제 유지",
+    "box": [
+      1410,
+      678.57,
+      276,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 3,
+    "role": "tag_4",
+    "text": "마지막 화면",
+    "box": [
+      1410,
+      726.613,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 3,
+    "role": "summary_label",
+    "text": "수업 기준",
+    "box": [
+      630,
+      902.57,
+      103,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 3,
+    "role": "summary_text",
+    "text": "학생이 할 일을 순서대로 보여 줘요",
+    "box": [
+      749,
+      898.441,
+      540,
+      40
+    ],
+    "size": 26
+  },
+  {
+    "slide": 3,
+    "role": "copyright_footer",
+    "text": "© 2026. NotionTalk. All rights reserved.",
+    "box": [
+      1080,
+      1030,
+      760,
+      30
+    ],
+    "size": 20
+  },
+  {
+    "slide": 4,
+    "role": "part_label",
+    "text": "Part 4  다음 수업에도 다시 쓰는 제작 문서",
+    "box": [
+      78.964,
+      90,
+      1200,
+      45
+    ],
+    "size": 32
+  },
+  {
+    "slide": 4,
+    "role": "section_number",
+    "text": "01",
+    "box": [
+      78.964,
+      143,
+      65,
+      60
+    ],
+    "size": 44
+  },
+  {
+    "slide": 4,
+    "role": "section_heading",
+    "text": "학습 목표와 화면 규칙",
+    "box": [
+      151.964,
+      143,
+      1250,
+      60
+    ],
+    "size": 44
+  },
+  {
+    "slide": 4,
+    "role": "title",
+    "text": "내 수업에 맞는 세 문서를 만들어요",
+    "box": [
+      300,
+      299,
+      1320,
+      90
+    ],
+    "size": 64
+  },
+  {
+    "slide": 4,
+    "role": "subtitle",
+    "text": "학생이 할 일과 영상의 표현 규칙을 나누어 적습니다",
+    "box": [
+      300,
+      404,
+      1320,
+      55
+    ],
+    "size": 34
+  },
+  {
+    "slide": 4,
+    "role": "table_header_0",
+    "text": "문서",
+    "box": [
+      511,
+      543,
+      270,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 4,
+    "role": "table_header_1",
+    "text": "이 강의에서 적을 내용",
+    "box": [
+      805,
+      543,
+      270,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 4,
+    "role": "table_header_2",
+    "text": "바꾸어 볼 수업 조건",
+    "box": [
+      1099,
+      543,
+      488,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 4,
+    "role": "start_label",
+    "text": "짝 토의 안내",
+    "box": [
+      210,
+      728,
+      210,
+      45
+    ],
+    "size": 28
+  },
+  {
+    "slide": 4,
+    "role": "cell_0_0",
+    "text": "LESSON_BRIEF.md",
+    "box": [
+      528,
+      615,
+      230,
+      76
+    ],
+    "size": 25
+  },
+  {
+    "slide": 4,
+    "role": "cell_0_1",
+    "text": "학생·학습 목표\n질문과 핵심 과제",
+    "box": [
+      824,
+      600,
+      230,
+      76
+    ],
+    "size": 24
+  },
+  {
+    "slide": 4,
+    "role": "cell_0_2",
+    "text": "오늘의 질문에 대해\n생각의 근거 한 가지 말하기",
+    "box": [
+      1120,
+      600,
+      450,
+      76
+    ],
+    "size": 24
+  },
+  {
+    "slide": 4,
+    "role": "cell_1_0",
+    "text": "VISUAL_RULES.md",
+    "box": [
+      528,
+      733.333,
+      230,
+      76
+    ],
+    "size": 25
+  },
+  {
+    "slide": 4,
+    "role": "cell_1_1",
+    "text": "읽는 시간·색\n강조·등장 규칙",
+    "box": [
+      824,
+      718.333,
+      230,
+      76
+    ],
+    "size": 24
+  },
+  {
+    "slide": 4,
+    "role": "cell_1_2",
+    "text": "주황 핵심어 / 긴 질문은\n읽는 구간을 늘리기",
+    "box": [
+      1120,
+      718.333,
+      450,
+      76
+    ],
+    "size": 24
+  },
+  {
+    "slide": 4,
+    "role": "cell_2_0",
+    "text": "SCENE_PLAN.md",
+    "box": [
+      528,
+      851.666,
+      230,
+      76
+    ],
+    "size": 25
+  },
+  {
+    "slide": 4,
+    "role": "cell_2_1",
+    "text": "4개 장면의\n시간·문구·행동",
+    "box": [
+      824,
+      836.666,
+      230,
+      76
+    ],
+    "size": 24
+  },
+  {
+    "slide": 4,
+    "role": "cell_2_2",
+    "text": "질문 4초 · 혼자 쓰기 6초\n짝 나눔 8초 · 함께 정리 6초",
+    "box": [
+      1120,
+      836.666,
+      450,
+      76
+    ],
+    "size": 24
+  },
+  {
+    "slide": 4,
+    "role": "copyright_footer",
+    "text": "© 2026. NotionTalk. All rights reserved.",
+    "box": [
+      1080,
+      1030,
+      760,
+      30
+    ],
+    "size": 20
+  },
+  {
+    "slide": 5,
+    "role": "part_label",
+    "text": "Part 5  외부 영상 제작 도구와 연결하기",
+    "box": [
+      90,
+      89,
+      1200,
+      36
+    ],
+    "size": 24
+  },
+  {
+    "slide": 5,
+    "role": "section_number",
+    "text": "01",
+    "box": [
+      90,
+      131,
+      65,
+      60
+    ],
+    "size": 44
+  },
+  {
+    "slide": 5,
+    "role": "section_heading",
+    "text": "교사 캐릭터 장면 만들기",
+    "box": [
+      162,
+      131,
+      1250,
+      60
+    ],
+    "size": 44
+  },
+  {
+    "slide": 5,
+    "role": "title",
+    "text": "장면표의 한 장면을 영상으로 확장해요",
+    "box": [
+      400,
+      299,
+      1120,
+      90
+    ],
+    "size": 64
+  },
+  {
+    "slide": 5,
+    "role": "subtitle",
+    "text": "질문을 건네는 교사 장면과 정확한 문구를 따로 준비합니다",
+    "box": [
+      400,
+      404,
+      1120,
+      55
+    ],
+    "size": 34
+  },
+  {
+    "slide": 5,
+    "role": "tool_caption",
+    "text": "대화형 AI와 외부 영상 제작 도구",
+    "box": [
+      395,
+      786,
+      426,
+      48
+    ],
+    "size": 24
+  },
+  {
+    "slide": 5,
+    "role": "prompt_label",
+    "text": "SCENE_PLAN.md의 한 장면",
+    "box": [
+      1010,
+      623,
+      440,
+      42
+    ],
+    "size": 28
+  },
+  {
+    "slide": 5,
+    "role": "prompt_body",
+    "text": "교사 캐릭터가 질문하는\n짧은 영상을 만들어 줘.\n글자는 별도로 넣을게.",
+    "box": [
+      1010,
+      673,
+      440,
+      153
+    ],
+    "size": 34
+  },
+  {
+    "slide": 5,
+    "role": "copyright_footer",
+    "text": "© 2026. NotionTalk. All rights reserved.",
+    "box": [
+      1080,
+      1030,
+      760,
+      30
+    ],
+    "size": 20
+  }
+]

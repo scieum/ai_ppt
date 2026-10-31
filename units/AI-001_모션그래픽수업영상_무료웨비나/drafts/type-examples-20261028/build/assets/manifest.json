@@ -1,0 +1,20 @@
+{
+  "origin": "original code-authored concept examples",
+  "font": "Pretendard",
+  "logo": "assets/branding/notiontalk-white.png",
+  "no_reference_pdf_images_reused": true,
+  "fictitious_infographic_values": true,
+  "types": [
+    "typography",
+    "infographic",
+    "interface",
+    "logo",
+    "illustration",
+    "normal",
+    "delay",
+    "long",
+    "ease-in",
+    "ease-out",
+    "ease-in-out"
+  ]
+}

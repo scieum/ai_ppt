@@ -1,0 +1,295 @@
+[
+  {
+    "page": 1,
+    "kind": "preserved",
+    "original_page": 1,
+    "part": "ppt/slides/reflow-01.xml"
+  },
+  {
+    "page": 2,
+    "kind": "preserved",
+    "original_page": 2,
+    "part": "ppt/slides/partDivider0.xml"
+  },
+  {
+    "page": 3,
+    "kind": "preserved",
+    "original_page": 3,
+    "part": "ppt/slides/restored-preparation.xml"
+  },
+  {
+    "page": 4,
+    "kind": "preserved",
+    "original_page": 4,
+    "part": "ppt/slides/reflow-02.xml"
+  },
+  {
+    "page": 5,
+    "kind": "preserved",
+    "original_page": 5,
+    "part": "ppt/slides/partDivider1.xml"
+  },
+  {
+    "page": 6,
+    "kind": "preserved",
+    "original_page": 6,
+    "part": "ppt/slides/reflow-03.xml"
+  },
+  {
+    "page": 7,
+    "kind": "preserved",
+    "original_page": 7,
+    "part": "ppt/slides/reflow-04.xml"
+  },
+  {
+    "page": 8,
+    "kind": "preserved",
+    "original_page": 8,
+    "part": "ppt/slides/reflow-05.xml"
+  },
+  {
+    "page": 9,
+    "kind": "preserved",
+    "original_page": 9,
+    "part": "ppt/slides/video-tones-7.xml"
+  },
+  {
+    "page": 10,
+    "kind": "preserved",
+    "original_page": 10,
+    "part": "ppt/slides/video-tones-8.xml"
+  },
+  {
+    "page": 11,
+    "kind": "preserved",
+    "original_page": 11,
+    "part": "ppt/slides/reflow-06.xml"
+  },
+  {
+    "page": 12,
+    "kind": "preserved",
+    "original_page": 12,
+    "part": "ppt/slides/reflow-07.xml"
+  },
+  {
+    "page": 13,
+    "kind": "modified",
+    "original_page": 13,
+    "part": "ppt/slides/reflow-08.xml"
+  },
+  {
+    "page": 14,
+    "kind": "modified",
+    "original_page": 14,
+    "part": "ppt/slides/reflow-09.xml"
+  },
+  {
+    "page": 15,
+    "kind": "new",
+    "id": "text-effects",
+    "title": "글자가 들어와 자리를 잡는 움직임",
+    "part": "ppt/slides/ma33-text-effects.xml"
+  },
+  {
+    "page": 16,
+    "kind": "new",
+    "id": "number-elastic",
+    "title": "숫자의 변화와 탄성 있는 움직임",
+    "part": "ppt/slides/ma33-number-elastic.xml"
+  },
+  {
+    "page": 17,
+    "kind": "preserved",
+    "original_page": 15,
+    "part": "ppt/slides/video-tones-13.xml"
+  },
+  {
+    "page": 18,
+    "kind": "preserved",
+    "original_page": 16,
+    "part": "ppt/slides/video-tones-14.xml"
+  },
+  {
+    "page": 19,
+    "kind": "new",
+    "id": "sound-compare",
+    "title": "같은 움직임에 효과음을 더하면",
+    "part": "ppt/slides/ma33-sound-compare.xml"
+  },
+  {
+    "page": 20,
+    "kind": "new",
+    "id": "sound-tools",
+    "title": "효과음 도구의 서로 다른 역할",
+    "part": "ppt/slides/ma33-sound-tools.xml"
+  },
+  {
+    "page": 21,
+    "kind": "preserved",
+    "original_page": 17,
+    "part": "ppt/slides/reflow-10.xml"
+  },
+  {
+    "page": 22,
+    "kind": "preserved",
+    "original_page": 18,
+    "part": "ppt/slides/reflow-11.xml"
+  },
+  {
+    "page": 23,
+    "kind": "preserved",
+    "original_page": 19,
+    "part": "ppt/slides/partDivider2.xml"
+  },
+  {
+    "page": 24,
+    "kind": "preserved",
+    "original_page": 20,
+    "part": "ppt/slides/reflow-12.xml"
+  },
+  {
+    "page": 25,
+    "kind": "new",
+    "id": "image-layers",
+    "title": "이미지를 움직일 요소로 나누어 봅니다",
+    "part": "ppt/slides/ma33-image-layers.xml"
+  },
+  {
+    "page": 26,
+    "kind": "preserved",
+    "original_page": 21,
+    "part": "ppt/slides/partDivider3.xml"
+  },
+  {
+    "page": 27,
+    "kind": "preserved",
+    "original_page": 22,
+    "part": "ppt/slides/reflow-13.xml"
+  },
+  {
+    "page": 28,
+    "kind": "preserved",
+    "original_page": 23,
+    "part": "ppt/slides/reflow-14.xml"
+  },
+  {
+    "page": 29,
+    "kind": "preserved",
+    "original_page": 24,
+    "part": "ppt/slides/styleDocsrecommendation.xml"
+  },
+  {
+    "page": 30,
+    "kind": "preserved",
+    "original_page": 25,
+    "part": "ppt/slides/styleDocsroles.xml"
+  },
+  {
+    "page": 31,
+    "kind": "preserved",
+    "original_page": 26,
+    "part": "ppt/slides/styleDocsdesign-fields.xml"
+  },
+  {
+    "page": 32,
+    "kind": "preserved",
+    "original_page": 27,
+    "part": "ppt/slides/styleDocsdesign-example.xml"
+  },
+  {
+    "page": 33,
+    "kind": "preserved",
+    "original_page": 28,
+    "part": "ppt/slides/styleDocsmotion-fields.xml"
+  },
+  {
+    "page": 34,
+    "kind": "preserved",
+    "original_page": 29,
+    "part": "ppt/slides/styleDocsmotion-example.xml"
+  },
+  {
+    "page": 35,
+    "kind": "preserved",
+    "original_page": 30,
+    "part": "ppt/slides/styleDocsreview-links.xml"
+  },
+  {
+    "page": 36,
+    "kind": "preserved",
+    "original_page": 31,
+    "part": "ppt/slides/styleDocsreuse.xml"
+  },
+  {
+    "page": 37,
+    "kind": "preserved",
+    "original_page": 32,
+    "part": "ppt/slides/partDivider4.xml"
+  },
+  {
+    "page": 38,
+    "kind": "preserved",
+    "original_page": 33,
+    "part": "ppt/slides/reflow-15.xml"
+  },
+  {
+    "page": 39,
+    "kind": "preserved",
+    "original_page": 34,
+    "part": "ppt/slides/styleDocsroute-edits.xml"
+  },
+  {
+    "page": 40,
+    "kind": "preserved",
+    "original_page": 35,
+    "part": "ppt/slides/styleDocsscope.xml"
+  },
+  {
+    "page": 41,
+    "kind": "preserved",
+    "original_page": 36,
+    "part": "ppt/slides/styleDocsreview-sequence.xml"
+  },
+  {
+    "page": 42,
+    "kind": "preserved",
+    "original_page": 37,
+    "part": "ppt/slides/styleDocsreview-criteria.xml"
+  },
+  {
+    "page": 43,
+    "kind": "preserved",
+    "original_page": 38,
+    "part": "ppt/slides/styleDocslocal-global.xml"
+  },
+  {
+    "page": 44,
+    "kind": "preserved",
+    "original_page": 39,
+    "part": "ppt/slides/styleDocsversion.xml"
+  },
+  {
+    "page": 45,
+    "kind": "preserved",
+    "original_page": 40,
+    "part": "ppt/slides/reflow-16.xml"
+  },
+  {
+    "page": 46,
+    "kind": "preserved",
+    "original_page": 41,
+    "part": "ppt/slides/challenge-calendar.xml"
+  },
+  {
+    "page": 47,
+    "kind": "preserved",
+    "original_page": 42,
+    "part": "ppt/slides/challenge-activity-cycle1.xml"
+  },
+  {
+    "page": 48,
+    "kind": "preserved",
+    "original_page": 43,
+    "part": "ppt/slides/challenge-activity-cycle2.xml"
+  }
+]

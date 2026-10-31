@@ -1,0 +1,46 @@
+[
+  {
+    "id": "RGT-01",
+    "status": "open",
+    "subject": "원본 PDF 추출 배경·도형과 파생 대표본",
+    "scope": [
+      "assets/reference-templates",
+      "output/webinar-samples"
+    ],
+    "reason": "라이브·PDF 배포에 대한 이용 근거가 확인되지 않음",
+    "next_action": "사용 근거와 범위를 확인하거나 자체 표현·레이아웃으로 교체 후 검토"
+  },
+  {
+    "id": "RGT-02",
+    "status": "open",
+    "subject": "레퍼런스 PDF에서 추출한 도구 로고 표식과 배지",
+    "scope": [
+      "assets/tool-logos",
+      "assets/tool-logos/orange-v2"
+    ],
+    "reason": "출처 기록은 있으나 표식 이용 조건과 배포 범위 검토가 미완료",
+    "next_action": "공식 배포 원본·이용 조건을 확인하여 교체하거나 현재 자산의 이용 근거 검토"
+  },
+  {
+    "id": "RGT-03",
+    "status": "open",
+    "subject": "제공 홍보 이미지와 캐릭터 참조를 이용한 생성 표지",
+    "scope": [
+      "assets/webinar-poster.png",
+      "assets/cover-characters-orange-v3.png"
+    ],
+    "reason": "참조 이미지 사용 요청은 있으나 캐릭터 등 구성 자산의 권리·배포 조건 검토는 별도 필요",
+    "next_action": "참조·생성 이력과 권리 범위를 확인하고 실제 이용 범위에 대한 사람 검토 기록"
+  },
+  {
+    "id": "RGT-04",
+    "status": "open",
+    "subject": "실제 앱 UI 캡처·표식과 생성 예시 배포 범위",
+    "scope": [
+      "assets/ui-captures/20261027",
+      "output/webinar-ui-guide"
+    ],
+    "reason": "실제 실행 증거는 확보했으나 UI·표식·글꼴 등 교육 배포 범위에 대한 G10 사람 검토는 별도 미완료",
+    "next_action": "사용 목록 등록과 필요한 출처·이용 조건·배포 범위 검토"
+  }
+]

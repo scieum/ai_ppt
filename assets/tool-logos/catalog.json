@@ -1,0 +1,144 @@
+{
+  "schema_version": "1.0",
+  "canvas": [
+    1024,
+    1024
+  ],
+  "style": "Reference-derived dark glass rounded app badge",
+  "transparent": true,
+  "source_role": "Marks are extracted from user-provided PDFs, not claimed as official brand downloads.",
+  "codex_note": "The reference labels the OpenAI knot mark as Codex. These assets follow that reference. No claim is made that this is a distinct current Codex app icon.",
+  "variants": [
+    "front",
+    "tilted"
+  ],
+  "files": [
+    {
+      "id": "claude-front",
+      "brand": "Claude",
+      "variant": "front",
+      "angle": 0,
+      "svg": "svg/claude-front.svg",
+      "png": "png/claude-front.png",
+      "sha256": "1fcaf627cc881679bfac90f2a7725c22c70cce0cb03d889f7d0f926f58c455eb",
+      "source_id": "R01",
+      "source_name": "[4차 사이클 라이브] 기획부터 디자인까지 쭉! AI 디자인 하네스 만들기 (1).pdf",
+      "source_page": 5,
+      "source_sha256": "c03c2c2b5cdabcc1a7405c280e659b5c224571305024397b54249c33bd4cf085",
+      "original_logo_bounds": [
+        243.9697265625,
+        562.9697265625,
+        278.80224609375,
+        597.6929931640625
+      ],
+      "source_path_segments": 158,
+      "method": "Original vector outline extracted from the provided PDF; normalized without aspect distortion; common SVG badge frame recreated."
+    },
+    {
+      "id": "claude-tilted",
+      "brand": "Claude",
+      "variant": "tilted",
+      "angle": -18,
+      "svg": "svg/claude-tilted.svg",
+      "png": "png/claude-tilted.png",
+      "sha256": "ad51cac534ecba94d9fb4a6aaef5678de74391e582f42ae578f36277cdf29eee",
+      "source_id": "R01",
+      "source_name": "[4차 사이클 라이브] 기획부터 디자인까지 쭉! AI 디자인 하네스 만들기 (1).pdf",
+      "source_page": 5,
+      "source_sha256": "c03c2c2b5cdabcc1a7405c280e659b5c224571305024397b54249c33bd4cf085",
+      "original_logo_bounds": [
+        243.9697265625,
+        562.9697265625,
+        278.80224609375,
+        597.6929931640625
+      ],
+      "source_path_segments": 158,
+      "method": "Original vector outline extracted from the provided PDF; normalized without aspect distortion; common SVG badge frame recreated."
+    },
+    {
+      "id": "codex-front",
+      "brand": "Codex",
+      "variant": "front",
+      "angle": 0,
+      "svg": "svg/codex-front.svg",
+      "png": "png/codex-front.png",
+      "sha256": "5ac61e631e67df84425b5245a7b7266696b015622453ac4651dcc0a553937a79",
+      "source_id": "R01",
+      "source_name": "[4차 사이클 라이브] 기획부터 디자인까지 쭉! AI 디자인 하네스 만들기 (1).pdf",
+      "source_page": 5,
+      "source_sha256": "c03c2c2b5cdabcc1a7405c280e659b5c224571305024397b54249c33bd4cf085",
+      "original_logo_bounds": [
+        280.8543701171875,
+        604.9403076171875,
+        316.9914855957031,
+        639.4899291992188
+      ],
+      "source_path_segments": 103,
+      "method": "Original vector outline extracted from the provided PDF; normalized without aspect distortion; common SVG badge frame recreated."
+    },
+    {
+      "id": "codex-tilted",
+      "brand": "Codex",
+      "variant": "tilted",
+      "angle": -18,
+      "svg": "svg/codex-tilted.svg",
+      "png": "png/codex-tilted.png",
+      "sha256": "e79f0833e764ec0b72a496da0c08ef6bc2a30a2704dacfee5565b004bd06d164",
+      "source_id": "R01",
+      "source_name": "[4차 사이클 라이브] 기획부터 디자인까지 쭉! AI 디자인 하네스 만들기 (1).pdf",
+      "source_page": 5,
+      "source_sha256": "c03c2c2b5cdabcc1a7405c280e659b5c224571305024397b54249c33bd4cf085",
+      "original_logo_bounds": [
+        280.8543701171875,
+        604.9403076171875,
+        316.9914855957031,
+        639.4899291992188
+      ],
+      "source_path_segments": 103,
+      "method": "Original vector outline extracted from the provided PDF; normalized without aspect distortion; common SVG badge frame recreated."
+    },
+    {
+      "id": "higgsfield-front",
+      "brand": "Higgsfield",
+      "variant": "front",
+      "angle": 0,
+      "svg": "svg/higgsfield-front.svg",
+      "png": "png/higgsfield-front.png",
+      "sha256": "35db5006316e9cdbb2cc3dc4c75327d783fced75f675fdb575d15eeef12e3c90",
+      "source_id": "R06",
+      "source_name": "[허들링 클럽] 0802 AI 생성형 이미지 만들기 (1).pdf",
+      "source_page": 7,
+      "source_sha256": "ead2275da72baf5c5cafb4ab3eef4752f91fa652ff4391517e15a94502e2a73b",
+      "original_logo_bounds": [
+        488.2305603027344,
+        584.8909912109375,
+        630.3240356445312,
+        689.363037109375
+      ],
+      "source_path_segments": 41,
+      "method": "Original vector outline extracted from the provided PDF; normalized without aspect distortion; common SVG badge frame recreated."
+    },
+    {
+      "id": "higgsfield-tilted",
+      "brand": "Higgsfield",
+      "variant": "tilted",
+      "angle": -18,
+      "svg": "svg/higgsfield-tilted.svg",
+      "png": "png/higgsfield-tilted.png",
+      "sha256": "ff8b689e4565e5874e35765ec076cffdf886356282a204ee86b4327f968c7918",
+      "source_id": "R06",
+      "source_name": "[허들링 클럽] 0802 AI 생성형 이미지 만들기 (1).pdf",
+      "source_page": 7,
+      "source_sha256": "ead2275da72baf5c5cafb4ab3eef4752f91fa652ff4391517e15a94502e2a73b",
+      "original_logo_bounds": [
+        488.2305603027344,
+        584.8909912109375,
+        630.3240356445312,
+        689.363037109375
+      ],
+      "source_path_segments": 41,
+      "method": "Original vector outline extracted from the provided PDF; normalized without aspect distortion; common SVG badge frame recreated."
+    }
+  ],
+  "checked_on": "2026-10-27"
+}

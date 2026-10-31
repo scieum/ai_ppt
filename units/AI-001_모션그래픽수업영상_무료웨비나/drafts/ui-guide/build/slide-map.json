@@ -1,0 +1,170 @@
+[
+  {
+    "slide": 1,
+    "app": "codex",
+    "step": "01-prompt-submitted",
+    "title": "첫 요청 전달",
+    "capture": "codex/01-prompt-submitted.jpg",
+    "sha256": "0fc783bb9b18755f78c59bc646a3611d41e6639d5e531cbb612e19c0882b63ff",
+    "crop_pixels": [
+      820,
+      130,
+      545,
+      155
+    ]
+  },
+  {
+    "slide": 2,
+    "app": "codex",
+    "step": "03-first-result-playing",
+    "title": "첫 영상 재생",
+    "capture": "codex/03-first-result-playing.jpg",
+    "sha256": "8262bf25318abeb9b4d19013841e948796400e8a3dd01992f061241f16776a0e",
+    "crop_pixels": [
+      607,
+      275,
+      720,
+      448
+    ]
+  },
+  {
+    "slide": 3,
+    "app": "codex",
+    "step": "04-revision-submitted",
+    "title": "유지 시간 수정 요청",
+    "capture": "codex/04-revision-submitted.jpg",
+    "sha256": "894465d07cc1e4cb97158487443aeb4c3105317585507f3b9e425fa355e50f36",
+    "crop_pixels": [
+      820,
+      185,
+      540,
+      110
+    ]
+  },
+  {
+    "slide": 4,
+    "app": "codex",
+    "step": "06-revised-question-seek",
+    "title": "수정된 질문 확인",
+    "capture": "codex/06-revised-question-seek.jpg",
+    "sha256": "551022257348998acccbe607ef47d4980277d1bbf472e3ea503bb1acf966f049",
+    "crop_pixels": [
+      610,
+      400,
+      715,
+      450
+    ]
+  },
+  {
+    "slide": 5,
+    "app": "codex",
+    "step": "07-personalization-entered",
+    "title": "내 수업 질문 입력",
+    "capture": "codex/07-personalization-entered.jpg",
+    "sha256": "2a055dafbea0caf83b4235968305f39701a39fbecf48fccf86eeccf4ef6377b4",
+    "crop_pixels": [
+      605,
+      910,
+      755,
+      105
+    ]
+  },
+  {
+    "slide": 6,
+    "app": "codex",
+    "step": "09-personalized-result",
+    "title": "바뀐 문구와 길이 확인",
+    "capture": "codex/09-personalized-result.jpg",
+    "sha256": "0fe5aa10ebb00622244d99933e4c0670e5842a4ca1be2ae260437de8b4dcb0f0",
+    "crop_pixels": [
+      610,
+      360,
+      715,
+      445
+    ]
+  },
+  {
+    "slide": 7,
+    "app": "claude",
+    "step": "01-prompt-entered",
+    "title": "첫 프롬프트 입력",
+    "capture": "claude/01-prompt-entered.jpg",
+    "sha256": "6282b195f16b2a194591db0ac55660514a372711800be6be9634831832305371",
+    "crop_pixels": [
+      620,
+      470,
+      690,
+      178
+    ]
+  },
+  {
+    "slide": 8,
+    "app": "claude",
+    "step": "02-generating",
+    "title": "생성 상태 확인",
+    "capture": "claude/02-generating.jpg",
+    "sha256": "377f0c51cbab34513f32f92ea71ac104e8eb83c74d3521f4fb0c5439290878b7",
+    "crop_pixels": [
+      580,
+      60,
+      770,
+      305
+    ]
+  },
+  {
+    "slide": 9,
+    "app": "claude",
+    "step": "03-first-artifact",
+    "title": "아티팩트 재생",
+    "capture": "claude/03-first-artifact.jpg",
+    "sha256": "a42bfa01a840fb7749a3bfb194d237a032c249b610a689ffcaa75dbc2e1c8679",
+    "crop_pixels": [
+      570,
+      190,
+      1250,
+      725
+    ]
+  },
+  {
+    "slide": 10,
+    "app": "claude",
+    "step": "05-revision-entered",
+    "title": "같은 대화에서 시간 수정",
+    "capture": "claude/05-revision-entered.jpg",
+    "sha256": "03a9f108617f10db19a774d4fe207b809c58ad22625a14fbde8482598f167248",
+    "crop_pixels": [
+      12,
+      910,
+      540,
+      115
+    ]
+  },
+  {
+    "slide": 11,
+    "app": "claude",
+    "step": "07-revised-question-playing",
+    "title": "11초 아티팩트 확인",
+    "capture": "claude/07-revised-question-playing.jpg",
+    "sha256": "98d481259b3c2abcd56ad20eca279dee6eca2855602825be65be5a19e8523ffa",
+    "crop_pixels": [
+      570,
+      190,
+      1250,
+      725
+    ]
+  },
+  {
+    "slide": 12,
+    "app": "claude",
+    "step": "04-export-menu",
+    "title": "아티팩트 내보내기 위치",
+    "capture": "claude/04-export-menu.jpg",
+    "sha256": "912c62bc4d52acd106058b26f5047ca0670ae0a5edba76924ff0825bc276b311",
+    "crop_pixels": [
+      570,
+      30,
+      270,
+      475
+    ]
+  }
+]

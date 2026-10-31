@@ -1,0 +1,24 @@
+{
+  "source": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\output\\webinar-knowledge-only\\NotionTalk_모션그래픽_레퍼런스표현강화_40장_v20.pptx",
+  "slides": [
+    {
+      "page": 24,
+      "title": "같은 톤, 서로 다른 장면",
+      "notes": "같은 캐릭터가 소개·설명·마무리에서 다른 행동을 해도 색·외형·재질이 이어지면 같은 시리즈로 보인다. 이 이미지는 시각적 일관성을 설명하는 자체 생성 예시다. 움직임은 정지 이미지로 확인할 수 없으므로 motion.md와 재생 예시가 별도로 필요하다. design.md에는 화면 기준, motion.md에는 움직임 기준을 남기고 다음 작업에 함께 제공한다. 파일 이름 자체가 자동 설정이나 동일 결과를 보장하지 않는다.",
+      "package_part": "ppt/slides/styleDocsrecommendation.xml"
+    },
+    {
+      "page": 30,
+      "title": "스틸컷은 모습, 재생은 움직임",
+      "notes": "왼쪽 한 컷에서 색·형태·구도를 확인한다. 오른쪽 네 컷은 시간에 따른 위치 변화를 표현한 정지 연속 장면 예시다. 이 그림만으로 실제 속도나 간격을 판정하지 않는다. design.md는 대표 스틸컷 두 장과 대조하고 motion.md는 짧은 영상 구간을 실제로 재생하며 확인한다. storyline.md는 장면표와 전체 흐름을 확인하는 기준이다.",
+      "package_part": "ppt/slides/styleDocsreview-links.xml"
+    },
+    {
+      "page": 38,
+      "title": "한 장면 수정과 공통 기준 변경",
+      "notes": "처음 세 장면의 공 색은 모두 주황이라고 가정한다. 위쪽은 두 번째 장면의 공만 파란색으로 바꾼 경우다. storyline.md 장면표에 예외를 남기고 나머지 장면은 유지한다. 아래쪽은 공의 공통 기본색을 파란색으로 정한 경우다. design.md를 갱신하고 모든 장면을 다시 확인한다. 속도 같은 공통 움직임 기준을 바꿀 때는 motion.md에 같은 방식으로 반영한다. 파란색은 변경 범위를 드러내는 교육용 예시이며 웨비나 브랜드 색상 변경을 뜻하지 않는다.",
+      "package_part": "ppt/slides/styleDocslocal-global.xml"
+    }
+  ],
+  "preserved_slides": 37
+}

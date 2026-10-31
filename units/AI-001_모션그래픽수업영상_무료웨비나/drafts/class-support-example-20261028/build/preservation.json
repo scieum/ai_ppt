@@ -1,0 +1,13 @@
+{
+  "source_sha256": "eb79aac6e2e516c7f8ca5c03e0d7a99eacd1751d09782bc400f2f6d3293897e7",
+  "changed_parts": [
+    "ppt/slides/part01-slide4.xml",
+    "ppt/notesSlides/part01-notes4.xml",
+    "ppt/slides/lesson-compare.xml",
+    "ppt/notesSlides/lesson-compare.xml"
+  ],
+  "edited_pages": [
+    12,
+    17
+  ]
+}

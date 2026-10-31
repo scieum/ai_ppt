@@ -1,0 +1,66 @@
+{
+  "classified_source_pages": 152,
+  "reusable_native_layouts": 20,
+  "native_shapes_in_library": 308,
+  "library_native_table_pages": [
+    6
+  ],
+  "library_only_bitmap": "original user-provided NotionTalk logo",
+  "webinar_slide_count": 21,
+  "changed_pages": [
+    15,
+    17,
+    21
+  ],
+  "18_other_slides_xml_and_pixels_unchanged": true,
+  "all_original_media_tables_and_native_timing_preserved": true,
+  "character_pose_pages_unchanged": [
+    4,
+    16,
+    17,
+    21
+  ],
+  "native_playback": [
+    {
+      "page": 15,
+      "example": 1,
+      "sample_times": [
+        0.04,
+        2.5
+      ],
+      "changed_pixels": 505
+    },
+    {
+      "page": 15,
+      "example": 2,
+      "sample_times": [
+        0.04,
+        2.5
+      ],
+      "changed_pixels": 507
+    },
+    {
+      "page": 15,
+      "example": 3,
+      "sample_times": [
+        0.04,
+        2.5
+      ],
+      "changed_pixels": 502
+    },
+    {
+      "page": 17,
+      "native_animated_heading_changed_pixels": 905
+    }
+  ],
+  "body_overflow": {
+    "library": [],
+    "application": []
+  },
+  "source_PDFs_unchanged": true,
+  "lesson_unchanged": true,
+  "library_sha256": "53ddeaa53fa1ae37790db6037920a02f75d9a330fec483b6189ccd7fd1cc196c",
+  "webinar_sha256": "4c5a94401d5d70a96211d6c41bd5d2b03e1ff46fab4d992bb0b12209272e9898",
+  "new_native_layouts_not_original_page_rasters": true,
+  "inherited_G10_status": "unchanged"
+}

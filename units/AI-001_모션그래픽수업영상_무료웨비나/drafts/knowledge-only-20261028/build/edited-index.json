@@ -1,0 +1,292 @@
+[
+  {
+    "page": 1,
+    "source_page": 1,
+    "title": "모션 그래픽 기초와 표현 이해하기",
+    "edits": {
+      "cover_title": "모션 그래픽\n기초와 표현 이해하기",
+      "cover_subtitle": "뜻·종류·효과를 예시로 익히는 무료 웨비나"
+    },
+    "note": "모션 그래픽의 뜻과 움직임의 원리, 표현 종류와 효과 이름을 설명합니다. 글자·도형의 변화, 프레임과 속도 변화의 개념을 살펴봅니다.",
+    "refs": [],
+    "sources": [
+      "lesson.md, 2절·4절·5절, 자막·설명란 기반 분석"
+    ],
+    "export_id": "albqgw",
+    "export_page": 2
+  },
+  {
+    "page": 2,
+    "source_page": 12,
+    "title": "오늘 살펴볼 내용",
+    "edits": {
+      "part_label": "무료 웨비나  오늘 살펴볼 내용",
+      "section_number": "01",
+      "section_heading": "뜻과 종류, 움직임과 효과",
+      "title": "오늘 살펴볼 내용",
+      "subtitle": "모션 그래픽의 기본 개념과 용어를 살펴봅니다",
+      "dev-case-head-0": "구분",
+      "dev-case-head-1": "기본 용어",
+      "dev-case-head-2": "설명하는 내용",
+      "dev-case-0-0": "01  모션 그래픽",
+      "dev-case-0-1": "뜻·프레임·표현 종류",
+      "dev-case-0-2": "그래픽과 움직임의 개념",
+      "dev-case-1-0": "02  속성과 효과",
+      "dev-case-1-1": "위치·크기·각도·불투명도",
+      "dev-case-1-2": "대상에서 바뀌는 값",
+      "dev-case-2-0": "03  시간과 속도",
+      "dev-case-2-1": "지속시간·이징",
+      "dev-case-2-2": "움직임의 시간적 변화",
+      "dev-case-choice": "용어의 뜻과 움직이는 모습을 함께 살펴봅니다"
+    },
+    "note": "뜻과 표현의 종류, 기본 속성과 효과 이름, 지속시간과 이징으로 구성합니다. 종류는 영상의 표현 방식, 속성은 대상의 값, 효과는 시간에 따른 변화입니다.",
+    "refs": [],
+    "sources": [
+      "lesson.md, 2절·4절·5절, 자막·설명란 기반 분석"
+    ],
+    "export_id": "z2vk18",
+    "export_page": 21
+  },
+  {
+    "source_page": 4,
+    "title": "모션 그래픽이란?",
+    "edits": {
+      "part_label": "Part 1  모션 그래픽 이해하기",
+      "section_number": "01",
+      "section_heading": "뜻과 움직임",
+      "title": "모션 그래픽이란?",
+      "subtitle": "글자·도형·이미지를 움직여 정보를 전달하는 표현입니다",
+      "still-title": "노션톡",
+      "demo-definition": "노션톡",
+      "still-caption": "정지된 위치와 크기",
+      "moving-caption": "나타나는 순간과 머무는 시간",
+      "dev-definition-takeaway": "그래픽에 시간에 따른 변화를 더합니다"
+    },
+    "note": "모션 그래픽은 글자·도형·이미지 같은 그래픽 요소에 시간에 따른 변화를 더한 표현입니다. 왼쪽은 정지된 상태이고 오른쪽은 글자가 나타나는 예시입니다. 이동·크기 변화·회전·등장처럼 상태가 달라질 수 있습니다. 애니메이션은 더 넓은 범주입니다.",
+    "refs": [],
+    "styles": {},
+    "page": 3,
+    "sources": [
+      "https://www.autodesk.com/uk/solutions/motion-graphics"
+    ],
+    "export_id": "sigsdw",
+    "export_page": 6
+  },
+  {
+    "source_page": 5,
+    "title": "플립북으로 보는 움직임",
+    "edits": {
+      "part_label": "Part 1  모션 그래픽 이해하기",
+      "section_number": "01",
+      "section_heading": "프레임과 움직임",
+      "title": "플립북으로 보는 움직임",
+      "subtitle": "공의 위치가 조금씩 다른 그림을 시간 순서대로 이어 봅니다",
+      "sequence-caption": "프레임은 한 장의 화면",
+      "sequence-caption-2": "다른 상태가 이어집니다"
+    },
+    "note": "프레임은 영상을 이루는 한 장의 화면입니다. 플립북의 여섯 프레임에서 공의 위치가 조금씩 다르고 이어 보면 움직임으로 보입니다. 키프레임은 변화의 기준이 되는 특정 시점의 상태입니다. 오른쪽 GIF는 같은 상태들의 연속을 반복합니다.",
+    "refs": [],
+    "styles": {},
+    "page": 4,
+    "sources": [
+      "https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/animation-basics/animation-basics.html"
+    ],
+    "export_id": "h98aqr",
+    "export_page": 8
+  },
+  {
+    "source_page": 6,
+    "title": "모션 그래픽의 다섯 가지 표현",
+    "edits": {
+      "part_label": "Part 1  모션 그래픽 이해하기",
+      "section_number": "01",
+      "section_heading": "표현의 종류",
+      "title": "모션 그래픽의 다섯 가지 표현",
+      "subtitle": "글자·수치·화면·브랜드·캐릭터 중 무엇이 중심인지로 살펴봅니다",
+      "dev-formats-foot": "여러 표현을 한 영상 안에서 함께 사용할 수 있습니다"
+    },
+    "note": "키네틱 타이포그래피는 글자와 문장을, 인포그래픽은 수치와 관계를 중심으로 합니다. UI·서비스 소개는 화면과 기능, 로고·타이틀은 브랜드와 제목, 일러스트·캐릭터는 그림과 인물을 중심으로 표현합니다. 서로 겹칠 수 있는 실용적 분류입니다.",
+    "refs": [],
+    "styles": {
+      "dev-format-0-1": {
+        "color": "#DADADA"
+      },
+      "dev-format-0-2": {
+        "color": "#DADADA"
+      },
+      "dev-format-1-1": {
+        "color": "#DADADA"
+      },
+      "dev-format-1-2": {
+        "color": "#DADADA"
+      },
+      "dev-format-2-1": {
+        "color": "#DADADA"
+      },
+      "dev-format-2-2": {
+        "color": "#DADADA"
+      },
+      "dev-format-3-1": {
+        "color": "#DADADA"
+      },
+      "dev-format-3-2": {
+        "color": "#DADADA"
+      },
+      "dev-format-4-1": {
+        "color": "#DADADA"
+      },
+      "dev-format-4-2": {
+        "color": "#DADADA"
+      }
+    },
+    "page": 5,
+    "sources": [
+      "https://support.apple.com/guide/motion/intro-to-animated-text-motn17692a95/6.3/mac/15.6",
+      "https://www.autodesk.com/uk/solutions/motion-graphics"
+    ],
+    "export_id": "pxkkb5",
+    "export_page": 10
+  },
+  {
+    "source_page": 7,
+    "title": "움직일 때 바뀌는 네 가지 값",
+    "edits": {
+      "part_label": "Part 2  움직임과 효과",
+      "section_number": "01",
+      "section_heading": "기본 속성",
+      "title": "움직일 때 바뀌는 네 가지 값",
+      "subtitle": "위치·크기·각도·불투명도는 효과를 이루는 기본 속성입니다",
+      "property-desc-3": "투명한 상태에서 보이게",
+      "dev-property-note": "같은 요소도 어떤 값을 바꾸는지에 따라 다르게 움직입니다"
+    },
+    "note": "위치가 바뀌면 이동, 크기가 바뀌면 확대·축소, 각도가 바뀌면 회전입니다. 불투명도는 얼마나 불투명하게 보이는지를 나타내며 흐림과 다른 속성입니다. 한 효과에서 여러 속성이 함께 바뀔 수도 있습니다.",
+    "refs": [],
+    "styles": {},
+    "page": 6,
+    "sources": [
+      "https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/animation-basics/animation-basics.html"
+    ],
+    "export_id": "f1e75v",
+    "export_page": 12
+  },
+  {
+    "source_page": 8,
+    "title": "기본 등장 효과 세 가지",
+    "edits": {
+      "part_label": "Part 2  움직임과 효과",
+      "section_number": "01",
+      "section_heading": "등장 효과의 이름",
+      "title": "기본 등장 효과 세 가지",
+      "subtitle": "페이드는 불투명도, 슬라이드는 위치, 줌·스케일은 크기가 바뀝니다"
+    },
+    "note": "페이드 인은 불투명도가 높아지며 나타나는 표현이고 페이드 아웃은 반대로 사라지는 표현입니다. 슬라이드 인은 위치가 바뀌며 화면으로 들어옵니다. 이 예시의 줌·스케일은 글자 크기의 변화입니다. 화면에는 들어오는 방향의 예시가 있습니다.",
+    "refs": [],
+    "styles": {},
+    "page": 7,
+    "sources": [
+      "https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/animation-basics/animation-basics.html",
+      "https://learn.microsoft.com/en-us/office/vba/api/powerpoint.msoanimeffect"
+    ],
+    "remove": [
+      "dev-effect-use-0",
+      "dev-effect-use-1",
+      "dev-effect-use-2"
+    ],
+    "export_id": "2antls",
+    "export_page": 14
+  },
+  {
+    "source_page": 9,
+    "title": "리빌·타이프라이터·순차 등장",
+    "edits": {
+      "part_label": "Part 2  움직임과 효과",
+      "section_number": "01",
+      "section_heading": "글자와 순서 효과",
+      "title": "리빌·타이프라이터·순차 등장",
+      "subtitle": "보이는 영역, 한 글자, 단어별 시작 시점의 차이를 비교합니다"
+    },
+    "note": "와이프는 방향에 따라 화면이나 요소가 드러나는 표현입니다. 리빌은 가려졌던 부분이 나타나는 표현을 넓게 부릅니다. 타이프라이터는 글자를 하나씩 표시합니다. 순차 등장인 Stagger는 여러 요소의 시작 시점에 간격을 두는 규칙입니다. 예시는 노션톡 웨비나 챌린지의 아홉 글자와 세 단어를 비교합니다.",
+    "refs": [],
+    "styles": {},
+    "page": 8,
+    "sources": [
+      "https://learn.microsoft.com/en-us/office/vba/api/powerpoint.msoanimeffect",
+      "https://support.apple.com/guide/motion/intro-to-animated-text-motn17692a95/6.3/mac/15.6"
+    ],
+    "remove": [
+      "dev-reveal-use-0",
+      "dev-reveal-use-1",
+      "dev-reveal-use-2"
+    ],
+    "export_id": "o7r9ix",
+    "export_page": 16
+  },
+  {
+    "source_page": 10,
+    "title": "지속시간과 이징",
+    "edits": {
+      "part_label": "Part 2  움직임과 효과",
+      "section_number": "02",
+      "section_heading": "시간과 속도",
+      "title": "지속시간과 이징",
+      "subtitle": "지속시간은 움직임이 이어지는 시간, 이징은 그 사이의 속도 변화입니다",
+      "timing-terms": "속도 비교   같은 거리 · 같은 이동 시간 1.8초",
+      "easing-caption": "이즈 인은 천천히 시작합니다 · 이즈 아웃은 끝에서 느려집니다"
+    },
+    "note": "지속시간은 변화가 이어지는 시간입니다. 이징은 그 시간 안에서 속도가 달라지는 방식입니다. 이즈 인은 천천히 시작하고 이즈 아웃은 끝에서 느려집니다. 두 도형은 같은 거리를 같은 1.8초 동안 이동하며, 일정한 속도와 끝 감속을 비교합니다.",
+    "refs": [],
+    "styles": {},
+    "page": 9,
+    "sources": [
+      "https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/animation-basics/animation-basics.html",
+      "https://www.adobe.com/uk/creativecloud/animation/discover/easing.html"
+    ],
+    "export_id": "att28b",
+    "export_page": 18
+  },
+  {
+    "page": 10,
+    "source_page": 33,
+    "title": "표현 종류·속성·효과의 차이",
+    "edits": {
+      "part_label": "모션 그래픽  기본 용어 정리",
+      "section_number": "01",
+      "section_heading": "용어의 구분",
+      "title": "표현 종류·속성·효과의 차이",
+      "subtitle": "표현의 종류와 대상의 속성, 시간에 따른 변화를 구분합니다"
+    },
+    "note": "타이포그래피는 글자 중심의 표현 종류입니다. 위치와 크기, 각도와 불투명도는 대상의 속성입니다. 페이드나 슬라이드는 그 값이 시간에 따라 바뀌는 표현이고 순차 등장은 여러 요소의 시작 시점을 나누는 규칙입니다.",
+    "refs": [],
+    "table": [
+      [
+        "구분",
+        "뜻",
+        "예"
+      ],
+      [
+        "표현 종류",
+        "무엇을 중심으로 표현하는가",
+        "타이포그래피·인포그래픽"
+      ],
+      [
+        "기본 속성",
+        "대상이 가진 값",
+        "위치·크기·각도·불투명도"
+      ],
+      [
+        "효과와 시간 규칙",
+        "값이 변하거나 나타나는 방식",
+        "페이드·슬라이드·순차 등장"
+      ]
+    ],
+    "sources": [
+      "https://helpx.adobe.com/after-effects/desktop/animate-in-after-effects/animation-basics/animation-basics.html",
+      "https://learn.microsoft.com/en-us/office/vba/api/powerpoint.msoanimeffect",
+      "https://support.apple.com/guide/motion/intro-to-animated-text-motn17692a95/6.3/mac/15.6",
+      "https://www.adobe.com/uk/creativecloud/animation/discover/easing.html",
+      "https://www.autodesk.com/uk/solutions/motion-graphics"
+    ],
+    "export_id": "oxfe80",
+    "export_page": 43
+  }
+]

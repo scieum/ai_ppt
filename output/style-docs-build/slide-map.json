@@ -1,0 +1,306 @@
+{
+  "source": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\output\\webinar-knowledge-only\\NotionTalk_모션그래픽_파트구분_26장_v18.pptx",
+  "source_sha256": "a851d031c1822e7e7125b1dfb6bf4dc0550bf86f5d0c2008940495f1b68c866d",
+  "count": 40,
+  "original_slides_preserved": 25,
+  "modified_original_page": 26,
+  "original_media_byte_identical": true,
+  "slides": [
+    {
+      "page": 1,
+      "kind": "preserved",
+      "original_page": 1,
+      "package_part": "ppt/slides/reflow-01.xml"
+    },
+    {
+      "page": 2,
+      "kind": "preserved",
+      "original_page": 2,
+      "package_part": "ppt/slides/partDivider0.xml"
+    },
+    {
+      "page": 3,
+      "kind": "preserved",
+      "original_page": 3,
+      "package_part": "ppt/slides/restored-preparation.xml"
+    },
+    {
+      "page": 4,
+      "kind": "preserved",
+      "original_page": 4,
+      "package_part": "ppt/slides/reflow-02.xml"
+    },
+    {
+      "page": 5,
+      "kind": "preserved",
+      "original_page": 5,
+      "package_part": "ppt/slides/partDivider1.xml"
+    },
+    {
+      "page": 6,
+      "kind": "preserved",
+      "original_page": 6,
+      "package_part": "ppt/slides/reflow-03.xml"
+    },
+    {
+      "page": 7,
+      "kind": "preserved",
+      "original_page": 7,
+      "package_part": "ppt/slides/reflow-04.xml"
+    },
+    {
+      "page": 8,
+      "kind": "preserved",
+      "original_page": 8,
+      "package_part": "ppt/slides/reflow-05.xml"
+    },
+    {
+      "page": 9,
+      "kind": "preserved",
+      "original_page": 9,
+      "package_part": "ppt/slides/video-tones-7.xml"
+    },
+    {
+      "page": 10,
+      "kind": "preserved",
+      "original_page": 10,
+      "package_part": "ppt/slides/video-tones-8.xml"
+    },
+    {
+      "page": 11,
+      "kind": "preserved",
+      "original_page": 11,
+      "package_part": "ppt/slides/reflow-06.xml"
+    },
+    {
+      "page": 12,
+      "kind": "preserved",
+      "original_page": 12,
+      "package_part": "ppt/slides/reflow-07.xml"
+    },
+    {
+      "page": 13,
+      "kind": "preserved",
+      "original_page": 13,
+      "package_part": "ppt/slides/reflow-08.xml"
+    },
+    {
+      "page": 14,
+      "kind": "preserved",
+      "original_page": 14,
+      "package_part": "ppt/slides/reflow-09.xml"
+    },
+    {
+      "page": 15,
+      "kind": "preserved",
+      "original_page": 15,
+      "package_part": "ppt/slides/video-tones-13.xml"
+    },
+    {
+      "page": 16,
+      "kind": "preserved",
+      "original_page": 16,
+      "package_part": "ppt/slides/video-tones-14.xml"
+    },
+    {
+      "page": 17,
+      "kind": "preserved",
+      "original_page": 17,
+      "package_part": "ppt/slides/reflow-10.xml"
+    },
+    {
+      "page": 18,
+      "kind": "preserved",
+      "original_page": 18,
+      "package_part": "ppt/slides/reflow-11.xml"
+    },
+    {
+      "page": 19,
+      "kind": "preserved",
+      "original_page": 19,
+      "package_part": "ppt/slides/partDivider2.xml"
+    },
+    {
+      "page": 20,
+      "kind": "preserved",
+      "original_page": 20,
+      "package_part": "ppt/slides/reflow-12.xml"
+    },
+    {
+      "page": 21,
+      "kind": "preserved",
+      "original_page": 21,
+      "package_part": "ppt/slides/partDivider3.xml"
+    },
+    {
+      "page": 22,
+      "kind": "preserved",
+      "original_page": 22,
+      "package_part": "ppt/slides/reflow-13.xml"
+    },
+    {
+      "page": 23,
+      "kind": "preserved",
+      "original_page": 23,
+      "package_part": "ppt/slides/reflow-14.xml"
+    },
+    {
+      "page": 24,
+      "kind": "added",
+      "part": 3,
+      "key": "recommendation",
+      "title": "비슷한 톤을 다시 얻고 싶다면",
+      "package_part": "ppt/slides/styleDocsrecommendation.xml",
+      "layout": "L12",
+      "native_table": false
+    },
+    {
+      "page": 25,
+      "kind": "added",
+      "part": 3,
+      "key": "roles",
+      "title": "세 문서와 스틸컷의 역할",
+      "package_part": "ppt/slides/styleDocsroles.xml",
+      "layout": "L06",
+      "native_table": true
+    },
+    {
+      "page": 26,
+      "kind": "added",
+      "part": 3,
+      "key": "design-fields",
+      "title": "design.md에 담을 화면 기준",
+      "package_part": "ppt/slides/styleDocsdesign-fields.xml",
+      "layout": "L06",
+      "native_table": true
+    },
+    {
+      "page": 27,
+      "kind": "added",
+      "part": 3,
+      "key": "design-example",
+      "title": "design.md 예시",
+      "package_part": "ppt/slides/styleDocsdesign-example.xml",
+      "layout": "L09",
+      "native_table": false
+    },
+    {
+      "page": 28,
+      "kind": "added",
+      "part": 3,
+      "key": "motion-fields",
+      "title": "motion.md에 담을 움직임 기준",
+      "package_part": "ppt/slides/styleDocsmotion-fields.xml",
+      "layout": "L06",
+      "native_table": true
+    },
+    {
+      "page": 29,
+      "kind": "added",
+      "part": 3,
+      "key": "motion-example",
+      "title": "motion.md 예시",
+      "package_part": "ppt/slides/styleDocsmotion-example.xml",
+      "layout": "L09",
+      "native_table": false
+    },
+    {
+      "page": 30,
+      "kind": "added",
+      "part": 3,
+      "key": "review-links",
+      "title": "문서와 확인 자료를 함께 봅니다",
+      "package_part": "ppt/slides/styleDocsreview-links.xml",
+      "layout": "L07",
+      "native_table": false
+    },
+    {
+      "page": 31,
+      "kind": "added",
+      "part": 3,
+      "key": "reuse",
+      "title": "다음 영상에도 기준 문서를 전달합니다",
+      "package_part": "ppt/slides/styleDocsreuse.xml",
+      "layout": "L16",
+      "native_table": false
+    },
+    {
+      "page": 32,
+      "kind": "preserved",
+      "original_page": 24,
+      "package_part": "ppt/slides/partDivider4.xml"
+    },
+    {
+      "page": 33,
+      "kind": "preserved",
+      "original_page": 25,
+      "package_part": "ppt/slides/reflow-15.xml"
+    },
+    {
+      "page": 34,
+      "kind": "added",
+      "part": 4,
+      "key": "route-edits",
+      "title": "수정 대상을 기준 파일과 연결합니다",
+      "package_part": "ppt/slides/styleDocsroute-edits.xml",
+      "layout": "L06",
+      "native_table": true
+    },
+    {
+      "page": 35,
+      "kind": "added",
+      "part": 4,
+      "key": "scope",
+      "title": "바꿀 것과 유지할 것을 정합니다",
+      "package_part": "ppt/slides/styleDocsscope.xml",
+      "layout": "L07",
+      "native_table": false
+    },
+    {
+      "page": 36,
+      "kind": "added",
+      "part": 4,
+      "key": "review-sequence",
+      "title": "짧은 구간부터 다시 확인합니다",
+      "package_part": "ppt/slides/styleDocsreview-sequence.xml",
+      "layout": "L14",
+      "native_table": false
+    },
+    {
+      "page": 37,
+      "kind": "added",
+      "part": 4,
+      "key": "review-criteria",
+      "title": "내용·디자인·모션을 나누어 점검합니다",
+      "package_part": "ppt/slides/styleDocsreview-criteria.xml",
+      "layout": "L06",
+      "native_table": true
+    },
+    {
+      "page": 38,
+      "kind": "added",
+      "part": 4,
+      "key": "local-global",
+      "title": "한 장면 수정과 공통 규칙의 변경",
+      "package_part": "ppt/slides/styleDocslocal-global.xml",
+      "layout": "L12",
+      "native_table": false
+    },
+    {
+      "page": 39,
+      "kind": "added",
+      "part": 4,
+      "key": "version",
+      "title": "확인한 기준을 다음 작업에 남깁니다",
+      "package_part": "ppt/slides/styleDocsversion.xml",
+      "layout": "L10",
+      "native_table": false
+    },
+    {
+      "page": 40,
+      "kind": "preserved",
+      "original_page": 26,
+      "package_part": "ppt/slides/reflow-16.xml"
+    }
+  ]
+}

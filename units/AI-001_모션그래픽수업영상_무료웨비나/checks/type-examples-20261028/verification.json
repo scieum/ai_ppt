@@ -1,0 +1,40 @@
+{
+  "slides": 12,
+  "type_examples_page": 5,
+  "added_knowledge_pages": [
+    10,
+    11
+  ],
+  "native_table_page": 12,
+  "other_nine_slide_xml_preserved": true,
+  "previous_animation_and_media_preserved": true,
+  "eleven_new_embedded_looping_examples_verified": true,
+  "knowledge_only_scope_preserved": true,
+  "other_nine_slide_pixels_preserved": true,
+  "type_page_title_logo_footer_two_text_columns_preserved": true,
+  "body_text_overflow_count": 0,
+  "pdf_pages": 12,
+  "all_slides_native_rendered": true,
+  "eleven_examples_motion_verified_in_native_powerpoint_video": {
+    "5-0": 1226,
+    "5-1": 2277,
+    "5-2": 4251,
+    "5-3": 1257,
+    "5-4": 889,
+    "10-0": 560,
+    "10-1": 539,
+    "10-2": 647,
+    "11-0": 591,
+    "11-1": 610,
+    "11-2": 602
+  },
+  "pptx_sha256": "8766aad66c6d9ad84a0dce6753c4505449c17fc26cb2a974c3a7769dfe77772a",
+  "lesson_unchanged": true,
+  "reference_adapted_concept_pages": [
+    20,
+    23,
+    24
+  ],
+  "reference_media_not_extracted": true,
+  "inherited_g10_status": "unchanged; pending inherited rights inventory"
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "kind": "hand",
+    "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\hand.gif",
+    "frames": 40,
+    "duration_ms": 75,
+    "loop": 0,
+    "sha256": "c2d7f93c2d207c1a087502aafabc001a2d1b4e0cff6134e2428a22c4070421c4",
+    "origin": "original programmatic motion illustration; no source video pixels or audio",
+    "actual_gif_frame_duration_ms": 70,
+    "dimensions": [
+      520,
+      292
+    ]
+  },
+  {
+    "kind": "blueprint",
+    "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\blueprint.gif",
+    "frames": 40,
+    "duration_ms": 75,
+    "loop": 0,
+    "sha256": "2af08874e09d6d834f486c4a5f41afbb9be54b356e19874cfedba1d009e3be23",
+    "origin": "original programmatic motion illustration; no source video pixels or audio",
+    "actual_gif_frame_duration_ms": 70,
+    "dimensions": [
+      520,
+      292
+    ]
+  },
+  {
+    "kind": "neon",
+    "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\neon.gif",
+    "frames": 40,
+    "duration_ms": 75,
+    "loop": 0,
+    "sha256": "83eab803d4f7913fb45ea05332608cbc0e69efa0cb94b211fa23f7c5ce981d96",
+    "origin": "original programmatic motion illustration; no source video pixels or audio",
+    "actual_gif_frame_duration_ms": 70,
+    "dimensions": [
+      520,
+      292
+    ]
+  },
+  {
+    "kind": "chrome",
+    "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\chrome.gif",
+    "frames": 40,
+    "duration_ms": 75,
+    "loop": 0,
+    "sha256": "cb2effbca718d58c633f03408c9444416a775fa3d54554f6a8adcd3422dd8000",
+    "origin": "original programmatic motion illustration; no source video pixels or audio",
+    "actual_gif_frame_duration_ms": 70,
+    "dimensions": [
+      520,
+      292
+    ]
+  },
+  {
+    "kind": "pixel",
+    "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\pixel.gif",
+    "frames": 40,
+    "duration_ms": 75,
+    "loop": 0,
+    "sha256": "026271327bd16f054f1ad4abda4284bd42002ca5d1e2a31cfb220b84aa546bca",
+    "origin": "original programmatic motion illustration; no source video pixels or audio",
+    "actual_gif_frame_duration_ms": 300,
+    "dimensions": [
+      520,
+      292
+    ]
+  },
+  {
+    "kind": "clay",
+    "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\clay.gif",
+    "frames": 40,
+    "duration_ms": 75,
+    "loop": 0,
+    "sha256": "60a2d7a23d1d6b4d9270a9e7ddaa72dd504c006aaa928c1c00684f8066c029a9",
+    "origin": "original programmatic motion illustration; no source video pixels or audio",
+    "actual_gif_frame_duration_ms": 70,
+    "dimensions": [
+      520,
+      292
+    ]
+  },
+  {
+    "kind": "morph",
+    "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\morph.gif",
+    "frames": 40,
+    "duration_ms": 75,
+    "loop": 0,
+    "sha256": "4614c0cd38c27e14d46212bb0efe206bd5e04f7ca01dc8df1e89580550bf4e9a",
+    "origin": "original programmatic motion illustration; no source video pixels or audio",
+    "actual_gif_frame_duration_ms": 70,
+    "dimensions": [
+      520,
+      292
+    ]
+  },
+  {
+    "kind": "parallax",
+    "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\parallax.gif",
+    "frames": 40,
+    "duration_ms": 75,
+    "loop": 0,
+    "sha256": "823075e4115116b903f01a66b456a3a67dd3445b52d44751a56b29dac44d5155",
+    "origin": "original programmatic motion illustration; no source video pixels or audio",
+    "actual_gif_frame_duration_ms": 70,
+    "dimensions": [
+      520,
+      292
+    ]
+  },
+  {
+    "kind": "camera",
+    "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\camera.gif",
+    "frames": 40,
+    "duration_ms": 75,
+    "loop": 0,
+    "sha256": "025a0a9a49c7ba8e8552a51f07dcd7801b540d17e34d4e09cd4095aeadef2bcf",
+    "origin": "original programmatic motion illustration; no source video pixels or audio",
+    "actual_gif_frame_duration_ms": 70,
+    "dimensions": [
+      520,
+      292
+    ]
+  },
+  {
+    "kind": "pulse",
+    "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\pulse.gif",
+    "frames": 40,
+    "duration_ms": 75,
+    "loop": 0,
+    "sha256": "1145d3b9f0e180de9ade269f90f8ab01f765ae987ac7e64c66844222467e9438",
+    "origin": "original programmatic motion illustration; no source video pixels or audio",
+    "actual_gif_frame_duration_ms": 70,
+    "dimensions": [
+      520,
+      292
+    ]
+  },
+  {
+    "kind": "wave",
+    "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\wave.gif",
+    "frames": 40,
+    "duration_ms": 75,
+    "loop": 0,
+    "sha256": "21bbe6b6d3865e7c1218dc388e2d380c77c45d2ec0065c93c3c3e1ffc29f5bad",
+    "origin": "original programmatic motion illustration; no source video pixels or audio",
+    "actual_gif_frame_duration_ms": 70,
+    "dimensions": [
+      520,
+      292
+    ]
+  },
+  {
+    "kind": "words",
+    "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\video-tones-20261028\\words.gif",
+    "frames": 40,
+    "duration_ms": 75,
+    "loop": 0,
+    "sha256": "1f9fb07d7a0d0585c5a5ca1b68b000fe01efced96cca61ca9a9f0c8811184504",
+    "origin": "original programmatic motion illustration; no source video pixels or audio",
+    "actual_gif_frame_duration_ms": 70,
+    "dimensions": [
+      520,
+      292
+    ]
+  }
+]

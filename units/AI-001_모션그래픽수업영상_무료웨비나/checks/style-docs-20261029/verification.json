@@ -1,0 +1,86 @@
+{
+  "final": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\output\\webinar-knowledge-only\\NotionTalk_모션그래픽_Part3_Part4확장_40장_v19.pptx",
+  "slide_count": 40,
+  "Part3_added_pages": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "Part4_added_pages": [
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "preserved_original_slide_XML": 25,
+  "pixel_identical_original_slides": 24,
+  "minor_renderer_differences": [
+    {
+      "page": 18,
+      "bbox": [
+        49,
+        682,
+        228,
+        959
+      ],
+      "max_channel_delta": 13,
+      "mean_delta_within_bbox": [
+        0.7275275800173446,
+        0.5486356210798056,
+        0.6124478147752254
+      ],
+      "finding": "Minor raster resampling difference confined to unchanged bear picture; slide XML, relationships and media are unchanged. Fresh export of baseline confirms the same baseline appearance."
+    }
+  ],
+  "all_original_media_and_notes_preserved": true,
+  "closing_page": 40,
+  "closing_text_edits": [
+    {
+      "before": "스토리라인과 스틸컷을 확정한 뒤 전체 제작으로 넘어갑니다",
+      "after": "내용·디자인·모션 기준과 스틸컷을 확인한 뒤 전체 제작으로 넘어갑니다"
+    },
+    {
+      "before": "스토리라인 확정",
+      "after": "기준 문서 확인"
+    },
+    {
+      "before": "장면 순서와 핵심 문구",
+      "after": "내용·디자인·모션 기준"
+    }
+  ],
+  "closing_geometry_and_artwork_unchanged": true,
+  "native_table_pages": [
+    22,
+    25,
+    26,
+    28,
+    33,
+    34,
+    37
+  ],
+  "native_timing_pages": [
+    6,
+    11,
+    20
+  ],
+  "GIF_media_parts_preserved": 33,
+  "new_body_text_overflow": [],
+  "PDF_pages": 40,
+  "examples": [
+    "design.md",
+    "motion.md",
+    "storyline.md",
+    "README.md"
+  ],
+  "example_ZIP_verified": true,
+  "lesson_md_unchanged": true,
+  "G10_state": "inherited state unchanged; not approved by this task",
+  "final_sha256": "43c7b78f5f0faade6b98896875a8d003341ef6a53f1377f4a846b820f52242df"
+}

@@ -1,0 +1,568 @@
+{
+  "date": "2026-10-28",
+  "slide_count": 48,
+  "minutes": 90,
+  "final_sha256": "6b0b35dec6b024378486e57258aebe69560dd680c167db1b925e0247a3b2ff33",
+  "source_sha256": "1f567800ec6f55cc6e531951d07411b6b0901534ce0312a924449c7b247ce7fd",
+  "source_original_parts_preserved": true,
+  "allowed_changed_package_parts": [
+    "docProps/app.xml",
+    "ppt/presentation.xml",
+    "ppt/_rels/presentation.xml.rels",
+    "[Content_Types].xml"
+  ],
+  "source_slide_pixel_comparison": [
+    {
+      "old": 1,
+      "new": 1,
+      "pixel_identical": true
+    },
+    {
+      "old": 2,
+      "new": 2,
+      "pixel_identical": true
+    },
+    {
+      "old": 3,
+      "new": 3,
+      "pixel_identical": true
+    },
+    {
+      "old": 4,
+      "new": 4,
+      "pixel_identical": true
+    },
+    {
+      "old": 5,
+      "new": 5,
+      "pixel_identical": true
+    },
+    {
+      "old": 6,
+      "new": 6,
+      "pixel_identical": true
+    },
+    {
+      "old": 7,
+      "new": 7,
+      "pixel_identical": true
+    },
+    {
+      "old": 8,
+      "new": 8,
+      "pixel_identical": true
+    },
+    {
+      "old": 9,
+      "new": 9,
+      "pixel_identical": true
+    },
+    {
+      "old": 10,
+      "new": 10,
+      "pixel_identical": true
+    },
+    {
+      "old": 11,
+      "new": 11,
+      "pixel_identical": true
+    },
+    {
+      "old": 12,
+      "new": 12,
+      "pixel_identical": true
+    },
+    {
+      "old": 13,
+      "new": 13,
+      "pixel_identical": true
+    },
+    {
+      "old": 14,
+      "new": 14,
+      "pixel_identical": true
+    },
+    {
+      "old": 15,
+      "new": 15,
+      "pixel_identical": true
+    },
+    {
+      "old": 16,
+      "new": 16,
+      "pixel_identical": true
+    },
+    {
+      "old": 17,
+      "new": 17,
+      "pixel_identical": true
+    },
+    {
+      "old": 18,
+      "new": 18,
+      "pixel_identical": true
+    },
+    {
+      "old": 19,
+      "new": 19,
+      "pixel_identical": true
+    },
+    {
+      "old": 20,
+      "new": 34,
+      "pixel_identical": true
+    },
+    {
+      "old": 21,
+      "new": 41,
+      "pixel_identical": true
+    }
+  ],
+  "native_table_pages": [
+    21,
+    25,
+    28,
+    33,
+    37,
+    39,
+    40,
+    45
+  ],
+  "animation_shape_targets_valid": [
+    29,
+    30,
+    31
+  ],
+  "new_slide_text_bound_issues": [],
+  "inherited_template_bound_exceptions": [
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 20,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 21,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 22,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 23,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 24,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 25,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 26,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 27,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 28,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 29,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 30,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 31,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 32,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 33,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 35,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 36,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 37,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 38,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 39,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 45.0,
+      "text_height": 26.4,
+      "text_top": 65.5,
+      "shape_left": 45.0,
+      "shape_top": 65.5,
+      "slide": 40,
+      "shape_height": 30.0,
+      "shape_width": 32.5,
+      "name": "section_number",
+      "text": "03",
+      "text_width": 33.62504
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 40,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 42,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 43,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 44,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 45,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 46,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 47,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    },
+    {
+      "text_left": 743.87506,
+      "text_height": 12.0,
+      "text_top": 515.0,
+      "shape_left": 540.0,
+      "shape_top": 515.0,
+      "slide": 48,
+      "shape_height": 15.0,
+      "shape_width": 380.0,
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "text_width": 178.62495
+    }
+  ],
+  "powerpoint_native_open_pdf_and_48_png_export": true,
+  "visual_inspection_new_slide_pages": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48
+  ],
+  "docx_pages": 25,
+  "docx_slide_sections": 48,
+  "docx_all_25_pngs_visually_inspected": true,
+  "docx_render_method": "Skill render_docx.py attempted; soffice.exe unavailable. Native Word PDF export plus bundled pdf2image/Poppler PNG fallback used.",
+  "plan_pages_and_minutes_match": true,
+  "workshop_markdown_files": 7,
+  "gates": {
+    "G05": "failed: missing input.json",
+    "G07": "passed",
+    "G10": "failed: missing rights inventory for reused assets"
+  },
+  "actual_new_app_runs": false,
+  "external_generated_video": false,
+  "mp4_output": false,
+  "rehearsal": false,
+  "publication": false,
+  "g10_approval_created": false,
+  "deliverables": {
+    "NotionTalk_모션그래픽_전체웨비나_48장_v2.pptx": {
+      "bytes": 7531342,
+      "sha256": "6b0b35dec6b024378486e57258aebe69560dd680c167db1b925e0247a3b2ff33"
+    },
+    "NotionTalk_모션그래픽_전체웨비나_48장_v2.pdf": {
+      "bytes": 967116,
+      "sha256": "a220162bbf54f39613bcb4eb21f8fbb4ace2cc08f1b0b67c7755f769d52faa8c"
+    },
+    "NotionTalk_전체웨비나_강사용진행원고.docx": {
+      "bytes": 49183,
+      "sha256": "72932b9e95c26c11833fbb69953a12c3879d113376928155ab1615f505a272b3"
+    },
+    "NotionTalk_웨비나_실습자료와대본.zip": {
+      "bytes": 1318031,
+      "sha256": "c11a3dedf1c2df5119f11ba8cf229e43f5451c24c9a3bc0cb954e0d82a9f4dd1"
+    }
+  }
+}

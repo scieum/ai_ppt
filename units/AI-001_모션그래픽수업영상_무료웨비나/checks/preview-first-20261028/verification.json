@@ -1,0 +1,15 @@
+{
+  "slides": 14,
+  "new_tip_page": 14,
+  "existing_thirteen_slide_xml_and_pixels_unchanged": true,
+  "all_prior_media_and_motion_preserved": true,
+  "requested_storyline_md_and_two_stills_then_confirmation_covered": true,
+  "token_and_time_savings_qualified_as_possible": true,
+  "body_text_overflow_count": 0,
+  "pdf_pages": 14,
+  "native_table_slide": 13,
+  "all_slides_native_rendered": true,
+  "pptx_sha256": "fa982ff96cd76ca27909ff851768f5e0cfeed794131876563c7dd9b924e6be21",
+  "scope_change": "only explicitly requested preview-first guidance added; other production tutorials remain excluded",
+  "g10_status": "unchanged"
+}

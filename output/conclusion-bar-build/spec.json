@@ -1,0 +1,105 @@
+[
+  {
+    "page": 6,
+    "part": "ppt/slides/reflow-03.xml",
+    "remove": [
+      "dev-definition-takeaway"
+    ],
+    "message": "그래픽에 시간에 따른 변화를 더합니다"
+  },
+  {
+    "page": 20,
+    "part": "ppt/slides/reflow-12.xml",
+    "remove": [
+      "conclusion-band",
+      "conclusion-tag",
+      "conclusion-tag-text",
+      "conclusion-text"
+    ],
+    "message": "정지 화면의 모습과 시간에 따른 변화를 함께 전달합니다"
+  },
+  {
+    "page": 22,
+    "part": "ppt/slides/reflow-13.xml",
+    "remove": [
+      "lesson7-storyline-note"
+    ],
+    "message": "내용을 먼저 고치고, 대표 스틸컷을 확인한 뒤 영상 제작으로 넘어갑니다"
+  },
+  {
+    "page": 23,
+    "part": "ppt/slides/reflow-14.xml",
+    "remove": [
+      "dev-definition-takeaway"
+    ],
+    "message": "색·문구·구도를 먼저 수정하면 전체 영상의 반복 생성을 줄일 수 있습니다"
+  },
+  {
+    "page": 25,
+    "part": "ppt/slides/styleDocsroles.xml",
+    "remove": [
+      "takeaway"
+    ],
+    "message": "스틸컷은 화면을 보여 줍니다. 속도는 재생해서 확인합니다"
+  },
+  {
+    "page": 26,
+    "part": "ppt/slides/styleDocsdesign-fields.xml",
+    "remove": [
+      "takeaway"
+    ],
+    "message": "같은 브랜드로 보이게 하는 요소부터 정리합니다"
+  },
+  {
+    "page": 36,
+    "part": "ppt/slides/styleDocsreview-sequence.xml",
+    "remove": [
+      "conclusion-band",
+      "conclusion-tag",
+      "conclusion-tag-text",
+      "conclusion-text"
+    ],
+    "message": "수정한 부분부터 작게 확인하고, 마지막에 전체 흐름을 봅니다"
+  },
+  {
+    "page": 37,
+    "part": "ppt/slides/styleDocsreview-criteria.xml",
+    "remove": [
+      "conclusion-band",
+      "conclusion-tag",
+      "conclusion-tag-text",
+      "conclusion-text"
+    ],
+    "message": "읽힘·움직임·내용을 따로 확인한 뒤, 전체 연결을 봅니다"
+  },
+  {
+    "page": 38,
+    "part": "ppt/slides/styleDocslocal-global.xml",
+    "remove": [
+      "visual-takeaway"
+    ],
+    "message": "이번 장면의 예외인지, 다음에도 쓸 기본값인지 구분합니다"
+  },
+  {
+    "page": 39,
+    "part": "ppt/slides/styleDocsversion.xml",
+    "remove": [
+      "conclusion-band",
+      "conclusion-tag",
+      "conclusion-tag-text",
+      "conclusion-text"
+    ],
+    "message": "같은 버전을 전달하고, 스틸컷과 짧은 구간으로 다시 확인합니다"
+  },
+  {
+    "page": 40,
+    "part": "ppt/slides/reflow-16.xml",
+    "remove": [
+      "conclusion-band",
+      "conclusion-tag",
+      "conclusion-tag-text",
+      "conclusion-text"
+    ],
+    "message": "중간 확인으로 불필요한 재생성과 토큰 낭비를 줄입니다"
+  }
+]

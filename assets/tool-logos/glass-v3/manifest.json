@@ -1,0 +1,32 @@
+[
+  {
+    "name": "claude",
+    "tool": "built-in image_gen.imagegen",
+    "reference": "assets/tool-logos/orange-v2/png/claude-front.png",
+    "generated_path": "C:\\Users\\User\\.codex\\generated_images\\01a17c20-5bae-7d62-b099-b665b7e19a91\\exec-0ada6fa8-0d85-4eba-9aa1-47af661ebfd3.png",
+    "asset": "assets\\tool-logos\\glass-v3\\claude-front.png",
+    "transparent_background": true,
+    "prompt": "Edit the supplied claude app-icon tile as a production slide asset. Preserve the exact recognizable logo silhouette, proportions, center position, front-facing orientation, rounded square tile footprint and generous transparent margin of the reference. Replace its matte dark tile and orange corner lines with restrained smoked-clear glass: neutral graphite transparency, subtle silver rim, gentle soft white reflection at top-left and a thin refractive glass edge. The tile must look like thin premium glass, not chrome or chunky ice. Recolor the central logo to crisp ivory white, clean and flat enough to remain readable at small sizes. Remove ALL orange, warm tint, neon colors, corner decorations, underlines and accent marks. No letters or captions, no extra symbols, no backdrop or cast shadow outside tile. True transparent background around the rounded square. Square composition, tile occupies exactly about 70 percent of canvas width and height, centered, matching source placement. Keep logo topology accurate. This is an edit of the existing logo tile, not a new logo design.",
+    "sha256": "f78a1f0419bc9cec28b3ec50fc862e01ac393b5ad0ef79dc286679e1229dcf11"
+  },
+  {
+    "name": "codex",
+    "tool": "built-in image_gen.imagegen",
+    "reference": "assets/tool-logos/orange-v2/png/codex-front.png",
+    "generated_path": "C:\\Users\\User\\.codex\\generated_images\\01a17c20-5bae-7d62-b099-b665b7e19a91\\exec-f246c392-7c1b-4e1d-a911-9cc68cebf714.png",
+    "asset": "assets\\tool-logos\\glass-v3\\codex-front.png",
+    "transparent_background": true,
+    "prompt": "Edit the supplied codex app-icon tile as a production slide asset. Preserve the exact recognizable logo silhouette, proportions, center position, front-facing orientation, rounded square tile footprint and generous transparent margin of the reference. Replace its matte dark tile and orange corner lines with restrained smoked-clear glass: neutral graphite transparency, subtle silver rim, gentle soft white reflection at top-left and a thin refractive glass edge. The tile must look like thin premium glass, not chrome or chunky ice. Recolor the central logo to crisp ivory white, clean and flat enough to remain readable at small sizes. Remove ALL orange, warm tint, neon colors, corner decorations, underlines and accent marks. No letters or captions, no extra symbols, no backdrop or cast shadow outside tile. True transparent background around the rounded square. Square composition, tile occupies exactly about 70 percent of canvas width and height, centered, matching source placement. Keep logo topology accurate. This is an edit of the existing logo tile, not a new logo design.",
+    "sha256": "ed16f0bf4e508faf2e8e5c7632ef94d14173558fc685bb70164a5c1cb3a14da1"
+  },
+  {
+    "name": "higgsfield",
+    "tool": "built-in image_gen.imagegen",
+    "reference": "assets/tool-logos/orange-v2/png/higgsfield-front.png",
+    "generated_path": "C:\\Users\\User\\.codex\\generated_images\\01a17c20-5bae-7d62-b099-b665b7e19a91\\exec-b64a2798-10c4-4437-a8cf-6a85b2997eec.png",
+    "asset": "assets\\tool-logos\\glass-v3\\higgsfield-front.png",
+    "transparent_background": true,
+    "prompt": "Edit the supplied higgsfield app-icon tile as a production slide asset. Preserve the exact recognizable logo silhouette, proportions, center position, front-facing orientation, rounded square tile footprint and generous transparent margin of the reference. Replace its matte dark tile and orange corner lines with restrained smoked-clear glass: neutral graphite transparency, subtle silver rim, gentle soft white reflection at top-left and a thin refractive glass edge. The tile must look like thin premium glass, not chrome or chunky ice. Recolor the central logo to crisp ivory white, clean and flat enough to remain readable at small sizes. Remove ALL orange, warm tint, neon colors, corner decorations, underlines and accent marks. No letters or captions, no extra symbols, no backdrop or cast shadow outside tile. True transparent background around the rounded square. Square composition, tile occupies exactly about 70 percent of canvas width and height, centered, matching source placement. Keep logo topology accurate. This is an edit of the existing logo tile, not a new logo design.",
+    "sha256": "2b45596ee746b64418818b3f710bb99bcc0150234991a055892ee871685b2ec3"
+  }
+]

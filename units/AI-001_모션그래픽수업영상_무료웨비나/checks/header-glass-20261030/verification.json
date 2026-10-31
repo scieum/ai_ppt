@@ -1,0 +1,416 @@
+{
+  "source": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\output\\webinar-knowledge-only\\NotionTalk_모션그래픽_사이클활동안내_43장_v26.pptx",
+  "output": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\output\\webinar-knowledge-only\\NotionTalk_모션그래픽_헤더확대_글라스로고_43장_v27.pptx",
+  "output_sha256": "b07969caeb8e27ec94caf4609f0aedcd4ca028cc1228ac2bf0f35ea1aa4b7f24",
+  "slide_count": 43,
+  "headers_changed": 108,
+  "header_owner_slides": 36,
+  "font_delta_pt": 2,
+  "all_text_preserved": true,
+  "only_requested_shape_changes": true,
+  "original_media_preserved": 71,
+  "original_note_parts_preserved": 86,
+  "timing_owner_slides": [
+    6,
+    11,
+    20
+  ],
+  "header_text_overflow": [],
+  "pdf_comparison": [
+    {
+      "slide": 1,
+      "changed_pixels_bbox": null,
+      "body_unchanged": true
+    },
+    {
+      "slide": 2,
+      "changed_pixels_bbox": null,
+      "body_unchanged": true
+    },
+    {
+      "slide": 3,
+      "changed_pixels_bbox": [
+        40,
+        47,
+        752,
+        452
+      ],
+      "body_unchanged": false
+    },
+    {
+      "slide": 4,
+      "changed_pixels_bbox": null,
+      "body_unchanged": true
+    },
+    {
+      "slide": 5,
+      "changed_pixels_bbox": null,
+      "body_unchanged": true
+    },
+    {
+      "slide": 6,
+      "changed_pixels_bbox": [
+        45,
+        46,
+        206,
+        90
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 7,
+      "changed_pixels_bbox": [
+        45,
+        46,
+        206,
+        90
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 8,
+      "changed_pixels_bbox": [
+        40,
+        47,
+        245,
+        96
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 9,
+      "changed_pixels_bbox": [
+        45,
+        46,
+        206,
+        90
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 10,
+      "changed_pixels_bbox": [
+        45,
+        46,
+        206,
+        90
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 11,
+      "changed_pixels_bbox": [
+        45,
+        46,
+        216,
+        90
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 12,
+      "changed_pixels_bbox": [
+        45,
+        46,
+        216,
+        90
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 13,
+      "changed_pixels_bbox": [
+        45,
+        46,
+        216,
+        90
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 14,
+      "changed_pixels_bbox": [
+        45,
+        46,
+        216,
+        90
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 15,
+      "changed_pixels_bbox": [
+        45,
+        46,
+        216,
+        90
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 16,
+      "changed_pixels_bbox": [
+        45,
+        46,
+        216,
+        90
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 17,
+      "changed_pixels_bbox": [
+        45,
+        46,
+        206,
+        90
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 18,
+      "changed_pixels_bbox": [
+        45,
+        46,
+        206,
+        90
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 19,
+      "changed_pixels_bbox": null,
+      "body_unchanged": true
+    },
+    {
+      "slide": 20,
+      "changed_pixels_bbox": [
+        45,
+        46,
+        267,
+        90
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 21,
+      "changed_pixels_bbox": null,
+      "body_unchanged": true
+    },
+    {
+      "slide": 22,
+      "changed_pixels_bbox": [
+        45,
+        46,
+        335,
+        90
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 23,
+      "changed_pixels_bbox": [
+        45,
+        46,
+        335,
+        90
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 24,
+      "changed_pixels_bbox": [
+        45,
+        45,
+        332,
+        92
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 25,
+      "changed_pixels_bbox": [
+        45,
+        45,
+        332,
+        92
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 26,
+      "changed_pixels_bbox": [
+        45,
+        45,
+        332,
+        92
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 27,
+      "changed_pixels_bbox": [
+        45,
+        45,
+        332,
+        92
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 28,
+      "changed_pixels_bbox": [
+        45,
+        45,
+        332,
+        92
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 29,
+      "changed_pixels_bbox": [
+        45,
+        45,
+        332,
+        92
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 30,
+      "changed_pixels_bbox": [
+        45,
+        45,
+        332,
+        92
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 31,
+      "changed_pixels_bbox": [
+        45,
+        45,
+        332,
+        92
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 32,
+      "changed_pixels_bbox": null,
+      "body_unchanged": true
+    },
+    {
+      "slide": 33,
+      "changed_pixels_bbox": [
+        45,
+        46,
+        345,
+        90
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 34,
+      "changed_pixels_bbox": [
+        45,
+        45,
+        327,
+        92
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 35,
+      "changed_pixels_bbox": [
+        45,
+        45,
+        327,
+        92
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 36,
+      "changed_pixels_bbox": [
+        45,
+        45,
+        327,
+        92
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 37,
+      "changed_pixels_bbox": [
+        45,
+        45,
+        327,
+        92
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 38,
+      "changed_pixels_bbox": [
+        45,
+        45,
+        327,
+        92
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 39,
+      "changed_pixels_bbox": [
+        45,
+        45,
+        327,
+        92
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 40,
+      "changed_pixels_bbox": [
+        45,
+        46,
+        345,
+        90
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 41,
+      "changed_pixels_bbox": [
+        45,
+        45,
+        208,
+        92
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 42,
+      "changed_pixels_bbox": [
+        45,
+        45,
+        208,
+        92
+      ],
+      "body_unchanged": true
+    },
+    {
+      "slide": 43,
+      "changed_pixels_bbox": [
+        45,
+        45,
+        208,
+        92
+      ],
+      "body_unchanged": true
+    }
+  ]
+}

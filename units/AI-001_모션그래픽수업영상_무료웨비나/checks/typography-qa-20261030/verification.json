@@ -1,0 +1,284 @@
+{
+  "slides": 43,
+  "output": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\output\\webinar-knowledge-only\\NotionTalk_모션그래픽_폰트간격점검_43장_v29.pptx",
+  "sha256": "5e66e7a88c5b458ce8848b4b2d5a7284593a68b51de39e0ac2e1be87f1777b3a",
+  "actual_text_objects_adjusted": 166,
+  "changed_slide_parts": [
+    "ppt/slides/reflow-03.xml",
+    "ppt/slides/reflow-04.xml",
+    "ppt/slides/reflow-05.xml",
+    "ppt/slides/reflow-06.xml",
+    "ppt/slides/reflow-07.xml",
+    "ppt/slides/reflow-08.xml",
+    "ppt/slides/reflow-09.xml",
+    "ppt/slides/reflow-10.xml",
+    "ppt/slides/reflow-11.xml",
+    "ppt/slides/reflow-12.xml",
+    "ppt/slides/reflow-13.xml",
+    "ppt/slides/reflow-14.xml",
+    "ppt/slides/reflow-15.xml",
+    "ppt/slides/reflow-16.xml",
+    "ppt/slides/restored-preparation.xml",
+    "ppt/slides/video-tones-7.xml",
+    "ppt/slides/video-tones-8.xml",
+    "ppt/slides/video-tones-13.xml",
+    "ppt/slides/video-tones-14.xml",
+    "ppt/slides/partDivider0.xml",
+    "ppt/slides/partDivider1.xml",
+    "ppt/slides/partDivider2.xml",
+    "ppt/slides/partDivider3.xml",
+    "ppt/slides/partDivider4.xml",
+    "ppt/slides/styleDocsrecommendation.xml",
+    "ppt/slides/styleDocsroles.xml",
+    "ppt/slides/styleDocsdesign-fields.xml",
+    "ppt/slides/styleDocsdesign-example.xml",
+    "ppt/slides/styleDocsmotion-fields.xml",
+    "ppt/slides/styleDocsmotion-example.xml",
+    "ppt/slides/styleDocsreview-links.xml",
+    "ppt/slides/styleDocsreuse.xml",
+    "ppt/slides/styleDocsroute-edits.xml",
+    "ppt/slides/styleDocsscope.xml",
+    "ppt/slides/styleDocsreview-sequence.xml",
+    "ppt/slides/styleDocsreview-criteria.xml",
+    "ppt/slides/styleDocslocal-global.xml",
+    "ppt/slides/styleDocsversion.xml",
+    "ppt/slides/challenge-calendar.xml",
+    "ppt/slides/challenge-activity-cycle1.xml",
+    "ppt/slides/challenge-activity-cycle2.xml"
+  ],
+  "all_text_content_preserved": true,
+  "all_media_notes_tables_relationships_and_animations_preserved": true,
+  "only_font_size_text_frame_and_vertical_anchor_changed": true,
+  "native_powerpoint_text_overflow": [],
+  "native_powerpoint_text_overlaps": [],
+  "page_checks": [
+    {
+      "slide": 1,
+      "changed_pixels": 0,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 2,
+      "changed_pixels": 1154,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 3,
+      "changed_pixels": 6639,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 4,
+      "changed_pixels": 0,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 5,
+      "changed_pixels": 1154,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 6,
+      "changed_pixels": 4013,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 7,
+      "changed_pixels": 4013,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 8,
+      "changed_pixels": 7063,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 9,
+      "changed_pixels": 4013,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 10,
+      "changed_pixels": 4013,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 11,
+      "changed_pixels": 4632,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 12,
+      "changed_pixels": 4632,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 13,
+      "changed_pixels": 4632,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 14,
+      "changed_pixels": 4632,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 15,
+      "changed_pixels": 4632,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 16,
+      "changed_pixels": 4632,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 17,
+      "changed_pixels": 4123,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 18,
+      "changed_pixels": 4123,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 19,
+      "changed_pixels": 1154,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 20,
+      "changed_pixels": 5280,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 21,
+      "changed_pixels": 1154,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 22,
+      "changed_pixels": 6328,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 23,
+      "changed_pixels": 6328,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 24,
+      "changed_pixels": 20217,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 25,
+      "changed_pixels": 16736,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 26,
+      "changed_pixels": 18232,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 27,
+      "changed_pixels": 15348,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 28,
+      "changed_pixels": 18539,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 29,
+      "changed_pixels": 15097,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 30,
+      "changed_pixels": 15774,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 31,
+      "changed_pixels": 22295,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 32,
+      "changed_pixels": 1154,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 33,
+      "changed_pixels": 5670,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 34,
+      "changed_pixels": 19121,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 35,
+      "changed_pixels": 17095,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 36,
+      "changed_pixels": 16992,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 37,
+      "changed_pixels": 19907,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 38,
+      "changed_pixels": 17388,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 39,
+      "changed_pixels": 18726,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 40,
+      "changed_pixels": 5670,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 41,
+      "changed_pixels": 11301,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 42,
+      "changed_pixels": 16315,
+      "pixels_outside_edited_text_frames_unchanged": true
+    },
+    {
+      "slide": 43,
+      "changed_pixels": 17916,
+      "pixels_outside_edited_text_frames_unchanged": true
+    }
+  ],
+  "visual_review": {
+    "source_all_43_full_size": true,
+    "final_all_43_contact_sheets": true,
+    "final_full_size_spot_checks": [
+      3,
+      6,
+      24,
+      31,
+      41,
+      43
+    ],
+    "unresolved_typography_or_spacing_findings": []
+  }
+}

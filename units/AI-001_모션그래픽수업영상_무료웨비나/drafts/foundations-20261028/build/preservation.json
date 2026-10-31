@@ -1,0 +1,122 @@
+{
+  "source_sha256": "525b5583a5d79fd26ff83baa66046c921e067921250c4467d4d0363ed5702b11",
+  "sequence": [
+    1,
+    2,
+    3,
+    "definition",
+    "formats",
+    "properties",
+    "entrances",
+    "reveals",
+    "timing",
+    "vocabulary-prompt",
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "source_slide_geometry": [
+    {
+      "source_display_page": 1,
+      "target_page": 1,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 2,
+      "target_page": 2,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": false
+    },
+    {
+      "source_display_page": 3,
+      "target_page": 3,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 5,
+      "target_page": 11,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 6,
+      "target_page": 12,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 7,
+      "target_page": 13,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 8,
+      "target_page": 14,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 9,
+      "target_page": 15,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 10,
+      "target_page": 16,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 11,
+      "target_page": 17,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 12,
+      "target_page": 18,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 13,
+      "target_page": 19,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 14,
+      "target_page": 20,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    },
+    {
+      "source_display_page": 15,
+      "target_page": 21,
+      "non_text_xml_identical": true,
+      "whole_slide_identical": true
+    }
+  ],
+  "all_original_media_masters_layouts_themes_identical": true,
+  "new_slide_parts": {
+    "definition": "ppt/slides/fundamentals-definition.xml",
+    "formats": "ppt/slides/fundamentals-formats.xml",
+    "properties": "ppt/slides/fundamentals-properties.xml",
+    "entrances": "ppt/slides/fundamentals-entrances.xml",
+    "reveals": "ppt/slides/fundamentals-reveals.xml",
+    "timing": "ppt/slides/fundamentals-timing.xml",
+    "vocabulary-prompt": "ppt/slides/fundamentals-vocabulary-prompt.xml"
+  }
+}

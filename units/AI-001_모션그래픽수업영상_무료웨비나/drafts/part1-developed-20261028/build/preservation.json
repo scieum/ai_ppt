@@ -1,0 +1,166 @@
+{
+  "source_sha256": "8c55b0eb90c8ff9e509c808234aa4bf376544861e5e51773c8921767e98fd077",
+  "changed_parts": [
+    "ppt/slides/part01-slide2.xml",
+    "ppt/notesSlides/part01-notes2.xml",
+    "ppt/slides/part01-slide3.xml",
+    "ppt/notesSlides/part01-notes3.xml",
+    "ppt/slides/part01-slide4.xml",
+    "ppt/notesSlides/part01-notes4.xml",
+    "ppt/slides/lesson-compare.xml",
+    "ppt/notesSlides/lesson-compare.xml",
+    "ppt/slides/lesson-prompt-a.xml",
+    "ppt/notesSlides/lesson-prompt-a.xml",
+    "ppt/slides/lesson-prompt-b.xml",
+    "ppt/notesSlides/lesson-prompt-b.xml",
+    "ppt/slides/lesson-prompt-c.xml",
+    "ppt/notesSlides/lesson-prompt-c.xml",
+    "ppt/slides/lesson-reflection.xml",
+    "ppt/notesSlides/lesson-reflection.xml",
+    "ppt/slides/fundamentals-definition.xml",
+    "ppt/notesSlides/fundamentals-definition.xml",
+    "ppt/slides/fundamentals-formats.xml",
+    "ppt/notesSlides/fundamentals-formats.xml",
+    "ppt/slides/fundamentals-properties.xml",
+    "ppt/notesSlides/fundamentals-properties.xml",
+    "ppt/slides/fundamentals-entrances.xml",
+    "ppt/notesSlides/fundamentals-entrances.xml",
+    "ppt/slides/fundamentals-reveals.xml",
+    "ppt/notesSlides/fundamentals-reveals.xml",
+    "ppt/slides/fundamentals-timing.xml",
+    "ppt/notesSlides/fundamentals-timing.xml",
+    "ppt/slides/fundamentals-vocabulary-prompt.xml",
+    "ppt/notesSlides/fundamentals-vocabulary-prompt.xml",
+    "ppt/slides/lesson-flipbook.xml",
+    "ppt/notesSlides/lesson-flipbook.xml"
+  ],
+  "untouched_pages": [
+    1,
+    2,
+    3,
+    20,
+    21
+  ],
+  "all_media_bytes_identical": true,
+  "slides": [
+    {
+      "page": 4,
+      "part": "ppt/slides/fundamentals-definition.xml",
+      "preserved_animation_targets": [
+        "21"
+      ],
+      "native_shapes": 16
+    },
+    {
+      "page": 5,
+      "part": "ppt/slides/lesson-flipbook.xml",
+      "preserved_animation_targets": [],
+      "native_shapes": 35
+    },
+    {
+      "page": 6,
+      "part": "ppt/slides/fundamentals-formats.xml",
+      "preserved_animation_targets": [],
+      "native_shapes": 26
+    },
+    {
+      "page": 7,
+      "part": "ppt/slides/fundamentals-properties.xml",
+      "preserved_animation_targets": [
+        "19",
+        "24",
+        "29",
+        "34"
+      ],
+      "native_shapes": 28
+    },
+    {
+      "page": 8,
+      "part": "ppt/slides/fundamentals-entrances.xml",
+      "preserved_animation_targets": [
+        "19",
+        "24",
+        "29"
+      ],
+      "native_shapes": 25
+    },
+    {
+      "page": 9,
+      "part": "ppt/slides/fundamentals-reveals.xml",
+      "preserved_animation_targets": [
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ],
+      "native_shapes": 30
+    },
+    {
+      "page": 10,
+      "part": "ppt/slides/fundamentals-timing.xml",
+      "preserved_animation_targets": [
+        "23",
+        "24"
+      ],
+      "native_shapes": 17
+    },
+    {
+      "page": 11,
+      "part": "ppt/slides/fundamentals-vocabulary-prompt.xml",
+      "preserved_animation_targets": [],
+      "native_shapes": 12
+    },
+    {
+      "page": 12,
+      "part": "ppt/slides/lesson-compare.xml",
+      "preserved_animation_targets": [],
+      "native_shapes": 20
+    },
+    {
+      "page": 13,
+      "part": "ppt/slides/part01-slide2.xml",
+      "preserved_animation_targets": [],
+      "native_shapes": 13
+    },
+    {
+      "page": 14,
+      "part": "ppt/slides/lesson-prompt-a.xml",
+      "preserved_animation_targets": [],
+      "native_shapes": 15
+    },
+    {
+      "page": 15,
+      "part": "ppt/slides/part01-slide3.xml",
+      "preserved_animation_targets": [],
+      "native_shapes": 12
+    },
+    {
+      "page": 16,
+      "part": "ppt/slides/lesson-prompt-b.xml",
+      "preserved_animation_targets": [],
+      "native_shapes": 15
+    },
+    {
+      "page": 17,
+      "part": "ppt/slides/part01-slide4.xml",
+      "preserved_animation_targets": [],
+      "native_shapes": 15
+    },
+    {
+      "page": 18,
+      "part": "ppt/slides/lesson-prompt-c.xml",
+      "preserved_animation_targets": [],
+      "native_shapes": 15
+    },
+    {
+      "page": 19,
+      "part": "ppt/slides/lesson-reflection.xml",
+      "preserved_animation_targets": [],
+      "native_shapes": 13
+    }
+  ]
+}

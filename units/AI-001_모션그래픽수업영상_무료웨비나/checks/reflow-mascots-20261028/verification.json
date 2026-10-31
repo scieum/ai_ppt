@@ -1,0 +1,190 @@
+{
+  "slides": 16,
+  "source_order": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12,
+    16,
+    17,
+    18,
+    19,
+    14
+  ],
+  "all_literal_edits_verified": true,
+  "native_timing_preserved_pages": [
+    3,
+    6,
+    12
+  ],
+  "original_gif_media_preserved": 21,
+  "mascot_pages": [
+    3,
+    5,
+    12,
+    13,
+    14,
+    16
+  ],
+  "native_table_pages": [
+    13,
+    15
+  ],
+  "brand_text_verified": true,
+  "pdf_pages": 16,
+  "all_slides_native_rendered": true,
+  "body_text_overflow": [],
+  "inherited_footer_box_overflow": [
+    {
+      "page": 1,
+      "shape": "copyright_footer",
+      "overflow_right_pt": 2.5,
+      "overflow_bottom_pt": -3.0
+    },
+    {
+      "page": 2,
+      "shape": "copyright_footer",
+      "overflow_right_pt": 2.5,
+      "overflow_bottom_pt": -3.0
+    },
+    {
+      "page": 3,
+      "shape": "copyright_footer",
+      "overflow_right_pt": 2.5,
+      "overflow_bottom_pt": -3.0
+    },
+    {
+      "page": 4,
+      "shape": "copyright_footer",
+      "overflow_right_pt": 2.5,
+      "overflow_bottom_pt": -3.0
+    },
+    {
+      "page": 5,
+      "shape": "copyright_footer",
+      "overflow_right_pt": 2.5,
+      "overflow_bottom_pt": -3.0
+    },
+    {
+      "page": 6,
+      "shape": "copyright_footer",
+      "overflow_right_pt": 2.5,
+      "overflow_bottom_pt": -3.0
+    },
+    {
+      "page": 7,
+      "shape": "copyright_footer",
+      "overflow_right_pt": 2.5,
+      "overflow_bottom_pt": -3.0
+    },
+    {
+      "page": 8,
+      "shape": "copyright_footer",
+      "overflow_right_pt": 2.5,
+      "overflow_bottom_pt": -3.0
+    },
+    {
+      "page": 9,
+      "shape": "copyright_footer",
+      "overflow_right_pt": 2.5,
+      "overflow_bottom_pt": -3.0
+    },
+    {
+      "page": 10,
+      "shape": "copyright_footer",
+      "overflow_right_pt": 2.5,
+      "overflow_bottom_pt": -3.0
+    },
+    {
+      "page": 11,
+      "shape": "copyright_footer",
+      "overflow_right_pt": 2.5,
+      "overflow_bottom_pt": -3.0
+    },
+    {
+      "page": 12,
+      "shape": "copyright_footer",
+      "overflow_right_pt": 2.5,
+      "overflow_bottom_pt": -3.0
+    },
+    {
+      "page": 13,
+      "shape": "copyright_footer",
+      "overflow_right_pt": 2.5,
+      "overflow_bottom_pt": -3.0
+    },
+    {
+      "page": 14,
+      "shape": "copyright_footer",
+      "overflow_right_pt": 2.5,
+      "overflow_bottom_pt": -3.0
+    },
+    {
+      "page": 15,
+      "shape": "copyright_footer",
+      "overflow_right_pt": 2.5,
+      "overflow_bottom_pt": -3.0
+    },
+    {
+      "page": 16,
+      "shape": "copyright_footer",
+      "overflow_right_pt": 2.5,
+      "overflow_bottom_pt": -3.0
+    }
+  ],
+  "lesson_sha256": "845e711e86e7017598b9f98ff43760d1cc485d9becbf29c0c27cc477feedc471",
+  "final_sha256": "28f9b82dc79beeec4760c44ff985f136cbd7e6ed88cc2662e7c9d5838b57df95",
+  "finalizer_pass": true,
+  "native_video_sampling": [
+    {
+      "page": 3,
+      "times_seconds": [
+        0.2,
+        1.2
+      ],
+      "changed_pixels": 2450,
+      "roi": [
+        790,
+        380,
+        1120,
+        600
+      ]
+    },
+    {
+      "page": 5,
+      "times_seconds": [
+        4.5,
+        6.5
+      ],
+      "changed_pixels": 9649,
+      "roi": [
+        735,
+        375,
+        1120,
+        640
+      ]
+    },
+    {
+      "page": 12,
+      "times_seconds": [
+        8.2,
+        9.2
+      ],
+      "changed_pixels": 1670,
+      "roi": [
+        790,
+        380,
+        1120,
+        600
+      ]
+    }
+  ],
+  "native_video_all_samples_changed": true
+}

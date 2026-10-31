@@ -1,0 +1,5354 @@
+{
+  "source": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\output\\webinar-knowledge-only\\NotionTalk_모션그래픽_로고색복원_43장_v28.pptx",
+  "parts": [
+    "ppt/slides/reflow-01.xml",
+    "ppt/slides/partDivider0.xml",
+    "ppt/slides/restored-preparation.xml",
+    "ppt/slides/reflow-02.xml",
+    "ppt/slides/partDivider1.xml",
+    "ppt/slides/reflow-03.xml",
+    "ppt/slides/reflow-04.xml",
+    "ppt/slides/reflow-05.xml",
+    "ppt/slides/video-tones-7.xml",
+    "ppt/slides/video-tones-8.xml",
+    "ppt/slides/reflow-06.xml",
+    "ppt/slides/reflow-07.xml",
+    "ppt/slides/reflow-08.xml",
+    "ppt/slides/reflow-09.xml",
+    "ppt/slides/video-tones-13.xml",
+    "ppt/slides/video-tones-14.xml",
+    "ppt/slides/reflow-10.xml",
+    "ppt/slides/reflow-11.xml",
+    "ppt/slides/partDivider2.xml",
+    "ppt/slides/reflow-12.xml",
+    "ppt/slides/partDivider3.xml",
+    "ppt/slides/reflow-13.xml",
+    "ppt/slides/reflow-14.xml",
+    "ppt/slides/styleDocsrecommendation.xml",
+    "ppt/slides/styleDocsroles.xml",
+    "ppt/slides/styleDocsdesign-fields.xml",
+    "ppt/slides/styleDocsdesign-example.xml",
+    "ppt/slides/styleDocsmotion-fields.xml",
+    "ppt/slides/styleDocsmotion-example.xml",
+    "ppt/slides/styleDocsreview-links.xml",
+    "ppt/slides/styleDocsreuse.xml",
+    "ppt/slides/partDivider4.xml",
+    "ppt/slides/reflow-15.xml",
+    "ppt/slides/styleDocsroute-edits.xml",
+    "ppt/slides/styleDocsscope.xml",
+    "ppt/slides/styleDocsreview-sequence.xml",
+    "ppt/slides/styleDocsreview-criteria.xml",
+    "ppt/slides/styleDocslocal-global.xml",
+    "ppt/slides/styleDocsversion.xml",
+    "ppt/slides/reflow-16.xml",
+    "ppt/slides/challenge-calendar.xml",
+    "ppt/slides/challenge-activity-cycle1.xml",
+    "ppt/slides/challenge-activity-cycle2.xml"
+  ],
+  "edits": [
+    {
+      "slide": 1,
+      "part": "ppt/slides/reflow-01.xml",
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 720.0,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        10.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 2,
+      "part": "ppt/slides/partDivider0.xml",
+      "name": "copyright-footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 3,
+      "part": "ppt/slides/restored-preparation.xml",
+      "name": "part_label",
+      "text": "Part 0  오늘의 준비물",
+      "old_position": {
+        "left": 52.64262467191601,
+        "top": 59.54204724409449,
+        "width": 800.0,
+        "height": 30.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        18.0
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 3,
+      "part": "ppt/slides/restored-preparation.xml",
+      "name": "section_number",
+      "text": "01",
+      "old_position": {
+        "left": 52.64262467191601,
+        "top": 94.70330708661417,
+        "width": 51.333333333333336,
+        "height": 40.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 3,
+      "part": "ppt/slides/restored-preparation.xml",
+      "name": "section_heading",
+      "text": "실습에 사용할 도구",
+      "old_position": {
+        "left": 108.64262467191601,
+        "top": 94.70330708661417,
+        "width": 825.3333333333334,
+        "height": 40.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 3,
+      "part": "ppt/slides/restored-preparation.xml",
+      "name": "title",
+      "text": "오늘의 준비물",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 198.41669291338582,
+        "width": 746.6666666666666,
+        "height": 60.0
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60
+      },
+      "old_pt": [
+        32.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 3,
+      "part": "ppt/slides/restored-preparation.xml",
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 720.0,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        10.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 4,
+      "part": "ppt/slides/reflow-02.xml",
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 720.0,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        10.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 5,
+      "part": "ppt/slides/partDivider1.xml",
+      "name": "copyright-footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 6,
+      "part": "ppt/slides/reflow-03.xml",
+      "name": "part_label",
+      "text": "Part 1  모션 그래픽 기본 지식",
+      "old_position": {
+        "left": 60.0,
+        "top": 59.333333333333336,
+        "width": 800.0,
+        "height": 24.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.0
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 6,
+      "part": "ppt/slides/reflow-03.xml",
+      "name": "section_number",
+      "text": "01",
+      "old_position": {
+        "left": 60.0,
+        "top": 87.33333333333333,
+        "width": 51.333333333333336,
+        "height": 40.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 6,
+      "part": "ppt/slides/reflow-03.xml",
+      "name": "section_heading",
+      "text": "뜻과 종류",
+      "old_position": {
+        "left": 116.0,
+        "top": 87.33333333333333,
+        "width": 825.3333333333334,
+        "height": 40.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 6,
+      "part": "ppt/slides/reflow-03.xml",
+      "name": "title",
+      "text": "모션 그래픽이란?",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60.0
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60
+      },
+      "old_pt": [
+        32.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 6,
+      "part": "ppt/slides/reflow-03.xml",
+      "name": "subtitle",
+      "text": "글자·도형·이미지를 움직여 정보를 전달하는 표현입니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.0
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 6,
+      "part": "ppt/slides/reflow-03.xml",
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 720.0,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        10.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 7,
+      "part": "ppt/slides/reflow-04.xml",
+      "name": "part_label",
+      "text": "Part 1  모션 그래픽 기본 지식",
+      "old_position": {
+        "left": 60.0,
+        "top": 59.333333333333336,
+        "width": 800.0,
+        "height": 24.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.0
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 7,
+      "part": "ppt/slides/reflow-04.xml",
+      "name": "section_number",
+      "text": "01",
+      "old_position": {
+        "left": 60.0,
+        "top": 87.33333333333333,
+        "width": 51.333333333333336,
+        "height": 40.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 7,
+      "part": "ppt/slides/reflow-04.xml",
+      "name": "section_heading",
+      "text": "뜻과 종류",
+      "old_position": {
+        "left": 116.0,
+        "top": 87.33333333333333,
+        "width": 825.3333333333334,
+        "height": 40.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 7,
+      "part": "ppt/slides/reflow-04.xml",
+      "name": "title",
+      "text": "플립북으로 보는 움직임",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60.0
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60
+      },
+      "old_pt": [
+        32.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 7,
+      "part": "ppt/slides/reflow-04.xml",
+      "name": "subtitle",
+      "text": "공의 위치가 조금씩 다른 그림을 시간 순서대로 이어 봅니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.0
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 7,
+      "part": "ppt/slides/reflow-04.xml",
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 720.0,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        10.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 8,
+      "part": "ppt/slides/reflow-05.xml",
+      "name": "part_label",
+      "text": "Part 1  모션 그래픽 기본 지식",
+      "old_position": {
+        "left": 52.64262467191601,
+        "top": 59.54204724409449,
+        "width": 800.0,
+        "height": 30.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        18.0
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 8,
+      "part": "ppt/slides/reflow-05.xml",
+      "name": "section_number",
+      "text": "01",
+      "old_position": {
+        "left": 52.64262467191601,
+        "top": 94.70330708661417,
+        "width": 51.333333333333336,
+        "height": 40.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 8,
+      "part": "ppt/slides/reflow-05.xml",
+      "name": "section_heading",
+      "text": "뜻과 종류",
+      "old_position": {
+        "left": 108.64262467191601,
+        "top": 94.70330708661417,
+        "width": 825.3333333333334,
+        "height": 40.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 8,
+      "part": "ppt/slides/reflow-05.xml",
+      "name": "title",
+      "text": "모션 그래픽의 다섯 가지 표현",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 198.41669291338582,
+        "width": 746.6666666666666,
+        "height": 60.0
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60
+      },
+      "old_pt": [
+        32.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 8,
+      "part": "ppt/slides/reflow-05.xml",
+      "name": "subtitle",
+      "text": "글자·수치·화면·브랜드·캐릭터 중 무엇이 중심인지로 살펴봅니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 268.8466141732284,
+        "width": 746.6666666666666,
+        "height": 60.0
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.0
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 8,
+      "part": "ppt/slides/reflow-05.xml",
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 720.0,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        10.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 9,
+      "part": "ppt/slides/video-tones-7.xml",
+      "name": "part_label",
+      "text": "Part 1  모션 그래픽 기본 지식",
+      "old_position": {
+        "left": 60.0,
+        "top": 59.333333333333336,
+        "width": 800.0,
+        "height": 24.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.0
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 9,
+      "part": "ppt/slides/video-tones-7.xml",
+      "name": "section_number",
+      "text": "01",
+      "old_position": {
+        "left": 60.0,
+        "top": 87.33333333333333,
+        "width": 51.333333333333336,
+        "height": 40.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 9,
+      "part": "ppt/slides/video-tones-7.xml",
+      "name": "section_heading",
+      "text": "뜻과 종류",
+      "old_position": {
+        "left": 116.0,
+        "top": 87.33333333333333,
+        "width": 825.3333333333334,
+        "height": 40.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 9,
+      "part": "ppt/slides/video-tones-7.xml",
+      "name": "title",
+      "text": "같은 내용도 톤에 따라 달라집니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60.0
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60
+      },
+      "old_pt": [
+        32.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 9,
+      "part": "ppt/slides/video-tones-7.xml",
+      "name": "subtitle",
+      "text": "종류가 표현의 중심이라면, 톤은 그림의 질감과 분위기입니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.0
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 9,
+      "part": "ppt/slides/video-tones-7.xml",
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 720.0,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        10.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 10,
+      "part": "ppt/slides/video-tones-8.xml",
+      "name": "part_label",
+      "text": "Part 1  모션 그래픽 기본 지식",
+      "old_position": {
+        "left": 60.0,
+        "top": 59.333333333333336,
+        "width": 800.0,
+        "height": 24.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.0
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 10,
+      "part": "ppt/slides/video-tones-8.xml",
+      "name": "section_number",
+      "text": "01",
+      "old_position": {
+        "left": 60.0,
+        "top": 87.33333333333333,
+        "width": 51.333333333333336,
+        "height": 40.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 10,
+      "part": "ppt/slides/video-tones-8.xml",
+      "name": "section_heading",
+      "text": "뜻과 종류",
+      "old_position": {
+        "left": 116.0,
+        "top": 87.33333333333333,
+        "width": 825.3333333333334,
+        "height": 40.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 10,
+      "part": "ppt/slides/video-tones-8.xml",
+      "name": "title",
+      "text": "재질에 따라 움직임의 인상도 달라집니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60.0
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60
+      },
+      "old_pt": [
+        32.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 10,
+      "part": "ppt/slides/video-tones-8.xml",
+      "name": "subtitle",
+      "text": "빛이 흐르는 표면, 칸 단위 이동, 눌렸다 튀는 탄성을 비교합니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.0
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 10,
+      "part": "ppt/slides/video-tones-8.xml",
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 720.0,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        10.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 11,
+      "part": "ppt/slides/reflow-06.xml",
+      "name": "part_label",
+      "text": "Part 1  모션 그래픽 기본 지식",
+      "old_position": {
+        "left": 60.0,
+        "top": 59.333333333333336,
+        "width": 800.0,
+        "height": 24.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.0
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 11,
+      "part": "ppt/slides/reflow-06.xml",
+      "name": "section_number",
+      "text": "02",
+      "old_position": {
+        "left": 60.0,
+        "top": 87.33333333333333,
+        "width": 51.333333333333336,
+        "height": 40.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 11,
+      "part": "ppt/slides/reflow-06.xml",
+      "name": "section_heading",
+      "text": "움직임과 효과",
+      "old_position": {
+        "left": 116.0,
+        "top": 87.33333333333333,
+        "width": 825.3333333333334,
+        "height": 40.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 11,
+      "part": "ppt/slides/reflow-06.xml",
+      "name": "title",
+      "text": "움직일 때 바뀌는 네 가지 값",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60.0
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60
+      },
+      "old_pt": [
+        32.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 11,
+      "part": "ppt/slides/reflow-06.xml",
+      "name": "subtitle",
+      "text": "위치·크기·각도·불투명도는 효과를 이루는 기본 속성입니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.0
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 11,
+      "part": "ppt/slides/reflow-06.xml",
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 720.0,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        10.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 12,
+      "part": "ppt/slides/reflow-07.xml",
+      "name": "part_label",
+      "text": "Part 1  모션 그래픽 기본 지식",
+      "old_position": {
+        "left": 60.0,
+        "top": 59.333333333333336,
+        "width": 800.0,
+        "height": 24.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.0
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 12,
+      "part": "ppt/slides/reflow-07.xml",
+      "name": "section_number",
+      "text": "02",
+      "old_position": {
+        "left": 60.0,
+        "top": 87.33333333333333,
+        "width": 51.333333333333336,
+        "height": 40.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 12,
+      "part": "ppt/slides/reflow-07.xml",
+      "name": "section_heading",
+      "text": "움직임과 효과",
+      "old_position": {
+        "left": 116.0,
+        "top": 87.33333333333333,
+        "width": 825.3333333333334,
+        "height": 40.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 12,
+      "part": "ppt/slides/reflow-07.xml",
+      "name": "title",
+      "text": "기본 등장 효과 세 가지",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60.0
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60
+      },
+      "old_pt": [
+        32.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 12,
+      "part": "ppt/slides/reflow-07.xml",
+      "name": "subtitle",
+      "text": "페이드는 불투명도, 슬라이드는 위치, 줌·스케일은 크기가 바뀝니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.0
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 12,
+      "part": "ppt/slides/reflow-07.xml",
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 720.0,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        10.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 13,
+      "part": "ppt/slides/reflow-08.xml",
+      "name": "part_label",
+      "text": "Part 1  모션 그래픽 기본 지식",
+      "old_position": {
+        "left": 60.0,
+        "top": 59.333333333333336,
+        "width": 800.0,
+        "height": 24.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.0
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 13,
+      "part": "ppt/slides/reflow-08.xml",
+      "name": "section_number",
+      "text": "02",
+      "old_position": {
+        "left": 60.0,
+        "top": 87.33333333333333,
+        "width": 51.333333333333336,
+        "height": 40.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 13,
+      "part": "ppt/slides/reflow-08.xml",
+      "name": "section_heading",
+      "text": "움직임과 효과",
+      "old_position": {
+        "left": 116.0,
+        "top": 87.33333333333333,
+        "width": 825.3333333333334,
+        "height": 40.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 13,
+      "part": "ppt/slides/reflow-08.xml",
+      "name": "title",
+      "text": "리빌·타이프라이터·순차 등장",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60.0
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60
+      },
+      "old_pt": [
+        32.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 13,
+      "part": "ppt/slides/reflow-08.xml",
+      "name": "subtitle",
+      "text": "보이는 영역, 한 글자, 단어별 시작 시점의 차이를 비교합니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.0
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 13,
+      "part": "ppt/slides/reflow-08.xml",
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 720.0,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        10.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 14,
+      "part": "ppt/slides/reflow-09.xml",
+      "name": "part_label",
+      "text": "Part 1  모션 그래픽 기본 지식",
+      "old_position": {
+        "left": 60.0,
+        "top": 59.333333333333336,
+        "width": 800.0,
+        "height": 24.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.0
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 14,
+      "part": "ppt/slides/reflow-09.xml",
+      "name": "section_number",
+      "text": "02",
+      "old_position": {
+        "left": 60.0,
+        "top": 87.33333333333333,
+        "width": 51.333333333333336,
+        "height": 40.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 14,
+      "part": "ppt/slides/reflow-09.xml",
+      "name": "section_heading",
+      "text": "움직임과 효과",
+      "old_position": {
+        "left": 116.0,
+        "top": 87.33333333333333,
+        "width": 825.3333333333334,
+        "height": 40.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 14,
+      "part": "ppt/slides/reflow-09.xml",
+      "name": "title",
+      "text": "형태·깊이·색의 움직임",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60.0
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60
+      },
+      "old_pt": [
+        32.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 14,
+      "part": "ppt/slides/reflow-09.xml",
+      "name": "subtitle",
+      "text": "모양·입체 방향·색의 위치가 시간에 따라 달라지는 예시입니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.0
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 14,
+      "part": "ppt/slides/reflow-09.xml",
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 720.0,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        10.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 15,
+      "part": "ppt/slides/video-tones-13.xml",
+      "name": "part_label",
+      "text": "Part 1  모션 그래픽 기본 지식",
+      "old_position": {
+        "left": 60.0,
+        "top": 59.333333333333336,
+        "width": 800.0,
+        "height": 24.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.0
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 15,
+      "part": "ppt/slides/video-tones-13.xml",
+      "name": "section_number",
+      "text": "02",
+      "old_position": {
+        "left": 60.0,
+        "top": 87.33333333333333,
+        "width": 51.333333333333336,
+        "height": 40.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 15,
+      "part": "ppt/slides/video-tones-13.xml",
+      "name": "section_heading",
+      "text": "움직임과 효과",
+      "old_position": {
+        "left": 116.0,
+        "top": 87.33333333333333,
+        "width": 825.3333333333334,
+        "height": 40.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 15,
+      "part": "ppt/slides/video-tones-13.xml",
+      "name": "title",
+      "text": "장면도 움직임으로 이어질 수 있습니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60.0
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60
+      },
+      "old_pt": [
+        32.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 15,
+      "part": "ppt/slides/video-tones-13.xml",
+      "name": "subtitle",
+      "text": "형태 변화, 앞뒤의 속도 차이, 시점 변화가 화면을 연결합니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.0
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 15,
+      "part": "ppt/slides/video-tones-13.xml",
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 720.0,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        10.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 16,
+      "part": "ppt/slides/video-tones-14.xml",
+      "name": "part_label",
+      "text": "Part 1  모션 그래픽 기본 지식",
+      "old_position": {
+        "left": 60.0,
+        "top": 59.333333333333336,
+        "width": 800.0,
+        "height": 24.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.0
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 16,
+      "part": "ppt/slides/video-tones-14.xml",
+      "name": "section_number",
+      "text": "02",
+      "old_position": {
+        "left": 60.0,
+        "top": 87.33333333333333,
+        "width": 51.333333333333336,
+        "height": 40.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 16,
+      "part": "ppt/slides/video-tones-14.xml",
+      "name": "section_heading",
+      "text": "움직임과 효과",
+      "old_position": {
+        "left": 116.0,
+        "top": 87.33333333333333,
+        "width": 825.3333333333334,
+        "height": 40.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 16,
+      "part": "ppt/slides/video-tones-14.xml",
+      "name": "title",
+      "text": "소리의 박자가 움직임의 기준이 됩니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60.0
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60
+      },
+      "old_pt": [
+        32.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 16,
+      "part": "ppt/slides/video-tones-14.xml",
+      "name": "subtitle",
+      "text": "같은 박자에 크기·선·글자가 서로 다른 방식으로 반응합니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.0
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 16,
+      "part": "ppt/slides/video-tones-14.xml",
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 720.0,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        10.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 17,
+      "part": "ppt/slides/reflow-10.xml",
+      "name": "part_label",
+      "text": "Part 1  모션 그래픽 기본 지식",
+      "old_position": {
+        "left": 60.0,
+        "top": 59.333333333333336,
+        "width": 800.0,
+        "height": 24.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.0
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 17,
+      "part": "ppt/slides/reflow-10.xml",
+      "name": "section_number",
+      "text": "03",
+      "old_position": {
+        "left": 60.0,
+        "top": 87.33333333333333,
+        "width": 51.333333333333336,
+        "height": 40.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 17,
+      "part": "ppt/slides/reflow-10.xml",
+      "name": "section_heading",
+      "text": "시간과 속도",
+      "old_position": {
+        "left": 116.0,
+        "top": 87.33333333333333,
+        "width": 825.3333333333334,
+        "height": 40.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 17,
+      "part": "ppt/slides/reflow-10.xml",
+      "name": "title",
+      "text": "시작 시점과 지속시간",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60.0
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60
+      },
+      "old_pt": [
+        32.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 17,
+      "part": "ppt/slides/reflow-10.xml",
+      "name": "subtitle",
+      "text": "지연시간은 출발 전 대기, 지속시간은 움직이는 데 걸린 시간입니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.0
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 17,
+      "part": "ppt/slides/reflow-10.xml",
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 720.0,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        10.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 18,
+      "part": "ppt/slides/reflow-11.xml",
+      "name": "part_label",
+      "text": "Part 1  모션 그래픽 기본 지식",
+      "old_position": {
+        "left": 60.0,
+        "top": 59.333333333333336,
+        "width": 800.0,
+        "height": 24.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.0
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 18,
+      "part": "ppt/slides/reflow-11.xml",
+      "name": "section_number",
+      "text": "03",
+      "old_position": {
+        "left": 60.0,
+        "top": 87.33333333333333,
+        "width": 51.333333333333336,
+        "height": 40.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 18,
+      "part": "ppt/slides/reflow-11.xml",
+      "name": "section_heading",
+      "text": "시간과 속도",
+      "old_position": {
+        "left": 116.0,
+        "top": 87.33333333333333,
+        "width": 825.3333333333334,
+        "height": 40.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 18,
+      "part": "ppt/slides/reflow-11.xml",
+      "name": "title",
+      "text": "가속과 감속의 세 가지 모습",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60.0
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60
+      },
+      "old_pt": [
+        32.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 18,
+      "part": "ppt/slides/reflow-11.xml",
+      "name": "subtitle",
+      "text": "세 공은 같은 거리를 1.8초 동안 이동하며 속도 변화만 다릅니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.0
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 18,
+      "part": "ppt/slides/reflow-11.xml",
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 720.0,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        10.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 19,
+      "part": "ppt/slides/partDivider2.xml",
+      "name": "copyright-footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 20,
+      "part": "ppt/slides/reflow-12.xml",
+      "name": "part_label",
+      "text": "Part 2  이미지·영상 레퍼런스",
+      "old_position": {
+        "left": 60.0,
+        "top": 59.333333333333336,
+        "width": 800.0,
+        "height": 24.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.0
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 20,
+      "part": "ppt/slides/reflow-12.xml",
+      "name": "section_number",
+      "text": "01",
+      "old_position": {
+        "left": 60.0,
+        "top": 87.33333333333333,
+        "width": 51.333333333333336,
+        "height": 40.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 20,
+      "part": "ppt/slides/reflow-12.xml",
+      "name": "section_heading",
+      "text": "두 자료를 함께 넣기",
+      "old_position": {
+        "left": 116.0,
+        "top": 87.33333333333333,
+        "width": 825.3333333333334,
+        "height": 40.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 20,
+      "part": "ppt/slides/reflow-12.xml",
+      "name": "title",
+      "text": "이미지·영상 레퍼런스 함께 넣기",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60.0
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60
+      },
+      "old_pt": [
+        32.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 20,
+      "part": "ppt/slides/reflow-12.xml",
+      "name": "subtitle",
+      "text": "이미지는 보이는 모습, 영상은 시간의 흐름을 전달합니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.0
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 20,
+      "part": "ppt/slides/reflow-12.xml",
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 720.0,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        10.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 21,
+      "part": "ppt/slides/partDivider3.xml",
+      "name": "copyright-footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 22,
+      "part": "ppt/slides/reflow-13.xml",
+      "name": "part_label",
+      "text": "Part 3  스토리라인과 스틸컷 확인",
+      "old_position": {
+        "left": 60.0,
+        "top": 59.333333333333336,
+        "width": 800.0,
+        "height": 24.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.0
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 22,
+      "part": "ppt/slides/reflow-13.xml",
+      "name": "section_number",
+      "text": "01",
+      "old_position": {
+        "left": 60.0,
+        "top": 87.33333333333333,
+        "width": 51.333333333333336,
+        "height": 40.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 22,
+      "part": "ppt/slides/reflow-13.xml",
+      "name": "section_heading",
+      "text": "글과 두 장면으로 미리 보기",
+      "old_position": {
+        "left": 116.0,
+        "top": 87.33333333333333,
+        "width": 825.3333333333334,
+        "height": 40.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 22,
+      "part": "ppt/slides/reflow-13.xml",
+      "name": "title",
+      "text": "storyline.md로 흐름 확인",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60.0
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60
+      },
+      "old_pt": [
+        32.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 22,
+      "part": "ppt/slides/reflow-13.xml",
+      "name": "subtitle",
+      "text": "장면 순서와 문구, 움직임을 글로 먼저 정리합니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.0
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 22,
+      "part": "ppt/slides/reflow-13.xml",
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 720.0,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        10.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 23,
+      "part": "ppt/slides/reflow-14.xml",
+      "name": "part_label",
+      "text": "Part 3  스토리라인과 스틸컷 확인",
+      "old_position": {
+        "left": 60.0,
+        "top": 59.333333333333336,
+        "width": 800.0,
+        "height": 24.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.0
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 23,
+      "part": "ppt/slides/reflow-14.xml",
+      "name": "section_number",
+      "text": "01",
+      "old_position": {
+        "left": 60.0,
+        "top": 87.33333333333333,
+        "width": 51.333333333333336,
+        "height": 40.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 23,
+      "part": "ppt/slides/reflow-14.xml",
+      "name": "section_heading",
+      "text": "글과 두 장면으로 미리 보기",
+      "old_position": {
+        "left": 116.0,
+        "top": 87.33333333333333,
+        "width": 825.3333333333334,
+        "height": 40.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 23,
+      "part": "ppt/slides/reflow-14.xml",
+      "name": "title",
+      "text": "대표 스틸컷 2장으로 미리 보기",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60.0
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60
+      },
+      "old_pt": [
+        32.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 23,
+      "part": "ppt/slides/reflow-14.xml",
+      "name": "subtitle",
+      "text": "시작과 마무리 장면의 모습을 먼저 확인하는 예시입니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.0
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 23,
+      "part": "ppt/slides/reflow-14.xml",
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 720.0,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        10.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 24,
+      "part": "ppt/slides/styleDocsrecommendation.xml",
+      "name": "part-label",
+      "text": "Part 3  스토리라인과 스틸컷 확인",
+      "old_position": {
+        "left": 60.0,
+        "top": 55.0,
+        "width": 800.0,
+        "height": 27.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.75
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 24,
+      "part": "ppt/slides/styleDocsrecommendation.xml",
+      "name": "group-number",
+      "text": "02",
+      "old_position": {
+        "left": 60.0,
+        "top": 91.0,
+        "width": 45.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 24,
+      "part": "ppt/slides/styleDocsrecommendation.xml",
+      "name": "group-label",
+      "text": "스타일 기준을 문서로 남기기",
+      "old_position": {
+        "left": 107.0,
+        "top": 91.0,
+        "width": 850.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 24,
+      "part": "ppt/slides/styleDocsrecommendation.xml",
+      "name": "slide-title",
+      "text": "같은 톤, 서로 다른 장면",
+      "old_position": {
+        "left": 140.0,
+        "top": 190.0,
+        "width": 1000.0,
+        "height": 62.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 199.33333333333334,
+        "width": 1000.0,
+        "height": 60
+      },
+      "old_pt": [
+        30.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 24,
+      "part": "ppt/slides/styleDocsrecommendation.xml",
+      "name": "slide-subtitle",
+      "text": "비슷한 톤을 이어가려면 design.md와 motion.md도 함께 만드는 것을 추천합니다",
+      "old_position": {
+        "left": 140.0,
+        "top": 266.0,
+        "width": 1000.0,
+        "height": 43.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 269.3333333333333,
+        "width": 1000.0,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.25
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 24,
+      "part": "ppt/slides/styleDocsrecommendation.xml",
+      "name": "copyright-footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 25,
+      "part": "ppt/slides/styleDocsroles.xml",
+      "name": "part-label",
+      "text": "Part 3  스토리라인과 스틸컷 확인",
+      "old_position": {
+        "left": 60.0,
+        "top": 55.0,
+        "width": 800.0,
+        "height": 27.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.75
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 25,
+      "part": "ppt/slides/styleDocsroles.xml",
+      "name": "group-number",
+      "text": "02",
+      "old_position": {
+        "left": 60.0,
+        "top": 91.0,
+        "width": 45.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 25,
+      "part": "ppt/slides/styleDocsroles.xml",
+      "name": "group-label",
+      "text": "스타일 기준을 문서로 남기기",
+      "old_position": {
+        "left": 107.0,
+        "top": 91.0,
+        "width": 850.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 25,
+      "part": "ppt/slides/styleDocsroles.xml",
+      "name": "slide-title",
+      "text": "세 문서와 스틸컷의 역할",
+      "old_position": {
+        "left": 140.0,
+        "top": 190.0,
+        "width": 1000.0,
+        "height": 65.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 199.33333333333334,
+        "width": 1000.0,
+        "height": 60
+      },
+      "old_pt": [
+        30.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 25,
+      "part": "ppt/slides/styleDocsroles.xml",
+      "name": "slide-subtitle",
+      "text": "내용·화면·움직임을 나누어 정리합니다",
+      "old_position": {
+        "left": 140.0,
+        "top": 266.0,
+        "width": 1000.0,
+        "height": 42.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 269.3333333333333,
+        "width": 1000.0,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.25
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 25,
+      "part": "ppt/slides/styleDocsroles.xml",
+      "name": "copyright-footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 26,
+      "part": "ppt/slides/styleDocsdesign-fields.xml",
+      "name": "part-label",
+      "text": "Part 3  스토리라인과 스틸컷 확인",
+      "old_position": {
+        "left": 60.0,
+        "top": 55.0,
+        "width": 800.0,
+        "height": 27.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.75
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 26,
+      "part": "ppt/slides/styleDocsdesign-fields.xml",
+      "name": "group-number",
+      "text": "02",
+      "old_position": {
+        "left": 60.0,
+        "top": 91.0,
+        "width": 45.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 26,
+      "part": "ppt/slides/styleDocsdesign-fields.xml",
+      "name": "group-label",
+      "text": "스타일 기준을 문서로 남기기",
+      "old_position": {
+        "left": 107.0,
+        "top": 91.0,
+        "width": 850.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 26,
+      "part": "ppt/slides/styleDocsdesign-fields.xml",
+      "name": "slide-title",
+      "text": "design.md에 담을 화면 기준",
+      "old_position": {
+        "left": 140.0,
+        "top": 190.0,
+        "width": 1000.0,
+        "height": 65.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 199.33333333333334,
+        "width": 1000.0,
+        "height": 60
+      },
+      "old_pt": [
+        30.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 26,
+      "part": "ppt/slides/styleDocsdesign-fields.xml",
+      "name": "slide-subtitle",
+      "text": "색 이름보다 구체적인 값과 배치를 함께 기록합니다",
+      "old_position": {
+        "left": 140.0,
+        "top": 266.0,
+        "width": 1000.0,
+        "height": 42.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 269.3333333333333,
+        "width": 1000.0,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.25
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 26,
+      "part": "ppt/slides/styleDocsdesign-fields.xml",
+      "name": "copyright-footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 27,
+      "part": "ppt/slides/styleDocsdesign-example.xml",
+      "name": "part-label",
+      "text": "Part 3  스토리라인과 스틸컷 확인",
+      "old_position": {
+        "left": 60.0,
+        "top": 55.0,
+        "width": 800.0,
+        "height": 27.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.75
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 27,
+      "part": "ppt/slides/styleDocsdesign-example.xml",
+      "name": "group-number",
+      "text": "02",
+      "old_position": {
+        "left": 60.0,
+        "top": 91.0,
+        "width": 45.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 27,
+      "part": "ppt/slides/styleDocsdesign-example.xml",
+      "name": "group-label",
+      "text": "스타일 기준을 문서로 남기기",
+      "old_position": {
+        "left": 107.0,
+        "top": 91.0,
+        "width": 850.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 27,
+      "part": "ppt/slides/styleDocsdesign-example.xml",
+      "name": "slide-title",
+      "text": "design.md 예시",
+      "old_position": {
+        "left": 140.0,
+        "top": 190.0,
+        "width": 1000.0,
+        "height": 65.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 199.33333333333334,
+        "width": 1000.0,
+        "height": 60
+      },
+      "old_pt": [
+        30.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 27,
+      "part": "ppt/slides/styleDocsdesign-example.xml",
+      "name": "slide-subtitle",
+      "text": "노션톡 15초 소개 영상에 사용할 시각 기준입니다",
+      "old_position": {
+        "left": 140.0,
+        "top": 266.0,
+        "width": 1000.0,
+        "height": 42.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 269.3333333333333,
+        "width": 1000.0,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.25
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 27,
+      "part": "ppt/slides/styleDocsdesign-example.xml",
+      "name": "copyright-footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 28,
+      "part": "ppt/slides/styleDocsmotion-fields.xml",
+      "name": "part-label",
+      "text": "Part 3  스토리라인과 스틸컷 확인",
+      "old_position": {
+        "left": 60.0,
+        "top": 55.0,
+        "width": 800.0,
+        "height": 27.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.75
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 28,
+      "part": "ppt/slides/styleDocsmotion-fields.xml",
+      "name": "group-number",
+      "text": "02",
+      "old_position": {
+        "left": 60.0,
+        "top": 91.0,
+        "width": 45.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 28,
+      "part": "ppt/slides/styleDocsmotion-fields.xml",
+      "name": "group-label",
+      "text": "스타일 기준을 문서로 남기기",
+      "old_position": {
+        "left": 107.0,
+        "top": 91.0,
+        "width": 850.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 28,
+      "part": "ppt/slides/styleDocsmotion-fields.xml",
+      "name": "slide-title",
+      "text": "motion.md에 담을 움직임 기준",
+      "old_position": {
+        "left": 140.0,
+        "top": 190.0,
+        "width": 1000.0,
+        "height": 65.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 199.33333333333334,
+        "width": 1000.0,
+        "height": 60
+      },
+      "old_pt": [
+        30.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 28,
+      "part": "ppt/slides/styleDocsmotion-fields.xml",
+      "name": "slide-subtitle",
+      "text": "시작·움직임·멈춤·장면 연결을 나누어 기록합니다",
+      "old_position": {
+        "left": 140.0,
+        "top": 266.0,
+        "width": 1000.0,
+        "height": 42.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 269.3333333333333,
+        "width": 1000.0,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.25
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 28,
+      "part": "ppt/slides/styleDocsmotion-fields.xml",
+      "name": "copyright-footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 29,
+      "part": "ppt/slides/styleDocsmotion-example.xml",
+      "name": "part-label",
+      "text": "Part 3  스토리라인과 스틸컷 확인",
+      "old_position": {
+        "left": 60.0,
+        "top": 55.0,
+        "width": 800.0,
+        "height": 27.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.75
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 29,
+      "part": "ppt/slides/styleDocsmotion-example.xml",
+      "name": "group-number",
+      "text": "02",
+      "old_position": {
+        "left": 60.0,
+        "top": 91.0,
+        "width": 45.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 29,
+      "part": "ppt/slides/styleDocsmotion-example.xml",
+      "name": "group-label",
+      "text": "스타일 기준을 문서로 남기기",
+      "old_position": {
+        "left": 107.0,
+        "top": 91.0,
+        "width": 850.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 29,
+      "part": "ppt/slides/styleDocsmotion-example.xml",
+      "name": "slide-title",
+      "text": "motion.md 예시",
+      "old_position": {
+        "left": 140.0,
+        "top": 190.0,
+        "width": 1000.0,
+        "height": 65.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 199.33333333333334,
+        "width": 1000.0,
+        "height": 60
+      },
+      "old_pt": [
+        30.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 29,
+      "part": "ppt/slides/styleDocsmotion-example.xml",
+      "name": "slide-subtitle",
+      "text": "아래 수치는 이번 소개 영상의 출발 기준입니다",
+      "old_position": {
+        "left": 140.0,
+        "top": 266.0,
+        "width": 1000.0,
+        "height": 42.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 269.3333333333333,
+        "width": 1000.0,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.25
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 29,
+      "part": "ppt/slides/styleDocsmotion-example.xml",
+      "name": "copyright-footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 30,
+      "part": "ppt/slides/styleDocsreview-links.xml",
+      "name": "part-label",
+      "text": "Part 3  스토리라인과 스틸컷 확인",
+      "old_position": {
+        "left": 60.0,
+        "top": 55.0,
+        "width": 800.0,
+        "height": 27.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.75
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 30,
+      "part": "ppt/slides/styleDocsreview-links.xml",
+      "name": "group-number",
+      "text": "02",
+      "old_position": {
+        "left": 60.0,
+        "top": 91.0,
+        "width": 45.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 30,
+      "part": "ppt/slides/styleDocsreview-links.xml",
+      "name": "group-label",
+      "text": "스타일 기준을 문서로 남기기",
+      "old_position": {
+        "left": 107.0,
+        "top": 91.0,
+        "width": 850.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 30,
+      "part": "ppt/slides/styleDocsreview-links.xml",
+      "name": "slide-title",
+      "text": "스틸컷은 모습, 재생은 움직임",
+      "old_position": {
+        "left": 140.0,
+        "top": 190.0,
+        "width": 1000.0,
+        "height": 62.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 199.33333333333334,
+        "width": 1000.0,
+        "height": 60
+      },
+      "old_pt": [
+        30.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 30,
+      "part": "ppt/slides/styleDocsreview-links.xml",
+      "name": "copyright-footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 31,
+      "part": "ppt/slides/styleDocsreuse.xml",
+      "name": "part-label",
+      "text": "Part 3  스토리라인과 스틸컷 확인",
+      "old_position": {
+        "left": 60.0,
+        "top": 55.0,
+        "width": 800.0,
+        "height": 27.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.75
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 31,
+      "part": "ppt/slides/styleDocsreuse.xml",
+      "name": "group-number",
+      "text": "02",
+      "old_position": {
+        "left": 60.0,
+        "top": 91.0,
+        "width": 45.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 31,
+      "part": "ppt/slides/styleDocsreuse.xml",
+      "name": "group-label",
+      "text": "스타일 기준을 문서로 남기기",
+      "old_position": {
+        "left": 107.0,
+        "top": 91.0,
+        "width": 850.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 31,
+      "part": "ppt/slides/styleDocsreuse.xml",
+      "name": "slide-title",
+      "text": "다음 영상에도 기준 문서를 전달합니다",
+      "old_position": {
+        "left": 140.0,
+        "top": 190.0,
+        "width": 1000.0,
+        "height": 65.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 199.33333333333334,
+        "width": 1000.0,
+        "height": 60
+      },
+      "old_pt": [
+        30.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 31,
+      "part": "ppt/slides/styleDocsreuse.xml",
+      "name": "slide-subtitle",
+      "text": "주제가 바뀌어도 공통 스타일을 다시 참고할 수 있습니다",
+      "old_position": {
+        "left": 140.0,
+        "top": 266.0,
+        "width": 1000.0,
+        "height": 42.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 269.3333333333333,
+        "width": 1000.0,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.25
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 31,
+      "part": "ppt/slides/styleDocsreuse.xml",
+      "name": "copyright-footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 31,
+      "part": "ppt/slides/styleDocsreuse.xml",
+      "name": "bundle",
+      "text": "노션톡 영상 기준",
+      "old_position": {
+        "left": 135.0,
+        "top": 603.0,
+        "width": 315.0,
+        "height": 35.0
+      },
+      "position": {
+        "left": 135.0,
+        "top": 609,
+        "width": 315.0,
+        "height": 35.0
+      },
+      "old_pt": [
+        17.25
+      ],
+      "font_pt": null,
+      "anchor": null,
+      "reason": "Add breathing room below folder image"
+    },
+    {
+      "slide": 32,
+      "part": "ppt/slides/partDivider4.xml",
+      "name": "copyright-footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 33,
+      "part": "ppt/slides/reflow-15.xml",
+      "name": "part_label",
+      "text": "Part 4  수정 후 제작",
+      "old_position": {
+        "left": 60.0,
+        "top": 59.333333333333336,
+        "width": 800.0,
+        "height": 24.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.0
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 33,
+      "part": "ppt/slides/reflow-15.xml",
+      "name": "section_number",
+      "text": "01",
+      "old_position": {
+        "left": 60.0,
+        "top": 87.33333333333333,
+        "width": 51.333333333333336,
+        "height": 40.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 33,
+      "part": "ppt/slides/reflow-15.xml",
+      "name": "section_heading",
+      "text": "피드백을 반영하고 진행하기",
+      "old_position": {
+        "left": 116.0,
+        "top": 87.33333333333333,
+        "width": 825.3333333333334,
+        "height": 40.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 33,
+      "part": "ppt/slides/reflow-15.xml",
+      "name": "title",
+      "text": "고칠 부분을 정하고 다시 확인",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60.0
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60
+      },
+      "old_pt": [
+        32.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 33,
+      "part": "ppt/slides/reflow-15.xml",
+      "name": "subtitle",
+      "text": "어느 장면의 무엇을 바꿀지 정하고, 수정된 결과를 다시 확인합니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.0
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 33,
+      "part": "ppt/slides/reflow-15.xml",
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 720.0,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        10.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 34,
+      "part": "ppt/slides/styleDocsroute-edits.xml",
+      "name": "part-label",
+      "text": "Part 4  수정 후 제작",
+      "old_position": {
+        "left": 60.0,
+        "top": 55.0,
+        "width": 800.0,
+        "height": 27.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.75
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 34,
+      "part": "ppt/slides/styleDocsroute-edits.xml",
+      "name": "group-number",
+      "text": "01",
+      "old_position": {
+        "left": 60.0,
+        "top": 91.0,
+        "width": 45.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 34,
+      "part": "ppt/slides/styleDocsroute-edits.xml",
+      "name": "group-label",
+      "text": "피드백을 반영하고 진행하기",
+      "old_position": {
+        "left": 107.0,
+        "top": 91.0,
+        "width": 850.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 34,
+      "part": "ppt/slides/styleDocsroute-edits.xml",
+      "name": "slide-title",
+      "text": "수정 대상을 기준 파일과 연결합니다",
+      "old_position": {
+        "left": 140.0,
+        "top": 190.0,
+        "width": 1000.0,
+        "height": 65.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 199.33333333333334,
+        "width": 1000.0,
+        "height": 60
+      },
+      "old_pt": [
+        30.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 34,
+      "part": "ppt/slides/styleDocsroute-edits.xml",
+      "name": "slide-subtitle",
+      "text": "무엇을 바꾸는지에 따라 먼저 볼 문서가 달라집니다",
+      "old_position": {
+        "left": 140.0,
+        "top": 266.0,
+        "width": 1000.0,
+        "height": 42.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 269.3333333333333,
+        "width": 1000.0,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.25
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 34,
+      "part": "ppt/slides/styleDocsroute-edits.xml",
+      "name": "copyright-footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 35,
+      "part": "ppt/slides/styleDocsscope.xml",
+      "name": "part-label",
+      "text": "Part 4  수정 후 제작",
+      "old_position": {
+        "left": 60.0,
+        "top": 55.0,
+        "width": 800.0,
+        "height": 27.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.75
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 35,
+      "part": "ppt/slides/styleDocsscope.xml",
+      "name": "group-number",
+      "text": "01",
+      "old_position": {
+        "left": 60.0,
+        "top": 91.0,
+        "width": 45.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 35,
+      "part": "ppt/slides/styleDocsscope.xml",
+      "name": "group-label",
+      "text": "피드백을 반영하고 진행하기",
+      "old_position": {
+        "left": 107.0,
+        "top": 91.0,
+        "width": 850.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 35,
+      "part": "ppt/slides/styleDocsscope.xml",
+      "name": "slide-title",
+      "text": "바꿀 것과 유지할 것을 정합니다",
+      "old_position": {
+        "left": 140.0,
+        "top": 190.0,
+        "width": 1000.0,
+        "height": 65.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 199.33333333333334,
+        "width": 1000.0,
+        "height": 60
+      },
+      "old_pt": [
+        30.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 35,
+      "part": "ppt/slides/styleDocsscope.xml",
+      "name": "slide-subtitle",
+      "text": "제목 크기를 바꾸는 경우를 비교해 봅니다",
+      "old_position": {
+        "left": 140.0,
+        "top": 266.0,
+        "width": 1000.0,
+        "height": 42.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 269.3333333333333,
+        "width": 1000.0,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.25
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 35,
+      "part": "ppt/slides/styleDocsscope.xml",
+      "name": "copyright-footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 36,
+      "part": "ppt/slides/styleDocsreview-sequence.xml",
+      "name": "part-label",
+      "text": "Part 4  수정 후 제작",
+      "old_position": {
+        "left": 60.0,
+        "top": 55.0,
+        "width": 800.0,
+        "height": 27.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.75
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 36,
+      "part": "ppt/slides/styleDocsreview-sequence.xml",
+      "name": "group-number",
+      "text": "01",
+      "old_position": {
+        "left": 60.0,
+        "top": 91.0,
+        "width": 45.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 36,
+      "part": "ppt/slides/styleDocsreview-sequence.xml",
+      "name": "group-label",
+      "text": "피드백을 반영하고 진행하기",
+      "old_position": {
+        "left": 107.0,
+        "top": 91.0,
+        "width": 850.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 36,
+      "part": "ppt/slides/styleDocsreview-sequence.xml",
+      "name": "slide-title",
+      "text": "짧은 구간부터 다시 확인합니다",
+      "old_position": {
+        "left": 140.0,
+        "top": 190.0,
+        "width": 1000.0,
+        "height": 65.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 199.33333333333334,
+        "width": 1000.0,
+        "height": 60
+      },
+      "old_pt": [
+        30.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 36,
+      "part": "ppt/slides/styleDocsreview-sequence.xml",
+      "name": "slide-subtitle",
+      "text": "작게 확인한 뒤 전체 흐름으로 넓혀 봅니다",
+      "old_position": {
+        "left": 140.0,
+        "top": 266.0,
+        "width": 1000.0,
+        "height": 42.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 269.3333333333333,
+        "width": 1000.0,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.25
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 36,
+      "part": "ppt/slides/styleDocsreview-sequence.xml",
+      "name": "copyright-footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 37,
+      "part": "ppt/slides/styleDocsreview-criteria.xml",
+      "name": "part-label",
+      "text": "Part 4  수정 후 제작",
+      "old_position": {
+        "left": 60.0,
+        "top": 55.0,
+        "width": 800.0,
+        "height": 27.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.75
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 37,
+      "part": "ppt/slides/styleDocsreview-criteria.xml",
+      "name": "group-number",
+      "text": "01",
+      "old_position": {
+        "left": 60.0,
+        "top": 91.0,
+        "width": 45.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 37,
+      "part": "ppt/slides/styleDocsreview-criteria.xml",
+      "name": "group-label",
+      "text": "피드백을 반영하고 진행하기",
+      "old_position": {
+        "left": 107.0,
+        "top": 91.0,
+        "width": 850.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 37,
+      "part": "ppt/slides/styleDocsreview-criteria.xml",
+      "name": "slide-title",
+      "text": "내용·디자인·모션을 나누어 점검합니다",
+      "old_position": {
+        "left": 140.0,
+        "top": 190.0,
+        "width": 1000.0,
+        "height": 65.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 199.33333333333334,
+        "width": 1000.0,
+        "height": 60
+      },
+      "old_pt": [
+        30.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 37,
+      "part": "ppt/slides/styleDocsreview-criteria.xml",
+      "name": "slide-subtitle",
+      "text": "예쁘게 보이는 것과 정확하게 전달되는 것을 함께 봅니다",
+      "old_position": {
+        "left": 140.0,
+        "top": 266.0,
+        "width": 1000.0,
+        "height": 42.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 269.3333333333333,
+        "width": 1000.0,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.25
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 37,
+      "part": "ppt/slides/styleDocsreview-criteria.xml",
+      "name": "copyright-footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 38,
+      "part": "ppt/slides/styleDocslocal-global.xml",
+      "name": "part-label",
+      "text": "Part 4  수정 후 제작",
+      "old_position": {
+        "left": 60.0,
+        "top": 55.0,
+        "width": 800.0,
+        "height": 27.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.75
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 38,
+      "part": "ppt/slides/styleDocslocal-global.xml",
+      "name": "group-number",
+      "text": "01",
+      "old_position": {
+        "left": 60.0,
+        "top": 91.0,
+        "width": 45.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 38,
+      "part": "ppt/slides/styleDocslocal-global.xml",
+      "name": "group-label",
+      "text": "피드백을 반영하고 진행하기",
+      "old_position": {
+        "left": 107.0,
+        "top": 91.0,
+        "width": 850.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 38,
+      "part": "ppt/slides/styleDocslocal-global.xml",
+      "name": "slide-title",
+      "text": "한 장면 수정과 공통 기준 변경",
+      "old_position": {
+        "left": 140.0,
+        "top": 190.0,
+        "width": 1000.0,
+        "height": 62.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 199.33333333333334,
+        "width": 1000.0,
+        "height": 60
+      },
+      "old_pt": [
+        30.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 38,
+      "part": "ppt/slides/styleDocslocal-global.xml",
+      "name": "slide-subtitle",
+      "text": "색을 바꾸더라도, 적용할 범위는 다릅니다",
+      "old_position": {
+        "left": 140.0,
+        "top": 266.0,
+        "width": 1000.0,
+        "height": 43.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 269.3333333333333,
+        "width": 1000.0,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.25
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 38,
+      "part": "ppt/slides/styleDocslocal-global.xml",
+      "name": "copyright-footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 39,
+      "part": "ppt/slides/styleDocsversion.xml",
+      "name": "part-label",
+      "text": "Part 4  수정 후 제작",
+      "old_position": {
+        "left": 60.0,
+        "top": 55.0,
+        "width": 800.0,
+        "height": 27.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.75
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 39,
+      "part": "ppt/slides/styleDocsversion.xml",
+      "name": "group-number",
+      "text": "01",
+      "old_position": {
+        "left": 60.0,
+        "top": 91.0,
+        "width": 45.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 39,
+      "part": "ppt/slides/styleDocsversion.xml",
+      "name": "group-label",
+      "text": "피드백을 반영하고 진행하기",
+      "old_position": {
+        "left": 107.0,
+        "top": 91.0,
+        "width": 850.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 39,
+      "part": "ppt/slides/styleDocsversion.xml",
+      "name": "slide-title",
+      "text": "확인한 기준을 다음 작업에 남깁니다",
+      "old_position": {
+        "left": 140.0,
+        "top": 190.0,
+        "width": 1000.0,
+        "height": 65.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 199.33333333333334,
+        "width": 1000.0,
+        "height": 60
+      },
+      "old_pt": [
+        30.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 39,
+      "part": "ppt/slides/styleDocsversion.xml",
+      "name": "slide-subtitle",
+      "text": "문서·자산·결과물의 버전을 맞춰 보관합니다",
+      "old_position": {
+        "left": 140.0,
+        "top": 266.0,
+        "width": 1000.0,
+        "height": 42.0
+      },
+      "position": {
+        "left": 140.0,
+        "top": 269.3333333333333,
+        "width": 1000.0,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.25
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 39,
+      "part": "ppt/slides/styleDocsversion.xml",
+      "name": "copyright-footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 40,
+      "part": "ppt/slides/reflow-16.xml",
+      "name": "part_label",
+      "text": "Part 4  수정 후 제작",
+      "old_position": {
+        "left": 60.0,
+        "top": 59.333333333333336,
+        "width": 800.0,
+        "height": 24.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.0
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 40,
+      "part": "ppt/slides/reflow-16.xml",
+      "name": "section_number",
+      "text": "01",
+      "old_position": {
+        "left": 60.0,
+        "top": 87.33333333333333,
+        "width": 51.333333333333336,
+        "height": 40.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 40,
+      "part": "ppt/slides/reflow-16.xml",
+      "name": "section_heading",
+      "text": "피드백을 반영하고 진행하기",
+      "old_position": {
+        "left": 116.0,
+        "top": 87.33333333333333,
+        "width": 825.3333333333334,
+        "height": 40.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        24.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 40,
+      "part": "ppt/slides/reflow-16.xml",
+      "name": "title",
+      "text": "확인한 방향으로 영상을 제작합니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60.0
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 199.33333333333334,
+        "width": 746.6666666666666,
+        "height": 60
+      },
+      "old_pt": [
+        32.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 40,
+      "part": "ppt/slides/reflow-16.xml",
+      "name": "subtitle",
+      "text": "내용·디자인·모션 기준과 스틸컷을 확인한 뒤 전체 제작으로 넘어갑니다",
+      "old_position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "position": {
+        "left": 266.6666666666667,
+        "top": 269.3333333333333,
+        "width": 746.6666666666666,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.0
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 40,
+      "part": "ppt/slides/reflow-16.xml",
+      "name": "copyright_footer",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 720.0,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        10.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 41,
+      "part": "ppt/slides/challenge-calendar.xml",
+      "name": "part-label",
+      "text": "Part 4  마무리",
+      "old_position": {
+        "left": 60.0,
+        "top": 55.0,
+        "width": 800.0,
+        "height": 27.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.75
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 41,
+      "part": "ppt/slides/challenge-calendar.xml",
+      "name": "group-number",
+      "text": "02",
+      "old_position": {
+        "left": 60.0,
+        "top": 91.0,
+        "width": 45.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 41,
+      "part": "ppt/slides/challenge-calendar.xml",
+      "name": "group-label",
+      "text": "후속 활동 안내",
+      "old_position": {
+        "left": 107.0,
+        "top": 91.0,
+        "width": 850.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 41,
+      "part": "ppt/slides/challenge-calendar.xml",
+      "name": "title",
+      "text": "노션톡 웨비나 챌린지 일정",
+      "old_position": {
+        "left": 130.0,
+        "top": 186.0,
+        "width": 1020.0,
+        "height": 66.0
+      },
+      "position": {
+        "left": 130.0,
+        "top": 199.33333333333334,
+        "width": 1020.0,
+        "height": 60
+      },
+      "old_pt": [
+        30.0
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 41,
+      "part": "ppt/slides/challenge-calendar.xml",
+      "name": "copyright",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 42,
+      "part": "ppt/slides/challenge-activity-cycle1.xml",
+      "name": "part",
+      "text": "Part 4  마무리",
+      "old_position": {
+        "left": 60.0,
+        "top": 55.0,
+        "width": 800.0,
+        "height": 27.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.75
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 42,
+      "part": "ppt/slides/challenge-activity-cycle1.xml",
+      "name": "group-number",
+      "text": "02",
+      "old_position": {
+        "left": 60.0,
+        "top": 91.0,
+        "width": 45.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 42,
+      "part": "ppt/slides/challenge-activity-cycle1.xml",
+      "name": "group",
+      "text": "후속 활동 안내",
+      "old_position": {
+        "left": 107.0,
+        "top": 91.0,
+        "width": 850.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 42,
+      "part": "ppt/slides/challenge-activity-cycle1.xml",
+      "name": "title",
+      "text": "1차 사이클: 수업에 쓸 영상 만들기",
+      "old_position": {
+        "left": 110.0,
+        "top": 190.0,
+        "width": 1060.0,
+        "height": 64.0
+      },
+      "position": {
+        "left": 110.0,
+        "top": 199.33333333333334,
+        "width": 1060.0,
+        "height": 60
+      },
+      "old_pt": [
+        28.5
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 42,
+      "part": "ppt/slides/challenge-activity-cycle1.xml",
+      "name": "subtitle",
+      "text": "11/2(월) ~ 11/8(일) · 이번 웨비나에서 배운 내용 적용",
+      "old_position": {
+        "left": 130.0,
+        "top": 266.0,
+        "width": 1020.0,
+        "height": 42.0
+      },
+      "position": {
+        "left": 130.0,
+        "top": 269.3333333333333,
+        "width": 1020.0,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.25
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 42,
+      "part": "ppt/slides/challenge-activity-cycle1.xml",
+      "name": "copyright",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    },
+    {
+      "slide": 43,
+      "part": "ppt/slides/challenge-activity-cycle2.xml",
+      "name": "part",
+      "text": "Part 4  마무리",
+      "old_position": {
+        "left": 60.0,
+        "top": 55.0,
+        "width": 800.0,
+        "height": 27.0
+      },
+      "position": {
+        "left": 60,
+        "top": 59.333333333333336,
+        "width": 800,
+        "height": 30
+      },
+      "old_pt": [
+        14.75
+      ],
+      "font_pt": 18,
+      "anchor": "t",
+      "reason": "Part label consistency"
+    },
+    {
+      "slide": 43,
+      "part": "ppt/slides/challenge-activity-cycle2.xml",
+      "name": "group-number",
+      "text": "02",
+      "old_position": {
+        "left": 60.0,
+        "top": 91.0,
+        "width": 45.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 60,
+        "top": 95,
+        "width": 51.333333333333336,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section number consistency"
+    },
+    {
+      "slide": 43,
+      "part": "ppt/slides/challenge-activity-cycle2.xml",
+      "name": "group",
+      "text": "후속 활동 안내",
+      "old_position": {
+        "left": 107.0,
+        "top": 91.0,
+        "width": 850.0,
+        "height": 36.0
+      },
+      "position": {
+        "left": 116,
+        "top": 95,
+        "width": 825.3333333333334,
+        "height": 40
+      },
+      "old_pt": [
+        23.0
+      ],
+      "font_pt": 24,
+      "anchor": "t",
+      "reason": "Section heading consistency"
+    },
+    {
+      "slide": 43,
+      "part": "ppt/slides/challenge-activity-cycle2.xml",
+      "name": "title",
+      "text": "2차 사이클: 기준 문서로 일관성 유지하기",
+      "old_position": {
+        "left": 110.0,
+        "top": 190.0,
+        "width": 1060.0,
+        "height": 64.0
+      },
+      "position": {
+        "left": 110.0,
+        "top": 199.33333333333334,
+        "width": 1060.0,
+        "height": 60
+      },
+      "old_pt": [
+        28.5
+      ],
+      "font_pt": 32,
+      "anchor": "t",
+      "reason": "Content title size and baseline consistency"
+    },
+    {
+      "slide": 43,
+      "part": "ppt/slides/challenge-activity-cycle2.xml",
+      "name": "subtitle",
+      "text": "11/9(월) ~ 11/15(일) · 추가 자료를 활용한 모션그래픽 제작",
+      "old_position": {
+        "left": 130.0,
+        "top": 266.0,
+        "width": 1020.0,
+        "height": 42.0
+      },
+      "position": {
+        "left": 130.0,
+        "top": 269.3333333333333,
+        "width": 1020.0,
+        "height": 36.666666666666664
+      },
+      "old_pt": [
+        17.25
+      ],
+      "font_pt": 17,
+      "anchor": "t",
+      "reason": "Subtitle size and baseline consistency"
+    },
+    {
+      "slide": 43,
+      "part": "ppt/slides/challenge-activity-cycle2.xml",
+      "name": "copyright",
+      "text": "© 2026. NotionTalk. All rights reserved.",
+      "old_position": {
+        "left": 800.0,
+        "top": 682.0,
+        "width": 420.0,
+        "height": 22.0
+      },
+      "position": {
+        "left": 720,
+        "top": 686.6666666666666,
+        "width": 506.6666666666667,
+        "height": 20
+      },
+      "old_pt": [
+        9.0
+      ],
+      "font_pt": 10,
+      "anchor": "t",
+      "reason": "Footer size and right-edge consistency"
+    }
+  ]
+}

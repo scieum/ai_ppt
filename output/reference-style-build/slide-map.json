@@ -1,0 +1,136 @@
+{
+  "source": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\output\\webinar-knowledge-only\\NotionTalk_모션그래픽_Part3_Part4확장_40장_v19.pptx",
+  "slides": [
+    {
+      "page": 24,
+      "title": "비슷한 톤을 다시 얻고 싶다면",
+      "refs": [
+        "R01:18",
+        "R01:54"
+      ],
+      "package_part": "ppt/slides/styleDocsrecommendation.xml"
+    },
+    {
+      "page": 25,
+      "title": "세 문서와 스틸컷의 역할",
+      "refs": [
+        "R01:10",
+        "R01:64"
+      ],
+      "native_table": true,
+      "package_part": "ppt/slides/styleDocsroles.xml"
+    },
+    {
+      "page": 26,
+      "title": "design.md에 담을 화면 기준",
+      "refs": [
+        "R01:33",
+        "R01:54"
+      ],
+      "package_part": "ppt/slides/styleDocsdesign-fields.xml"
+    },
+    {
+      "page": 27,
+      "title": "design.md 예시",
+      "refs": [
+        "R01:40",
+        "R01:50"
+      ],
+      "package_part": "ppt/slides/styleDocsdesign-example.xml"
+    },
+    {
+      "page": 28,
+      "title": "motion.md에 담을 움직임 기준",
+      "refs": [
+        "R01:99",
+        "R01:44"
+      ],
+      "package_part": "ppt/slides/styleDocsmotion-fields.xml"
+    },
+    {
+      "page": 29,
+      "title": "motion.md 예시",
+      "refs": [
+        "R01:54",
+        "R03:31"
+      ],
+      "package_part": "ppt/slides/styleDocsmotion-example.xml"
+    },
+    {
+      "page": 30,
+      "title": "문서와 확인 자료를 함께 봅니다",
+      "refs": [
+        "R03:31",
+        "R01:39"
+      ],
+      "package_part": "ppt/slides/styleDocsreview-links.xml"
+    },
+    {
+      "page": 31,
+      "title": "다음 영상에도 기준 문서를 전달합니다",
+      "refs": [
+        "R01:12",
+        "R03:29"
+      ],
+      "package_part": "ppt/slides/styleDocsreuse.xml"
+    },
+    {
+      "page": 34,
+      "title": "수정 대상을 기준 파일과 연결합니다",
+      "refs": [
+        "R01:39",
+        "R01:47"
+      ],
+      "native_table": true,
+      "package_part": "ppt/slides/styleDocsroute-edits.xml"
+    },
+    {
+      "page": 35,
+      "title": "바꿀 것과 유지할 것을 정합니다",
+      "refs": [
+        "R01:18",
+        "R01:39",
+        "R01:60"
+      ],
+      "package_part": "ppt/slides/styleDocsscope.xml"
+    },
+    {
+      "page": 36,
+      "title": "짧은 구간부터 다시 확인합니다",
+      "refs": [
+        "R01:44",
+        "R01:99"
+      ],
+      "package_part": "ppt/slides/styleDocsreview-sequence.xml"
+    },
+    {
+      "page": 37,
+      "title": "내용·디자인·모션을 나누어 점검합니다",
+      "refs": [
+        "R01:74",
+        "R03:34"
+      ],
+      "package_part": "ppt/slides/styleDocsreview-criteria.xml"
+    },
+    {
+      "page": 38,
+      "title": "한 장면 수정과 공통 규칙의 변경",
+      "refs": [
+        "R01:18",
+        "R01:28"
+      ],
+      "package_part": "ppt/slides/styleDocslocal-global.xml"
+    },
+    {
+      "page": 39,
+      "title": "확인한 기준을 다음 작업에 남깁니다",
+      "refs": [
+        "R01:62",
+        "R01:64",
+        "R01:79"
+      ],
+      "package_part": "ppt/slides/styleDocsversion.xml"
+    }
+  ],
+  "preserved_slides": 26
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "page": 6,
+    "remove": [],
+    "edits": [],
+    "images": [],
+    "notes": "각 카드의 큰 도형은 위치·크기·각도·불투명도의 변화를 보여줍니다. 카드 아래의 세 작은 상태는 왼쪽부터 시작·중간·끝입니다."
+  },
+  {
+    "page": 7,
+    "remove": [
+      "demo-fade",
+      "demo-slide",
+      "demo-zoom"
+    ],
+    "edits": [
+      "effect-desc-0",
+      "effect-desc-1",
+      "effect-desc-2"
+    ],
+    "images": [
+      {
+        "alt": "motion-example-fade",
+        "kind": "fade"
+      },
+      {
+        "alt": "motion-example-slide",
+        "kind": "slide"
+      },
+      {
+        "alt": "motion-example-zoom",
+        "kind": "zoom"
+      }
+    ],
+    "notes": "같은 노션톡 글자로 페이드 인·아웃, 슬라이드 인, 확대·축소가 반복됩니다. 아래 세 상태는 왼쪽부터 시간 순서입니다. 페이드는 불투명도, 슬라이드는 위치, 줌·스케일은 크기가 변합니다."
+  },
+  {
+    "page": 8,
+    "remove": [
+      "demo-wipe",
+      "demo-type-0",
+      "demo-type-1",
+      "demo-type-2",
+      "demo-type-3",
+      "demo-stagger-0",
+      "demo-stagger-1",
+      "demo-stagger-2",
+      "demo-type-4",
+      "demo-type-5",
+      "demo-type-6",
+      "demo-type-7",
+      "demo-type-8"
+    ],
+    "edits": [
+      "reveal-desc-0",
+      "reveal-desc-1",
+      "reveal-desc-2"
+    ],
+    "images": [
+      {
+        "alt": "motion-example-reveal",
+        "kind": "reveal"
+      },
+      {
+        "alt": "motion-example-typewriter",
+        "kind": "typewriter"
+      },
+      {
+        "alt": "motion-example-stagger",
+        "kind": "stagger"
+      }
+    ],
+    "notes": "세 반복 예시는 같은 노션톡 웨비나 챌린지를 보여줍니다. 리빌은 가려진 영역이 연속해서 열리고, 타이프라이터는 완성된 글자가 하나씩 추가됩니다. 순차 등장은 세 단어가 시차를 두고 나타나는 모습입니다. 아래 세 상태는 시간 순서입니다."
+  },
+  {
+    "page": 9,
+    "remove": [],
+    "edits": [],
+    "images": [],
+    "notes": "큰 공 두 개는 같은 거리와 1.8초 동안 이동합니다. 일정한 속도는 같은 시간마다 같은 거리를 이동하고, 끝 감속은 끝에 가까워질수록 같은 시간 동안 이동하는 거리가 짧습니다. 작은 점은 전체 시간을 네 구간으로 나눈 각 시점의 위치입니다."
+  }
+]

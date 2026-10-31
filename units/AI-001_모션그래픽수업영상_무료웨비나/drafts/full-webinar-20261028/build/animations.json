@@ -1,0 +1,30 @@
+[
+  {
+    "key": "one-emphasis",
+    "name": "emphasis-right-b",
+    "effect": 23,
+    "duration": 0.8,
+    "delay": 0.4
+  },
+  {
+    "key": "ordered-features",
+    "name": "order-right-0",
+    "effect": 10,
+    "duration": 0.5,
+    "delay": 0.4
+  },
+  {
+    "key": "ordered-features",
+    "name": "order-right-1",
+    "effect": 10,
+    "duration": 0.5,
+    "delay": 1.05
+  },
+  {
+    "key": "ordered-features",
+    "name": "order-right-2",
+    "effect": 10,
+    "duration": 0.5,
+    "delay": 1.7000000000000002
+  }
+]

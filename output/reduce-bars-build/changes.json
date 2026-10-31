@@ -1,0 +1,37 @@
+[
+  {
+    "page": 15,
+    "kind": "new",
+    "id": "text-effects",
+    "title": "글자가 들어와 자리를 잡는 움직임",
+    "part": "ppt/slides/ma33-text-effects.xml"
+  },
+  {
+    "page": 16,
+    "kind": "new",
+    "id": "number-elastic",
+    "title": "숫자의 변화와 탄성 있는 움직임",
+    "part": "ppt/slides/ma33-number-elastic.xml"
+  },
+  {
+    "page": 19,
+    "kind": "new",
+    "id": "sound-compare",
+    "title": "같은 움직임에 효과음을 더하면",
+    "part": "ppt/slides/ma33-sound-compare.xml"
+  },
+  {
+    "page": 20,
+    "kind": "new",
+    "id": "sound-tools",
+    "title": "효과음 도구의 서로 다른 역할",
+    "part": "ppt/slides/ma33-sound-tools.xml"
+  },
+  {
+    "page": 25,
+    "kind": "new",
+    "id": "image-layers",
+    "title": "이미지를 움직일 요소로 나누어 봅니다",
+    "part": "ppt/slides/ma33-image-layers.xml"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "name": "demo-definition",
+    "page": 4,
+    "shape_id": 21,
+    "effect": 10,
+    "delay": 0.4,
+    "trigger": 2,
+    "duration": 1.2,
+    "decelerate": 0.0
+  },
+  {
+    "name": "demo-property-position",
+    "page": 6,
+    "shape_id": 19,
+    "effect": 2,
+    "delay": 0.5,
+    "trigger": 2,
+    "duration": 0.5,
+    "decelerate": 0.0
+  },
+  {
+    "name": "demo-property-scale",
+    "page": 6,
+    "shape_id": 24,
+    "effect": 23,
+    "delay": 0.5,
+    "trigger": 2,
+    "duration": 1.1,
+    "decelerate": 0.0
+  },
+  {
+    "name": "demo-property-rotation",
+    "page": 6,
+    "shape_id": 29,
+    "effect": 61,
+    "delay": 0.5,
+    "trigger": 2,
+    "duration": 1.1,
+    "decelerate": 0.0
+  },
+  {
+    "name": "demo-property-opacity",
+    "page": 6,
+    "shape_id": 34,
+    "effect": 10,
+    "delay": 0.5,
+    "trigger": 2,
+    "duration": 1.1,
+    "decelerate": 0.0
+  },
+  {
+    "name": "demo-fade",
+    "page": 7,
+    "shape_id": 19,
+    "effect": 10,
+    "delay": 0.5,
+    "trigger": 2,
+    "duration": 0.9,
+    "decelerate": 0.0
+  },
+  {
+    "name": "demo-slide",
+    "page": 7,
+    "shape_id": 24,
+    "effect": 2,
+    "delay": 0.5,
+    "trigger": 2,
+    "duration": 0.5,
+    "decelerate": 0.0
+  },
+  {
+    "name": "demo-zoom",
+    "page": 7,
+    "shape_id": 29,
+    "effect": 23,
+    "delay": 0.5,
+    "trigger": 2,
+    "duration": 0.9,
+    "decelerate": 0.0
+  },
+  {
+    "name": "demo-wipe",
+    "page": 8,
+    "shape_id": 28,
+    "effect": 22,
+    "delay": 0.4,
+    "trigger": 2,
+    "duration": 0.5,
+    "decelerate": 0.0
+  },
+  {
+    "name": "demo-type-0",
+    "page": 8,
+    "shape_id": 29,
+    "effect": 1,
+    "delay": 0.4,
+    "trigger": 2,
+    "duration": 0.05,
+    "decelerate": 0.0
+  },
+  {
+    "name": "demo-type-1",
+    "page": 8,
+    "shape_id": 30,
+    "effect": 1,
+    "delay": 0.15,
+    "trigger": 3,
+    "duration": 0.05,
+    "decelerate": 0.0
+  },
+  {
+    "name": "demo-type-2",
+    "page": 8,
+    "shape_id": 31,
+    "effect": 1,
+    "delay": 0.15,
+    "trigger": 3,
+    "duration": 0.05,
+    "decelerate": 0.0
+  },
+  {
+    "name": "demo-type-3",
+    "page": 8,
+    "shape_id": 32,
+    "effect": 1,
+    "delay": 0.15,
+    "trigger": 3,
+    "duration": 0.05,
+    "decelerate": 0.0
+  },
+  {
+    "name": "demo-stagger-0",
+    "page": 8,
+    "shape_id": 33,
+    "effect": 10,
+    "delay": 0.4,
+    "trigger": 2,
+    "duration": 0.5,
+    "decelerate": 0.0
+  },
+  {
+    "name": "demo-stagger-1",
+    "page": 8,
+    "shape_id": 34,
+    "effect": 10,
+    "delay": 0.75,
+    "trigger": 2,
+    "duration": 0.5,
+    "decelerate": 0.0
+  },
+  {
+    "name": "demo-stagger-2",
+    "page": 8,
+    "shape_id": 35,
+    "effect": 10,
+    "delay": 1.1,
+    "trigger": 2,
+    "duration": 0.5,
+    "decelerate": 0.0
+  },
+  {
+    "name": "demo-linear",
+    "page": 9,
+    "shape_id": 23,
+    "effect": 2,
+    "delay": 0.5,
+    "trigger": 2,
+    "duration": 0.5,
+    "decelerate": 0.0
+  },
+  {
+    "name": "demo-ease",
+    "page": 9,
+    "shape_id": 24,
+    "effect": 2,
+    "delay": 0.5,
+    "trigger": 2,
+    "duration": 0.5,
+    "decelerate": 0.7
+  }
+]

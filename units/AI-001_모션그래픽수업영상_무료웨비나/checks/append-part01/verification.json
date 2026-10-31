@@ -1,0 +1,48 @@
+{
+  "scope": "original 5 slides preserved, 4 slides added",
+  "total_slides": 9,
+  "pdf_pages": 9,
+  "original_package_parts_unchanged": 54,
+  "native_powerpoint_pixel_comparison": [
+    {
+      "source_slide": 1,
+      "final_slide": 1,
+      "pixel_identical": true,
+      "difference_bounds": null
+    },
+    {
+      "source_slide": 2,
+      "final_slide": 2,
+      "pixel_identical": true,
+      "difference_bounds": null
+    },
+    {
+      "source_slide": 3,
+      "final_slide": 7,
+      "pixel_identical": true,
+      "difference_bounds": null
+    },
+    {
+      "source_slide": 4,
+      "final_slide": 8,
+      "pixel_identical": true,
+      "difference_bounds": null
+    },
+    {
+      "source_slide": 5,
+      "final_slide": 9,
+      "pixel_identical": true,
+      "difference_bounds": null
+    }
+  ],
+  "source_sha256": "771434da595af58f4e2d41c9e0c8dbaa0d64012695777ba08f1c3a2ac06f6a26",
+  "final_sha256": "dc83b195f382581ce81196334feb9bfe75d43a7bf3f7c3a444d378ca1b39d8ac",
+  "addition_positions": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "G10_clearance": false,
+  "new_slide_design_approval": false
+}

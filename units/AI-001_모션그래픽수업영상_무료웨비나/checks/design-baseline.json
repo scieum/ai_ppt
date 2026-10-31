@@ -1,0 +1,19 @@
+{
+  "user_feedback": "아까 만들었던 대표 5장이 진짜 괜찮았는데 왜 니맘대로 햇가지고 또 고이게 하니",
+  "working_baseline": "output/webinar-samples/NotionTalk_모션그래픽_주황포인트_자체사례_v5.pptx",
+  "baseline_identification": "기존 대표본 중 주황 표지·세 캐릭터·자체 사례가 반영된 가장 최근 v5를 작업 기준으로 복원. 사용자는 정확한 파일명을 명시하지 않았으며, 이를 정식 버전별 게이트 승인으로 기록하지 않는다.",
+  "sha256": "771434da595af58f4e2d41c9e0c8dbaa0d64012695777ba08f1c3a2ac06f6a26",
+  "pdf_sha256": "99fdee0a2ef6bb37f69c267958644a85fde0174f6ab42acac9092c3ace6b3949",
+  "rejected_replacement": "output/webinar-three-cases-v2/NotionTalk_Part1_예제와실제시연_v4.pptx",
+  "preserve": [
+    "기존 대표 5장 자체",
+    "주황 그라데이션 표지",
+    "세 캐릭터",
+    "상단 안내와 제목 체계",
+    "회색 카드·문서 표·흰 프롬프트 박스",
+    "로고·푸터·서체·간격"
+  ],
+  "change_scope": "사용자가 요청한 강의 내용·세 예제·실제 캡처만 기존 형식 안에서 반영. 전체 대표본 재설계로 확대하지 않는다.",
+  "formal_design_gate_approval_created": false,
+  "G10_clearance_created": false
+}

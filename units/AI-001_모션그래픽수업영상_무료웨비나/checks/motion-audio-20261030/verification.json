@@ -1,0 +1,127 @@
+{
+  "slides": 48,
+  "new_slides": [
+    15,
+    16,
+    19,
+    20,
+    25
+  ],
+  "consolidated_original_slides": [
+    13,
+    14
+  ],
+  "41_other_slides_byte_and_pixel_identical": true,
+  "all_original_media_preserved": true,
+  "conclusion_bar_pages": [
+    6,
+    15,
+    16,
+    19,
+    20,
+    24,
+    25,
+    27,
+    28,
+    30,
+    31,
+    41,
+    42,
+    43,
+    44,
+    45
+  ],
+  "new_animated_gif_bindings": [
+    {
+      "page": 14,
+      "name": "video7-rotation",
+      "frames": 92
+    },
+    {
+      "page": 15,
+      "name": "motion-snap",
+      "frames": 92
+    },
+    {
+      "page": 15,
+      "name": "motion-blur",
+      "frames": 92
+    },
+    {
+      "page": 16,
+      "name": "motion-counter",
+      "frames": 92
+    },
+    {
+      "page": 16,
+      "name": "motion-squash",
+      "frames": 92
+    }
+  ],
+  "embedded_videos": [
+    {
+      "page": 19,
+      "name": "embedded-video-silent"
+    },
+    {
+      "page": 19,
+      "name": "embedded-video-with-sound"
+    }
+  ],
+  "powerpoint_rendered_playback_checked": true,
+  "changed_text_overflow": [],
+  "changed_text_overlap": [],
+  "sha256": "29e6f15f104bf8e6c922b46f41af0db0c923b96d23a28a25df0384ce911d22af",
+  "inherited_G10_status": "unchanged",
+  "motion_check": {
+    "snap": {
+      "frames": 92,
+      "unique_frames": 23,
+      "duration_ms": 4600
+    },
+    "blur": {
+      "frames": 92,
+      "unique_frames": 24,
+      "duration_ms": 4600
+    },
+    "counter": {
+      "frames": 92,
+      "unique_frames": 35,
+      "duration_ms": 4600
+    },
+    "squash": {
+      "frames": 92,
+      "unique_frames": 35,
+      "duration_ms": 4600
+    },
+    "flip": {
+      "frames": 92,
+      "unique_frames": 24,
+      "duration_ms": 4600
+    },
+    "silent": {
+      "streams": [
+        {
+          "codec_type": "video",
+          "duration": "4.000000"
+        }
+      ]
+    },
+    "with-sound": {
+      "streams": [
+        {
+          "codec_type": "video",
+          "duration": "4.000000"
+        },
+        {
+          "codec_type": "audio",
+          "duration": "4.000000"
+        }
+      ]
+    },
+    "powerpoint_export_audio": {
+      "peak": 0.1844867467880249,
+      "nonzero_samples": 10790
+    }
+  }
+}

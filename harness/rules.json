@@ -1,25 +1,40 @@
 {
-  "version": "1.1.0",
+  "version": "2.2.0",
+  "profile": "ai_training",
   "schema_version": 1,
   "allowed_scope": [
-    "범위 내",
-    "보충·심화",
+    "기본",
+    "선택·심화",
     "제외"
   ],
   "source_roles": [
-    "primary",
-    "secondary",
-    "comparison",
-    "standard"
+    "official",
+    "content",
+    "structure",
+    "design"
+  ],
+  "required_source_role_groups": [
+    [
+      "official",
+      "content"
+    ],
+    [
+      "design"
+    ]
   ],
   "plan_fields": [
     "unit",
-    "curriculum",
+    "profile",
+    "audience",
+    "environment",
+    "deliverables",
+    "branding",
     "objectives",
     "target_slides",
     "minutes",
     "design",
-    "slides"
+    "slides",
+    "exercises"
   ],
   "slide_fields": [
     "number",
@@ -29,20 +44,29 @@
     "visual",
     "source_ids",
     "layout",
-    "character"
+    "character",
+    "minutes",
+    "activity",
+    "design_type",
+    "objective_ids",
+    "exercise_ids",
+    "instructor_action",
+    "learner_action"
   ],
   "review_categories": [
-    "science",
-    "curriculum",
+    "content",
+    "learning",
     "visual"
   ],
   "max_retries": 2,
   "roles": {
     "analysis": [
-      "research"
+      "research",
+      "rights"
     ],
     "image": [
-      "assets"
+      "assets",
+      "exercises"
     ],
     "production": [
       "drafts"
@@ -142,7 +166,8 @@
         "G05",
         "G07",
         "G08",
-        "G09"
+        "G09",
+        "G10"
       ]
     },
     "review": {
@@ -154,7 +179,8 @@
         "G05",
         "G07",
         "G08",
-        "G09"
+        "G09",
+        "G10"
       ],
       "post": [
         "G01",
@@ -165,19 +191,20 @@
         "G06",
         "G07",
         "G08",
-        "G09"
+        "G09",
+        "G10"
       ]
     }
   },
   "gates": {
     "G01": {
       "target": "research/",
-      "condition": "nonempty sources and content; all sources resolve; scope classified; supplementary rationale recorded",
+      "condition": "training objectives and source roles; hashed citations; technical claims verified against official documentation for the declared environment",
       "rollback": "research"
     },
     "G02": {
       "target": "plan.md",
-      "condition": "all required fields; slide count and unique sequence match; included content covered; excluded content absent",
+      "condition": "objectives linked to exercises and result checks; slide/break/exercise time totals; full content and source coverage",
       "rollback": "plan"
     },
     "G03": {
@@ -187,17 +214,17 @@
     },
     "G04": {
       "target": "assets/manifest.json",
-      "condition": "all planned assets present, hashed, sourced, reviewed; no unused or missing planned IDs",
+      "condition": "planned visual and exercise files present, hashed and reviewed; screenshot environment/date; no generated UI evidence",
       "rollback": "image"
     },
     "G05": {
       "target": "drafts/",
-      "condition": "valid PPTX and DOCX; slide/script counts match; nonempty notes and Source: per slide",
+      "condition": "PPTX/DOCX sections and sources; speaker/action/wait labels; selected PDF parses with matching page count",
       "rollback": "production"
     },
     "G06": {
       "target": "checks/reviews.json and figma/mapping.json",
-      "condition": "all slides rendered and reviewed in every category; no open issues; current hashes; one unique Figma node per slide",
+      "condition": "current content/learning/visual reviews, full-deck layout/branding, timed rehearsal and criterion evidence; Figma mapping only when selected",
       "rollback": "cause"
     },
     "G07": {
@@ -207,13 +234,18 @@
     },
     "G08": {
       "target": "design-review/reference-lock.json and review.json",
-      "condition": "all seven reference-bound layouts, current artifacts and real visual comparison evidence; no unverified criteria",
+      "condition": "seven exact/adopt reference-bound layouts, explicit adoption adjustments and current comparisons; provided branding contract; no unverified criteria",
       "rollback": "prototype"
     },
     "G09": {
       "target": "design-review/approvals.json and feedback.json",
       "condition": "current seven-type reference/candidate human confirmation; no unresolved feedback",
       "rollback": "prototype"
+    },
+    "G10": {
+      "target": "rights/inventory.json, scan.json, review.json, open-issues.json",
+      "condition": "Current plan/output/reference/asset bindings; complete rights and distribution coverage; literal-match screening plus human expression/example/visual/asset review; unresolved risks block release. Not a legal certification.",
+      "rollback": "plan"
     }
   },
   "design_review": {
@@ -252,24 +284,28 @@
       "character_asset_id"
     ],
     "bbox_tolerance": 0,
+    "canvas": [
+      1920,
+      1080
+    ],
+    "reference_modes": [
+      "exact",
+      "adopt"
+    ],
     "required_roles": {
       "cover": [
         "title",
-        "author",
-        "characters",
-        "tsherpa_logo",
-        "sci_eum_logo"
+        "author"
       ],
       "part": [
         "part_label",
         "title",
-        "question"
+        "description"
       ],
       "objectives": [
         "title",
-        "objectives_box",
-        "numbered_list",
-        "guide_character"
+        "objectives_list",
+        "result"
       ],
       "contents": [
         "title",
@@ -281,7 +317,7 @@
       ],
       "table_formula": [
         "title",
-        "table_or_formula"
+        "input"
       ],
       "comparison": [
         "title",
@@ -289,16 +325,107 @@
       ]
     },
     "branding": {
-      "tsherpa_only_first_slide": true,
-      "cover_type": "cover",
-      "role": "tsherpa_logo",
+      "selection_question": "이번에는 사이음/노션톡 중 무엇인가요?",
+      "brands": {
+        "scieum": {
+          "name": "사이음",
+          "holder": "Sci_eum",
+          "role": "sci_eum_logo"
+        },
+        "notiontalk": {
+          "name": "노션톡",
+          "holder": "NotionTalk",
+          "role": "notiontalk_logo"
+        }
+      },
+      "logo_region": [
+        0.5,
+        0,
+        0.5,
+        0.25
+      ],
+      "footer_region": [
+        0,
+        0.85,
+        1,
+        0.15
+      ],
       "locked_properties": [
         "bbox",
         "visible_bbox",
         "asset_sha256"
       ],
-      "source": "actual reference slide logo object, with visible pixels and image crop transform; no fixed 210x60 box"
+      "source": "approved input.json branding contract; no implicit institution or character"
     }
+  },
+  "training": {
+    "environment_fields": [
+      "product",
+      "version",
+      "os",
+      "ui_language",
+      "account"
+    ],
+    "formats": [
+      "workshop",
+      "demo",
+      "lecture"
+    ],
+    "activities": [
+      "explanation",
+      "demo",
+      "guided_practice",
+      "practice",
+      "check",
+      "troubleshooting",
+      "summary"
+    ],
+    "exercise_modes": [
+      "hands_on",
+      "observation"
+    ],
+    "content_kinds": [
+      "concept",
+      "technical",
+      "task"
+    ],
+    "exercise_fields": [
+      "id",
+      "title",
+      "objective_ids",
+      "mode",
+      "start_conditions",
+      "input_location",
+      "instructions",
+      "expected_result",
+      "success_criteria",
+      "errors",
+      "fallback",
+      "customization",
+      "minutes",
+      "file_ids",
+      "source_ids"
+    ],
+    "file_kinds": [
+      "exercise_file",
+      "prompt",
+      "starter",
+      "checkpoint"
+    ],
+    "asset_kinds": [
+      "screenshot",
+      "crop",
+      "generated",
+      "existing",
+      "exercise_file",
+      "prompt",
+      "starter",
+      "checkpoint"
+    ],
+    "script_speech_label": "발화:",
+    "script_action_label": "조작:",
+    "script_wait_label": "대기:",
+    "minutes_tolerance": 1e-06
   },
   "tool_gates": {
     "image-generate": [
@@ -324,7 +451,34 @@
       "G06",
       "G07",
       "G08",
-      "G09"
+      "G09",
+      "G10"
+    ]
+  },
+  "copyright_review": {
+    "normalized_match_characters": 20,
+    "rights_bases": [
+      "original",
+      "generated",
+      "permission",
+      "license",
+      "public_domain",
+      "exception_review"
+    ],
+    "uses": [
+      "live_presentation",
+      "pdf_distribution",
+      "exercise_distribution",
+      "recording_distribution",
+      "figma_publication"
+    ],
+    "criteria": [
+      "text_expression",
+      "examples_and_prompts",
+      "structure_and_visuals",
+      "asset_rights",
+      "attribution",
+      "distribution_scope"
     ]
   }
 }

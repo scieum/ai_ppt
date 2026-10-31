@@ -1,0 +1,42 @@
+[
+  {
+    "slide": 28,
+    "name": "title",
+    "shape_width": 560.0,
+    "shape_height": 45.0,
+    "text_width": 569.12506,
+    "text_height": 38.4
+  },
+  {
+    "slide": 35,
+    "name": "full-prompt-text",
+    "shape_width": 635.0,
+    "shape_height": 127.5,
+    "text_width": 322.5,
+    "text_height": 139.48505
+  },
+  {
+    "slide": 36,
+    "name": "title",
+    "shape_width": 560.0,
+    "shape_height": 45.0,
+    "text_width": 591.0,
+    "text_height": 38.4
+  },
+  {
+    "slide": 36,
+    "name": "full-prompt-text",
+    "shape_width": 635.0,
+    "shape_height": 127.5,
+    "text_width": 298.62503,
+    "text_height": 139.48505
+  },
+  {
+    "slide": 43,
+    "name": "title",
+    "shape_width": 560.0,
+    "shape_height": 45.0,
+    "text_width": 596.75006,
+    "text_height": 38.4
+  }
+]

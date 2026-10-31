@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "mode": "source_geometry_locked",
+  "font": {
+    "replacement": "Pretendard",
+    "reason": "PDF text uses anonymous Type3 glyphs; family cannot be reliably identified.",
+    "size": "Source measured size retained."
+  },
+  "exceptions": [
+    "Selected brand replaces source logo.",
+    "Copyright footer follows user brand rule.",
+    "Topic text and figure slot contents are replaced."
+  ],
+  "templates": [
+    {
+      "id": "cover",
+      "source_id": "R02",
+      "source_name": "[사이클 라이브] 클로드 코드로 만드는 일관된 모션 시스템.pdf",
+      "source_page": 1,
+      "source_sha256": "a279d25f3420d6ae5199edde40e2d5df323d28660f0a70458e88db21ae79129d",
+      "source_preview": "cover/source.png",
+      "background": "cover/background.png",
+      "vector_background": "cover/background.svg",
+      "background_sha256": "177dc1b2b2b9bf621e668d678fc23ab7f3769d015e3af32edcf0dce7bba3f6ee",
+      "metrics": "cover/source-text-metrics.json"
+    },
+    {
+      "id": "agenda",
+      "source_id": "R02",
+      "source_name": "[사이클 라이브] 클로드 코드로 만드는 일관된 모션 시스템.pdf",
+      "source_page": 4,
+      "source_sha256": "a279d25f3420d6ae5199edde40e2d5df323d28660f0a70458e88db21ae79129d",
+      "source_preview": "agenda/source.png",
+      "background": "agenda/background.png",
+      "vector_background": "agenda/background.svg",
+      "background_sha256": "48084a8ae3f47e74c2749dad2948515f57e0ec646417bff631642cda8cb7a2c3",
+      "metrics": "agenda/source-text-metrics.json"
+    },
+    {
+      "id": "five-elements",
+      "source_id": "R02",
+      "source_name": "[사이클 라이브] 클로드 코드로 만드는 일관된 모션 시스템.pdf",
+      "source_page": 23,
+      "source_sha256": "a279d25f3420d6ae5199edde40e2d5df323d28660f0a70458e88db21ae79129d",
+      "source_preview": "five-elements/source.png",
+      "background": "five-elements/background.png",
+      "vector_background": "five-elements/background.svg",
+      "background_sha256": "b7ac8eaecc330b8b8a39439caac0ac034f5c244e59b418db134b153f34c34ae5",
+      "metrics": "five-elements/source-text-metrics.json"
+    },
+    {
+      "id": "brief",
+      "source_id": "R02",
+      "source_name": "[사이클 라이브] 클로드 코드로 만드는 일관된 모션 시스템.pdf",
+      "source_page": 91,
+      "source_sha256": "a279d25f3420d6ae5199edde40e2d5df323d28660f0a70458e88db21ae79129d",
+      "source_preview": "brief/source.png",
+      "background": "brief/background.png",
+      "vector_background": "brief/background.svg",
+      "background_sha256": "4fa5deda7f965368ae8b304b993d4c31bc40b78d1c30d677062462f76b83c812",
+      "metrics": "brief/source-text-metrics.json"
+    },
+    {
+      "id": "prompt",
+      "source_id": "R05",
+      "source_name": "[초보자 3주 챌린지 - 2주차] Figma 디자인 기반으로 프론트 엔드 화면 만들어보기.pdf",
+      "source_page": 31,
+      "source_sha256": "4e432dd82365fca807e4d8fdad03504ca7cf6b1f949d77a7db9c9542b1887242",
+      "source_preview": "prompt/source.png",
+      "background": "prompt/background.png",
+      "vector_background": "prompt/background.svg",
+      "background_sha256": "16344baaf69d01a3149a3147ec697545dfe716c9cecefdf3d9b622672d8a87b8",
+      "metrics": "prompt/source-text-metrics.json"
+    }
+  ]
+}

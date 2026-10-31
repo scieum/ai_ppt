@@ -1,0 +1,16 @@
+{
+  "slides": 43,
+  "changed_slide": 3,
+  "changed_shapes": [
+    "optional",
+    "choose-one",
+    "watch-demo"
+  ],
+  "all_other_42_slides_byte_and_pixel_identical": true,
+  "all_text_media_tables_animations_unchanged": true,
+  "caption_gap_below_label_box_pt": {
+    "required": 10.0,
+    "optional": 10.0
+  },
+  "sha256": "2fcc8f73f15c280201e37d272c95e47c618e4e17d713b00b35cdc8a4d23ae707"
+}

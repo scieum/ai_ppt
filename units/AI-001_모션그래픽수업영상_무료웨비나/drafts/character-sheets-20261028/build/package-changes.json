@@ -1,0 +1,58 @@
+[
+  {
+    "page": 4,
+    "removed": [
+      "mascot-bear"
+    ],
+    "added": [
+      "bear-thinking"
+    ]
+  },
+  {
+    "page": 6,
+    "removed": [
+      "mascot-woman"
+    ],
+    "added": []
+  },
+  {
+    "page": 16,
+    "removed": [],
+    "added": [
+      "bear-stopwatch"
+    ]
+  },
+  {
+    "page": 17,
+    "removed": [
+      "mascot-woman"
+    ],
+    "added": [
+      "woman-compare"
+    ]
+  },
+  {
+    "page": 18,
+    "removed": [
+      "mascot-man"
+    ],
+    "added": []
+  },
+  {
+    "page": 19,
+    "removed": [
+      "mascot-bear",
+      "mascot-woman"
+    ],
+    "added": []
+  },
+  {
+    "page": 21,
+    "removed": [
+      "mascot-man"
+    ],
+    "added": [
+      "man-approve"
+    ]
+  }
+]

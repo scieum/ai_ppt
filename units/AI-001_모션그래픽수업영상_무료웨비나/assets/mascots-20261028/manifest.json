@@ -1,0 +1,71 @@
+[
+  {
+    "kind": "bear",
+    "path": "C:/Users/User/Documents/ChatGPT/Sci_eum_AIPPT/ppt_harness/units/AI-001_모션그래픽수업영상_무료웨비나/assets/mascots-20261028/bear-guide-v1.png",
+    "original_path": "C:\\Users\\User\\.codex\\generated_images\\01a17c20-5bae-7d62-b099-b665b7e19a91\\exec-3a9ba4eb-6aca-4b27-b60a-f9524c287d16.png",
+    "prompt": "Create one polished 3D character cutout for a NotionTalk educational slide deck, based on the attached user-owned character references. Preserve identity with very high fidelity: identical face, eye shape, glasses where present, hair/fur, body proportions, clothing palette and toy-like 3D material as in the references. A single FULL BODY character only, complete head and feet, with spacious padding, genuinely transparent background, no floor, no scene, no text, no letters, no watermark, no new character. Gentle warm studio lighting, clean silhouette, no broad glow outside the cutout. This is a new explanatory pose of the same character, not a redesign. Subject: the golden bear from the CENTER of both references. Keep round black glasses, small tuft, friendly rounded muzzle, white collared polo, black shorts and black shoes. Pose: cheerful teacher, holding a small open flipbook with an orange ball on its pages in one paw and gesturing toward the viewer's right with the other paw. Three-quarter view facing slightly right. Do not include the woman or man.",
+    "tool": "built-in image_gen",
+    "reference_files": [
+      "webinar-poster.png",
+      "cover-characters-orange-v3.png"
+    ],
+    "alpha_requested": true,
+    "sha256": "41aa0a1780e7110953c3a5ba8ea71029e97d9853b57fffa28246c8b48626fcf0",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "visual_review": "reviewed identity, full body and slide placement"
+  },
+  {
+    "kind": "woman",
+    "path": "C:/Users/User/Documents/ChatGPT/Sci_eum_AIPPT/ppt_harness/units/AI-001_모션그래픽수업영상_무료웨비나/assets/mascots-20261028/woman-guide-v1.png",
+    "original_path": "C:\\Users\\User\\.codex\\generated_images\\01a17c20-5bae-7d62-b099-b665b7e19a91\\exec-bf8d38ae-b091-495f-a8ec-763a9fde9d85.png",
+    "prompt": "Create one polished 3D character cutout for a NotionTalk educational slide deck, based on the attached user-owned character references. Preserve identity with very high fidelity: identical face, eye shape, glasses where present, hair/fur, body proportions, clothing palette and toy-like 3D material as in the references. A single FULL BODY character only, complete head and feet, with spacious padding, genuinely transparent background, no floor, no scene, no text, no letters, no watermark, no new character. Gentle warm studio lighting, clean silhouette, no broad glow outside the cutout. This is a new explanatory pose of the same character, not a redesign. Subject: the woman from the LEFT of both references. Keep long wavy chestnut hair, big dark eyes, light blue short-sleeved shirt, high-waisted blue trousers with rolled cuffs and black shoes. Pose: comparing two small simple reference boards, an orange abstract image on one and a small play symbol on the other, held at chest level apart from each other. Warm smile, front three-quarter view facing slightly left. Board surfaces contain shapes only, no words. Do not include the bear or man.",
+    "tool": "built-in image_gen",
+    "reference_files": [
+      "webinar-poster.png",
+      "cover-characters-orange-v3.png"
+    ],
+    "alpha_requested": true,
+    "sha256": "229363bd0b6df1a7c2d4deb55f82f5ca8ffb8dabd6ae0ff6a912b2dbdad3f7d1",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "visual_review": "reviewed identity, full body and slide placement"
+  },
+  {
+    "kind": "man",
+    "path": "C:/Users/User/Documents/ChatGPT/Sci_eum_AIPPT/ppt_harness/units/AI-001_모션그래픽수업영상_무료웨비나/assets/mascots-20261028/man-guide-v1.png",
+    "original_path": "C:\\Users\\User\\.codex\\generated_images\\01a17c20-5bae-7d62-b099-b665b7e19a91\\exec-c4fe8cce-a628-40dd-9aea-7024ab36a339.png",
+    "prompt": "Create one polished 3D character cutout for a NotionTalk educational slide deck, based on the attached user-owned character references. Preserve identity with very high fidelity: identical face, eye shape, glasses where present, hair/fur, body proportions, clothing palette and toy-like 3D material as in the references. A single FULL BODY character only, complete head and feet, with spacious padding, genuinely transparent background, no floor, no scene, no text, no letters, no watermark, no new character. Gentle warm studio lighting, clean silhouette, no broad glow outside the cutout. This is a new explanatory pose of the same character, not a redesign. Subject: the man from the RIGHT of both references. Keep middle-parted black hair, round black glasses, black jacket over white T-shirt, blue jeans with rolled cuffs and light gray sneakers. Pose: reviewing a small slate with TWO thumbnail rectangles and an orange check mark, holding it in one hand and giving a subtle thumbs-up with the other. Friendly thoughtful smile, front three-quarter view facing slightly left. No letters or app logos. Do not include the woman or bear.",
+    "tool": "built-in image_gen",
+    "reference_files": [
+      "webinar-poster.png",
+      "cover-characters-orange-v3.png"
+    ],
+    "alpha_requested": true,
+    "sha256": "6e1f848af4e21c53082aa2261a39e54aedb3f04f8c0943dcce4007bc711ffe34",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "visual_review": "reviewed identity, full body and slide placement"
+  }
+]

@@ -1,0 +1,830 @@
+[
+  {
+    "slide": 1,
+    "role": "cover_title",
+    "text": "모션 그래픽을 이용한\n수업 영상 제작하기",
+    "box": [
+      192,
+      184,
+      1120,
+      285
+    ],
+    "size": 116
+  },
+  {
+    "slide": 1,
+    "role": "cover_subtitle",
+    "text": "AI로 달라지는 선생님의 수업 영상 제작 · 무료 웨비나",
+    "box": [
+      192,
+      496,
+      1120,
+      60
+    ],
+    "size": 40
+  },
+  {
+    "slide": 1,
+    "role": "webinar_date",
+    "text": "2026년 11월 1일(일) 20:00 LIVE",
+    "box": [
+      192,
+      890,
+      950,
+      60
+    ],
+    "size": 40
+  },
+  {
+    "slide": 1,
+    "role": "copyright_footer",
+    "text": "© 2026. NotionTalk. All rights reserved.",
+    "box": [
+      1080,
+      1030,
+      760,
+      30
+    ],
+    "size": 20
+  },
+  {
+    "slide": 2,
+    "role": "title",
+    "text": "오늘 웨비나는 이렇게 진행합니다",
+    "box": [
+      300,
+      294,
+      1320,
+      90
+    ],
+    "size": 64
+  },
+  {
+    "slide": 2,
+    "role": "part_1",
+    "text": "Part 1",
+    "box": [
+      348,
+      578,
+      210,
+      45
+    ],
+    "size": 29.91
+  },
+  {
+    "slide": 2,
+    "role": "part_title_1",
+    "text": "수업 영상에\n모션 더하기",
+    "box": [
+      348,
+      635,
+      210,
+      92
+    ],
+    "size": 34.184
+  },
+  {
+    "slide": 2,
+    "role": "part_2",
+    "text": "Part 2",
+    "box": [
+      711,
+      578,
+      210,
+      45
+    ],
+    "size": 29.91
+  },
+  {
+    "slide": 2,
+    "role": "part_title_2",
+    "text": "만들 영상의\n조건 정하기",
+    "box": [
+      711,
+      635,
+      210,
+      92
+    ],
+    "size": 34.184
+  },
+  {
+    "slide": 2,
+    "role": "part_3",
+    "text": "Part 3",
+    "box": [
+      1039,
+      557.5,
+      210,
+      45
+    ],
+    "size": 29.91
+  },
+  {
+    "slide": 2,
+    "role": "part_title_3",
+    "text": "장면표\n요청하기",
+    "box": [
+      1039,
+      614.5,
+      210,
+      92
+    ],
+    "size": 34.184
+  },
+  {
+    "slide": 2,
+    "role": "part_4",
+    "text": "Part 4",
+    "box": [
+      1429,
+      578,
+      210,
+      45
+    ],
+    "size": 29.91
+  },
+  {
+    "slide": 2,
+    "role": "part_title_4",
+    "text": "결과 확인과\n질의응답",
+    "box": [
+      1429,
+      635,
+      210,
+      92
+    ],
+    "size": 34.184
+  },
+  {
+    "slide": 2,
+    "role": "copyright_footer",
+    "text": "© 2026. NotionTalk. All rights reserved.",
+    "box": [
+      1080,
+      1030,
+      760,
+      30
+    ],
+    "size": 20
+  },
+  {
+    "slide": 3,
+    "role": "part_label",
+    "text": "Part 1  수업 영상에 모션 더하기",
+    "box": [
+      78.964,
+      89.313,
+      1200,
+      45
+    ],
+    "size": 32
+  },
+  {
+    "slide": 3,
+    "role": "section_number",
+    "text": "01",
+    "box": [
+      78.964,
+      142.055,
+      65,
+      60
+    ],
+    "size": 44
+  },
+  {
+    "slide": 3,
+    "role": "section_heading",
+    "text": "모션의 구성 요소",
+    "box": [
+      150.964,
+      142.055,
+      1250,
+      60
+    ],
+    "size": 44
+  },
+  {
+    "slide": 3,
+    "role": "title",
+    "text": "수업 영상의 모션을 정하는 5가지",
+    "box": [
+      400,
+      297.625,
+      1120,
+      90
+    ],
+    "size": 64
+  },
+  {
+    "slide": 3,
+    "role": "subtitle",
+    "text": "무엇을, 어떻게, 얼마나 오래, 어떤 속도 변화로, 어떤 순서로 보여줄까요?\n설명에 맞춰 모션의 조건을 정합니다",
+    "box": [
+      400,
+      403.27,
+      1120,
+      90
+    ],
+    "size": 34
+  },
+  {
+    "slide": 3,
+    "role": "number_0",
+    "text": "1",
+    "box": [
+      234,
+      579.113,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 3,
+    "role": "heading_0",
+    "text": "대상",
+    "box": [
+      234,
+      623.355,
+      276,
+      45
+    ],
+    "size": 30
+  },
+  {
+    "slide": 3,
+    "role": "description_0",
+    "text": "무엇을 움직일까요",
+    "box": [
+      234,
+      678.57,
+      276,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 3,
+    "role": "tag_0",
+    "text": "글자 · 그림",
+    "box": [
+      234,
+      726.613,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 3,
+    "role": "number_1",
+    "text": "2",
+    "box": [
+      528,
+      579.113,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 3,
+    "role": "heading_1",
+    "text": "속성",
+    "box": [
+      528,
+      623.355,
+      276,
+      45
+    ],
+    "size": 30
+  },
+  {
+    "slide": 3,
+    "role": "description_1",
+    "text": "무엇을 바꿀까요",
+    "box": [
+      528,
+      678.57,
+      276,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 3,
+    "role": "tag_1",
+    "text": "위치 · 크기 · 투명도",
+    "box": [
+      528,
+      726.613,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 3,
+    "role": "number_2",
+    "text": "3",
+    "box": [
+      822,
+      579.113,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 3,
+    "role": "heading_2",
+    "text": "시간",
+    "box": [
+      822,
+      623.355,
+      276,
+      45
+    ],
+    "size": 30
+  },
+  {
+    "slide": 3,
+    "role": "description_2",
+    "text": "얼마나 유지할까요",
+    "box": [
+      822,
+      678.57,
+      276,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 3,
+    "role": "tag_2",
+    "text": "duration",
+    "box": [
+      822,
+      726.613,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 3,
+    "role": "number_3",
+    "text": "4",
+    "box": [
+      1116,
+      579.113,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 3,
+    "role": "heading_3",
+    "text": "곡선",
+    "box": [
+      1116,
+      623.355,
+      276,
+      45
+    ],
+    "size": 30
+  },
+  {
+    "slide": 3,
+    "role": "description_3",
+    "text": "속도를 어떻게 바꿀까요",
+    "box": [
+      1116,
+      678.57,
+      276,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 3,
+    "role": "tag_3",
+    "text": "easing",
+    "box": [
+      1116,
+      726.613,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 3,
+    "role": "number_4",
+    "text": "5",
+    "box": [
+      1410,
+      579.113,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 3,
+    "role": "heading_4",
+    "text": "순서",
+    "box": [
+      1410,
+      623.355,
+      276,
+      45
+    ],
+    "size": 30
+  },
+  {
+    "slide": 3,
+    "role": "description_4",
+    "text": "언제 보여줄까요",
+    "box": [
+      1410,
+      678.57,
+      276,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 3,
+    "role": "tag_4",
+    "text": "delay · stagger",
+    "box": [
+      1410,
+      726.613,
+      276,
+      27
+    ],
+    "size": 18
+  },
+  {
+    "slide": 3,
+    "role": "summary_label",
+    "text": "한 줄 정리",
+    "box": [
+      630,
+      902.57,
+      103,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 3,
+    "role": "summary_text",
+    "text": "설명할 내용에 맞춰 움직임의 조건을 정해요",
+    "box": [
+      749,
+      898.441,
+      540,
+      40
+    ],
+    "size": 26
+  },
+  {
+    "slide": 3,
+    "role": "copyright_footer",
+    "text": "© 2026. NotionTalk. All rights reserved.",
+    "box": [
+      1080,
+      1030,
+      760,
+      30
+    ],
+    "size": 20
+  },
+  {
+    "slide": 4,
+    "role": "part_label",
+    "text": "Part 2  만들 영상의 조건 정하기",
+    "box": [
+      78.964,
+      90,
+      1200,
+      45
+    ],
+    "size": 32
+  },
+  {
+    "slide": 4,
+    "role": "section_number",
+    "text": "01",
+    "box": [
+      78.964,
+      143,
+      65,
+      60
+    ],
+    "size": 44
+  },
+  {
+    "slide": 4,
+    "role": "section_heading",
+    "text": "제작 요청서",
+    "box": [
+      151.964,
+      143,
+      1250,
+      60
+    ],
+    "size": 44
+  },
+  {
+    "slide": 4,
+    "role": "title",
+    "text": "수업 영상을 요청하기 전에 정할 3가지",
+    "box": [
+      300,
+      299,
+      1320,
+      90
+    ],
+    "size": 64
+  },
+  {
+    "slide": 4,
+    "role": "subtitle",
+    "text": "학습 목표와 영상 길이, 사용할 자료를 먼저 정리합니다",
+    "box": [
+      300,
+      404,
+      1320,
+      55
+    ],
+    "size": 34
+  },
+  {
+    "slide": 4,
+    "role": "table_header_0",
+    "text": "먼저 정할 질문",
+    "box": [
+      511,
+      543,
+      270,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 4,
+    "role": "table_header_1",
+    "text": "정리할 내용",
+    "box": [
+      805,
+      543,
+      270,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 4,
+    "role": "table_header_2",
+    "text": "수업 영상 예시",
+    "box": [
+      1099,
+      543,
+      488,
+      32
+    ],
+    "size": 20
+  },
+  {
+    "slide": 4,
+    "role": "start_label",
+    "text": "수업 영상 시작",
+    "box": [
+      210,
+      728,
+      210,
+      45
+    ],
+    "size": 28
+  },
+  {
+    "slide": 4,
+    "role": "cell_0_0",
+    "text": "무엇을 가르치나요?",
+    "box": [
+      528,
+      615,
+      230,
+      76
+    ],
+    "size": 28
+  },
+  {
+    "slide": 4,
+    "role": "cell_0_1",
+    "text": "대상과 학습 목표\n한 가지",
+    "box": [
+      824,
+      600,
+      230,
+      76
+    ],
+    "size": 24
+  },
+  {
+    "slide": 4,
+    "role": "cell_0_2",
+    "text": "초등학생 대상, 핵심 개념\n한 가지를 설명하는 영상",
+    "box": [
+      1120,
+      600,
+      450,
+      76
+    ],
+    "size": 24
+  },
+  {
+    "slide": 4,
+    "role": "cell_1_0",
+    "text": "얼마나 보여줄까요?",
+    "box": [
+      528,
+      733.333,
+      230,
+      76
+    ],
+    "size": 28
+  },
+  {
+    "slide": 4,
+    "role": "cell_1_1",
+    "text": "길이와 화면 비율",
+    "box": [
+      824,
+      733.333,
+      230,
+      76
+    ],
+    "size": 24
+  },
+  {
+    "slide": 4,
+    "role": "cell_1_2",
+    "text": "20초, 가로 16:9",
+    "box": [
+      1120,
+      733.333,
+      450,
+      76
+    ],
+    "size": 24
+  },
+  {
+    "slide": 4,
+    "role": "cell_2_0",
+    "text": "어떤 자료를 쓰나요?",
+    "box": [
+      528,
+      851.666,
+      230,
+      76
+    ],
+    "size": 28
+  },
+  {
+    "slide": 4,
+    "role": "cell_2_1",
+    "text": "수업 자료와\n사용할 이미지",
+    "box": [
+      824,
+      836.666,
+      230,
+      76
+    ],
+    "size": 24
+  },
+  {
+    "slide": 4,
+    "role": "cell_2_2",
+    "text": "내 수업 자료 한 장\n출처와 사용 범위 확인",
+    "box": [
+      1120,
+      836.666,
+      450,
+      76
+    ],
+    "size": 24
+  },
+  {
+    "slide": 4,
+    "role": "copyright_footer",
+    "text": "© 2026. NotionTalk. All rights reserved.",
+    "box": [
+      1080,
+      1030,
+      760,
+      30
+    ],
+    "size": 20
+  },
+  {
+    "slide": 5,
+    "role": "part_label",
+    "text": "Part 3  장면표 요청하기",
+    "box": [
+      90,
+      89,
+      1200,
+      36
+    ],
+    "size": 24
+  },
+  {
+    "slide": 5,
+    "role": "section_number",
+    "text": "01",
+    "box": [
+      90,
+      131,
+      65,
+      60
+    ],
+    "size": 44
+  },
+  {
+    "slide": 5,
+    "role": "section_heading",
+    "text": "AI에 요청하기",
+    "box": [
+      162,
+      131,
+      1250,
+      60
+    ],
+    "size": 44
+  },
+  {
+    "slide": 5,
+    "role": "title",
+    "text": "먼저 장면표를 요청해 볼까요?",
+    "box": [
+      400,
+      299,
+      1120,
+      90
+    ],
+    "size": 64
+  },
+  {
+    "slide": 5,
+    "role": "subtitle",
+    "text": "장면별 화면 문구와 설명, 등장 순서를 확인합니다",
+    "box": [
+      400,
+      404,
+      1120,
+      55
+    ],
+    "size": 34
+  },
+  {
+    "slide": 5,
+    "role": "prompt_label",
+    "text": "수업 자료를 함께 넣고 입력",
+    "box": [
+      1010,
+      623,
+      440,
+      42
+    ],
+    "size": 28
+  },
+  {
+    "slide": 5,
+    "role": "prompt_body",
+    "text": "내 자료로 20초 영상의\n장면표를 만들어 줘.\n질문·설명·확인 순서로.",
+    "box": [
+      1010,
+      673,
+      440,
+      153
+    ],
+    "size": 34
+  },
+  {
+    "slide": 5,
+    "role": "copyright_footer",
+    "text": "© 2026. NotionTalk. All rights reserved.",
+    "box": [
+      1080,
+      1030,
+      760,
+      30
+    ],
+    "size": 20
+  }
+]

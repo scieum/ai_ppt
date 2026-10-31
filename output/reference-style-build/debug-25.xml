@@ -1,0 +1,1773 @@
+<p:sld xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld>
+    <p:bg>
+      <p:bgPr>
+        <a:solidFill xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+          <a:srgbClr val="000000"/>
+        </a:solidFill>
+      </p:bgPr>
+    </p:bg>
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name=""/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+      </p:grpSpPr>
+      <p:pic>
+        <p:nvPicPr>
+          <p:cNvPr id="10" name="">
+            <a:extLst xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{D5E56107-2683-4D7C-A32C-F98133FF9652}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvPicPr>
+            <a:picLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+          </p:cNvPicPr>
+          <p:nvPr/>
+        </p:nvPicPr>
+        <p:blipFill>
+          <a:blip xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" r:embed="Rb5c99dfc3538482d"/>
+          <a:stretch xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+        </p:blipFill>
+        <p:spPr>
+          <a:xfrm xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:off x="9739313" y="552450"/>
+            <a:ext cx="1571625" cy="523875"/>
+          </a:xfrm>
+          <a:prstGeom xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+        </p:spPr>
+      </p:pic>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="2" name="part-label">
+            <a:extLst xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{63E3837E-3FC4-42B7-82E9-F44E1CEA722D}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr>
+            <a:spLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:off x="571500" y="523875"/>
+            <a:ext cx="7620000" cy="257175"/>
+          </a:xfrm>
+          <a:prstGeom xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+          <a:ln xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" w="0">
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr"/>
+          <a:lstStyle xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:defPPr algn="l">
+              <a:defRPr sz="1275" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:defPPr>
+            <a:lvl1pPr algn="l">
+              <a:defRPr sz="1275" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl1pPr>
+            <a:lvl2pPr algn="l">
+              <a:defRPr sz="1275" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl2pPr>
+            <a:lvl3pPr algn="l">
+              <a:defRPr sz="1275" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl3pPr>
+            <a:lvl4pPr algn="l">
+              <a:defRPr sz="1275" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl4pPr>
+            <a:lvl5pPr algn="l">
+              <a:defRPr sz="1275" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl5pPr>
+            <a:lvl6pPr algn="l">
+              <a:defRPr sz="1275" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl6pPr>
+            <a:lvl7pPr algn="l">
+              <a:defRPr sz="1275" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl7pPr>
+            <a:lvl8pPr algn="l">
+              <a:defRPr sz="1275" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl8pPr>
+            <a:lvl9pPr algn="l">
+              <a:defRPr sz="1275" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl9pPr>
+          </a:lstStyle>
+          <a:p xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:pPr algn="l">
+              <a:defRPr sz="1275" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:rPr sz="1275" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:rPr>
+              <a:t>Part 3  &#49828;&#53664;&#47532;&#46972;&#51064;&#44284; &#49828;&#54008;&#52983; &#54869;&#51064;</a:t>
+            </a:r>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="3" name="group-number">
+            <a:extLst xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{9112A95B-60FB-44C3-B842-A8719344AB52}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr>
+            <a:spLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:off x="571500" y="866775"/>
+            <a:ext cx="428625" cy="342900"/>
+          </a:xfrm>
+          <a:prstGeom xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+          <a:ln xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" w="0">
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr"/>
+          <a:lstStyle xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:defPPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:defPPr>
+            <a:lvl1pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl1pPr>
+            <a:lvl2pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl2pPr>
+            <a:lvl3pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl3pPr>
+            <a:lvl4pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl4pPr>
+            <a:lvl5pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl5pPr>
+            <a:lvl6pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl6pPr>
+            <a:lvl7pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl7pPr>
+            <a:lvl8pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl8pPr>
+            <a:lvl9pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl9pPr>
+          </a:lstStyle>
+          <a:p xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:rPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:rPr>
+              <a:t>02</a:t>
+            </a:r>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="4" name="group-label">
+            <a:extLst xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{E1555883-6C6D-4FE7-A50B-A307EEC03DF9}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr>
+            <a:spLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:off x="1019175" y="866775"/>
+            <a:ext cx="8096250" cy="342900"/>
+          </a:xfrm>
+          <a:prstGeom xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+          <a:ln xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" w="0">
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr"/>
+          <a:lstStyle xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:defPPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:defPPr>
+            <a:lvl1pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl1pPr>
+            <a:lvl2pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl2pPr>
+            <a:lvl3pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl3pPr>
+            <a:lvl4pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl4pPr>
+            <a:lvl5pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl5pPr>
+            <a:lvl6pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl6pPr>
+            <a:lvl7pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl7pPr>
+            <a:lvl8pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl8pPr>
+            <a:lvl9pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl9pPr>
+          </a:lstStyle>
+          <a:p xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:pPr algn="l">
+              <a:defRPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:rPr sz="2100" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:rPr>
+              <a:t>&#49828;&#53440;&#51068; &#44592;&#51456;&#51012; &#47928;&#49436;&#47196; &#45224;&#44592;&#44592;</a:t>
+            </a:r>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="5" name="slide-title">
+            <a:extLst xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{EBE14049-4997-40B3-8FDF-438E9A6AF1ED}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr>
+            <a:spLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:off x="1333500" y="1809750"/>
+            <a:ext cx="9525000" cy="619125"/>
+          </a:xfrm>
+          <a:prstGeom xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+          <a:ln xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" w="0">
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr"/>
+          <a:lstStyle xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:defPPr algn="ctr">
+              <a:defRPr sz="3000" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:defPPr>
+            <a:lvl1pPr algn="ctr">
+              <a:defRPr sz="3000" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl1pPr>
+            <a:lvl2pPr algn="ctr">
+              <a:defRPr sz="3000" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl2pPr>
+            <a:lvl3pPr algn="ctr">
+              <a:defRPr sz="3000" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl3pPr>
+            <a:lvl4pPr algn="ctr">
+              <a:defRPr sz="3000" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl4pPr>
+            <a:lvl5pPr algn="ctr">
+              <a:defRPr sz="3000" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl5pPr>
+            <a:lvl6pPr algn="ctr">
+              <a:defRPr sz="3000" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl6pPr>
+            <a:lvl7pPr algn="ctr">
+              <a:defRPr sz="3000" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl7pPr>
+            <a:lvl8pPr algn="ctr">
+              <a:defRPr sz="3000" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl8pPr>
+            <a:lvl9pPr algn="ctr">
+              <a:defRPr sz="3000" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl9pPr>
+          </a:lstStyle>
+          <a:p xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:pPr algn="ctr">
+              <a:defRPr sz="3000" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:rPr sz="3000" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:rPr>
+              <a:t>&#49464; &#47928;&#49436;&#50752; &#49828;&#54008;&#52983;&#51032; &#50669;&#54624;</a:t>
+            </a:r>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="6" name="slide-subtitle">
+            <a:extLst xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{EB3E2AF6-C496-4929-8743-EF2924BD5BBA}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr>
+            <a:spLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:off x="1333500" y="2533650"/>
+            <a:ext cx="9525000" cy="400050"/>
+          </a:xfrm>
+          <a:prstGeom xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+          <a:ln xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" w="0">
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr"/>
+          <a:lstStyle xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:defPPr algn="ctr">
+              <a:defRPr sz="1725" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:defPPr>
+            <a:lvl1pPr algn="ctr">
+              <a:defRPr sz="1725" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl1pPr>
+            <a:lvl2pPr algn="ctr">
+              <a:defRPr sz="1725" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl2pPr>
+            <a:lvl3pPr algn="ctr">
+              <a:defRPr sz="1725" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl3pPr>
+            <a:lvl4pPr algn="ctr">
+              <a:defRPr sz="1725" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl4pPr>
+            <a:lvl5pPr algn="ctr">
+              <a:defRPr sz="1725" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl5pPr>
+            <a:lvl6pPr algn="ctr">
+              <a:defRPr sz="1725" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl6pPr>
+            <a:lvl7pPr algn="ctr">
+              <a:defRPr sz="1725" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl7pPr>
+            <a:lvl8pPr algn="ctr">
+              <a:defRPr sz="1725" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl8pPr>
+            <a:lvl9pPr algn="ctr">
+              <a:defRPr sz="1725" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl9pPr>
+          </a:lstStyle>
+          <a:p xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:pPr algn="ctr">
+              <a:defRPr sz="1725" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:rPr sz="1725" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:rPr>
+              <a:t>&#45236;&#50857;&#183;&#54868;&#47732;&#183;&#50880;&#51649;&#51076;&#51012; &#45208;&#45572;&#50612; &#51221;&#47532;&#54633;&#45768;&#45796;</a:t>
+            </a:r>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="7" name="copyright-footer">
+            <a:extLst xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{05031264-D043-4623-BFBB-EF5DA0703494}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr>
+            <a:spLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:off x="7620000" y="6496050"/>
+            <a:ext cx="4000500" cy="209550"/>
+          </a:xfrm>
+          <a:prstGeom xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+          <a:ln xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" w="0">
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr"/>
+          <a:lstStyle xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:defPPr algn="r">
+              <a:defRPr sz="900" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:defPPr>
+            <a:lvl1pPr algn="r">
+              <a:defRPr sz="900" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl1pPr>
+            <a:lvl2pPr algn="r">
+              <a:defRPr sz="900" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl2pPr>
+            <a:lvl3pPr algn="r">
+              <a:defRPr sz="900" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl3pPr>
+            <a:lvl4pPr algn="r">
+              <a:defRPr sz="900" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl4pPr>
+            <a:lvl5pPr algn="r">
+              <a:defRPr sz="900" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl5pPr>
+            <a:lvl6pPr algn="r">
+              <a:defRPr sz="900" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl6pPr>
+            <a:lvl7pPr algn="r">
+              <a:defRPr sz="900" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl7pPr>
+            <a:lvl8pPr algn="r">
+              <a:defRPr sz="900" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl8pPr>
+            <a:lvl9pPr algn="r">
+              <a:defRPr sz="900" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl9pPr>
+          </a:lstStyle>
+          <a:p xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:pPr algn="r">
+              <a:defRPr sz="900" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:rPr sz="900" b="0">
+                <a:solidFill>
+                  <a:srgbClr val="AAAAAA"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:rPr>
+              <a:t>&#169; 2026. NotionTalk. All rights reserved.</a:t>
+            </a:r>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:graphicFrame>
+        <p:nvGraphicFramePr>
+          <p:cNvPr id="8" name="">
+            <a:extLst xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{9F7564E5-9F08-43FC-96DB-18578923BB1C}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvGraphicFramePr/>
+          <p:nvPr/>
+        </p:nvGraphicFramePr>
+        <p:xfrm>
+          <a:off xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" x="1619250" y="3267075"/>
+          <a:ext xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" cx="8953500" cy="2667000"/>
+        </p:xfrm>
+        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+          <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/table">
+            <a:tbl>
+              <a:tblPr/>
+              <a:tblGrid>
+                <a:gridCol w="2238375"/>
+                <a:gridCol w="3333750"/>
+                <a:gridCol w="3381375"/>
+              </a:tblGrid>
+              <a:tr h="533400">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:rPr sz="1575" b="1">
+                          <a:solidFill>
+                            <a:srgbClr val="FFFFFF"/>
+                          </a:solidFill>
+                          <a:latin typeface="Pretendard"/>
+                          <a:ea typeface="Pretendard"/>
+                          <a:cs typeface="Pretendard"/>
+                        </a:rPr>
+                        <a:t>&#51088;&#47308;</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91440" marR="91440" marT="45720" marB="45720">
+                    <a:lnL w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnL>
+                    <a:lnR w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnR>
+                    <a:lnT w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnT>
+                    <a:lnB w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="3C3C3C"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:rPr sz="1575" b="1">
+                          <a:solidFill>
+                            <a:srgbClr val="FFFFFF"/>
+                          </a:solidFill>
+                          <a:latin typeface="Pretendard"/>
+                          <a:ea typeface="Pretendard"/>
+                          <a:cs typeface="Pretendard"/>
+                        </a:rPr>
+                        <a:t>&#45813;&#54616;&#45716; &#51656;&#47928;</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91440" marR="91440" marT="45720" marB="45720">
+                    <a:lnR w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnR>
+                    <a:lnT w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnT>
+                    <a:lnB w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="3C3C3C"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:rPr sz="1575" b="1">
+                          <a:solidFill>
+                            <a:srgbClr val="FFFFFF"/>
+                          </a:solidFill>
+                          <a:latin typeface="Pretendard"/>
+                          <a:ea typeface="Pretendard"/>
+                          <a:cs typeface="Pretendard"/>
+                        </a:rPr>
+                        <a:t>&#45812;&#51012; &#45236;&#50857;</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91440" marR="91440" marT="45720" marB="45720">
+                    <a:lnR w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnR>
+                    <a:lnT w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnT>
+                    <a:lnB w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="3C3C3C"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+              </a:tr>
+              <a:tr h="533400">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:rPr sz="1575" b="1">
+                          <a:solidFill>
+                            <a:srgbClr val="FF9228"/>
+                          </a:solidFill>
+                          <a:latin typeface="Pretendard"/>
+                          <a:ea typeface="Pretendard"/>
+                          <a:cs typeface="Pretendard"/>
+                        </a:rPr>
+                        <a:t>storyline.md</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91440" marR="91440" marT="45720" marB="45720">
+                    <a:lnL w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnL>
+                    <a:lnR w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnR>
+                    <a:lnB w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="442A16"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:rPr sz="1575" b="0">
+                          <a:solidFill>
+                            <a:srgbClr val="252525"/>
+                          </a:solidFill>
+                          <a:latin typeface="Pretendard"/>
+                          <a:ea typeface="Pretendard"/>
+                          <a:cs typeface="Pretendard"/>
+                        </a:rPr>
+                        <a:t>&#47924;&#50631;&#51012; &#50612;&#46500; &#49692;&#49436;&#47196;?</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91440" marR="91440" marT="45720" marB="45720">
+                    <a:lnR w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnR>
+                    <a:lnB w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="F1F0ED"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:rPr sz="1575" b="0">
+                          <a:solidFill>
+                            <a:srgbClr val="252525"/>
+                          </a:solidFill>
+                          <a:latin typeface="Pretendard"/>
+                          <a:ea typeface="Pretendard"/>
+                          <a:cs typeface="Pretendard"/>
+                        </a:rPr>
+                        <a:t>&#51109;&#47732; &#183; &#47928;&#44396; &#183; &#44396;&#44036;</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91440" marR="91440" marT="45720" marB="45720">
+                    <a:lnR w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnR>
+                    <a:lnB w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="F1F0ED"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+              </a:tr>
+              <a:tr h="533400">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:rPr sz="1575" b="1">
+                          <a:solidFill>
+                            <a:srgbClr val="FF9228"/>
+                          </a:solidFill>
+                          <a:latin typeface="Pretendard"/>
+                          <a:ea typeface="Pretendard"/>
+                          <a:cs typeface="Pretendard"/>
+                        </a:rPr>
+                        <a:t>design.md</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91440" marR="91440" marT="45720" marB="45720">
+                    <a:lnL w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnL>
+                    <a:lnR w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnR>
+                    <a:lnB w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="442A16"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:rPr sz="1575" b="0">
+                          <a:solidFill>
+                            <a:srgbClr val="252525"/>
+                          </a:solidFill>
+                          <a:latin typeface="Pretendard"/>
+                          <a:ea typeface="Pretendard"/>
+                          <a:cs typeface="Pretendard"/>
+                        </a:rPr>
+                        <a:t>&#50612;&#46500; &#47784;&#49845;&#51004;&#47196;?</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91440" marR="91440" marT="45720" marB="45720">
+                    <a:lnR w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnR>
+                    <a:lnB w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="F1F0ED"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:rPr sz="1575" b="0">
+                          <a:solidFill>
+                            <a:srgbClr val="252525"/>
+                          </a:solidFill>
+                          <a:latin typeface="Pretendard"/>
+                          <a:ea typeface="Pretendard"/>
+                          <a:cs typeface="Pretendard"/>
+                        </a:rPr>
+                        <a:t>&#49353; &#183; &#44544;&#44852; &#183; &#44396;&#46020; &#183; &#51088;&#49328;</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91440" marR="91440" marT="45720" marB="45720">
+                    <a:lnR w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnR>
+                    <a:lnB w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="F1F0ED"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+              </a:tr>
+              <a:tr h="533400">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:rPr sz="1575" b="1">
+                          <a:solidFill>
+                            <a:srgbClr val="FF9228"/>
+                          </a:solidFill>
+                          <a:latin typeface="Pretendard"/>
+                          <a:ea typeface="Pretendard"/>
+                          <a:cs typeface="Pretendard"/>
+                        </a:rPr>
+                        <a:t>motion.md</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91440" marR="91440" marT="45720" marB="45720">
+                    <a:lnL w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnL>
+                    <a:lnR w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnR>
+                    <a:lnB w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="442A16"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:rPr sz="1575" b="0">
+                          <a:solidFill>
+                            <a:srgbClr val="252525"/>
+                          </a:solidFill>
+                          <a:latin typeface="Pretendard"/>
+                          <a:ea typeface="Pretendard"/>
+                          <a:cs typeface="Pretendard"/>
+                        </a:rPr>
+                        <a:t>&#50612;&#46523;&#44172; &#50880;&#51649;&#51060;&#44172;?</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91440" marR="91440" marT="45720" marB="45720">
+                    <a:lnR w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnR>
+                    <a:lnB w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="F1F0ED"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:rPr sz="1575" b="0">
+                          <a:solidFill>
+                            <a:srgbClr val="252525"/>
+                          </a:solidFill>
+                          <a:latin typeface="Pretendard"/>
+                          <a:ea typeface="Pretendard"/>
+                          <a:cs typeface="Pretendard"/>
+                        </a:rPr>
+                        <a:t>&#46321;&#51109; &#183; &#49549;&#46020; &#183; &#51204;&#54872; &#183; &#50976;&#51648;</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91440" marR="91440" marT="45720" marB="45720">
+                    <a:lnR w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnR>
+                    <a:lnB w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="F1F0ED"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+              </a:tr>
+              <a:tr h="533400">
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:rPr sz="1575" b="1">
+                          <a:solidFill>
+                            <a:srgbClr val="FF9228"/>
+                          </a:solidFill>
+                          <a:latin typeface="Pretendard"/>
+                          <a:ea typeface="Pretendard"/>
+                          <a:cs typeface="Pretendard"/>
+                        </a:rPr>
+                        <a:t>&#49828;&#54008;&#52983; 2&#51109;</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91440" marR="91440" marT="45720" marB="45720">
+                    <a:lnL w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnL>
+                    <a:lnR w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnR>
+                    <a:lnB w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="442A16"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:rPr sz="1575" b="0">
+                          <a:solidFill>
+                            <a:srgbClr val="252525"/>
+                          </a:solidFill>
+                          <a:latin typeface="Pretendard"/>
+                          <a:ea typeface="Pretendard"/>
+                          <a:cs typeface="Pretendard"/>
+                        </a:rPr>
+                        <a:t>&#54868;&#47732;&#51008; &#50612;&#46523;&#44172; &#48372;&#51060;&#45208;?</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91440" marR="91440" marT="45720" marB="45720">
+                    <a:lnR w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnR>
+                    <a:lnB w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="F1F0ED"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+                <a:tc>
+                  <a:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle/>
+                    <a:p>
+                      <a:r>
+                        <a:rPr sz="1575" b="0">
+                          <a:solidFill>
+                            <a:srgbClr val="252525"/>
+                          </a:solidFill>
+                          <a:latin typeface="Pretendard"/>
+                          <a:ea typeface="Pretendard"/>
+                          <a:cs typeface="Pretendard"/>
+                        </a:rPr>
+                        <a:t>&#49884;&#51089;&#44284; &#47560;&#47924;&#47532;&#51032; &#45824;&#54364; &#47784;&#49845;</a:t>
+                      </a:r>
+                    </a:p>
+                  </a:txBody>
+                  <a:tcPr marL="91440" marR="91440" marT="45720" marB="45720">
+                    <a:lnR w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnR>
+                    <a:lnB w="9525">
+                      <a:solidFill>
+                        <a:srgbClr val="555555"/>
+                      </a:solidFill>
+                      <a:prstDash val="solid"/>
+                    </a:lnB>
+                    <a:solidFill>
+                      <a:srgbClr val="F1F0ED"/>
+                    </a:solidFill>
+                  </a:tcPr>
+                </a:tc>
+              </a:tr>
+            </a:tbl>
+          </a:graphicData>
+        </a:graphic>
+      </p:graphicFrame>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="9" name="takeaway">
+            <a:extLst xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{BC896F15-0D7B-433F-BE87-E1AEDE96F997}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr>
+            <a:spLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:off x="1428750" y="6076950"/>
+            <a:ext cx="9334500" cy="323850"/>
+          </a:xfrm>
+          <a:prstGeom xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+          <a:ln xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" w="0">
+            <a:noFill/>
+          </a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr"/>
+          <a:lstStyle xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:defPPr algn="ctr">
+              <a:defRPr sz="1500" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:defPPr>
+            <a:lvl1pPr algn="ctr">
+              <a:defRPr sz="1500" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl1pPr>
+            <a:lvl2pPr algn="ctr">
+              <a:defRPr sz="1500" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl2pPr>
+            <a:lvl3pPr algn="ctr">
+              <a:defRPr sz="1500" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl3pPr>
+            <a:lvl4pPr algn="ctr">
+              <a:defRPr sz="1500" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl4pPr>
+            <a:lvl5pPr algn="ctr">
+              <a:defRPr sz="1500" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl5pPr>
+            <a:lvl6pPr algn="ctr">
+              <a:defRPr sz="1500" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl6pPr>
+            <a:lvl7pPr algn="ctr">
+              <a:defRPr sz="1500" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl7pPr>
+            <a:lvl8pPr algn="ctr">
+              <a:defRPr sz="1500" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl8pPr>
+            <a:lvl9pPr algn="ctr">
+              <a:defRPr sz="1500" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:lvl9pPr>
+          </a:lstStyle>
+          <a:p xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+            <a:pPr algn="ctr">
+              <a:defRPr sz="1500" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:defRPr>
+            </a:pPr>
+            <a:r>
+              <a:rPr sz="1500" b="1">
+                <a:solidFill>
+                  <a:srgbClr val="FF9228"/>
+                </a:solidFill>
+                <a:latin typeface="Pretendard"/>
+                <a:ea typeface="Pretendard"/>
+                <a:cs typeface="Pretendard"/>
+              </a:rPr>
+              <a:t>&#49828;&#54008;&#52983;&#51008; &#54868;&#47732;&#51012; &#48372;&#50668; &#51469;&#45768;&#45796;. &#49549;&#46020;&#45716; &#51116;&#49373;&#54644;&#49436; &#54869;&#51064;&#54633;&#45768;&#45796;</a:t>
+            </a:r>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+    </p:spTree>
+    <p:extLst>
+      <p:ext uri="{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}">
+        <p14:creationId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="1062641715"/>
+      </p:ext>
+    </p:extLst>
+  </p:cSld>
+</p:sld>

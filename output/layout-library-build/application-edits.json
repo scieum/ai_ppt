@@ -1,0 +1,110 @@
+[
+  {
+    "page": 15,
+    "remove": [
+      "effect-card-0",
+      "effect-name-0",
+      "effect-en-0",
+      "effect-desc-0",
+      "effect-card-1",
+      "effect-name-1",
+      "effect-en-1",
+      "effect-desc-1",
+      "effect-card-2",
+      "effect-name-2",
+      "effect-en-2",
+      "effect-desc-2",
+      "type-time-axis-0",
+      "type-time-active-0",
+      "type-time-note-0",
+      "type-time-axis-1",
+      "type-time-wait-1",
+      "type-time-active-1",
+      "type-time-note-1",
+      "type-time-axis-2",
+      "type-time-active-2",
+      "type-time-note-2"
+    ],
+    "positions": {},
+    "styles": {},
+    "picture_positions": {
+      "type-example-normal": {
+        "left": 852,
+        "top": 352,
+        "width": 240,
+        "height": 80
+      },
+      "type-example-delay": {
+        "left": 852,
+        "top": 448,
+        "width": 240,
+        "height": 80
+      },
+      "type-example-long": {
+        "left": 852,
+        "top": 544,
+        "width": 240,
+        "height": 80
+      }
+    },
+    "layout_id": "L14"
+  },
+  {
+    "page": 17,
+    "remove": [
+      "still-panel",
+      "moving-panel",
+      "still-label",
+      "moving-label",
+      "still-caption",
+      "moving-caption",
+      "dev-definition-takeaway"
+    ],
+    "positions": {
+      "still-title": {
+        "left": 445,
+        "top": 354,
+        "width": 300,
+        "height": 55
+      },
+      "demo-definition": {
+        "left": 805,
+        "top": 354,
+        "width": 300,
+        "height": 55
+      }
+    },
+    "styles": {
+      "still-title": {
+        "fontSize": 32
+      },
+      "demo-definition": {
+        "fontSize": 32
+      }
+    },
+    "picture_positions": {},
+    "layout_id": "L07"
+  },
+  {
+    "page": 21,
+    "remove": [
+      "reflow-finish-row-0",
+      "reflow-finish-count-0",
+      "reflow-finish-head-0",
+      "reflow-finish-body-0",
+      "reflow-finish-row-1",
+      "reflow-finish-count-1",
+      "reflow-finish-head-1",
+      "reflow-finish-body-1",
+      "reflow-finish-row-2",
+      "reflow-finish-count-2",
+      "reflow-finish-head-2",
+      "reflow-finish-body-2",
+      "reflow-finish-saving"
+    ],
+    "positions": {},
+    "styles": {},
+    "picture_positions": {},
+    "layout_id": "L10"
+  }
+]

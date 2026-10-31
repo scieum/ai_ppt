@@ -1,0 +1,85 @@
+{
+  "slides": 21,
+  "pdf_pages": 21,
+  "new_pages": [
+    7,
+    8,
+    13,
+    14
+  ],
+  "new_animated_examples": 12,
+  "all_prior_17_slides_xml_media_and_native_pixels_unchanged": true,
+  "all_new_literal_text_verified": true,
+  "new_body_text_overflow": [],
+  "native_table_pages": [
+    18,
+    20
+  ],
+  "native_playback_all_12_examples_changed": [
+    {
+      "page": 7,
+      "example": 1,
+      "changed_pixels": 1273
+    },
+    {
+      "page": 7,
+      "example": 2,
+      "changed_pixels": 1213
+    },
+    {
+      "page": 7,
+      "example": 3,
+      "changed_pixels": 3336
+    },
+    {
+      "page": 8,
+      "example": 1,
+      "changed_pixels": 1463
+    },
+    {
+      "page": 8,
+      "example": 2,
+      "changed_pixels": 6218
+    },
+    {
+      "page": 8,
+      "example": 3,
+      "changed_pixels": 3270
+    },
+    {
+      "page": 13,
+      "example": 1,
+      "changed_pixels": 2203
+    },
+    {
+      "page": 13,
+      "example": 2,
+      "changed_pixels": 10835
+    },
+    {
+      "page": 13,
+      "example": 3,
+      "changed_pixels": 4258
+    },
+    {
+      "page": 14,
+      "example": 1,
+      "changed_pixels": 799
+    },
+    {
+      "page": 14,
+      "example": 2,
+      "changed_pixels": 2252
+    },
+    {
+      "page": 14,
+      "example": 3,
+      "changed_pixels": 1090
+    }
+  ],
+  "lesson_unchanged": true,
+  "finalizer_pass": true,
+  "final_sha256": "1a7e27ffc6afcda3fe66933ab9330aac66ab4c4050168560bd5a73fe259d30ec",
+  "source_basis": "metadata, description and all 199 Korean caption segments; no source video footage/audio reused",
+  "inherited_G10_status": "unchanged"
+}

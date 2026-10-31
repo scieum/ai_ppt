@@ -1,0 +1,127 @@
+{
+  "slides": 22,
+  "pdf_pages": 22,
+  "fundamentals_restored_pages": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "native_animation_pages": [
+    3,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "native_animation_xml_and_targets_preserved": true,
+  "native_table_pages": [
+    12,
+    15,
+    18,
+    19
+  ],
+  "original_gif_and_media_unchanged": true,
+  "template_geometry": [
+    {
+      "page": 1,
+      "same_template_geometry": true
+    },
+    {
+      "page": 2,
+      "same_template_geometry": true
+    },
+    {
+      "page": 3,
+      "same_template_geometry": true
+    },
+    {
+      "page": 4,
+      "same_template_geometry": true
+    },
+    {
+      "page": 5,
+      "same_template_geometry": true
+    },
+    {
+      "page": 6,
+      "same_template_geometry": true
+    },
+    {
+      "page": 7,
+      "same_template_geometry": true
+    },
+    {
+      "page": 8,
+      "same_template_geometry": true
+    },
+    {
+      "page": 9,
+      "same_template_geometry": true
+    },
+    {
+      "page": 10,
+      "same_template_geometry": true
+    },
+    {
+      "page": 11,
+      "same_template_geometry": true
+    },
+    {
+      "page": 12,
+      "same_template_geometry": true
+    },
+    {
+      "page": 13,
+      "same_template_geometry": true
+    },
+    {
+      "page": 14,
+      "same_template_geometry": true
+    },
+    {
+      "page": 15,
+      "same_template_geometry": true
+    },
+    {
+      "page": 16,
+      "same_template_geometry": true
+    },
+    {
+      "page": 17,
+      "same_template_geometry": true
+    },
+    {
+      "page": 18,
+      "same_template_geometry": true
+    },
+    {
+      "page": 19,
+      "same_template_geometry": true
+    },
+    {
+      "page": 20,
+      "same_template_geometry": true
+    },
+    {
+      "page": 21,
+      "same_template_geometry": true
+    },
+    {
+      "page": 22,
+      "same_template_geometry": true
+    }
+  ],
+  "production_exercises_excluded": true,
+  "all_pages_visually_inspected": true,
+  "text_bound_issues": [],
+  "powerpoint_native_open_and_export": true,
+  "lesson_md_unchanged": true,
+  "pptx_sha256": "126accce30db0a2d9b546693ca3f346fd88997e1ab5b68b808247fd46a37d620",
+  "G10": "unchanged; reused assets rights review remains pending",
+  "new_video_or_app_execution": false
+}

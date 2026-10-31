@@ -1,0 +1,38 @@
+{
+  "slides": 43,
+  "changed_slides": [
+    20,
+    36,
+    37,
+    39,
+    40
+  ],
+  "unchanged_slides_byte_and_pdf_pixel_identical": 38,
+  "headers_footer_original_images_and_timing_preserved": true,
+  "text_overflow": [],
+  "text_overlap": [],
+  "native_tables_preserved": [
+    22,
+    25,
+    33,
+    34
+  ],
+  "new_editable_criteria_tables_slide": 37,
+  "sha256": "62a17d09cda95caa1526fa1b2b1dfbc0f8107eb9f7db3386749dd8bbd86b61ed",
+  "visual_review": {
+    "changed_slides_full_size": [
+      20,
+      36,
+      37,
+      39,
+      40
+    ]
+  },
+  "reference_expression_review": {
+    "source_screenshots_embedded": false,
+    "source_brand_or_penguin_reused": false,
+    "reference_subject_matter_copied": false,
+    "wording_rewritten_for_existing_webinar": true,
+    "G10_status": "inherited_unchanged_not_legal_clearance"
+  }
+}

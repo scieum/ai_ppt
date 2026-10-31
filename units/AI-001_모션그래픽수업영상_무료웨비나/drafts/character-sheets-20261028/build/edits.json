@@ -1,0 +1,161 @@
+[
+  {
+    "page": 4,
+    "remove_old_mascots": true,
+    "positions": {},
+    "images": [
+      {
+        "id": "bear-thinking",
+        "character": "bear",
+        "pose": "thinking",
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\character-sheets-20261028\\bear-sheet-v1.png",
+        "pixel_rect": [
+          200,
+          12,
+          708,
+          712
+        ],
+        "crop": {
+          "left": 0.09319664492078285,
+          "top": 0.01637107776261937,
+          "right": 0.6700838769804287,
+          "bottom": 0.028649386084583894
+        },
+        "aspect_ratio": 0.7257142857142858,
+        "name": "character-pose-bear-thinking",
+        "position": {
+          "left": 115,
+          "top": 355,
+          "width": 217.71428571428572,
+          "height": 300
+        }
+      }
+    ]
+  },
+  {
+    "page": 6,
+    "remove_old_mascots": true,
+    "positions": {},
+    "images": []
+  },
+  {
+    "page": 16,
+    "remove_old_mascots": true,
+    "positions": {},
+    "images": [
+      {
+        "id": "bear-stopwatch",
+        "character": "bear",
+        "pose": "stopwatch",
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\character-sheets-20261028\\bear-sheet-v1.png",
+        "pixel_rect": [
+          819,
+          14,
+          1278,
+          713
+        ],
+        "crop": {
+          "left": 0.38164026095060577,
+          "top": 0.019099590723055934,
+          "right": 0.4044734389561976,
+          "bottom": 0.027285129604365577
+        },
+        "aspect_ratio": 0.6566523605150214,
+        "name": "character-pose-bear-stopwatch",
+        "position": {
+          "left": 30,
+          "top": 452,
+          "width": 124.76394849785407,
+          "height": 190
+        }
+      }
+    ]
+  },
+  {
+    "page": 17,
+    "remove_old_mascots": true,
+    "positions": {},
+    "images": [
+      {
+        "id": "woman-compare",
+        "character": "woman",
+        "pose": "compare",
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\character-sheets-20261028\\woman-sheet-v1.png",
+        "pixel_rect": [
+          70,
+          36,
+          527,
+          870
+        ],
+        "crop": {
+          "left": 0.03945885005636979,
+          "top": 0.040586245772266064,
+          "right": 0.7029312288613303,
+          "bottom": 0.01916572717023679
+        },
+        "aspect_ratio": 0.5479616306954437,
+        "name": "character-pose-woman-compare",
+        "position": {
+          "left": 125,
+          "top": 350,
+          "width": 167.12829736211032,
+          "height": 305
+        }
+      }
+    ]
+  },
+  {
+    "page": 18,
+    "remove_old_mascots": true,
+    "positions": {},
+    "images": []
+  },
+  {
+    "page": 19,
+    "remove_old_mascots": true,
+    "positions": {
+      "still-title": {
+        "left": 185,
+        "width": 390
+      },
+      "demo-definition": {
+        "left": 705,
+        "width": 390
+      }
+    },
+    "images": []
+  },
+  {
+    "page": 21,
+    "remove_old_mascots": true,
+    "positions": {},
+    "images": [
+      {
+        "id": "man-approve",
+        "character": "man",
+        "pose": "approve",
+        "file": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나\\assets\\character-sheets-20261028\\man-sheet-v1.png",
+        "pixel_rect": [
+          668,
+          19,
+          1079,
+          874
+        ],
+        "crop": {
+          "left": 0.3765501691093574,
+          "top": 0.02142051860202931,
+          "right": 0.39177001127395716,
+          "bottom": 0.01465614430665163
+        },
+        "aspect_ratio": 0.4807017543859649,
+        "name": "character-pose-man-approve",
+        "position": {
+          "left": 190,
+          "top": 340,
+          "width": 149.01754385964912,
+          "height": 310
+        }
+      }
+    ]
+  }
+]

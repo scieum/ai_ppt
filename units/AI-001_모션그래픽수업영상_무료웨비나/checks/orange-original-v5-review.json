@@ -1,0 +1,73 @@
+{
+  "scope": "Five representative slides; not full 42-slide production or approval",
+  "pptx_sha256": "771434da595af58f4e2d41c9e0c8dbaa0d64012695777ba08f1c3a2ac06f6a26",
+  "pdf_sha256": "99fdee0a2ef6bb37f69c267958644a85fde0174f6ab42acac9092c3ace6b3949",
+  "source_protection": {
+    "run_id": "aa130a4b926a4d0dade3b8c2582d8024",
+    "time_utc": "2026-10-27T09:53:49.054610+00:00",
+    "mode": "production",
+    "rules_version": "2.1.0",
+    "rules_sha256": "a62bd7550a286b243df95cb86b67835259f8c6767078337b1b2898113e82a414",
+    "unit": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\units\\AI-001_모션그래픽수업영상_무료웨비나",
+    "results": [
+      {
+        "id": "G07",
+        "status": "passed",
+        "detail": "conditions satisfied"
+      }
+    ],
+    "passed": true
+  },
+  "visible_color_checks": [
+    {
+      "slide": 1,
+      "orange_pixels": 2812,
+      "pink_pixels": 0,
+      "visible_logo_pixels": 5924
+    },
+    {
+      "slide": 2,
+      "orange_pixels": 7933,
+      "pink_pixels": 0,
+      "visible_logo_pixels": 5917
+    },
+    {
+      "slide": 3,
+      "orange_pixels": 7933,
+      "pink_pixels": 0,
+      "visible_logo_pixels": 5917
+    },
+    {
+      "slide": 4,
+      "orange_pixels": 577,
+      "pink_pixels": 0,
+      "visible_logo_pixels": 5917
+    },
+    {
+      "slide": 5,
+      "orange_pixels": 576,
+      "pink_pixels": 0,
+      "visible_logo_pixels": 5917
+    }
+  ],
+  "plan": {
+    "slides": 42,
+    "minutes": 90,
+    "scene_seconds": [
+      4,
+      6,
+      8,
+      6
+    ]
+  },
+  "content_changes": [
+    "Classroom opening question",
+    "Pair-discussion activity instructions",
+    "Student-facing review criteria",
+    "New document roles and prompts"
+  ],
+  "exact_text_matches_over_8_hangul_chars": [],
+  "text_check_limit": "Exact normalized string search only; not a semantic originality score.",
+  "native_powerpoint_exported": true,
+  "design_approval": "not asserted"
+}

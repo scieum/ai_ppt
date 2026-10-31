@@ -1,10 +1,39 @@
-# Local reference materials and generated lesson artifacts
+# Original reference documents stay local. Authored decks and project assets are tracked.
 /sources/
-/output/
-/units/*/*
-!/units/*/plan.md
 /harness/control/
 /harness/validation/
+
+# Installed packages, generated frame sequences, and disposable render/build copies
+node_modules/
+deps/
+frames/
+/units/*/renders/
+/output/*-build/**/*.pptx
+/output/*-build/**/*.pdf
+/output/*-build/**/*.png
+/output/*-build/**/*.jpg
+/output/*-build/**/*.mp4
+/output/*-build/**/*.pcm
+/units/*/drafts/**/*.pptx
+/units/*/drafts/**/*.pdf
+/units/*/drafts/**/*.png
+/units/*/drafts/**/*.jpg
+/units/*/drafts/**/*.jpeg
+/output/reference-analysis/
+!/output/reference-analysis/
+/output/reference-analysis/*
+!/output/reference-analysis/*.py
+!/output/reference-analysis/*.md
+*.inspect.ndjson
+
+# Downloaded tools and raw source caches; retain authored research summaries and indexes
+/units/*/research/**/toolchain/
+/units/*/research/**/metadata/
+/units/*/research/**/captions/
+/units/*/research/**/sources/
+/units/*/research/**/*.info.json
+/units/*/research/**/*.json3
+*.log
 
 # Python caches and local environments
 __pycache__/

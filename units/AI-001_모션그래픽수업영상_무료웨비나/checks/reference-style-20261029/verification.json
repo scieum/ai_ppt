@@ -1,0 +1,208 @@
+{
+  "final": "C:\\Users\\User\\Documents\\ChatGPT\\Sci_eum_AIPPT\\ppt_harness\\output\\webinar-knowledge-only\\NotionTalk_모션그래픽_레퍼런스표현강화_40장_v20.pptx",
+  "sha256": "a51f102e17aefaafc7150578c5ae9802b58e2ee0ecf2dfccdfdf8062d8181946",
+  "total_pages": 40,
+  "changed_pages": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "preserved_slide_XML": 26,
+  "original_media_byte_identical": true,
+  "GIF_parts_preserved": 33,
+  "native_timing_pages": [
+    6,
+    11,
+    20
+  ],
+  "native_table_pages": [
+    22,
+    25,
+    33,
+    34
+  ],
+  "new_text_overflow": [],
+  "PDF_unchanged_pages_pixel_identical": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    32,
+    33,
+    40
+  ],
+  "PDF_unchanged_pages_renderer_differences": [],
+  "new_assets": {
+    "31": "orange-folder-v1.png",
+    "24": "woman-explain existing sheet crop",
+    "37": "man-review existing sheet crop"
+  },
+  "reference_map": [
+    {
+      "page": 24,
+      "title": "비슷한 톤을 다시 얻고 싶다면",
+      "refs": [
+        "R01:18",
+        "R01:54"
+      ],
+      "package_part": "ppt/slides/styleDocsrecommendation.xml"
+    },
+    {
+      "page": 25,
+      "title": "세 문서와 스틸컷의 역할",
+      "refs": [
+        "R01:10",
+        "R01:64"
+      ],
+      "native_table": true,
+      "package_part": "ppt/slides/styleDocsroles.xml"
+    },
+    {
+      "page": 26,
+      "title": "design.md에 담을 화면 기준",
+      "refs": [
+        "R01:33",
+        "R01:54"
+      ],
+      "package_part": "ppt/slides/styleDocsdesign-fields.xml"
+    },
+    {
+      "page": 27,
+      "title": "design.md 예시",
+      "refs": [
+        "R01:40",
+        "R01:50"
+      ],
+      "package_part": "ppt/slides/styleDocsdesign-example.xml"
+    },
+    {
+      "page": 28,
+      "title": "motion.md에 담을 움직임 기준",
+      "refs": [
+        "R01:99",
+        "R01:44"
+      ],
+      "package_part": "ppt/slides/styleDocsmotion-fields.xml"
+    },
+    {
+      "page": 29,
+      "title": "motion.md 예시",
+      "refs": [
+        "R01:54",
+        "R03:31"
+      ],
+      "package_part": "ppt/slides/styleDocsmotion-example.xml"
+    },
+    {
+      "page": 30,
+      "title": "문서와 확인 자료를 함께 봅니다",
+      "refs": [
+        "R03:31",
+        "R01:39"
+      ],
+      "package_part": "ppt/slides/styleDocsreview-links.xml"
+    },
+    {
+      "page": 31,
+      "title": "다음 영상에도 기준 문서를 전달합니다",
+      "refs": [
+        "R01:12",
+        "R03:29"
+      ],
+      "package_part": "ppt/slides/styleDocsreuse.xml"
+    },
+    {
+      "page": 34,
+      "title": "수정 대상을 기준 파일과 연결합니다",
+      "refs": [
+        "R01:39",
+        "R01:47"
+      ],
+      "native_table": true,
+      "package_part": "ppt/slides/styleDocsroute-edits.xml"
+    },
+    {
+      "page": 35,
+      "title": "바꿀 것과 유지할 것을 정합니다",
+      "refs": [
+        "R01:18",
+        "R01:39",
+        "R01:60"
+      ],
+      "package_part": "ppt/slides/styleDocsscope.xml"
+    },
+    {
+      "page": 36,
+      "title": "짧은 구간부터 다시 확인합니다",
+      "refs": [
+        "R01:44",
+        "R01:99"
+      ],
+      "package_part": "ppt/slides/styleDocsreview-sequence.xml"
+    },
+    {
+      "page": 37,
+      "title": "내용·디자인·모션을 나누어 점검합니다",
+      "refs": [
+        "R01:74",
+        "R03:34"
+      ],
+      "package_part": "ppt/slides/styleDocsreview-criteria.xml"
+    },
+    {
+      "page": 38,
+      "title": "한 장면 수정과 공통 규칙의 변경",
+      "refs": [
+        "R01:18",
+        "R01:28"
+      ],
+      "package_part": "ppt/slides/styleDocslocal-global.xml"
+    },
+    {
+      "page": 39,
+      "title": "확인한 기준을 다음 작업에 남깁니다",
+      "refs": [
+        "R01:62",
+        "R01:64",
+        "R01:79"
+      ],
+      "package_part": "ppt/slides/styleDocsversion.xml"
+    }
+  ],
+  "lesson_md_unchanged": true,
+  "copyright_review": {
+    "reference_text_screenshots_mascots_copied": false,
+    "new_folder": "built-in imagegen; prompt and SHA256 in asset manifest",
+    "inherited_G10": "unchanged; no clearance fabricated"
+  }
+}

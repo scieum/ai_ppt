@@ -1,4 +1,4 @@
-"""Fail-closed local gate engine. Stdlib only. See README.md for evidence boundaries."""
+"""Fail-closed G01-G10 AI training engine; legacy science keeps G01-G09."""
 import argparse
 import datetime as dt
 import hashlib
@@ -73,6 +73,9 @@ def plan(root):
 
 def plan_hash(root):
     p = plan(root)
+    if read(root / 'input.json').get('profile') == 'ai_training':
+        from training_gate import semantic_plan
+        return canonical(semantic_plan(root, p))
     # Layout, equivalent wording and asset replacement do not invalidate approval.
     keys = ['unit', 'curriculum', 'objectives', 'target_slides', 'minutes', 'supplementary']
     essential = {k: p.get(k) for k in keys}
@@ -136,8 +139,11 @@ class Engine:
         self.unit = Path(unit).resolve()
         self.rules_path = Path(rules or HERE / 'rules.json').resolve()
         self.rules = read(self.rules_path)
+        self.profile = self.rules.get('profile', 'science')
+        require(self.profile in ['science', 'ai_training'], 'unsupported harness profile')
         require(self.rules['schema_version'] == 1, 'unsupported rules schema')
-        require(set(self.rules['gates']) == {f'G{i:02}' for i in range(1, 10)}, 'invalid gate set')
+        count = 10 if self.profile == 'ai_training' else 9
+        require(set(self.rules['gates']) == {f'G{i:02}' for i in range(1, count + 1)}, 'invalid gate set')
         self.control = Path(control or HERE / 'control').resolve()
         require(not self.control.is_relative_to(self.unit), 'control must be outside worker unit')
         self.control = self.control / canonical(str(self.unit))[:20]
@@ -154,6 +160,10 @@ class Engine:
                  'files': protected_snapshot(paths)})
 
     def G01(self):
+        if self.profile == 'ai_training':
+            from training_gate import research
+            return research(self)
+        require(read(self.unit / 'input.json').get('profile', 'science') == 'science', 'input/rules profile mismatch')
         sources = read(self.unit / 'research/sources.json')
         content = read(self.unit / 'research/content-map.json')
         require(isinstance(sources, list) and sources and isinstance(content, list) and content, 'empty research')
@@ -177,6 +187,9 @@ class Engine:
 
     def G02(self):
         self.G01()
+        if self.profile == 'ai_training':
+            from training_gate import planning
+            return planning(self)
         p = plan(self.unit)
         inp = read(self.unit / 'input.json')
         require(all(p.get(k) for k in self.rules['plan_fields']), 'plan required fields missing')
@@ -219,6 +232,9 @@ class Engine:
 
     def G04(self):
         self.G03()
+        if self.profile == 'ai_training':
+            from training_gate import assets
+            return assets(self)
         assets = read(self.unit / 'assets/manifest.json')
         expected = {x for s in plan(self.unit)['slides'] for x in s['visual']}
         require(isinstance(assets, list) and assets and expected, 'empty asset denominator')
@@ -253,12 +269,15 @@ class Engine:
                 body = '\n'.join(texts[start + 1:end])
                 require(body.strip() and re.search(r'(?:Source|출처):\s*\S', body), 'empty/script source missing')
                 require(re.sub(r'(?:Source|출처):[^\n]*', '', body).strip(), 'script contains only source')
+        if self.profile == 'ai_training':
+            from training_gate import deliverables
+            deliverables(self, texts, slides)
 
     def G06(self):
         self.G05()
         self.G09()
         reviews = read(self.unit / 'checks/reviews.json')
-        binding = {p: digest(self.unit / p) for p in ['drafts/deck.pptx', 'drafts/script.docx']}
+        binding = self.artifact_binding()
         require(reviews.get('artifacts') == binding, 'reviews refer to stale artifacts')
         require(reviews.get('plan_hash') == plan_hash(self.unit), 'reviews refer to stale plan')
         require(reviews.get('open_issues') == [], 'open/unrecorded issues')
@@ -267,6 +286,13 @@ class Engine:
         require([r['number'] for r in rows] == list(range(1, n + 1)), 'review coverage mismatch')
         for r in rows:
             evidence(self.unit, r['render'])
+            if self.profile == 'ai_training' and 'drafts/deck.pdf' in binding:
+                pdf = r.get('pdf_review', {})
+                require(pdf.get('pdf_sha256') == binding['drafts/deck.pdf'] and pdf.get('page') == r['number'], 'PDF page review is stale/missing')
+                require(pdf.get('status') == 'passed' and pdf.get('reviewer') and pdf.get('comment'), 'PDF page correspondence review incomplete')
+                require(self.test or not pdf.get('simulation', False), 'simulated PDF review in production')
+                evidence(self.unit, pdf['render'])
+                evidence(self.unit, pdf['evidence'])
             for category in self.rules['review_categories']:
                 rev = r[category]
                 require(rev.get('status') == 'passed' and rev.get('reviewer') and rev.get('comment'),
@@ -275,6 +301,11 @@ class Engine:
                 require(self.test or not rev.get('simulation', False), 'simulated review in production')
         from design_gate import full_deck_branding
         full_deck_branding(self, rows, binding['drafts/deck.pptx'])
+        if self.profile == 'ai_training':
+            from training_gate import rehearsal, training_input
+            rehearsal(self)
+            if not training_input(self)['deliverables']['figma']:
+                return
         mapping = read(self.unit / 'figma/mapping.json')
         require(mapping.get('deck_sha256') == binding['drafts/deck.pptx'], 'stale Figma mapping')
         require(re.match(r'^https://(?:www\.)?figma\.com/(?:design|file)/[^/]+', mapping.get('url', '')), 'Figma URL missing')
@@ -299,6 +330,11 @@ class Engine:
         from design_gate import approve
         self.G08()
         approve(self, plan_hash(self.unit))
+
+    def G10(self):
+        require(self.profile == 'ai_training', 'G10 is an AI training gate')
+        from copyright_gate import review
+        review(self)
 
     def preflight(self, stage):
         require(stage in self.rules['stages'], 'unknown stage')
@@ -340,6 +376,9 @@ class Engine:
 
     def tool_preflight(self, action):
         require(action in self.rules['tool_gates'], 'unknown tool action')
+        if self.profile == 'ai_training' and action.startswith('figma-'):
+            from training_gate import training_input
+            require(training_input(self)['deliverables']['figma'], 'Figma is not selected in the approved delivery contract')
         report = self.check(self.rules['tool_gates'][action])
         report['action'] = action
         self.record(report)
@@ -358,8 +397,22 @@ class Engine:
         deps['design_confirmation'] = deps['prototype'] + ['design-review']
         for key in ['production', 'review']:
             deps[key] += ['design-review']
+        if self.profile == 'ai_training':
+            from training_gate import training_input, exercise_files
+            if not training_input(self)['deliverables']['figma']:
+                deps['review'].remove('figma')
+            deps['review'] += ['checks/rehearsal.json']
+            for key in ['production', 'review']:
+                deps[key] += ['rights']
+            if stage in ['image', 'prototype', 'design_confirmation', 'production', 'review']:
+                deps[stage] += [a['file']['path'] for a in exercise_files(self)]
         out = {'rules': digest(self.rules_path), 'engine': digest(Path(__file__)),
                'design_engine': digest(HERE / 'design_gate.py')}
+        if self.profile == 'ai_training':
+            out['training_engine'] = digest(HERE / 'training_gate.py')
+            out['copyright_engine'] = digest(HERE / 'copyright_gate.py')
+            for name in ['plan.md', 'design.md']:
+                out['guide/' + name] = digest(HERE.parent / name)
 
         for rel in deps[stage]:
             p = self.unit / rel
@@ -453,16 +506,39 @@ class Engine:
         report = self.check(list(self.rules['gates']))
         require(report['passed'], 'final gates failed')
         require(self.resume()['complete'], 'stage checkpoints incomplete or stale')
-        for name in ['deck.pptx', 'script.docx']:
-            target = self.unit / 'final' / name
+        deliveries = [('drafts/deck.pptx', 'final/deck.pptx'), ('drafts/script.docx', 'final/script.docx')]
+        if self.profile == 'ai_training':
+            from training_gate import training_input, exercise_files
+            contract = training_input(self)['deliverables']
+            if contract['pdf']:
+                deliveries.append(('drafts/deck.pdf', 'final/deck.pdf'))
+            if contract['exercises']:
+                deliveries += [(a['file']['path'], 'final/' + a['file']['path']) for a in exercise_files(self)]
+        baseline = read(self.control / 'protected.json')
+        for _, rel in deliveries:
+            target = local(self.unit, rel)
+            require(not any(target == Path(p) or (row['kind'] == 'directory' and target.is_relative_to(Path(p)))
+                            for p, row in baseline['files'].items()), 'final output is protected')
+        for source, rel in deliveries:
+            target = local(self.unit, rel)
             if target.exists():
-                backup = self.unit / 'history' / report['run_id'] / 'final' / name
+                backup = self.unit / 'history' / report['run_id'] / rel
                 backup.parent.mkdir(parents=True, exist_ok=True)
                 shutil.copy2(target, backup)
             target.parent.mkdir(parents=True, exist_ok=True)
-            shutil.copy2(self.unit / 'drafts' / name, target)
+            shutil.copy2(local(self.unit, source), target)
+        self.G07()
         self.record(report)
         return {'complete': True, 'run_id': report['run_id']}
+
+    def artifact_binding(self):
+        paths = ['drafts/deck.pptx', 'drafts/script.docx']
+        if self.profile == 'ai_training':
+            from training_gate import training_input, exercise_files
+            if training_input(self)['deliverables']['pdf']:
+                paths.append('drafts/deck.pdf')
+            paths += [a['file']['path'] for a in exercise_files(self)]
+        return {p: digest(local(self.unit, p)) for p in paths}
 
 
 def main():
@@ -475,6 +551,7 @@ def main():
     c = sub.add_parser('check'); c.add_argument('--gate', action='append'); c.add_argument('--report', action='store_true')
     c = sub.add_parser('baseline'); c.add_argument('--protect', action='append', required=True)
     c = sub.add_parser('plan-hash')
+    c = sub.add_parser('copyright-scan'); c.add_argument('--report', action='store_true')
     c = sub.add_parser('checkpoint'); c.add_argument('stage')
     c = sub.add_parser('preflight'); c.add_argument('stage')
     c = sub.add_parser('tool-preflight'); c.add_argument('action')
@@ -493,6 +570,12 @@ def main():
             e.baseline(args.protect); result = {'baseline': 'created'}
         elif args.cmd == 'plan-hash':
             result = {'plan_hash': plan_hash(e.unit)}
+        elif args.cmd == 'copyright-scan':
+            require(e.profile == 'ai_training', 'copyright scan requires AI training profile')
+            from copyright_gate import scan
+            result = scan(e)
+            if args.report:
+                e.write('analysis', 'rights/scan.json', json.dumps(result, ensure_ascii=False, indent=2).encode('utf-8'))
         elif args.cmd == 'tool-preflight':
             result = e.tool_preflight(args.action)
         elif args.cmd == 'preflight':

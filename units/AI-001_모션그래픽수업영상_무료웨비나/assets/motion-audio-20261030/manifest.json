@@ -1,0 +1,18 @@
+{
+  "created": "2026-10-30",
+  "fps": 20,
+  "duration_seconds": 4,
+  "source": "Original educational motion demonstrations",
+  "effects": [
+    "snap",
+    "blur",
+    "counter",
+    "squash",
+    "flip"
+  ],
+  "sound": "Original deterministic synthetic pop, noise swipe and chime. Not output from Real SFX or earshot.",
+  "reference": "User-provided @mynameisjaemin screenshot, movement concepts only",
+  "gif_duration_seconds": 4.6,
+  "gif_frames": 92,
+  "poster_hold_seconds": 0.6
+}
